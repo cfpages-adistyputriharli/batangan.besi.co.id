@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/jual-nako-kepulauan-sangihe/</loc>
+		<loc>/jual-nako-kepulauan-sangihe.html</loc>
 		<lastmod>2024-07-10T04:50:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -20,7 +20,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bolaang-mongondow-utara/</loc>
+		<loc>/jual-nako-bolaang-mongondow-utara.html</loc>
 		<lastmod>2024-07-10T04:50:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -39,7 +39,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bolaang-mongondow-timur/</loc>
+		<loc>/jual-nako-bolaang-mongondow-timur.html</loc>
 		<lastmod>2024-07-10T04:50:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -58,7 +58,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bolaang-mongondow-selatan/</loc>
+		<loc>/jual-nako-bolaang-mongondow-selatan.html</loc>
 		<lastmod>2024-07-10T04:50:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -77,7 +77,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bolaang-mongondow/</loc>
+		<loc>/jual-nako-bolaang-mongondow.html</loc>
 		<lastmod>2024-07-10T04:50:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -96,7 +96,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bitung/</loc>
+		<loc>/jual-nako-bitung.html</loc>
 		<lastmod>2024-07-10T04:50:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -115,7 +115,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-wakatobi/</loc>
+		<loc>/jual-nako-wakatobi.html</loc>
 		<lastmod>2024-07-10T04:50:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -134,7 +134,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-muna-barat/</loc>
+		<loc>/jual-nako-muna-barat.html</loc>
 		<lastmod>2024-07-10T04:50:02+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -153,7 +153,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-muna/</loc>
+		<loc>/jual-nako-muna.html</loc>
 		<lastmod>2024-07-10T04:50:00+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -172,7 +172,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-konawe-utara/</loc>
+		<loc>/jual-nako-konawe-utara.html</loc>
 		<lastmod>2024-07-10T04:49:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -191,7 +191,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-konawe-selatan/</loc>
+		<loc>/jual-nako-konawe-selatan.html</loc>
 		<lastmod>2024-07-10T04:49:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -210,7 +210,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-konawe-kepulauan/</loc>
+		<loc>/jual-nako-konawe-kepulauan.html</loc>
 		<lastmod>2024-07-10T04:49:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -229,7 +229,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-konawe/</loc>
+		<loc>/jual-nako-konawe.html</loc>
 		<lastmod>2024-07-10T04:49:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -248,7 +248,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kolaka-utara/</loc>
+		<loc>/jual-nako-kolaka-utara.html</loc>
 		<lastmod>2024-07-10T04:49:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -267,7 +267,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kolaka-timur/</loc>
+		<loc>/jual-nako-kolaka-timur.html</loc>
 		<lastmod>2024-07-10T04:49:48+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -286,7 +286,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kolaka/</loc>
+		<loc>/jual-nako-kolaka.html</loc>
 		<lastmod>2024-07-10T04:49:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -305,7 +305,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kendari/</loc>
+		<loc>/jual-nako-kendari.html</loc>
 		<lastmod>2024-07-10T04:49:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -324,7 +324,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-buton-utara/</loc>
+		<loc>/jual-nako-buton-utara.html</loc>
 		<lastmod>2024-07-10T04:49:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -343,7 +343,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-buton-tengah/</loc>
+		<loc>/jual-nako-buton-tengah.html</loc>
 		<lastmod>2024-07-10T04:49:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -362,7 +362,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-buton-selatan/</loc>
+		<loc>/jual-nako-buton-selatan.html</loc>
 		<lastmod>2024-07-10T04:49:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -381,7 +381,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-buton/</loc>
+		<loc>/jual-nako-buton.html</loc>
 		<lastmod>2024-07-10T04:49:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -400,7 +400,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bombana/</loc>
+		<loc>/jual-nako-bombana.html</loc>
 		<lastmod>2024-07-10T04:49:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -419,7 +419,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bau-bau/</loc>
+		<loc>/jual-nako-bau-bau.html</loc>
 		<lastmod>2024-07-10T04:49:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -438,7 +438,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-toli-toli/</loc>
+		<loc>/jual-nako-toli-toli.html</loc>
 		<lastmod>2024-07-10T04:49:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -457,7 +457,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tojo-una-una/</loc>
+		<loc>/jual-nako-tojo-una-una.html</loc>
 		<lastmod>2024-07-10T04:49:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -476,7 +476,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sigi/</loc>
+		<loc>/jual-nako-sigi.html</loc>
 		<lastmod>2024-07-10T04:49:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -495,7 +495,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-poso/</loc>
+		<loc>/jual-nako-poso.html</loc>
 		<lastmod>2024-07-10T04:49:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -514,7 +514,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-parigi-moutong/</loc>
+		<loc>/jual-nako-parigi-moutong.html</loc>
 		<lastmod>2024-07-10T04:49:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -533,7 +533,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-palu/</loc>
+		<loc>/jual-nako-palu.html</loc>
 		<lastmod>2024-07-10T04:49:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -552,7 +552,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-morowali-utara/</loc>
+		<loc>/jual-nako-morowali-utara.html</loc>
 		<lastmod>2024-07-10T04:49:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -571,7 +571,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-morowali/</loc>
+		<loc>/jual-nako-morowali.html</loc>
 		<lastmod>2024-07-10T04:49:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -590,7 +590,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-donggala/</loc>
+		<loc>/jual-nako-donggala.html</loc>
 		<lastmod>2024-07-10T04:49:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -609,7 +609,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-buol/</loc>
+		<loc>/jual-nako-buol.html</loc>
 		<lastmod>2024-07-10T04:49:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -628,7 +628,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-banggai-laut/</loc>
+		<loc>/jual-nako-banggai-laut.html</loc>
 		<lastmod>2024-07-10T04:49:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -647,7 +647,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-banggai-kepulauan/</loc>
+		<loc>/jual-nako-banggai-kepulauan.html</loc>
 		<lastmod>2024-07-10T04:49:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -666,7 +666,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-banggai/</loc>
+		<loc>/jual-nako-banggai.html</loc>
 		<lastmod>2024-07-10T04:49:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -685,7 +685,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-wajo/</loc>
+		<loc>/jual-nako-wajo.html</loc>
 		<lastmod>2024-07-10T04:49:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -704,7 +704,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-toraja-utara/</loc>
+		<loc>/jual-nako-toraja-utara.html</loc>
 		<lastmod>2024-07-10T04:49:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -723,7 +723,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tana-toraja/</loc>
+		<loc>/jual-nako-tana-toraja.html</loc>
 		<lastmod>2024-07-10T04:49:03+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -742,7 +742,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-takalar/</loc>
+		<loc>/jual-nako-takalar.html</loc>
 		<lastmod>2024-07-10T04:49:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -761,7 +761,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-soppeng/</loc>
+		<loc>/jual-nako-soppeng.html</loc>
 		<lastmod>2024-07-10T04:48:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -780,7 +780,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sinjai/</loc>
+		<loc>/jual-nako-sinjai.html</loc>
 		<lastmod>2024-07-10T04:48:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -799,7 +799,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sidenreng-rappang/</loc>
+		<loc>/jual-nako-sidenreng-rappang.html</loc>
 		<lastmod>2024-07-10T04:48:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -818,7 +818,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pinrang/</loc>
+		<loc>/jual-nako-pinrang.html</loc>
 		<lastmod>2024-07-10T04:48:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -837,7 +837,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-parepare/</loc>
+		<loc>/jual-nako-parepare.html</loc>
 		<lastmod>2024-07-10T04:48:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -856,7 +856,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pangkajene-kepulauan/</loc>
+		<loc>/jual-nako-pangkajene-kepulauan.html</loc>
 		<lastmod>2024-07-10T04:48:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -875,7 +875,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-palopo/</loc>
+		<loc>/jual-nako-palopo.html</loc>
 		<lastmod>2024-07-10T04:48:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -894,7 +894,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-maros/</loc>
+		<loc>/jual-nako-maros.html</loc>
 		<lastmod>2024-07-10T04:48:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -913,7 +913,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-makassar/</loc>
+		<loc>/jual-nako-makassar.html</loc>
 		<lastmod>2024-07-10T04:48:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -932,7 +932,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-luwu-utara/</loc>
+		<loc>/jual-nako-luwu-utara.html</loc>
 		<lastmod>2024-07-10T04:48:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -951,7 +951,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-luwu-timur/</loc>
+		<loc>/jual-nako-luwu-timur.html</loc>
 		<lastmod>2024-07-10T04:48:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -970,7 +970,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-luwu/</loc>
+		<loc>/jual-nako-luwu.html</loc>
 		<lastmod>2024-07-10T04:48:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -989,7 +989,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kepulauan-selayar/</loc>
+		<loc>/jual-nako-kepulauan-selayar.html</loc>
 		<lastmod>2024-07-10T04:48:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1008,7 +1008,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-jeneponto/</loc>
+		<loc>/jual-nako-jeneponto.html</loc>
 		<lastmod>2024-07-10T04:48:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1027,7 +1027,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-gowa/</loc>
+		<loc>/jual-nako-gowa.html</loc>
 		<lastmod>2024-07-10T04:48:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1046,7 +1046,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-enrekang/</loc>
+		<loc>/jual-nako-enrekang.html</loc>
 		<lastmod>2024-07-10T04:48:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1065,7 +1065,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bulukumba/</loc>
+		<loc>/jual-nako-bulukumba.html</loc>
 		<lastmod>2024-07-10T04:48:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1084,7 +1084,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bone/</loc>
+		<loc>/jual-nako-bone.html</loc>
 		<lastmod>2024-07-10T04:48:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1103,7 +1103,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-barru/</loc>
+		<loc>/jual-nako-barru.html</loc>
 		<lastmod>2024-07-10T04:48:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1122,7 +1122,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bantaeng/</loc>
+		<loc>/jual-nako-bantaeng.html</loc>
 		<lastmod>2024-07-10T04:48:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1141,7 +1141,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-polewali-mandar/</loc>
+		<loc>/jual-nako-polewali-mandar.html</loc>
 		<lastmod>2024-07-10T04:48:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1160,7 +1160,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pasangkayu-mamuju-utara/</loc>
+		<loc>/jual-nako-pasangkayu-mamuju-utara.html</loc>
 		<lastmod>2024-07-10T04:48:21+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1179,7 +1179,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-mamuju-tengah/</loc>
+		<loc>/jual-nako-mamuju-tengah.html</loc>
 		<lastmod>2024-07-10T04:48:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1198,7 +1198,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-mamuju/</loc>
+		<loc>/jual-nako-mamuju.html</loc>
 		<lastmod>2024-07-10T04:48:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1217,7 +1217,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-mamasa/</loc>
+		<loc>/jual-nako-mamasa.html</loc>
 		<lastmod>2024-07-10T04:48:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1236,7 +1236,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-majene/</loc>
+		<loc>/jual-nako-majene.html</loc>
 		<lastmod>2024-07-10T04:48:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1255,7 +1255,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-siak/</loc>
+		<loc>/jual-nako-siak.html</loc>
 		<lastmod>2024-07-10T04:48:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1274,7 +1274,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-rokan-hulu/</loc>
+		<loc>/jual-nako-rokan-hulu.html</loc>
 		<lastmod>2024-07-10T04:48:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1293,7 +1293,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-rokan-hilir/</loc>
+		<loc>/jual-nako-rokan-hilir.html</loc>
 		<lastmod>2024-07-10T04:48:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1312,7 +1312,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pelalawan/</loc>
+		<loc>/jual-nako-pelalawan.html</loc>
 		<lastmod>2024-07-10T04:48:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1331,7 +1331,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pekanbaru/</loc>
+		<loc>/jual-nako-pekanbaru.html</loc>
 		<lastmod>2024-07-10T04:48:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1350,7 +1350,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kuantan-singingi/</loc>
+		<loc>/jual-nako-kuantan-singingi.html</loc>
 		<lastmod>2024-07-10T04:48:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1369,7 +1369,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kepulauan-meranti/</loc>
+		<loc>/jual-nako-kepulauan-meranti.html</loc>
 		<lastmod>2024-07-10T04:48:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1388,7 +1388,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kampar/</loc>
+		<loc>/jual-nako-kampar.html</loc>
 		<lastmod>2024-07-10T04:47:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1407,7 +1407,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-indragiri-hulu/</loc>
+		<loc>/jual-nako-indragiri-hulu.html</loc>
 		<lastmod>2024-07-10T04:47:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1426,7 +1426,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-indragiri-hilir/</loc>
+		<loc>/jual-nako-indragiri-hilir.html</loc>
 		<lastmod>2024-07-10T04:47:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1445,7 +1445,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-dumai/</loc>
+		<loc>/jual-nako-dumai.html</loc>
 		<lastmod>2024-07-10T04:47:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1464,7 +1464,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bengkalis/</loc>
+		<loc>/jual-nako-bengkalis.html</loc>
 		<lastmod>2024-07-10T04:47:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1483,7 +1483,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-teluk-wondama/</loc>
+		<loc>/jual-nako-teluk-wondama.html</loc>
 		<lastmod>2024-07-10T04:47:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1502,7 +1502,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-teluk-bintuni/</loc>
+		<loc>/jual-nako-teluk-bintuni.html</loc>
 		<lastmod>2024-07-10T04:47:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1521,7 +1521,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tambrauw/</loc>
+		<loc>/jual-nako-tambrauw.html</loc>
 		<lastmod>2024-07-10T04:47:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1540,7 +1540,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sorong-selatan/</loc>
+		<loc>/jual-nako-sorong-selatan.html</loc>
 		<lastmod>2024-07-10T04:47:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1559,7 +1559,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sorong/</loc>
+		<loc>/jual-nako-sorong.html</loc>
 		<lastmod>2024-07-10T04:47:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1578,7 +1578,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-raja-ampat/</loc>
+		<loc>/jual-nako-raja-ampat.html</loc>
 		<lastmod>2024-07-10T04:47:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1597,7 +1597,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pegunungan-arfak/</loc>
+		<loc>/jual-nako-pegunungan-arfak.html</loc>
 		<lastmod>2024-07-10T04:47:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1616,7 +1616,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-maybrat/</loc>
+		<loc>/jual-nako-maybrat.html</loc>
 		<lastmod>2024-07-10T04:47:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1635,7 +1635,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-manokwari-selatan/</loc>
+		<loc>/jual-nako-manokwari-selatan.html</loc>
 		<lastmod>2024-07-10T04:47:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1654,7 +1654,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-manokwari/</loc>
+		<loc>/jual-nako-manokwari.html</loc>
 		<lastmod>2024-07-10T04:47:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1673,7 +1673,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kaimana/</loc>
+		<loc>/jual-nako-kaimana.html</loc>
 		<lastmod>2024-07-10T04:47:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1692,7 +1692,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-fakfak/</loc>
+		<loc>/jual-nako-fakfak.html</loc>
 		<lastmod>2024-07-10T04:47:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1711,7 +1711,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-yalimo/</loc>
+		<loc>/jual-nako-yalimo.html</loc>
 		<lastmod>2024-07-10T04:47:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1730,7 +1730,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-yahukimo/</loc>
+		<loc>/jual-nako-yahukimo.html</loc>
 		<lastmod>2024-07-10T04:47:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1749,7 +1749,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-waropen/</loc>
+		<loc>/jual-nako-waropen.html</loc>
 		<lastmod>2024-07-10T04:47:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1768,7 +1768,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tolikara/</loc>
+		<loc>/jual-nako-tolikara.html</loc>
 		<lastmod>2024-07-10T04:47:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1787,7 +1787,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-supiori/</loc>
+		<loc>/jual-nako-supiori.html</loc>
 		<lastmod>2024-07-10T04:47:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1806,7 +1806,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sarmi/</loc>
+		<loc>/jual-nako-sarmi.html</loc>
 		<lastmod>2024-07-10T04:47:21+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1825,7 +1825,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-puncak-jaya/</loc>
+		<loc>/jual-nako-puncak-jaya.html</loc>
 		<lastmod>2024-07-10T04:47:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1844,7 +1844,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-puncak/</loc>
+		<loc>/jual-nako-puncak.html</loc>
 		<lastmod>2024-07-10T04:47:17+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1863,7 +1863,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pegunungan-bintang/</loc>
+		<loc>/jual-nako-pegunungan-bintang.html</loc>
 		<lastmod>2024-07-10T04:47:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1882,7 +1882,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-paniai/</loc>
+		<loc>/jual-nako-paniai.html</loc>
 		<lastmod>2024-07-10T04:47:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1901,7 +1901,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-nduga/</loc>
+		<loc>/jual-nako-nduga.html</loc>
 		<lastmod>2024-07-10T04:47:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1920,7 +1920,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-nabire/</loc>
+		<loc>/jual-nako-nabire.html</loc>
 		<lastmod>2024-07-10T04:47:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1939,7 +1939,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-mimika/</loc>
+		<loc>/jual-nako-mimika.html</loc>
 		<lastmod>2024-07-10T04:47:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1958,7 +1958,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-merauke/</loc>
+		<loc>/jual-nako-merauke.html</loc>
 		<lastmod>2024-07-10T04:47:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1977,7 +1977,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-mappi/</loc>
+		<loc>/jual-nako-mappi.html</loc>
 		<lastmod>2024-07-10T04:47:03+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -1996,7 +1996,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-mamberamo-tengah/</loc>
+		<loc>/jual-nako-mamberamo-tengah.html</loc>
 		<lastmod>2024-07-10T04:47:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2015,7 +2015,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-mamberamo-raya/</loc>
+		<loc>/jual-nako-mamberamo-raya.html</loc>
 		<lastmod>2024-07-10T04:46:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2034,7 +2034,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lanny-jaya/</loc>
+		<loc>/jual-nako-lanny-jaya.html</loc>
 		<lastmod>2024-07-10T04:46:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2053,7 +2053,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kepulauan-yapen/</loc>
+		<loc>/jual-nako-kepulauan-yapen.html</loc>
 		<lastmod>2024-07-10T04:46:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2072,7 +2072,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-keerom/</loc>
+		<loc>/jual-nako-keerom.html</loc>
 		<lastmod>2024-07-10T04:46:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2091,7 +2091,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-jayawijaya/</loc>
+		<loc>/jual-nako-jayawijaya.html</loc>
 		<lastmod>2024-07-10T04:46:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2110,7 +2110,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-jayapura/</loc>
+		<loc>/jual-nako-jayapura.html</loc>
 		<lastmod>2024-07-10T04:46:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2129,7 +2129,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-intan-jaya/</loc>
+		<loc>/jual-nako-intan-jaya.html</loc>
 		<lastmod>2024-07-10T04:46:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2148,7 +2148,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-dogiyai/</loc>
+		<loc>/jual-nako-dogiyai.html</loc>
 		<lastmod>2024-07-10T04:46:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2167,7 +2167,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-deiyai/</loc>
+		<loc>/jual-nako-deiyai.html</loc>
 		<lastmod>2024-07-10T04:46:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2186,7 +2186,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-boven-digoel/</loc>
+		<loc>/jual-nako-boven-digoel.html</loc>
 		<lastmod>2024-07-10T04:46:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2205,7 +2205,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-biak-numfor/</loc>
+		<loc>/jual-nako-biak-numfor.html</loc>
 		<lastmod>2024-07-10T04:46:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2224,7 +2224,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-asmat/</loc>
+		<loc>/jual-nako-asmat.html</loc>
 		<lastmod>2024-07-10T04:46:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2243,7 +2243,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-timor-tengah-utara/</loc>
+		<loc>/jual-nako-timor-tengah-utara.html</loc>
 		<lastmod>2024-07-10T04:46:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2262,7 +2262,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-timor-tengah-selatan/</loc>
+		<loc>/jual-nako-timor-tengah-selatan.html</loc>
 		<lastmod>2024-07-10T04:46:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2281,7 +2281,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sumba-timur/</loc>
+		<loc>/jual-nako-sumba-timur.html</loc>
 		<lastmod>2024-07-10T04:46:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2300,7 +2300,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sumba-tengah/</loc>
+		<loc>/jual-nako-sumba-tengah.html</loc>
 		<lastmod>2024-07-10T04:46:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2319,7 +2319,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sumba-barat-daya/</loc>
+		<loc>/jual-nako-sumba-barat-daya.html</loc>
 		<lastmod>2024-07-10T04:46:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2338,7 +2338,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sumba-barat/</loc>
+		<loc>/jual-nako-sumba-barat.html</loc>
 		<lastmod>2024-07-10T04:46:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2357,7 +2357,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sikka/</loc>
+		<loc>/jual-nako-sikka.html</loc>
 		<lastmod>2024-07-10T04:46:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2376,7 +2376,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sabu-raijua/</loc>
+		<loc>/jual-nako-sabu-raijua.html</loc>
 		<lastmod>2024-07-10T04:46:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2395,7 +2395,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-rote-ndao/</loc>
+		<loc>/jual-nako-rote-ndao.html</loc>
 		<lastmod>2024-07-10T04:46:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2414,7 +2414,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-ngada/</loc>
+		<loc>/jual-nako-ngada.html</loc>
 		<lastmod>2024-07-10T04:46:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2433,7 +2433,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-nagekeo/</loc>
+		<loc>/jual-nako-nagekeo.html</loc>
 		<lastmod>2024-07-10T04:46:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2452,7 +2452,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-manggarai-timur/</loc>
+		<loc>/jual-nako-manggarai-timur.html</loc>
 		<lastmod>2024-07-10T04:46:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2471,7 +2471,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-manggarai-barat/</loc>
+		<loc>/jual-nako-manggarai-barat.html</loc>
 		<lastmod>2024-07-10T04:46:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2490,7 +2490,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-manggarai/</loc>
+		<loc>/jual-nako-manggarai.html</loc>
 		<lastmod>2024-07-10T04:46:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2509,7 +2509,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-malaka/</loc>
+		<loc>/jual-nako-malaka.html</loc>
 		<lastmod>2024-07-10T04:46:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2528,7 +2528,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lembata/</loc>
+		<loc>/jual-nako-lembata.html</loc>
 		<lastmod>2024-07-10T04:46:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2547,7 +2547,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kupang/</loc>
+		<loc>/jual-nako-kupang.html</loc>
 		<lastmod>2024-07-10T04:46:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2566,7 +2566,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-flores-timur/</loc>
+		<loc>/jual-nako-flores-timur.html</loc>
 		<lastmod>2024-07-10T04:46:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2585,7 +2585,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-ende/</loc>
+		<loc>/jual-nako-ende.html</loc>
 		<lastmod>2024-07-10T04:46:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2604,7 +2604,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-belu/</loc>
+		<loc>/jual-nako-belu.html</loc>
 		<lastmod>2024-07-10T04:46:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2623,7 +2623,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-alor/</loc>
+		<loc>/jual-nako-alor.html</loc>
 		<lastmod>2024-07-10T04:46:03+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2642,7 +2642,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sumbawa-barat/</loc>
+		<loc>/jual-nako-sumbawa-barat.html</loc>
 		<lastmod>2024-07-10T04:46:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2661,7 +2661,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-sumbawa/</loc>
+		<loc>/jual-nako-sumbawa.html</loc>
 		<lastmod>2024-07-10T04:46:00+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2680,7 +2680,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-mataram/</loc>
+		<loc>/jual-nako-mataram.html</loc>
 		<lastmod>2024-07-10T04:45:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2699,7 +2699,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lombok-utara/</loc>
+		<loc>/jual-nako-lombok-utara.html</loc>
 		<lastmod>2024-07-10T04:45:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2718,7 +2718,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lombok-timur/</loc>
+		<loc>/jual-nako-lombok-timur.html</loc>
 		<lastmod>2024-07-10T04:45:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2737,7 +2737,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lombok-tengah/</loc>
+		<loc>/jual-nako-lombok-tengah.html</loc>
 		<lastmod>2024-07-10T04:45:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2756,7 +2756,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lombok-barat/</loc>
+		<loc>/jual-nako-lombok-barat.html</loc>
 		<lastmod>2024-07-10T04:45:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2775,7 +2775,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-dompu/</loc>
+		<loc>/jual-nako-dompu.html</loc>
 		<lastmod>2024-07-10T04:45:48+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2794,7 +2794,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bima/</loc>
+		<loc>/jual-nako-bima.html</loc>
 		<lastmod>2024-07-10T04:45:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2813,7 +2813,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tidore-kepulauan/</loc>
+		<loc>/jual-nako-tidore-kepulauan.html</loc>
 		<lastmod>2024-07-10T04:45:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2832,7 +2832,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-ternate/</loc>
+		<loc>/jual-nako-ternate.html</loc>
 		<lastmod>2024-07-10T04:45:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2851,7 +2851,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pulau-taliabu/</loc>
+		<loc>/jual-nako-pulau-taliabu.html</loc>
 		<lastmod>2024-07-10T04:45:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2870,7 +2870,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pulau-morotai/</loc>
+		<loc>/jual-nako-pulau-morotai.html</loc>
 		<lastmod>2024-07-10T04:45:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2889,7 +2889,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kepulauan-sula/</loc>
+		<loc>/jual-nako-kepulauan-sula.html</loc>
 		<lastmod>2024-07-10T04:45:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2908,7 +2908,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-halmahera-utara/</loc>
+		<loc>/jual-nako-halmahera-utara.html</loc>
 		<lastmod>2024-07-10T04:45:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2927,7 +2927,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-halmahera-timur/</loc>
+		<loc>/jual-nako-halmahera-timur.html</loc>
 		<lastmod>2024-07-10T04:45:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2946,7 +2946,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-halmahera-tengah/</loc>
+		<loc>/jual-nako-halmahera-tengah.html</loc>
 		<lastmod>2024-07-10T04:45:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2965,7 +2965,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-halmahera-selatan/</loc>
+		<loc>/jual-nako-halmahera-selatan.html</loc>
 		<lastmod>2024-07-10T04:45:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -2984,7 +2984,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-halmahera-barat/</loc>
+		<loc>/jual-nako-halmahera-barat.html</loc>
 		<lastmod>2024-07-10T04:45:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3003,7 +3003,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tual/</loc>
+		<loc>/jual-nako-tual.html</loc>
 		<lastmod>2024-07-10T04:45:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3022,7 +3022,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-seram-bagian-timur/</loc>
+		<loc>/jual-nako-seram-bagian-timur.html</loc>
 		<lastmod>2024-07-10T04:45:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3041,7 +3041,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-seram-bagian-barat/</loc>
+		<loc>/jual-nako-seram-bagian-barat.html</loc>
 		<lastmod>2024-07-10T04:45:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3060,7 +3060,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-maluku-tenggara/</loc>
+		<loc>/jual-nako-maluku-tenggara.html</loc>
 		<lastmod>2024-07-10T04:45:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3079,7 +3079,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-maluku-tengah/</loc>
+		<loc>/jual-nako-maluku-tengah.html</loc>
 		<lastmod>2024-07-10T04:45:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3098,7 +3098,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-maluku-barat-daya/</loc>
+		<loc>/jual-nako-maluku-barat-daya.html</loc>
 		<lastmod>2024-07-10T04:45:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3117,7 +3117,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kepulauan-tanimbar-maluku-tenggara-barat/</loc>
+		<loc>/jual-nako-kepulauan-tanimbar-maluku-tenggara-barat.html</loc>
 		<lastmod>2024-07-10T04:45:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3136,7 +3136,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kepulauan-aru/</loc>
+		<loc>/jual-nako-kepulauan-aru.html</loc>
 		<lastmod>2024-07-10T04:45:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3155,7 +3155,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-buru-selatan/</loc>
+		<loc>/jual-nako-buru-selatan.html</loc>
 		<lastmod>2024-07-10T04:45:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3174,7 +3174,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-buru/</loc>
+		<loc>/jual-nako-buru.html</loc>
 		<lastmod>2024-07-10T04:45:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3193,7 +3193,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-ambon/</loc>
+		<loc>/jual-nako-ambon.html</loc>
 		<lastmod>2024-07-10T04:45:02+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3212,7 +3212,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-way-kanan/</loc>
+		<loc>/jual-nako-way-kanan.html</loc>
 		<lastmod>2024-07-10T04:45:00+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3231,7 +3231,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tulang-bawang-barat/</loc>
+		<loc>/jual-nako-tulang-bawang-barat.html</loc>
 		<lastmod>2024-07-10T04:44:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3250,7 +3250,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tulang-bawang/</loc>
+		<loc>/jual-nako-tulang-bawang.html</loc>
 		<lastmod>2024-07-10T04:44:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3269,7 +3269,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tanggamus/</loc>
+		<loc>/jual-nako-tanggamus.html</loc>
 		<lastmod>2024-07-10T04:44:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3288,7 +3288,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pringsewu/</loc>
+		<loc>/jual-nako-pringsewu.html</loc>
 		<lastmod>2024-07-10T04:44:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3307,7 +3307,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pesisir-barat/</loc>
+		<loc>/jual-nako-pesisir-barat.html</loc>
 		<lastmod>2024-07-10T04:44:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3326,7 +3326,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pesawaran/</loc>
+		<loc>/jual-nako-pesawaran.html</loc>
 		<lastmod>2024-07-10T04:44:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3345,7 +3345,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-metro/</loc>
+		<loc>/jual-nako-metro.html</loc>
 		<lastmod>2024-07-10T04:44:48+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3364,7 +3364,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-mesuji/</loc>
+		<loc>/jual-nako-mesuji.html</loc>
 		<lastmod>2024-07-10T04:44:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3383,7 +3383,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lampung-utara/</loc>
+		<loc>/jual-nako-lampung-utara.html</loc>
 		<lastmod>2024-07-10T04:44:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3402,7 +3402,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lampung-timur/</loc>
+		<loc>/jual-nako-lampung-timur.html</loc>
 		<lastmod>2024-07-10T04:44:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3421,7 +3421,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lampung-tengah/</loc>
+		<loc>/jual-nako-lampung-tengah.html</loc>
 		<lastmod>2024-07-10T04:44:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3440,7 +3440,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lampung-selatan/</loc>
+		<loc>/jual-nako-lampung-selatan.html</loc>
 		<lastmod>2024-07-10T04:44:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3459,7 +3459,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lampung-barat/</loc>
+		<loc>/jual-nako-lampung-barat.html</loc>
 		<lastmod>2024-07-10T04:44:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3478,7 +3478,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bandar-lampung/</loc>
+		<loc>/jual-nako-bandar-lampung.html</loc>
 		<lastmod>2024-07-10T04:44:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3497,7 +3497,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tanjung-pinang/</loc>
+		<loc>/jual-nako-tanjung-pinang.html</loc>
 		<lastmod>2024-07-10T04:44:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3516,7 +3516,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-natuna/</loc>
+		<loc>/jual-nako-natuna.html</loc>
 		<lastmod>2024-07-10T04:44:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3535,7 +3535,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-lingga/</loc>
+		<loc>/jual-nako-lingga.html</loc>
 		<lastmod>2024-07-10T04:44:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3554,7 +3554,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-kepulauan-anambas/</loc>
+		<loc>/jual-nako-kepulauan-anambas.html</loc>
 		<lastmod>2024-07-10T04:44:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3573,7 +3573,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-karimun/</loc>
+		<loc>/jual-nako-karimun.html</loc>
 		<lastmod>2024-07-10T04:44:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3592,7 +3592,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bintan/</loc>
+		<loc>/jual-nako-bintan.html</loc>
 		<lastmod>2024-07-10T04:44:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3611,7 +3611,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-batam/</loc>
+		<loc>/jual-nako-batam.html</loc>
 		<lastmod>2024-07-10T04:44:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3630,7 +3630,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-pangkal-pinang/</loc>
+		<loc>/jual-nako-pangkal-pinang.html</loc>
 		<lastmod>2024-07-10T04:44:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3649,7 +3649,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-belitung-timur/</loc>
+		<loc>/jual-nako-belitung-timur.html</loc>
 		<lastmod>2024-07-10T04:44:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3668,7 +3668,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-belitung/</loc>
+		<loc>/jual-nako-belitung.html</loc>
 		<lastmod>2024-07-10T04:44:21+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3687,7 +3687,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bangka-tengah/</loc>
+		<loc>/jual-nako-bangka-tengah.html</loc>
 		<lastmod>2024-07-10T04:44:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3706,7 +3706,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bangka-selatan/</loc>
+		<loc>/jual-nako-bangka-selatan.html</loc>
 		<lastmod>2024-07-10T04:44:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3725,7 +3725,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bangka-barat/</loc>
+		<loc>/jual-nako-bangka-barat.html</loc>
 		<lastmod>2024-07-10T04:44:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3744,7 +3744,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-bangka/</loc>
+		<loc>/jual-nako-bangka.html</loc>
 		<lastmod>2024-07-10T04:44:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3763,7 +3763,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tarakan/</loc>
+		<loc>/jual-nako-tarakan.html</loc>
 		<lastmod>2024-07-10T04:44:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>
@@ -3782,7 +3782,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-nako-tana-tidung/</loc>
+		<loc>/jual-nako-tana-tidung.html</loc>
 		<lastmod>2024-07-10T04:44:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-nako.jpg</image:loc>

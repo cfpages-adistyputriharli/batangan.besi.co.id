@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/hello-world/</loc>
+		<loc>/hello-world.html</loc>
 		<lastmod>2017-03-09T03:18:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bangkalan/</loc>
+		<loc>/jual-as-st42-bangkalan.html</loc>
 		<lastmod>2024-07-09T11:02:21+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -21,7 +21,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-banyuwangi/</loc>
+		<loc>/jual-as-st42-banyuwangi.html</loc>
 		<lastmod>2024-07-09T11:02:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -37,7 +37,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-batu/</loc>
+		<loc>/jual-as-st42-batu.html</loc>
 		<lastmod>2024-07-09T11:02:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -53,7 +53,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-blitar/</loc>
+		<loc>/jual-as-st42-blitar.html</loc>
 		<lastmod>2024-07-09T11:02:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -69,7 +69,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bojonegoro/</loc>
+		<loc>/jual-as-st42-bojonegoro.html</loc>
 		<lastmod>2024-07-09T11:02:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -85,7 +85,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bondowoso/</loc>
+		<loc>/jual-as-st42-bondowoso.html</loc>
 		<lastmod>2024-07-09T11:02:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -101,7 +101,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-gresik/</loc>
+		<loc>/jual-as-st42-gresik.html</loc>
 		<lastmod>2024-07-09T11:02:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -117,7 +117,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-jember/</loc>
+		<loc>/jual-as-st42-jember.html</loc>
 		<lastmod>2024-07-09T11:02:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -133,7 +133,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-jombang/</loc>
+		<loc>/jual-as-st42-jombang.html</loc>
 		<lastmod>2024-07-09T11:02:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -149,7 +149,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kediri/</loc>
+		<loc>/jual-as-st42-kediri.html</loc>
 		<lastmod>2024-07-09T11:02:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -165,7 +165,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-lamongan/</loc>
+		<loc>/jual-as-st42-lamongan.html</loc>
 		<lastmod>2024-07-09T11:02:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -181,7 +181,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-lumajang/</loc>
+		<loc>/jual-as-st42-lumajang.html</loc>
 		<lastmod>2024-07-09T11:02:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -197,7 +197,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-madiun/</loc>
+		<loc>/jual-as-st42-madiun.html</loc>
 		<lastmod>2024-07-09T11:02:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -213,7 +213,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-magetan/</loc>
+		<loc>/jual-as-st42-magetan.html</loc>
 		<lastmod>2024-07-09T11:02:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -229,7 +229,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-malang/</loc>
+		<loc>/jual-as-st42-malang.html</loc>
 		<lastmod>2024-07-09T11:02:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -245,7 +245,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-mojokerto/</loc>
+		<loc>/jual-as-st42-mojokerto.html</loc>
 		<lastmod>2024-07-09T11:02:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -261,7 +261,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-nganjuk/</loc>
+		<loc>/jual-as-st42-nganjuk.html</loc>
 		<lastmod>2024-07-09T11:02:36+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -277,7 +277,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-ngawi/</loc>
+		<loc>/jual-as-st42-ngawi.html</loc>
 		<lastmod>2024-07-09T11:02:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -293,7 +293,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pacitan/</loc>
+		<loc>/jual-as-st42-pacitan.html</loc>
 		<lastmod>2024-07-09T11:02:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -309,7 +309,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pamekasan/</loc>
+		<loc>/jual-as-st42-pamekasan.html</loc>
 		<lastmod>2024-07-09T11:02:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -325,7 +325,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pasuruan/</loc>
+		<loc>/jual-as-st42-pasuruan.html</loc>
 		<lastmod>2024-07-09T11:02:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -341,7 +341,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-ponorogo/</loc>
+		<loc>/jual-as-st42-ponorogo.html</loc>
 		<lastmod>2024-07-09T11:02:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -357,7 +357,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-probolinggo/</loc>
+		<loc>/jual-as-st42-probolinggo.html</loc>
 		<lastmod>2024-07-09T11:02:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -373,7 +373,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sampang/</loc>
+		<loc>/jual-as-st42-sampang.html</loc>
 		<lastmod>2024-07-09T11:02:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -389,7 +389,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sidoarjo/</loc>
+		<loc>/jual-as-st42-sidoarjo.html</loc>
 		<lastmod>2024-07-09T11:02:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -405,7 +405,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-situbondo/</loc>
+		<loc>/jual-as-st42-situbondo.html</loc>
 		<lastmod>2024-07-09T11:02:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -421,7 +421,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sumenep/</loc>
+		<loc>/jual-as-st42-sumenep.html</loc>
 		<lastmod>2024-07-09T11:02:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -437,7 +437,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-surabaya/</loc>
+		<loc>/jual-as-st42-surabaya.html</loc>
 		<lastmod>2024-07-09T11:02:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -453,7 +453,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-trenggalek/</loc>
+		<loc>/jual-as-st42-trenggalek.html</loc>
 		<lastmod>2024-07-09T11:02:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -469,7 +469,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tuban/</loc>
+		<loc>/jual-as-st42-tuban.html</loc>
 		<lastmod>2024-07-09T11:02:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -485,7 +485,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tulungagung/</loc>
+		<loc>/jual-as-st42-tulungagung.html</loc>
 		<lastmod>2024-07-09T11:02:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -501,7 +501,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-banjarnegara/</loc>
+		<loc>/jual-as-st42-banjarnegara.html</loc>
 		<lastmod>2024-07-09T11:02:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -517,7 +517,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-banyumas/</loc>
+		<loc>/jual-as-st42-banyumas.html</loc>
 		<lastmod>2024-07-09T11:02:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -533,7 +533,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-batang/</loc>
+		<loc>/jual-as-st42-batang.html</loc>
 		<lastmod>2024-07-09T11:02:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -549,7 +549,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-blora/</loc>
+		<loc>/jual-as-st42-blora.html</loc>
 		<lastmod>2024-07-09T11:02:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -565,7 +565,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-boyolali/</loc>
+		<loc>/jual-as-st42-boyolali.html</loc>
 		<lastmod>2024-07-09T11:02:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -581,7 +581,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-brebes/</loc>
+		<loc>/jual-as-st42-brebes.html</loc>
 		<lastmod>2024-07-09T11:02:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -597,7 +597,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-cilacap/</loc>
+		<loc>/jual-as-st42-cilacap.html</loc>
 		<lastmod>2024-07-09T11:02:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -613,7 +613,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-demak/</loc>
+		<loc>/jual-as-st42-demak.html</loc>
 		<lastmod>2024-07-09T11:02:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -629,7 +629,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-grobogan/</loc>
+		<loc>/jual-as-st42-grobogan.html</loc>
 		<lastmod>2024-07-09T11:02:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -645,7 +645,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-jepara/</loc>
+		<loc>/jual-as-st42-jepara.html</loc>
 		<lastmod>2024-07-09T11:02:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -661,7 +661,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-karanganyar/</loc>
+		<loc>/jual-as-st42-karanganyar.html</loc>
 		<lastmod>2024-07-09T11:02:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -677,7 +677,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kebumen/</loc>
+		<loc>/jual-as-st42-kebumen.html</loc>
 		<lastmod>2024-07-09T11:03:00+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -693,7 +693,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kendal/</loc>
+		<loc>/jual-as-st42-kendal.html</loc>
 		<lastmod>2024-07-09T11:03:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -709,7 +709,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-klaten/</loc>
+		<loc>/jual-as-st42-klaten.html</loc>
 		<lastmod>2024-07-09T11:03:02+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -725,7 +725,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kudus/</loc>
+		<loc>/jual-as-st42-kudus.html</loc>
 		<lastmod>2024-07-09T11:03:03+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -741,7 +741,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-magelang/</loc>
+		<loc>/jual-as-st42-magelang.html</loc>
 		<lastmod>2024-07-09T11:03:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -757,7 +757,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pati/</loc>
+		<loc>/jual-as-st42-pati.html</loc>
 		<lastmod>2024-07-09T11:03:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -773,7 +773,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pekalongan/</loc>
+		<loc>/jual-as-st42-pekalongan.html</loc>
 		<lastmod>2024-07-09T11:03:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -789,7 +789,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pemalang/</loc>
+		<loc>/jual-as-st42-pemalang.html</loc>
 		<lastmod>2024-07-09T11:03:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -805,7 +805,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-purbalingga/</loc>
+		<loc>/jual-as-st42-purbalingga.html</loc>
 		<lastmod>2024-07-09T11:03:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -821,7 +821,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-purworejo/</loc>
+		<loc>/jual-as-st42-purworejo.html</loc>
 		<lastmod>2024-07-09T11:03:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -837,7 +837,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-rembang/</loc>
+		<loc>/jual-as-st42-rembang.html</loc>
 		<lastmod>2024-07-09T11:03:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -853,7 +853,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-salatiga/</loc>
+		<loc>/jual-as-st42-salatiga.html</loc>
 		<lastmod>2024-07-09T11:03:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -869,7 +869,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-semarang/</loc>
+		<loc>/jual-as-st42-semarang.html</loc>
 		<lastmod>2024-07-09T11:03:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -885,7 +885,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sragen/</loc>
+		<loc>/jual-as-st42-sragen.html</loc>
 		<lastmod>2024-07-09T11:03:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -901,7 +901,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sukoharjo/</loc>
+		<loc>/jual-as-st42-sukoharjo.html</loc>
 		<lastmod>2024-07-09T11:03:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -917,7 +917,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-surakarta/</loc>
+		<loc>/jual-as-st42-surakarta.html</loc>
 		<lastmod>2024-07-09T11:03:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -933,7 +933,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tegal/</loc>
+		<loc>/jual-as-st42-tegal.html</loc>
 		<lastmod>2024-07-09T11:03:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -949,7 +949,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-temanggung/</loc>
+		<loc>/jual-as-st42-temanggung.html</loc>
 		<lastmod>2024-07-09T11:03:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -965,7 +965,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-wonogiri/</loc>
+		<loc>/jual-as-st42-wonogiri.html</loc>
 		<lastmod>2024-07-09T11:03:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -981,7 +981,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-wonosobo/</loc>
+		<loc>/jual-as-st42-wonosobo.html</loc>
 		<lastmod>2024-07-09T11:03:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -997,7 +997,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bantul/</loc>
+		<loc>/jual-as-st42-bantul.html</loc>
 		<lastmod>2024-07-09T11:03:17+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1013,7 +1013,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-gunungkidul/</loc>
+		<loc>/jual-as-st42-gunungkidul.html</loc>
 		<lastmod>2024-07-09T11:03:17+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1029,7 +1029,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kulon-progo/</loc>
+		<loc>/jual-as-st42-kulon-progo.html</loc>
 		<lastmod>2024-07-09T11:04:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1045,7 +1045,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sleman/</loc>
+		<loc>/jual-as-st42-sleman.html</loc>
 		<lastmod>2024-07-09T11:04:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1061,7 +1061,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-yogyakarta/</loc>
+		<loc>/jual-as-st42-yogyakarta.html</loc>
 		<lastmod>2024-07-09T11:04:17+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1077,7 +1077,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bandung/</loc>
+		<loc>/jual-as-st42-bandung.html</loc>
 		<lastmod>2024-07-09T11:03:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1093,7 +1093,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bandung-barat/</loc>
+		<loc>/jual-as-st42-bandung-barat.html</loc>
 		<lastmod>2024-07-09T11:03:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1109,7 +1109,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-banjar/</loc>
+		<loc>/jual-as-st42-banjar.html</loc>
 		<lastmod>2024-07-09T11:04:48+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1125,7 +1125,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bekasi/</loc>
+		<loc>/jual-as-st42-bekasi.html</loc>
 		<lastmod>2024-07-09T11:03:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1141,7 +1141,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bogor/</loc>
+		<loc>/jual-as-st42-bogor.html</loc>
 		<lastmod>2024-07-09T11:03:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1157,7 +1157,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-ciamis/</loc>
+		<loc>/jual-as-st42-ciamis.html</loc>
 		<lastmod>2024-07-09T11:03:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1173,7 +1173,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-cianjur/</loc>
+		<loc>/jual-as-st42-cianjur.html</loc>
 		<lastmod>2024-07-09T11:03:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1189,7 +1189,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-cimahi/</loc>
+		<loc>/jual-as-st42-cimahi.html</loc>
 		<lastmod>2024-07-09T11:03:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1205,7 +1205,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-cirebon/</loc>
+		<loc>/jual-as-st42-cirebon.html</loc>
 		<lastmod>2024-07-09T11:03:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1221,7 +1221,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-depok/</loc>
+		<loc>/jual-as-st42-depok.html</loc>
 		<lastmod>2024-07-09T11:03:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1237,7 +1237,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-garut/</loc>
+		<loc>/jual-as-st42-garut.html</loc>
 		<lastmod>2024-07-09T11:03:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1253,7 +1253,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-indramayu/</loc>
+		<loc>/jual-as-st42-indramayu.html</loc>
 		<lastmod>2024-07-09T11:03:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1269,7 +1269,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-karawang/</loc>
+		<loc>/jual-as-st42-karawang.html</loc>
 		<lastmod>2024-07-09T11:03:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1285,7 +1285,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kuningan/</loc>
+		<loc>/jual-as-st42-kuningan.html</loc>
 		<lastmod>2024-07-09T11:03:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1301,7 +1301,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-majalengka/</loc>
+		<loc>/jual-as-st42-majalengka.html</loc>
 		<lastmod>2024-07-09T11:03:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1317,7 +1317,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pangandaran/</loc>
+		<loc>/jual-as-st42-pangandaran.html</loc>
 		<lastmod>2024-07-09T11:03:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1333,7 +1333,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-purwakarta/</loc>
+		<loc>/jual-as-st42-purwakarta.html</loc>
 		<lastmod>2024-07-09T11:03:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1349,7 +1349,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-subang/</loc>
+		<loc>/jual-as-st42-subang.html</loc>
 		<lastmod>2024-07-09T11:03:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1365,7 +1365,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sukabumi/</loc>
+		<loc>/jual-as-st42-sukabumi.html</loc>
 		<lastmod>2024-07-09T11:03:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1381,7 +1381,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sumedang/</loc>
+		<loc>/jual-as-st42-sumedang.html</loc>
 		<lastmod>2024-07-09T11:03:36+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1397,7 +1397,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tasikmalaya/</loc>
+		<loc>/jual-as-st42-tasikmalaya.html</loc>
 		<lastmod>2024-07-09T11:03:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1413,7 +1413,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-aceh-barat/</loc>
+		<loc>/jual-as-st42-aceh-barat.html</loc>
 		<lastmod>2024-07-09T11:03:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1429,7 +1429,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-aceh-barat-daya/</loc>
+		<loc>/jual-as-st42-aceh-barat-daya.html</loc>
 		<lastmod>2024-07-09T11:03:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1445,7 +1445,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-aceh-besar/</loc>
+		<loc>/jual-as-st42-aceh-besar.html</loc>
 		<lastmod>2024-07-09T11:03:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1461,7 +1461,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-aceh-jaya/</loc>
+		<loc>/jual-as-st42-aceh-jaya.html</loc>
 		<lastmod>2024-07-09T11:03:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1477,7 +1477,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-aceh-selatan/</loc>
+		<loc>/jual-as-st42-aceh-selatan.html</loc>
 		<lastmod>2024-07-09T11:03:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1493,7 +1493,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-aceh-singkil/</loc>
+		<loc>/jual-as-st42-aceh-singkil.html</loc>
 		<lastmod>2024-07-09T11:03:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1509,7 +1509,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-aceh-tamiang/</loc>
+		<loc>/jual-as-st42-aceh-tamiang.html</loc>
 		<lastmod>2024-07-09T11:03:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1525,7 +1525,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-aceh-tengah/</loc>
+		<loc>/jual-as-st42-aceh-tengah.html</loc>
 		<lastmod>2024-07-09T11:03:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1541,7 +1541,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-aceh-tenggara/</loc>
+		<loc>/jual-as-st42-aceh-tenggara.html</loc>
 		<lastmod>2024-07-09T11:03:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1557,7 +1557,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-aceh-timur/</loc>
+		<loc>/jual-as-st42-aceh-timur.html</loc>
 		<lastmod>2024-07-09T11:03:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1573,7 +1573,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-aceh-utara/</loc>
+		<loc>/jual-as-st42-aceh-utara.html</loc>
 		<lastmod>2024-07-09T11:03:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1589,7 +1589,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-banda-aceh/</loc>
+		<loc>/jual-as-st42-banda-aceh.html</loc>
 		<lastmod>2024-07-09T11:03:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1605,7 +1605,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bener-meriah/</loc>
+		<loc>/jual-as-st42-bener-meriah.html</loc>
 		<lastmod>2024-07-09T11:03:48+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1621,7 +1621,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bireuen/</loc>
+		<loc>/jual-as-st42-bireuen.html</loc>
 		<lastmod>2024-07-09T11:03:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1637,7 +1637,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-gayo-lues/</loc>
+		<loc>/jual-as-st42-gayo-lues.html</loc>
 		<lastmod>2024-07-09T11:03:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1653,7 +1653,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-langsa/</loc>
+		<loc>/jual-as-st42-langsa.html</loc>
 		<lastmod>2024-07-09T11:03:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1669,7 +1669,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-lhokseumawe/</loc>
+		<loc>/jual-as-st42-lhokseumawe.html</loc>
 		<lastmod>2024-07-09T11:03:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1685,7 +1685,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-nagan-raya/</loc>
+		<loc>/jual-as-st42-nagan-raya.html</loc>
 		<lastmod>2024-07-09T11:03:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1701,7 +1701,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pidie/</loc>
+		<loc>/jual-as-st42-pidie.html</loc>
 		<lastmod>2024-07-09T11:03:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1717,7 +1717,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pidie-jaya/</loc>
+		<loc>/jual-as-st42-pidie-jaya.html</loc>
 		<lastmod>2024-07-09T11:03:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1733,7 +1733,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sabang/</loc>
+		<loc>/jual-as-st42-sabang.html</loc>
 		<lastmod>2024-07-09T11:03:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1749,7 +1749,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-simeulue/</loc>
+		<loc>/jual-as-st42-simeulue.html</loc>
 		<lastmod>2024-07-09T11:03:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1765,7 +1765,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-subulussalam/</loc>
+		<loc>/jual-as-st42-subulussalam.html</loc>
 		<lastmod>2024-07-09T11:03:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1781,7 +1781,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-badung/</loc>
+		<loc>/jual-as-st42-badung.html</loc>
 		<lastmod>2024-07-09T11:03:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1797,7 +1797,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bangli/</loc>
+		<loc>/jual-as-st42-bangli.html</loc>
 		<lastmod>2024-07-09T11:03:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1813,7 +1813,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-buleleng/</loc>
+		<loc>/jual-as-st42-buleleng.html</loc>
 		<lastmod>2024-07-09T11:03:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1829,7 +1829,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-gianyar/</loc>
+		<loc>/jual-as-st42-gianyar.html</loc>
 		<lastmod>2024-07-09T11:03:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1845,7 +1845,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-jembrana/</loc>
+		<loc>/jual-as-st42-jembrana.html</loc>
 		<lastmod>2024-07-09T11:03:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1861,7 +1861,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-karangasem/</loc>
+		<loc>/jual-as-st42-karangasem.html</loc>
 		<lastmod>2024-07-09T11:04:00+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1877,7 +1877,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-klungkung/</loc>
+		<loc>/jual-as-st42-klungkung.html</loc>
 		<lastmod>2024-07-09T11:04:00+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1893,7 +1893,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tabanan/</loc>
+		<loc>/jual-as-st42-tabanan.html</loc>
 		<lastmod>2024-07-09T11:04:01+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1909,7 +1909,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-denpasar/</loc>
+		<loc>/jual-as-st42-denpasar.html</loc>
 		<lastmod>2024-07-09T11:04:02+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1925,7 +1925,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pandeglang/</loc>
+		<loc>/jual-as-st42-pandeglang.html</loc>
 		<lastmod>2024-07-09T11:04:03+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1941,7 +1941,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-serang/</loc>
+		<loc>/jual-as-st42-serang.html</loc>
 		<lastmod>2024-07-09T11:04:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1957,7 +1957,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tangerang/</loc>
+		<loc>/jual-as-st42-tangerang.html</loc>
 		<lastmod>2024-07-09T11:04:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1973,7 +1973,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-cilegon/</loc>
+		<loc>/jual-as-st42-cilegon.html</loc>
 		<lastmod>2024-07-09T11:04:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -1989,7 +1989,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tangerang-selatan/</loc>
+		<loc>/jual-as-st42-tangerang-selatan.html</loc>
 		<lastmod>2024-07-09T11:04:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2005,7 +2005,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bengkulu/</loc>
+		<loc>/jual-as-st42-bengkulu.html</loc>
 		<lastmod>2024-07-09T11:04:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2021,7 +2021,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bengkulu-selatan/</loc>
+		<loc>/jual-as-st42-bengkulu-selatan.html</loc>
 		<lastmod>2024-07-09T11:04:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2037,7 +2037,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bengkulu-tengah/</loc>
+		<loc>/jual-as-st42-bengkulu-tengah.html</loc>
 		<lastmod>2024-07-09T11:04:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2053,7 +2053,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bengkulu-utara/</loc>
+		<loc>/jual-as-st42-bengkulu-utara.html</loc>
 		<lastmod>2024-07-09T11:04:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2069,7 +2069,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kaur/</loc>
+		<loc>/jual-as-st42-kaur.html</loc>
 		<lastmod>2024-07-09T11:04:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2085,7 +2085,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kepahiang/</loc>
+		<loc>/jual-as-st42-kepahiang.html</loc>
 		<lastmod>2024-07-09T11:04:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2101,7 +2101,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-lebong/</loc>
+		<loc>/jual-as-st42-lebong.html</loc>
 		<lastmod>2024-07-09T11:04:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2117,7 +2117,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-muko-muko/</loc>
+		<loc>/jual-as-st42-muko-muko.html</loc>
 		<lastmod>2024-07-09T11:04:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2133,7 +2133,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-rejang-lebong/</loc>
+		<loc>/jual-as-st42-rejang-lebong.html</loc>
 		<lastmod>2024-07-09T11:04:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2149,7 +2149,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-seluma/</loc>
+		<loc>/jual-as-st42-seluma.html</loc>
 		<lastmod>2024-07-09T11:04:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2165,7 +2165,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-gunung-kidul/</loc>
+		<loc>/jual-as-st42-gunung-kidul.html</loc>
 		<lastmod>2024-07-09T11:04:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2181,7 +2181,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kepulauan-seribu/</loc>
+		<loc>/jual-as-st42-kepulauan-seribu.html</loc>
 		<lastmod>2024-07-09T11:04:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2197,7 +2197,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-jakarta-barat/</loc>
+		<loc>/jual-as-st42-jakarta-barat.html</loc>
 		<lastmod>2024-07-09T11:04:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2213,7 +2213,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-jakarta-pusat/</loc>
+		<loc>/jual-as-st42-jakarta-pusat.html</loc>
 		<lastmod>2024-07-09T11:04:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2229,7 +2229,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-jakarta-selatan/</loc>
+		<loc>/jual-as-st42-jakarta-selatan.html</loc>
 		<lastmod>2024-07-09T11:04:21+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2245,7 +2245,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-jakarta-timur/</loc>
+		<loc>/jual-as-st42-jakarta-timur.html</loc>
 		<lastmod>2024-07-09T11:04:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2261,7 +2261,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-jakarta-utara/</loc>
+		<loc>/jual-as-st42-jakarta-utara.html</loc>
 		<lastmod>2024-07-09T11:04:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2277,7 +2277,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-boalemo/</loc>
+		<loc>/jual-as-st42-boalemo.html</loc>
 		<lastmod>2024-07-09T11:04:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2293,7 +2293,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bone-bolango/</loc>
+		<loc>/jual-as-st42-bone-bolango.html</loc>
 		<lastmod>2024-07-09T11:04:24+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2309,7 +2309,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-gorontalo/</loc>
+		<loc>/jual-as-st42-gorontalo.html</loc>
 		<lastmod>2024-07-09T11:04:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2325,7 +2325,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-gorontalo-utara/</loc>
+		<loc>/jual-as-st42-gorontalo-utara.html</loc>
 		<lastmod>2024-07-09T11:04:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2341,7 +2341,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pohuwato/</loc>
+		<loc>/jual-as-st42-pohuwato.html</loc>
 		<lastmod>2024-07-09T11:04:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2357,7 +2357,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-batang-hari/</loc>
+		<loc>/jual-as-st42-batang-hari.html</loc>
 		<lastmod>2024-07-09T11:04:27+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2373,7 +2373,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bungo/</loc>
+		<loc>/jual-as-st42-bungo.html</loc>
 		<lastmod>2024-07-09T11:04:28+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2389,7 +2389,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kerinci/</loc>
+		<loc>/jual-as-st42-kerinci.html</loc>
 		<lastmod>2024-07-09T11:04:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2405,7 +2405,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-merangin/</loc>
+		<loc>/jual-as-st42-merangin.html</loc>
 		<lastmod>2024-07-09T11:04:29+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2421,7 +2421,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-muaro-jambi/</loc>
+		<loc>/jual-as-st42-muaro-jambi.html</loc>
 		<lastmod>2024-07-09T11:04:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2437,7 +2437,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sarolangun/</loc>
+		<loc>/jual-as-st42-sarolangun.html</loc>
 		<lastmod>2024-07-09T11:04:31+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2453,7 +2453,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tanjung-jabung-barat/</loc>
+		<loc>/jual-as-st42-tanjung-jabung-barat.html</loc>
 		<lastmod>2024-07-09T11:04:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2469,7 +2469,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tanjung-jabung-timur/</loc>
+		<loc>/jual-as-st42-tanjung-jabung-timur.html</loc>
 		<lastmod>2024-07-09T11:04:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2485,7 +2485,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tebo/</loc>
+		<loc>/jual-as-st42-tebo.html</loc>
 		<lastmod>2024-07-09T11:04:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2501,7 +2501,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-jambi/</loc>
+		<loc>/jual-as-st42-jambi.html</loc>
 		<lastmod>2024-07-09T11:04:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2517,7 +2517,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sungaipenuh/</loc>
+		<loc>/jual-as-st42-sungaipenuh.html</loc>
 		<lastmod>2024-07-09T11:04:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2533,7 +2533,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-bengkayang/</loc>
+		<loc>/jual-as-st42-bengkayang.html</loc>
 		<lastmod>2024-07-09T11:04:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2549,7 +2549,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kapuas-hulu/</loc>
+		<loc>/jual-as-st42-kapuas-hulu.html</loc>
 		<lastmod>2024-07-09T11:04:36+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2565,7 +2565,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kayong-utara/</loc>
+		<loc>/jual-as-st42-kayong-utara.html</loc>
 		<lastmod>2024-07-09T11:04:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2581,7 +2581,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-ketapang/</loc>
+		<loc>/jual-as-st42-ketapang.html</loc>
 		<lastmod>2024-07-09T11:04:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2597,7 +2597,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kubu-raya/</loc>
+		<loc>/jual-as-st42-kubu-raya.html</loc>
 		<lastmod>2024-07-09T11:04:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2613,7 +2613,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-landak/</loc>
+		<loc>/jual-as-st42-landak.html</loc>
 		<lastmod>2024-07-09T11:04:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2629,7 +2629,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-melawi/</loc>
+		<loc>/jual-as-st42-melawi.html</loc>
 		<lastmod>2024-07-09T11:04:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2645,7 +2645,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-mempawah/</loc>
+		<loc>/jual-as-st42-mempawah.html</loc>
 		<lastmod>2024-07-09T11:04:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2661,7 +2661,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sambas/</loc>
+		<loc>/jual-as-st42-sambas.html</loc>
 		<lastmod>2024-07-09T11:04:43+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2677,7 +2677,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sanggau/</loc>
+		<loc>/jual-as-st42-sanggau.html</loc>
 		<lastmod>2024-07-09T11:04:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2693,7 +2693,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sekadau/</loc>
+		<loc>/jual-as-st42-sekadau.html</loc>
 		<lastmod>2024-07-09T11:04:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2709,7 +2709,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-sintang/</loc>
+		<loc>/jual-as-st42-sintang.html</loc>
 		<lastmod>2024-07-09T11:04:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2725,7 +2725,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-pontianak/</loc>
+		<loc>/jual-as-st42-pontianak.html</loc>
 		<lastmod>2024-07-09T11:04:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2741,7 +2741,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-singkawang/</loc>
+		<loc>/jual-as-st42-singkawang.html</loc>
 		<lastmod>2024-07-09T11:04:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2757,7 +2757,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-balangan/</loc>
+		<loc>/jual-as-st42-balangan.html</loc>
 		<lastmod>2024-07-09T11:04:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2773,7 +2773,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-banjarbaru/</loc>
+		<loc>/jual-as-st42-banjarbaru.html</loc>
 		<lastmod>2024-07-09T11:04:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2789,7 +2789,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-banjarmasin/</loc>
+		<loc>/jual-as-st42-banjarmasin.html</loc>
 		<lastmod>2024-07-09T11:04:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2805,7 +2805,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-barito-kuala/</loc>
+		<loc>/jual-as-st42-barito-kuala.html</loc>
 		<lastmod>2024-07-09T11:04:51+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2821,7 +2821,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-hulu-sungai-selatan/</loc>
+		<loc>/jual-as-st42-hulu-sungai-selatan.html</loc>
 		<lastmod>2024-07-09T11:04:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2837,7 +2837,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-hulu-sungai-tengah/</loc>
+		<loc>/jual-as-st42-hulu-sungai-tengah.html</loc>
 		<lastmod>2024-07-09T11:04:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2853,7 +2853,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-hulu-sungai-utara/</loc>
+		<loc>/jual-as-st42-hulu-sungai-utara.html</loc>
 		<lastmod>2024-07-09T11:04:53+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2869,7 +2869,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-kotabaru/</loc>
+		<loc>/jual-as-st42-kotabaru.html</loc>
 		<lastmod>2024-07-09T11:04:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2885,7 +2885,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tabalong/</loc>
+		<loc>/jual-as-st42-tabalong.html</loc>
 		<lastmod>2024-07-09T11:04:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2901,7 +2901,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tanah-bumbu/</loc>
+		<loc>/jual-as-st42-tanah-bumbu.html</loc>
 		<lastmod>2024-07-09T11:04:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2917,7 +2917,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tanah-laut/</loc>
+		<loc>/jual-as-st42-tanah-laut.html</loc>
 		<lastmod>2024-07-09T11:04:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2933,7 +2933,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-tapin/</loc>
+		<loc>/jual-as-st42-tapin.html</loc>
 		<lastmod>2024-07-09T11:04:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2949,7 +2949,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-barito-selatan/</loc>
+		<loc>/jual-as-st42-barito-selatan.html</loc>
 		<lastmod>2024-07-09T11:04:58+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2965,7 +2965,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-barito-timur/</loc>
+		<loc>/jual-as-st42-barito-timur.html</loc>
 		<lastmod>2024-07-09T11:04:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>
@@ -2981,7 +2981,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/jual-as-st42-barito-utara/</loc>
+		<loc>/jual-as-st42-barito-utara.html</loc>
 		<lastmod>2024-07-09T11:04:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/jual-besi-as.jpg</image:loc>

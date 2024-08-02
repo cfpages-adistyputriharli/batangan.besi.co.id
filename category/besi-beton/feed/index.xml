@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Besi Beton - Besi Batangan Besi.co.id</title>
-	<atom:link href="/category/besi-beton/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/besi-beton/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 09 Jul 2024 13:54:45 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Jual Besi Beton Kirim ke Toba Samosir</title>
-		<link>/jual-besi-beton-toba-samosir/</link>
+		<link>/jual-besi-beton-toba-samosir.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 13:54:45 +0000</pubDate>
@@ -104,7 +104,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Beton Kirim ke Tebing Tinggi</title>
-		<link>/jual-besi-beton-tebing-tinggi/</link>
+		<link>/jual-besi-beton-tebing-tinggi.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 13:54:44 +0000</pubDate>
@@ -179,7 +179,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Beton Kirim ke Tapanuli Utara</title>
-		<link>/jual-besi-beton-tapanuli-utara/</link>
+		<link>/jual-besi-beton-tapanuli-utara.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 13:54:43 +0000</pubDate>
@@ -254,7 +254,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Beton Kirim ke Tapanuli Tengah</title>
-		<link>/jual-besi-beton-tapanuli-tengah/</link>
+		<link>/jual-besi-beton-tapanuli-tengah.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 13:54:42 +0000</pubDate>
@@ -329,7 +329,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Beton Kirim ke Tanjung Balai</title>
-		<link>/jual-besi-beton-tanjung-balai/</link>
+		<link>/jual-besi-beton-tanjung-balai.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 13:54:41 +0000</pubDate>
@@ -404,7 +404,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Beton Kirim ke Tapanuli Selatan</title>
-		<link>/jual-besi-beton-tapanuli-selatan/</link>
+		<link>/jual-besi-beton-tapanuli-selatan.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 13:54:41 +0000</pubDate>
@@ -479,7 +479,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Beton Kirim ke Simalungun</title>
-		<link>/jual-besi-beton-simalungun/</link>
+		<link>/jual-besi-beton-simalungun.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 13:54:40 +0000</pubDate>
@@ -554,7 +554,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Beton Kirim ke Sibolga</title>
-		<link>/jual-besi-beton-sibolga/</link>
+		<link>/jual-besi-beton-sibolga.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 13:54:39 +0000</pubDate>
@@ -629,7 +629,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Beton Kirim ke Serdang Bedagai</title>
-		<link>/jual-besi-beton-serdang-bedagai/</link>
+		<link>/jual-besi-beton-serdang-bedagai.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 13:54:38 +0000</pubDate>
@@ -704,7 +704,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Beton Kirim ke Samosir</title>
-		<link>/jual-besi-beton-samosir/</link>
+		<link>/jual-besi-beton-samosir.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 13:54:37 +0000</pubDate>

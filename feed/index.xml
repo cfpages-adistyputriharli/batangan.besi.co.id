@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Besi Batangan Besi.co.id</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 10 Jul 2024 06:22:00 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Jual Besi AS S45C Kirim ke Sijunjung</title>
-		<link>/jual-as-s45c-sijunjung/</link>
+		<link>/jual-as-s45c-sijunjung.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:22:00 +0000</pubDate>
@@ -114,7 +114,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS S45C Kirim ke Sawah Lunto</title>
-		<link>/jual-as-s45c-sawah-lunto/</link>
+		<link>/jual-as-s45c-sawah-lunto.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:21:59 +0000</pubDate>
@@ -199,7 +199,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS S45C Kirim ke Pesisir Selatan</title>
-		<link>/jual-as-s45c-pesisir-selatan/</link>
+		<link>/jual-as-s45c-pesisir-selatan.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:21:58 +0000</pubDate>
@@ -284,7 +284,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS S45C Kirim ke Payakumbuh</title>
-		<link>/jual-as-s45c-payakumbuh/</link>
+		<link>/jual-as-s45c-payakumbuh.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:21:56 +0000</pubDate>
@@ -369,7 +369,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS S45C Kirim ke Pasaman Barat</title>
-		<link>/jual-as-s45c-pasaman-barat/</link>
+		<link>/jual-as-s45c-pasaman-barat.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:21:55 +0000</pubDate>
@@ -454,7 +454,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS S45C Kirim ke Pasaman</title>
-		<link>/jual-as-s45c-pasaman/</link>
+		<link>/jual-as-s45c-pasaman.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:21:54 +0000</pubDate>
@@ -539,7 +539,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS S45C Kirim ke Pariaman</title>
-		<link>/jual-as-s45c-pariaman/</link>
+		<link>/jual-as-s45c-pariaman.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:21:53 +0000</pubDate>
@@ -624,7 +624,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS S45C Kirim ke Padang Pariaman</title>
-		<link>/jual-as-s45c-padang-pariaman/</link>
+		<link>/jual-as-s45c-padang-pariaman.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:21:52 +0000</pubDate>
@@ -709,7 +709,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS S45C Kirim ke Padang Panjang</title>
-		<link>/jual-as-s45c-padang-panjang/</link>
+		<link>/jual-as-s45c-padang-panjang.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:21:49 +0000</pubDate>
@@ -794,7 +794,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS S45C Kirim ke Padang</title>
-		<link>/jual-as-s45c-padang/</link>
+		<link>/jual-as-s45c-padang.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:21:47 +0000</pubDate>

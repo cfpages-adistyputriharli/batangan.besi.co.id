@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Besi AS ST42 - Besi Batangan Besi.co.id</title>
-	<atom:link href="/category/besi-as-st42/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/besi-as-st42/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 09 Jul 2024 11:10:09 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Jual Besi AS ST42 Kirim ke Toba Samosir</title>
-		<link>/jual-as-st42-toba-samosir/</link>
+		<link>/jual-as-st42-toba-samosir.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 11:10:09 +0000</pubDate>
@@ -112,7 +112,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS ST42 Kirim ke Tebing Tinggi</title>
-		<link>/jual-as-st42-tebing-tinggi/</link>
+		<link>/jual-as-st42-tebing-tinggi.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 11:10:07 +0000</pubDate>
@@ -195,7 +195,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS ST42 Kirim ke Tapanuli Utara</title>
-		<link>/jual-as-st42-tapanuli-utara/</link>
+		<link>/jual-as-st42-tapanuli-utara.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 11:10:06 +0000</pubDate>
@@ -278,7 +278,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS ST42 Kirim ke Tapanuli Tengah</title>
-		<link>/jual-as-st42-tapanuli-tengah/</link>
+		<link>/jual-as-st42-tapanuli-tengah.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 11:10:04 +0000</pubDate>
@@ -361,7 +361,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS ST42 Kirim ke Tapanuli Selatan</title>
-		<link>/jual-as-st42-tapanuli-selatan/</link>
+		<link>/jual-as-st42-tapanuli-selatan.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 11:10:03 +0000</pubDate>
@@ -444,7 +444,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS ST42 Kirim ke Tanjung Balai</title>
-		<link>/jual-as-st42-tanjung-balai/</link>
+		<link>/jual-as-st42-tanjung-balai.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 11:10:02 +0000</pubDate>
@@ -527,7 +527,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS ST42 Kirim ke Simalungun</title>
-		<link>/jual-as-st42-simalungun/</link>
+		<link>/jual-as-st42-simalungun.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 11:10:00 +0000</pubDate>
@@ -610,7 +610,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS ST42 Kirim ke Sibolga</title>
-		<link>/jual-as-st42-sibolga/</link>
+		<link>/jual-as-st42-sibolga.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 11:09:59 +0000</pubDate>
@@ -693,7 +693,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS ST42 Kirim ke Serdang Bedagai</title>
-		<link>/jual-as-st42-serdang-bedagai/</link>
+		<link>/jual-as-st42-serdang-bedagai.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 11:09:58 +0000</pubDate>
@@ -776,7 +776,7 @@
 			</item>
 		<item>
 		<title>Jual Besi AS ST42 Kirim ke Samosir</title>
-		<link>/jual-as-st42-samosir/</link>
+		<link>/jual-as-st42-samosir.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 11:09:57 +0000</pubDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Besi Nako Ulir - Besi Batangan Besi.co.id</title>
-	<atom:link href="/category/besi-nako-ulir/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/besi-nako-ulir/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 10 Jul 2024 06:01:47 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Jual Besi Nako Ulir Kirim ke Toba Samosir</title>
-		<link>/jual-nako-ulir-toba-samosir/</link>
+		<link>/jual-nako-ulir-toba-samosir.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:01:47 +0000</pubDate>
@@ -108,7 +108,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Nako Ulir Kirim ke Tebing Tinggi</title>
-		<link>/jual-nako-ulir-tebing-tinggi/</link>
+		<link>/jual-nako-ulir-tebing-tinggi.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:01:45 +0000</pubDate>
@@ -187,7 +187,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Nako Ulir Kirim ke Tapanuli Utara</title>
-		<link>/jual-nako-ulir-tapanuli-utara/</link>
+		<link>/jual-nako-ulir-tapanuli-utara.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:01:43 +0000</pubDate>
@@ -266,7 +266,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Nako Ulir Kirim ke Tapanuli Tengah</title>
-		<link>/jual-nako-ulir-tapanuli-tengah/</link>
+		<link>/jual-nako-ulir-tapanuli-tengah.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:01:41 +0000</pubDate>
@@ -345,7 +345,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Nako Ulir Kirim ke Tapanuli Selatan</title>
-		<link>/jual-nako-ulir-tapanuli-selatan/</link>
+		<link>/jual-nako-ulir-tapanuli-selatan.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:01:39 +0000</pubDate>
@@ -424,7 +424,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Nako Ulir Kirim ke Tanjung Balai</title>
-		<link>/jual-nako-ulir-tanjung-balai/</link>
+		<link>/jual-nako-ulir-tanjung-balai.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:01:37 +0000</pubDate>
@@ -503,7 +503,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Nako Ulir Kirim ke Simalungun</title>
-		<link>/jual-nako-ulir-simalungun/</link>
+		<link>/jual-nako-ulir-simalungun.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:01:35 +0000</pubDate>
@@ -582,7 +582,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Nako Ulir Kirim ke Sibolga</title>
-		<link>/jual-nako-ulir-sibolga/</link>
+		<link>/jual-nako-ulir-sibolga.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:01:32 +0000</pubDate>
@@ -661,7 +661,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Nako Ulir Kirim ke Serdang Bedagai</title>
-		<link>/jual-nako-ulir-serdang-bedagai/</link>
+		<link>/jual-nako-ulir-serdang-bedagai.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:01:31 +0000</pubDate>
@@ -740,7 +740,7 @@
 			</item>
 		<item>
 		<title>Jual Besi Nako Ulir Kirim ke Samosir</title>
-		<link>/jual-nako-ulir-samosir/</link>
+		<link>/jual-nako-ulir-samosir.html</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Jul 2024 06:01:29 +0000</pubDate>
