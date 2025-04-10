@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - Besi Batangan Besi.co.id</title>
+						<title>Locations Sitemap - Batangan.Besi.co.id</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - Besi Batangan Besi.co.id</title>
+						<title>XML Sitemap - Batangan.Besi.co.id</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
