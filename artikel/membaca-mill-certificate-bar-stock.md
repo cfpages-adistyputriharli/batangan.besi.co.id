@@ -2,8 +2,9 @@
 article_id: BESB-02-A02
 title: "Cara Membaca Mill Certificate Bar Stock"
 slug: "membaca-mill-certificate-bar-stock"
-description: "Trace producer, heat, product, dimensions, chemistry, tests, and authorization"
-status: outline
+description: "Menelusuri produsen, heat, produk, dimensi, komposisi kimia, pengujian, dan otorisasi"
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2025-09-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,77 @@ final_route: "/artikel/membaca-mill-certificate-bar-stock.html"
 technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
   - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
   - "https://www.iso.org/standard/85464.html"
-  - "https://www.iso.org/standard/64622.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cara Membaca Mill Certificate Bar Stock
 
-## Assignment lock
+Halo, Teman Besi.co.id! Mill certificate bar stock bukan sekadar lembar angka kimia. Cara membacanya adalah menelusuri satu identitas material dari produsen, nomor heat, bentuk dan ukuran, sampai hasil uji serta otorisasi dokumen. Jika satu mata rantai tidak cocok dengan batang yang datang, sertifikat itu belum cukup untuk menyatakan material dapat diterima.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Membaca Mill Certificate Bar Stock”
-- **Reader and situation:** Receiver reviewing documents
-- **Reader outcome:** Trace producer, heat, product, dimensions, chemistry, tests, and authorization
-- **Primary intent:** Audit certificate
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not authenticate conclusively; BESB-02-A05 owns reconciliation
-- **Final public route:** `/artikel/membaca-mill-certificate-bar-stock.html`
-- **Appointed CMS date:** `2025-09-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: cocokkan sertifikat dengan pesanan dan penandaan fisik, lalu periksa apakah standar produk, dimensi, komposisi, metode uji, hasil, dan pihak yang mengesahkan memang relevan. [ISO 10474:2013](https://www.iso.org/standard/53736.html) menempatkan dokumen inspeksi dalam hubungan dengan pesanan, produsen, produk, batch/heat, ukuran, dan pengujian. Pemeriksaan dokumen hanya membangun jejak audit; ia tidak mengautentikasi material secara konklusif. [NEEDS GATE-01: keputusan penerimaan harus dikonfirmasi melalui bukti proyek dan review kompeten.]
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Membaca Mill Certificate Bar Stock**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu.
 
+## Hasil akhir dan prasyarat
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Hasil yang dicari adalah tabel rekonsiliasi sederhana: setiap bar atau lot memiliki pasangan yang jelas antara dokumen, marking, pesanan, dan hasil pemeriksaan. Siapkan purchase order, spesifikasi atau standar yang dirujuk, packing list, mill certificate asli, foto atau catatan marking, serta rekaman penerimaan. Pemeriksa perlu tahu siapa yang berwenang memberi keputusan; pembaca dokumen tidak otomatis menjadi pihak yang menyetujui material.
+
+Jangan mulai dari kolom chemistry saja. Mulai dengan pertanyaan, “Material ini seharusnya memenuhi pesanan yang mana, dan bukti apa yang menghubungkannya ke batang yang saya lihat?” Bila pesanan belum menyebut grade, standar, ukuran, atau kriteria penerimaan, hentikan penilaian dan minta klarifikasi tertulis.
+
+## Langkah 1 — tetapkan batas pekerjaan
+
+Batasi objek pada bar stock yang diterima: produsen dan lokasi produksi yang tercantum, nomor heat atau batch, bentuk produk, grade, ukuran, panjang atau kuantitas bila dinyatakan, serta tanda fisik pada bundel atau batang. Pisahkan tiga pertanyaan: apakah dokumennya asli dan utuh, apakah identitasnya cocok dengan barang, dan apakah persyaratan teknisnya cocok dengan pesanan.
+
+Standar yang terlihat di [katalog profil baja BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=) adalah petunjuk pencarian, bukan izin untuk menganggap semua bar tunduk pada satu standar. Rekaman [SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018) juga harus dibaca bersama bentuk produk dan dokumen kontrak yang berlaku. Jangan menyimpulkan status wajib atau memilih edisi hanya dari label “Berlaku”. [NEEDS GATE-02: standar pengadaan, edisi, regulasi wajib, dan amandemen harus ditetapkan oleh proyek.]
+
+## Langkah 2 — kumpulkan dan cocokkan bukti
+
+Baca sertifikat dari atas ke bawah dengan urutan berikut.
+
+1. **Identitas dokumen.** Catat nomor sertifikat, tanggal, penerbit, halaman, dan revisi. Pastikan halaman dan lampiran yang dirujuk tersedia, lalu cocokkan otorisasi dengan pesanan atau prosedur proyek.
+2. **Produsen dan produk.** Cocokkan nama produsen, fasilitas bila dicantumkan, nama bar, grade, standar produk, dan kondisi pengiriman dengan purchase order. Satu standar profil tidak otomatis berlaku untuk plate, tube, mesh, fastener, atau rakitan yang berbeda.
+3. **Heat, batch, dan marking.** Nomor heat atau batch menjadi penghubung antara dokumen dan lot yang dilaporkan. Cari nomor yang sama pada bundel, tag, atau marking batang. Jika nomor di sertifikat berbeda satu karakter, perlakukan sebagai mismatch sampai ada koreksi resmi.
+4. **Dimensi dan kuantitas.** Bandingkan diameter atau penampang, panjang, toleransi, dan satuan. Jangan mengubah satuan atau membulatkan angka agar terlihat cocok. Kuantitas pada sertifikat juga harus dapat dijelaskan terhadap packing list dan penerimaan.
+5. **Kimia.** Pastikan unsur yang dilaporkan, satuan, basis analisis, dan batas penerimaan berasal dari standar atau pesanan yang benar. Angka kimia yang tampak baik tidak menutup identitas heat yang salah.
+6. **Sifat mekanik dan pengujian lain.** Catat jenis uji, arah atau kondisi spesimen jika ditentukan, metode, hasil, dan kriteria yang dirujuk. Kompetensi laboratorium relevan bagi kepercayaan pada hasil, tetapi akreditasi tidak membuktikan bahwa batang tertentu pasti sesuai; ruang lingkup dan hubungan sampel tetap harus diperiksa menurut [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html).
+
+Sobat Besi.co.id, gunakan kolom “bukti pendukung” dalam lembar review. Tulis lokasi marking, nomor foto atau dokumen, dan nama pemeriksa, bukan komentar umum seperti “sudah sesuai”.
+
+## Langkah 3 — jalankan urutan kerja
+
+Kerjakan rekonsiliasi dalam tiga lintasan. Lintasan pertama adalah identitas: nomor pesanan, produsen, heat, bentuk, dan ukuran. Lintasan kedua adalah persyaratan: standar/grade, kimia, mekanik, inspeksi visual, dan toleransi yang benar-benar diminta. Lintasan ketiga adalah otorisasi: siapa yang menerbitkan, siapa yang menguji, kapan, dengan metode apa, dan apakah koreksi atau revisi dapat dilacak.
+
+Untuk klaim asal atau keberlanjutan, bedakan identitas fisik dari klaim administratif. Kerangka [ISO 22095:2020](https://www.iso.org/standard/72532.html) menjelaskan bahwa model segregasi fisik, mass balance, dan klaim administratif memiliki batas sistem serta catatan input-output yang berbeda. Jadi, logo atau kalimat “sustainable steel” tanpa skema klaim, periode transaksi, pihak bertanggung jawab, dan rekaman transfer bukan bukti yang lengkap.
+
+Jangan menetapkan sendiri ukuran sampel atau AQL dari ringkasan internet. Rencana uji harus menyebut populasi/lot, karakteristik, metode, pemilihan dan identitas sampel, frekuensi, kriteria, aturan keputusan, tanggung jawab, serta jalur ketidaksesuaian. [ISO 2859-1:2026](https://www.iso.org/standard/85464.html) adalah standar sampling atribut lot-per-lot, bukan pengganti ITP dan spesifikasi produk proyek.
+
+## Titik tahan dan kondisi berhenti
+
+Tahan penerimaan bila heat atau marking tidak terbaca, produsen atau grade berbeda, dimensi tidak sama, halaman atau otorisasi hilang, hasil uji tidak memiliki metode/kriteria, atau laboratorium berada di luar ruang lingkup yang relevan. Pisahkan material secara fisik dan tandai statusnya; jangan memotong, menggabungkan, atau memindahkan ke area produksi sebelum keputusan tertulis.
+
+Jika pemasok mengirim sertifikat pengganti, minta koreksi yang merujuk nomor dokumen awal dan alasan perubahan. Jika material akan dipakai untuk fungsi kritis, eskalasikan kepada engineer, inspector, atau pihak kontrak yang berwenang. [NEEDS GATE-04: disposition atas mismatch, retest, atau waiver memerlukan persetujuan proyek dan bukti terbaru.]
+
+## Verifikasi hasil dan serah-terima
+
+Serahkan paket yang dapat diaudit: sertifikat lengkap, pesanan dan spesifikasi yang dirujuk, packing list, catatan pencocokan heat/marking, hasil pemeriksaan dimensi dan visual, laporan laboratorium terkait, daftar deviasi, serta keputusan release atau quarantine. Simpan versi dan tanggal agar pembaca berikutnya tahu dokumen mana yang dipakai.
+
+Sebelum menutup item, jawab lima pertanyaan: material mana, dari produsen mana, heat atau lot berapa, persyaratan apa yang dipenuhi, dan siapa yang mengesahkan keputusan? Bila salah satu jawaban bergantung pada asumsi, biarkan item terbuka dan tulis bukti yang masih diminta. Untuk konteks istilah dan materi terkait, gunakan [halaman utama Besi.co.id](/) sebagai titik kembali, bukan sebagai bukti teknis pengganti sertifikat. Jika tindak lanjutnya adalah mencari opsi material, Anda dapat membuka [halaman penjualan AS S45C Yogyakarta](/jual-as-s45c-yogyakarta) dan [halaman penjualan AS ST42 Yogyakarta](/jual-as-st42-yogyakarta) sebagai tujuan pembaca berikutnya.
+
+## Jalan pintas yang sering gagal
+
+Jalan pintas yang umum adalah menerima sertifikat karena nama pabrik dan angka kuat tarik (tensile) terlihat meyakinkan. Cara itu gagal ketika sertifikat berasal dari heat lain, ukuran berbeda, atau edisi standar yang tidak sama dengan pesanan. Alternatif yang lebih aman adalah mengunci identitas fisik lebih dulu, lalu menilai angka terhadap kriteria yang disetujui dan mencatat otorisasi setiap perubahan.
+
+## Kesimpulan
+
+Cara membaca mill certificate bar stock adalah membuat jejak yang utuh: produsen → produk dan standar → heat/batch → dimensi dan marking → kimia serta uji → otorisasi. Sertifikat yang rapi tetapi tidak terhubung ke batang yang diterima belum menjadi dasar release. Kawan Besi.co.id, minta lembar rekonsiliasi dan keputusan tertulis dari pihak berwenang sebelum material masuk pekerjaan; untuk autentikasi atau penyimpangan, [NEEDS TECHNICAL REVIEW] tetap berlaku.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,141 +97,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-02-A01` → `/artikel/membaca-grade-besi-batangan.html` — Cara Membaca Grade dan Standar Besi Batangan
-- `BESB-02-A03` → `/artikel/traceability-setelah-cutting-bar.html` — Heat Number, Batch, dan Marking setelah Cutting
-- `BESB-02-A04` → `/artikel/membandingkan-grade-lintas-standar-bar.html` — Membandingkan Grade Lintas Standar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Certificate Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Certificate Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Certificate Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Certificate Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Certificate Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Certificate Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

@@ -1,9 +1,10 @@
 ---
 article_id: BESB-05-A05
+writing_contract_version: "native-id-v2"
 title: "Sambungan Nako: Weld, Bolt, dan Mechanical Detail"
 slug: "sambungan-besi-nako"
-description: "Explain fit-up, eccentricity, weldability, bolts/clamps, movement, drainage, coating, and inspection"
-status: outline
+description: "Panduan memilih sambungan las, baut, dan detail mekanis pada besi nako, dari fit-up hingga inspeksi."
+status: draft
 publication_date: "2025-12-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,48 +16,24 @@ final_route: "/artikel/sambungan-besi-nako.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/52949.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
   - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
   - "https://www.cdc.gov/niosh/welding/about/index.html"
   - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
----
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+---
 
 # Sambungan Nako: Weld, Bolt, dan Mechanical Detail
 
-## Assignment lock
+Halo, Teman Besi.co.id! Pada rangka atau kisi dari besi nako, pilihan sambungan bukan sekadar “dilas atau dibaut”. Sambungan yang tepat adalah yang membuat dua batang bertemu pada sumbu yang benar, menyalurkan gaya tanpa eksentrisitas yang tidak direncanakan, tetap dapat bergerak atau mengalirkan air sesuai kebutuhan, lalu bisa diperiksa dan dilapisi dengan benar.
 
-- **Writer task:** Expand this file into one complete article answering: “Sambungan Nako: Weld, Bolt, dan Mechanical Detail”
-- **Reader and situation:** Fabricator detailing assembly
-- **Reader outcome:** Explain fit-up, eccentricity, weldability, bolts/clamps, movement, drainage, coating, and inspection
-- **Primary intent:** Compare joining concepts
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Joint design/procedure belongs to BESB-10-A01
-- **Final public route:** `/artikel/sambungan-besi-nako.html`
-- **Appointed CMS date:** `2025-12-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: **weld** (las) cocok bila detail permanen, akses inspeksi, dan prosedur pengelasan sudah disetujui; **bolt atau clamp** (baut atau penjepit mekanis) lebih masuk akal bila bagian perlu dibongkar, disetel, atau dipisahkan dari panas. Apa pun pilihannya, fit-up, lubang, tumpuan, drainase, dan urutan finishing menentukan hasil lebih besar daripada nama jenis sambungannya. Ukuran, mutu material, beban, dan lingkungan proyek dapat mengubah keputusan ini, sehingga detail final perlu [NEEDS GATE-01: persetujuan desain dan prosedur proyek].
 
-## Opening instructions
+![Ilustrasi harga besi nako](/wp-content/uploads/2024/07/harga-besi-nako.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Sambungan Nako: Weld, Bolt, dan Mechanical Detail**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal, bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -67,148 +44,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi nako` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/category/besi-nako/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/category/besi-nako-ulir/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/nako-ulir` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/nako` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-05-A03` → `/artikel/proses-twist-bar-dekoratif.html` — Cold Twist dan Hot Twist pada Bar Dekoratif
-- `BESB-05-A04` → `/artikel/nako-untuk-pagar-dan-railing.html` — Nako untuk Pagar, Railing, dan Grille
-- `BESB-05-A06` → `/artikel/inspeksi-nako-ulir.html` — Inspeksi Distorsi dan Retak pada Nako Ulir
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Nako: Weld, Bolt, dan Mechanical Detail”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahpahaman yang sering muncul adalah menganggap nako pasti “pipa” dengan sifat yang sama di setiap toko. Istilah bentuk produk hanya menjelaskan bentuk atau tahap pembuatannya; istilah itu tidak otomatis membuktikan kimia, grade, toleransi, lapisan, atau kelayakan untuk dilas. [ISO 6929:2013](https://www.iso.org/standard/52949.html) dan klasifikasi produk besi-baja ISO membantu menata kosakata, tetapi sertifikat, marking, dan standar produk yang benar tetap harus diperiksa.
+
+Untuk pekerjaan dekoratif ringan, las titik mungkin tampak cukup. Namun ketika batang menerima tarikan, getaran, atau siklus buka-tutup, titik las dan area ujung menjadi detail struktur yang harus ditentukan, bukan ditebak dari kebiasaan bengkel. Baut pun bukan otomatis lebih aman: lubang yang terlalu besar, washer yang tidak menutup, atau clamp yang menjepit sisi tipis dapat membuat sambungan longgar dan memindahkan gaya secara eksentrik.
+
+Teman Besi.co.id, tetapkan dahulu fungsi sambungan: permanen, dapat disetel, atau harus bisa dibongkar. Baru setelah itu pilih metode, ukuran detail, dan cara inspeksinya.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Nako: Weld, Bolt, dan Mechanical Detail”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas sambungan batang atau rangka nako di tingkat detailing perakitan: pertemuan ujung, pelat pengikat, baut, clamp, las, celah, drainase, perlindungan permukaan, dan pemeriksaan visual. Ia tidak menetapkan kapasitas sambungan, ukuran las, pratarik baut, kelas toleransi, atau penerimaan cacat untuk proyek tertentu. Perhitungan dan prosedur sambungan berada pada kajian desain/prosedur khusus, sehingga keputusan akhir memerlukan gambar disetujui dan review kompeten.
+
+“Weld” berarti logam disatukan dengan panas dan/atau tekanan; “bolt” memakai elemen pengikat berulir; “mechanical detail” mencakup pelat, washer, clamp, spacer, lubang, dan akses alat yang membuat gaya dapat masuk serta keluar dari sambungan. Pisahkan istilah nominal dari hasil ukur aktual. Tabel dimensi atau massa teoritis tidak menggantikan pemeriksaan barang yang datang.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Nako: Weld, Bolt, dan Mechanical Detail”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari garis sumbu. Potong kedua batang dengan referensi yang sama, bersihkan burr, lalu lakukan **fit-up**: posisikan komponen pada jig atau penahan, ukur siku, diagonal, celah, dan offset sebelum pengelasan atau pengencangan akhir. Fit-up yang buruk memaksa las menarik rangka atau membuat baut bekerja miring.
+
+Periksa eksentrisitas. Jika garis gaya tidak melewati bidang tumpuan, timbul momen tambahan dan rotasi lokal. Pelat kecil, spacer, atau perubahan posisi clamp dapat mengurangi offset, tetapi hanya bila tercantum dalam detail yang disetujui. Jangan mengoreksi dengan memukul batang setelah sambungan mengeras tanpa arahan prosedur.
+
+Pada las, urutannya biasanya mencakup tack weld terkontrol, pemeriksaan ulang geometri, pengelasan sesuai prosedur, pembersihan slag atau percikan, dan inspeksi. Jenis material, ketebalan, kontaminasi, serta consumable memengaruhi weldability; label dagang “nako” tidak cukup sebagai bukti. Untuk pemotongan termal dan toleransi umum konstruksi las, gunakan dokumen yang relevan seperti [ISO 9013:2017](https://www.iso.org/standard/60321.html) dan [ISO 13920:2023](https://www.iso.org/standard/86032.html), sambil memastikan kelas dan penerapannya tercantum pada gambar/prosedur proyek.
+
+Pada baut atau clamp, pastikan permukaan duduk rata, lubang segaris, ulir tidak rusak, dan washer menutup bidang tumpu. Sediakan akses kunci dan ruang untuk inspeksi ulang. Jika sambungan harus bergerak, gunakan detail yang memang mengizinkan gerak—misalnya slot atau spacer yang dirancang—bukan melonggarkan baut secara sembarang. Nilai pengencangan dan kelas baut adalah [NEEDS GATE-02: data desain dan spesifikasi pengikat proyek].
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Nako: Weld, Bolt, dan Mechanical Detail”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi perlu dibaca bersama:
+
+- **Geometri dan toleransi.** Batang yang tidak lurus, sudut yang berubah, atau lubang bergeser memperbesar eksentrisitas. Toleransi umum hanya berlaku bila standar, kelas, metode ukur, dan fungsi komponen memang cocok.
+- **Gerak dan temperatur.** Panel panjang dapat memuai, bergetar, atau mengalami lendutan. Sambungan kaku di semua titik bisa mengunci gerak; sambungan longgar bisa menimbulkan bunyi dan keausan. Tentukan titik tetap dan titik yang boleh bergerak pada gambar.
+- **Air dan kotoran.** Ujung nako yang tertutup rapat dapat menahan kondensat. Sediakan drain hole atau ventilasi pada lokasi yang tidak melemahkan penampang, dan tutup ujung hanya setelah bagian dalam kering. Posisi lubang adalah [NEEDS GATE-03: verifikasi detail drainase dan perlindungan korosi].
+- **Lapisan permukaan.** Cat, galvanis, minyak, atau kontaminan memengaruhi kualitas las dan asap. Area yang akan dilas harus dipersiapkan sesuai prosedur, lalu dipulihkan lapisannya setelah pekerjaan dan inspeksi selesai.
+- **K3 dan lingkungan kerja.** Asap las dapat membawa bahaya dari proses, logam dasar, pelapis, dan consumable. NIOSH menjelaskan risiko asap las dan mangan, sedangkan OSHA merangkum bahaya hot work seperti kebakaran, listrik, gas, dan paparan. Gunakan penilaian risiko, ventilasi lokal, isolasi area, dan pengendalian yang disahkan di lokasi; jangan menyalin batas paparan Amerika Serikat sebagai aturan Indonesia. Rujuk [NIOSH](https://www.cdc.gov/niosh/welding/about/index.html) dan [OSHA](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), lalu minta review K3 setempat [NEEDS GATE-04].
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Nako: Weld, Bolt, dan Mechanical Detail”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan matriks sederhana berikut sebagai penyaring awal, bukan pengganti perhitungan:
+
+| Kondisi yang sudah diketahui | Arah awal | Pemeriksaan wajib |
+|---|---|---|
+| Rangka permanen, akses alat tersedia, detail las disetujui | Las sesuai WPS/prosedur | Fit-up, urutan las, distorsi, visual weld |
+| Panel perlu dilepas untuk servis atau pengiriman | Baut atau clamp | Kelas pengikat, washer, akses kunci, penguncian |
+| Ada pemuaian atau sambungan harus mengakomodasi gerak | Detail mekanis dengan gerak terdefinisi | Slot/spacer, titik tetap, celah, inspeksi keausan |
+| Area basah atau berisiko korosi | Metode yang memudahkan drainase dan recoating | Lubang pembuangan, pengeringan, kontinuitas lapisan |
+
+Misalnya, dua batang bertemu pada sudut dan akan dicat setelah dirakit. Jika las dipilih, sisakan akses untuk membersihkan area panas dan memeriksa retak atau undercut sebelum cat. Jika baut dipilih, pastikan kepala baut dan washer tidak menghalangi panel, serta ada ruang untuk inspeksi berkala. Sobat Besi.co.id, bila salah satu data beban, gerak, atau lingkungan belum tersedia, hentikan pemilihan ukuran dan minta [NEEDS GATE-05: review teknis proyek].
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Sambungan Nako: Weld, Bolt, dan Mechanical Detail”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama ialah mengelas sebelum mengukur diagonal. Ukur ulang setelah tack dan sebelum las penuh; catat deviasi dan keputusan koreksinya. Kedua, menutup ujung batang tanpa jalur air. Tanyakan ke mana kondensat keluar dan bagaimana lubang itu dilapisi.
 
-## Objection or shortcut to address
+Ketiga, mengebor lubang di dekat tepi atau pada bidang yang tidak rata hanya agar baut “masuk”. Periksa jarak tepi, ketebalan tumpuan, dan apakah washer duduk penuh pada permukaan. Untuk menindaklanjuti pemeriksaan barang, Anda dapat melihat [pilihan besi nako di Yogyakarta](/jual-nako-yogyakarta) atau [pilihan nako ulir di Yogyakarta](/jual-nako-ulir-yogyakarta); keduanya bukan pengganti gambar kerja atau sertifikat material. Keempat, mengecat di atas percikan, minyak, atau area las yang belum diterima. Bersihkan, inspeksi, dan dokumentasikan perbaikan lapisan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Checklist serah-terima minimum: identitas material dan dokumen pemasok; gambar revisi yang dipakai; hasil ukur fit-up dan dimensi akhir; catatan baut/clamp; catatan las dan pemeriksaan visual; drainase serta kondisi lapisan; dan tanda tangan pihak yang berwenang. Angka penerimaan atau metode NDT hanya boleh diambil dari dokumen proyek yang berlaku.
 
-## Required conclusion
+## Jalan pintas yang perlu diuji
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Baut saja, nanti dikencangkan kalau longgar” terdengar praktis, tetapi sambungan yang sejak awal tidak segaris akan terus menerima momen dan keausan. Mengencangkan ulang tidak memperbaiki washer yang salah, lubang yang meleset, atau gerak yang tidak dirancang. Alternatif yang lebih andal adalah mengunci geometri saat fit-up, memilih detail yang memberi akses inspeksi, lalu menetapkan cara pengencangan dan jadwal pemeriksaan dalam dokumen proyek.
 
-## Draft completion checklist
+## Langkah penutup sebelum fabrikasi
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sambungan nako dipilih dari fungsi dan mekanismenya: las untuk detail permanen yang prosedurnya terkendali, baut/clamp untuk kebutuhan bongkar-setel, dan detail mekanis khusus untuk gerak, drainase, atau akses pemeliharaan. Sebelum fabrikasi, minta gambar revisi, spesifikasi material/pengikat, prosedur las atau pengencangan, detail drainase-lapisan, serta rencana inspeksi. Kawan Besi.co.id, jangan menganggap label produk atau kebiasaan bengkel sebagai bukti kapasitas; bila data utama belum lengkap, tandai dan minta review teknis sebelum memotong atau mengebor.

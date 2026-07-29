@@ -2,8 +2,9 @@
 article_id: BESB-07-A04
 title: "Fatigue dan Stress Concentration pada Shaft dan Pin"
 slug: "fatigue-pada-shaft-dan-pin"
-description: "Explain cycles, notches, shoulders, keyways, surface, residual stress, corrosion, inspection, and history"
-status: outline
+description: "Memahami siklus, takik, bahu, keyway, permukaan, tegangan sisa, korosi, inspeksi, dan riwayat pada shaft serta pin"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -26,37 +27,15 @@ sources:
   - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Fatigue dan Stress Concentration pada Shaft dan Pin
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Shaft dan pin dapat patah setelah berulang kali menerima beban, meskipun tegangan pada satu kejadian belum tampak melebihi kekuatan materialnya. Penyebab yang sering terlewat bukan sekadar “besinya kurang kuat”, melainkan kombinasi jumlah siklus, perubahan geometri yang menajamkan tegangan, kondisi permukaan, korosi, dan riwayat beban yang tidak terdokumentasi.
 
-- **Writer task:** Expand this file into one complete article answering: “Fatigue dan Stress Concentration pada Shaft dan Pin”
-- **Reader and situation:** Owner of rotating/repeated-load component
-- **Reader outcome:** Explain cycles, notches, shoulders, keyways, surface, residual stress, corrosion, inspection, and history
-- **Primary intent:** Understand cyclic failure
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not calculate life; competent designer owns assessment
-- **Final public route:** `/artikel/fatigue-pada-shaft-dan-pin.html`
-- **Appointed CMS date:** `2026-02-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: perlakukan fatigue (kelelahan) sebagai akumulasi kerusakan pada setiap siklus. Periksa dari mana retak dapat mulai—bahu diameter, alur pasak, ulir, lubang pin, atau goresan—lalu telusuri bagaimana retak bisa tumbuh pada beban aktual. Nilai material dari satu kupon tidak cukup untuk menyatakan shaft aman; identitas material, cara pengambilan spesimen, orientasi, metode uji, dan identitas heat (nomor peleburan) atau produk harus tetap tersambung pada laporan uji ([ISO 6892-1](https://www.iso.org/standard/78322.html), [ISO 377](https://www.iso.org/standard/72529.html), dan [Amandemen ISO 377](https://www.iso.org/standard/89449.html)).
 
-## Opening instructions
+Jika riwayat putaran, kejutan beban, detail manufaktur, dan kondisi korosi belum tersedia, kesimpulan umur tidak boleh ditebak. **[NEEDS GATE-01: riwayat beban/siklus dan penilaian fatigue oleh tenaga kompeten untuk komponen ini.]**
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Fatigue dan Stress Concentration pada Shaft dan Pin**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,142 +46,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-07-A02` → `/artikel/sifat-mekanik-besi-batangan.html` — Strength, Ductility, Toughness, dan Hardness pada Bar
-- `BESB-07-A03` → `/artikel/hardness-wear-dan-machinability-bar.html` — Hardness, Wear, dan Machinability
-- `BESB-07-A05` → `/artikel/suhu-dan-sifat-besi-batangan.html` — Suhu, Heat Treatment, dan Perubahan Sifat Bar
-- `BESB-07-A06` → `/artikel/checklist-substitusi-bar-stock.html` — Checklist Dampak Substitusi Bar Stock
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue dan Stress Concentration pada Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gambar ini bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue dan Stress Concentration pada Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Fatigue adalah kerusakan yang berkembang karena tegangan berulang. “Berulang” tidak selalu berarti putaran konstan: siklus nyala-mati, pembalikan arah, getaran, benturan, dan perubahan muatan juga membentuk siklus. Shaft biasanya memikul torsi dan lentur yang berubah terhadap waktu, sedangkan pin dapat menerima geser, lentur lokal, dan tekanan kontak pada bidang lubang. Kombinasi tersebut menghasilkan rentang tegangan, bukan satu angka tegangan statis.
+
+Stress concentration (konsentrasi tegangan) terjadi ketika aliran gaya dipaksa melewati perubahan bentuk: transisi diameter, alur pasak (keyway), lubang melintang, ulir, sudut tajam, atau kontak yang tidak merata. Radius transisi yang kecil, bekas alat, burr, dan ketidakselarasan dapat membuat lokasi awal retak lebih mudah. Ini tidak berarti setiap takik pasti gagal; artinya detail itu harus masuk ke penilaian detail fatigue, bukan dihapus dari gambar kerja sebagai “hal kecil”.
+
+Artikel ini membantu Anda menyusun pertanyaan inspeksi dan data awal. Artikel ini tidak menghitung umur, memilih ukuran akhir, menetapkan interval inspeksi, atau menggantikan persetujuan desain. **[NEEDS GATE-02: verifikasi geometri, material, detail manufaktur, dan konsekuensi kegagalan oleh perancang/penilai yang berwenang.]**
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue dan Stress Concentration pada Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutannya dapat dibayangkan sebagai rantai. Beban operasi menciptakan siklus; geometri memperbesar respons lokal; permukaan dan lingkungan menyediakan titik lemah; retak mikro kemudian dapat memanjang jika siklus berikutnya terus datang. Pada shaft, perubahan torsi dan lentur sering berinteraksi. Pada pin, celah, distribusi tekanan di lubang, dan gerak bolak-balik dapat menambah gesekan atau fretting (keausan akibat gesekan berulang) di dekat tepi lubang.
+
+Retak tidak selalu terlihat pada awalnya. Karena itu, riwayat kapan komponen mulai berputar, perubahan kecepatan atau muatan, kejadian macet, benturan, pelumasan, penggantian bantalan (bearing), dan perbaikan las perlu dicatat sebagai bagian dari identitas komponen. Rujukan fatigue/fracture FHWA menempatkan identitas detail, konteks tegangan, riwayat beban dan perubahan penggunaan, riwayat material/fabrikasi, korosi, kerusakan, temuan sebelumnya, serta perbaikan sebagai data evaluasi—namun panduan tersebut ditujukan untuk jembatan dan bukan persyaratan bangunan Indonesia ([manual fatigue/fracture FHWA](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf)).
+
+Inspeksi dan pengujian harus mengikuti dugaan lokasi retak. Pemeriksaan visual memetakan perubahan warna, karat lokal, garis retak, deformasi, atau kelonggaran. Bila akses dan indikasinya memadai, metode nondestructive examination (NDE, pemeriksaan tak merusak) dipilih oleh pemeriksa kompeten sesuai material, bentuk, dan jenis cacat yang dicari. Pusat sumber inspeksi FHWA dan program NDE mereka dapat menjadi bacaan metodologis, bukan dasar untuk menyatakan komponen Anda lulus ([hub inspeksi FHWA](https://www.fhwa.dot.gov/bridge/inspection/) dan [program fatigue-crack NDE](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue dan Stress Concentration pada Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Geometri dan permukaan.** Bahu diameter sebaiknya diperiksa bersama radius aktual, bukan hanya ukuran nominal. Pada keyway atau ulir, perhatikan ujung alur, kualitas dasar, burr, dan bekas pemesinan. Goresan aksial, pitting, atau bekas penjepitan dapat menjadi pemicu lokal. Pin juga perlu diperiksa terhadap keausan oval pada lubang dan kontak satu sisi; kelonggaran mengubah distribusi beban pada siklus berikutnya.
+
+**Tegangan sisa dan proses.** Pemesinan, pelurusan, penggerindaan, perlakuan panas, pengelasan perbaikan, atau penembakan permukaan dapat mengubah tegangan sisa dan kondisi lapisan permukaan. Jangan menyimpulkan proses tertentu “menambah umur” tanpa spesifikasi proses, rekaman pelaksanaan, dan verifikasi yang sesuai.
+
+**Lingkungan.** Air tertahan, garam, bahan kimia, celah sambungan, kontak dua logam, suhu, serta lapisan pelindung yang rusak dapat mempercepat kerusakan. Klasifikasi lingkungan dan pemilihan sistem cat harus dimulai dari paparan nyata—kebasahan, kondensasi, polutan, perendaman atau tanah, drainase, akses, dan rencana pemeliharaan—bukan hanya label kategori ([ISO 12944-2](https://www.iso.org/standard/64834.html), [ISO 12944-5](https://www.iso.org/standard/77795.html), dan [Corrosion Basics AMPP](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)). Kedua bagian ISO tersebut tercatat dalam proses revisi pada halaman katalognya, sehingga sistem, persiapan permukaan, ketebalan, inspeksi, dan perbaikan harus dikonfirmasi dari dokumen yang berlaku untuk proyek.
+
+**Material dan bukti.** Sertifikat material, heat number, jejak lot, serta orientasi spesimen harus cocok dengan komponen. ISO 6892-1 menjelaskan metode uji tarik pada temperatur ruang; itu tidak otomatis menjadi persyaratan penerimaan produk. Jika identitas bar atau pin putus, hasil uji terpisah tidak boleh dipakai untuk “mengisi” identitas yang hilang. **[NEEDS GATE-04: kecocokan material/heat, laporan uji, dan dasar penerimaan yang ditinjau kompeten.]**
+
+**Perubahan penggunaan.** Kenaikan jam operasi, percepatan, beban kejut, atau perubahan attachment dapat mengubah spektrum siklus. Penilaian kondisi struktur yang sudah ada secara umum memerlukan tujuan penilaian, dokumen, survei, identitas material, geometri, riwayat penggunaan dan perubahan, kerusakan, pemantauan atau pengujian, analisis, kontrol sementara, serta disposisi yang ditinjau ([ISO 13822](https://www.iso.org/standard/46556.html)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue dan Stress Concentration pada Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan skenario berikut sebagai cara mengumpulkan bukti, bukan sebagai izin operasi.
+
+| Temuan awal | Pertanyaan berikutnya | Keputusan sementara |
+|---|---|---|
+| Retak garis di ujung keyway | Apakah panjang, arah, dan kedalamannya sudah dipetakan? Adakah perubahan beban terakhir? | Hentikan operasi yang dapat memperbesar risiko dan minta pemeriksaan kompeten; jangan menggerinda lalu mengembalikan komponen tanpa evaluasi. |
+| Pin aus dan lubang menjadi oval | Apakah kelonggaran diukur pada beberapa posisi dan beban aktual tercatat? | Amankan gerakan, dokumentasikan ukuran, lalu nilai pin, lubang, dan pasangan kontak sebagai satu sistem. |
+| Karat lokal di bawah lapisan pelindung (coating) | Apakah ada air tertahan, garam, celah, atau logam berbeda yang bersentuhan? | Kendalikan paparan dan akses inspeksi; pilih perbaikan lapisan berdasarkan survei lingkungan, bukan warna cat semata. |
+| Tidak ada retak terlihat, tetapi terjadi pemutus berulang (trip) | Apakah kejadian trip mengubah siklus dan kejutan torsi? | Perbarui riwayat operasi dan minta penilaian fatigue; “belum terlihat” bukan bukti umur tersisa. |
+
+Kawan Besi.co.id, catat tanggal, jam operasi, kondisi muatan, lokasi indikasi, foto berorientasi, alat ukur, dan siapa yang memeriksa. Catatan berurutan membantu membedakan indikasi baru, pertumbuhan, dan perubahan akibat pembersihan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Fatigue dan Stress Concentration pada Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai kekuatan tarik atau kekerasan (hardness) dari satu kupon untuk menjawab umur fatigue. Periksa kembali identitas spesimen, lokasi, orientasi, metode, kondisi uji, unit, dan spesifikasi produk sebelum mengaitkan angka apa pun dengan shaft atau pin.
 
-## Objection or shortcut to address
+Kedua, menghaluskan takik tanpa mengukur geometri dan tanpa mencari retak di bawah permukaan. Tindakan itu dapat menghapus bukti, mengurangi diameter efektif, atau memindahkan lokasi kritis. Alternatif yang lebih aman adalah dokumentasikan kondisi awal, batasi operasi bila perlu, lalu minta rencana pemeriksaan dan perbaikan tertulis.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Ketiga, menganggap lapisan pelindung baru menyelesaikan fatigue. Lapisan itu mengelola paparan korosi; ia tidak menghapus rentang tegangan, konsentrasi tegangan, atau retak yang sudah ada. Pastikan sumber air, drainase, celah, persiapan permukaan, dan akses pemeliharaan ikut diperiksa.
 
-## Required conclusion
+Keempat, menyalin interval inspeksi dari aset lain. Frekuensi harus mengikuti konsekuensi kegagalan, spektrum siklus, akses, temuan terdahulu, dan perubahan penggunaan yang ditinjau untuk aset ini. Teman Besi.co.id, bila data itu belum tersedia, tulis “belum ditetapkan” dan eskalasikan—jangan menggantinya dengan angka kebiasaan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas penggantian langsung
 
-## Draft completion checklist
+Jalan pintas yang sering dipilih adalah mengganti shaft atau pin dengan stok berdiameter sama lalu menganggap masalah selesai. Penggantian dapat menghilangkan retak pada komponen lama, tetapi tidak otomatis menghilangkan penyebabnya: alur pasak tetap bertakik, keselarasan (alignment) tetap buruk, siklus kejut tetap terjadi, dan lingkungan korosif tetap ada. Cocokkan material dan jejak produknya, periksa pasangan lubang/bantalan, verifikasi geometri serta proses, dan dokumentasikan perubahan penggunaan sebelum melepas kontrol sementara.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jika spesifikasi pengganti sudah disetujui, halaman [besi as S45C di Yogyakarta](/jual-as-s45c-yogyakarta) dan [besi as ST42 di Yogyakarta](/jual-as-st42-yogyakarta) dapat menjadi titik awal pengadaan. Keduanya bukan bukti bahwa salah satu mutu (grade) cocok untuk komponen Anda: minta perancang mengonfirmasi mutu, ukuran, jejak heat, dan dasar penerimaannya sebelum membeli atau memasang.
+
+## Kesimpulan
+
+Fatigue pada shaft dan pin ditentukan oleh siklus yang benar-benar dialami dan bagaimana detail—bahu, keyway, ulir, lubang, permukaan, tegangan sisa, korosi, dan kelonggaran—mengubah tegangan lokal. Mulailah dengan menghentikan asumsi, bukan langsung menghitung umur: kumpulkan gambar dan ukuran aktual, sertifikat serta laporan uji yang dapat ditelusuri, riwayat beban dan perbaikan, peta korosi/keausan, dan hasil inspeksi.
+
+Minta perancang atau penilai kompeten menetapkan pemeriksaan lanjutan, kontrol operasi, dan disposisi berdasarkan data tersebut. Untuk orientasi langkah awal, Anda dapat mulai dari [beranda Besi.co.id](/) bersama rekaman inspeksi aset. **Aturan operasinya: tanpa riwayat siklus, kondisi detail, dan tinjauan teknis yang dapat dipertanggungjawabkan, umur tersisa tidak boleh dinyatakan.**

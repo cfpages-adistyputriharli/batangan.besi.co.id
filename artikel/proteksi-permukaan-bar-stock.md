@@ -2,8 +2,9 @@
 article_id: BESB-11-A03
 title: "Cat, Plating, Galvanizing, dan Oil Protection"
 slug: "proteksi-permukaan-bar-stock"
-description: "Compare preparation, geometry, threads/fits, coating build, handling, inspection, repair, and evidence"
-status: outline
+description: "Bandingkan persiapan, geometri, ulir dan pasangan, ketebalan lapisan, penanganan, inspeksi, perbaikan, serta bukti penerimaan"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,7 +19,6 @@ sources:
   - "https://www.iso.org/standard/77795.html"
   - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
   - "https://www.iso.org/standard/81435.html"
-  - "https://www.iso.org/standard/71136.html"
   - "https://www.iso.org/standard/79581.html"
   - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
   - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
@@ -28,37 +28,7 @@ sources:
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Cat, Plating, Galvanizing, dan Oil Protection
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Cat, Plating, Galvanizing, dan Oil Protection”
-- **Reader and situation:** Buyer choosing finish
-- **Reader outcome:** Compare preparation, geometry, threads/fits, coating build, handling, inspection, repair, and evidence
-- **Primary intent:** Compare protection systems
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No system/life prescription; verified specification owns it
-- **Final public route:** `/artikel/proteksi-permukaan-bar-stock.html`
-- **Appointed CMS date:** `2026-05-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cat, Plating, Galvanizing, dan Oil Protection**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,145 +39,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Cat, Plating, Galvanizing, dan Oil Protection
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id! Memilih proteksi permukaan bar stock bukan sekadar memilih lapisan yang paling tebal atau paling murah. Cat, plating, galvanizing celup panas, dan oil protection bekerja pada kondisi permukaan, bentuk batang, sambungan, serta pola pemakaian yang berbeda. Jawaban singkatnya: mulai dari lingkungan dan bentuk barang, lalu cocokkan persiapan, ketebalan, kompatibilitas ulir atau fit, cara menangani, dan bukti inspeksinya. Tanpa data itu, klaim “pasti tahan karat” tidak dapat dipertanggungjawabkan.
 
-### KR-01
+Kondisi yang dapat mengubah keputusan adalah paparan aktual—basah dan kondensasi, garam, bahan kimia, tanah atau perendaman—serta apakah batang akan dilas, dimesin, disekrup, atau disimpan lama. Klasifikasi lingkungan dan sistem cat dibahas dalam [ISO 12944-2](https://www.iso.org/standard/64834.html) dan [ISO 12944-5](https://www.iso.org/standard/77795.html), tetapi halaman katalog itu bukan pengganti spesifikasi proyek dan data produk yang berlaku. [NEEDS GATE-01: lingkungan, masa simpan, dan persyaratan sistem harus dikonfirmasi dari proyek.]
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-17
-
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-11-A01` → `/artikel/mengapa-besi-batangan-berkarat.html` — Mengapa Besi Batangan Berkarat
-- `BESB-11-A02` → `/artikel/survei-exposure-bar-stock.html` — Survei Exposure sebelum Memilih Proteksi Bar
-- `BESB-11-A04` → `/artikel/proteksi-nako-pagar-railing.html` — Proteksi Nako untuk Pagar dan Railing
-- `BESB-11-A05` → `/artikel/preservasi-bar-stock.html` — Preservasi Bar Stock selama Storage dan Transport
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cat, Plating, Galvanizing, dan Oil Protection”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Cat, Plating, Galvanizing, dan Oil Protection”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Cat” di sini berarti sistem pelapis yang memerlukan persiapan substrat, primer atau lapisan antara, dan lapisan akhir. “Plating” adalah pelapisan elektrolitik atau kimia pada permukaan yang biasanya dipilih untuk bagian kecil, ulir, atau kebutuhan tertentu; istilahnya tidak otomatis menunjukkan ketahanan untuk atmosfer berat. “Galvanizing” dapat berarti baja fabrikasi yang dicelup panas setelah pembuatan, tetapi juga produk lembaran, kawat, pipa, atau fastener yang melalui rute lain. [ISO 1461:2022](https://www.iso.org/standard/81435.html) khusus membahas artikel baja fabrikasi yang digalvanisasi celup panas, sehingga tidak boleh dipindahkan begitu saja ke semua produk.
+
+Oil protection adalah film sementara untuk menahan kelembapan selama penyimpanan atau transportasi. Ia bukan pengganti sistem permanen ketika batang sudah masuk lingkungan layanan. Demikian pula, metode penentuan massa lapisan seperti yang dirujuk [ISO 1460](https://www.iso.org/standard/79581.html) tidak membuktikan bahwa setiap barang telah lulus atau cocok untuk pembelian Anda. Artikel ini membandingkan pertanyaan dan konsekuensi; keputusan akhir tetap milik spesifikasi terverifikasi dan peninjau yang berwenang.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Cat, Plating, Galvanizing, dan Oil Protection”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutannya dapat dibaca sebagai rantai sebab-akibat. Pertama, air, oksigen, garam, atau bahan kimia mencapai baja melalui pori, goresan, celah, atau permukaan terbuka. Mekanisme korosi dasar dan pengaruh lingkungan dijelaskan dalam pengantar [AMPP Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction). Kedua, persiapan menghilangkan karat, minyak, kerak, atau kontaminasi sesuai sistem yang dipilih. Ketiga, lapisan diterapkan atau proses galvanizing dilakukan. Keempat, batang diangkat, dipindahkan, disimpan, lalu mungkin dipotong, dibor, dilas, atau dimesin—semua kegiatan itu dapat merusak atau membuka kembali baja.
+
+Cat paling fleksibel untuk warna, perbaikan lokal, dan pemeliharaan terjadwal, tetapi keberhasilannya bergantung pada kebersihan, profil permukaan, kondisi aplikasi, dan ketebalan kering yang disyaratkan. Plating memberi lapisan tipis yang dapat mengganggu toleransi bila tidak dihitung, terutama pada ulir dan pasangan presisi. Saat memastikan bahan dasarnya, Anda dapat mulai dari [baja S45C Yogyakarta](/jual-as-s45c-yogyakarta) atau [baja ST42 Yogyakarta](/jual-as-st42-yogyakarta), lalu cocokkan sertifikat dan spesifikasi dengan kebutuhan proyek—tautan itu bukan bukti bahwa suatu lapisan sudah sesuai. Galvanizing celup panas memberi lapisan pada seluruh permukaan yang dapat terjangkau, namun desain perlu menyediakan jalur ventilasi dan drainase untuk ruang tertutup atau tumpang tindih. Panduan AGA tentang [venting dan draining](https://galvanizeit.org/knowledgebase/article/venting-and-draining) serta [detail fabrikasi](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg) berguna sebagai daftar pertanyaan desain; ukuran lubang dan dampak strukturnya tetap harus disetujui perancang.
+
+Oil menghambat air untuk sementara, sehingga permukaan harus tetap bersih dan film harus kompatibel dengan proses berikutnya. Jika batang akan dicat, dilas, atau dimesin, tanyakan apakah minyak harus dihilangkan dan bagaimana limbahnya ditangani. [NEEDS GATE-04: urutan proses dan kompatibilitas lapisan belum dapat ditetapkan tanpa data produk dan proses hilir.]
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Cat, Plating, Galvanizing, dan Oil Protection”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Geometri sering lebih menentukan daripada nama lapisan. Rongga tertutup, ujung buta, celah sempit, dan kontak dua logam dapat menyimpan air. Ulir, lubang, dan permukaan fit memerlukan toleransi: lapisan tambahan atau sisa minyak dapat membuat baut seret, mengubah preload, atau mengganggu dudukan. Minta gambar dengan zona yang boleh dilapisi, zona yang harus bebas, serta allowance pemesinan.
+
+Lingkungan juga harus ditulis, bukan diasumsikan. Tanyakan durasi basah, paparan kabut garam, percikan bahan kimia, suhu, pembersihan, dan akses inspeksi. Sistem cat yang tepat untuk area terlindung belum tentu tepat untuk area terbuka; ISO 12944 mengarahkan klasifikasi dan pemilihan sistem, tetapi kategori dan umur layanan harus diverifikasi pada dokumen lengkap dan data produsen.
+
+Pelaksanaan dan bukti sama pentingnya. Cat memerlukan rekaman persiapan, kondisi aplikasi, dan pengukuran lapisan sesuai spesifikasi. Galvanizing perlu pemeriksaan visual, cakupan, kerusakan angkut, dan perbaikan yang disetujui; lihat [panduan inspeksi AGA](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products). Jangan menyamakan sertifikat metode uji dengan bukti barang tertentu lulus. [NEEDS GATE-05: kriteria penerimaan, metode ukur, dan format rekaman harus berasal dari kontrak atau standar yang berlaku.]
+
+Penanganan dapat membatalkan perlindungan yang baru selesai. Saat menerima dan menyimpan, cocokkan massa, dimensi, titik berat, penyangga, akses, drainase, ventilasi, dan pencegahan gulir atau melebar. Persyaratan penyimpanan material [OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250) adalah rujukan asing, bukan otomatis aturan Indonesia; panduan [LYSAGHT](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation) juga harus disesuaikan dengan instruksi pemasok. Untuk pekerjaan pengangkatan di Indonesia, tinjau [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020) bersama tenaga kompeten. [NEEDS GATE-06: rencana angkat, rak, cuaca, dan karantina kerusakan memerlukan persetujuan lokasi.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Cat, Plating, Galvanizing, dan Oil Protection”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai penyaring awal, bukan keputusan final:
+
+| Kondisi yang sudah diketahui | Pertanyaan pembeda | Kandidat yang mungkin masuk akal |
+|---|---|---|
+| Penyimpanan singkat, batang akan diproses lagi | Apakah minyak mengganggu cat, las, atau mesin? | Oil sementara, dengan prosedur pembersihan terdokumentasi |
+| Banyak ulir atau fit presisi | Berapa allowance dan zona bebas lapisan? | Plating atau cat terkontrol, setelah tinjauan toleransi |
+| Batang sudah difabrikasi dengan rongga atau celah | Apakah ventilasi, drainase, dan orientasi angkat sudah digambar? | Galvanizing celup panas hanya setelah review desain |
+| Lingkungan terbuka dengan program pemeliharaan | Siapa yang menyiapkan permukaan dan mengukur lapisan? | Sistem cat yang ditentukan spesifikasi dan rencana inspeksi |
+
+Contoh bersyarat: bila batang harus segera dimesin, oil dapat dipilih sebagai proteksi transit, tetapi statusnya harus ditandai sementara. Bila batang telah memiliki rongga tertutup, jangan menjanjikan hasil galvanizing sebelum galvanizer meninjau gambar. [NEEDS GATE-07: pilihan akhir, termasuk perbaikan lokal dan masa layanan, menunggu spesifikasi proyek, data produk, dan review kompeten.]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Cat, Plating, Galvanizing, dan Oil Protection”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap satu kata “galvanis” cukup. Periksa base product, rute pelapisan, edisi standar, dan siapa yang melakukan inspeksi. Kedua, mengukur satu titik lalu menyimpulkan seluruh batang; sepakati lokasi dan metode ukur lebih dulu. Ketiga, mengecat di atas minyak atau kontaminasi; minta prosedur pembersihan dan bukti kesiapan permukaan. Keempat, mengabaikan ujung potong, las, dan goresan saat transport; tetapkan bahan perbaikan yang kompatibel dan siapa yang menyetujuinya. Kelima, menumpuk batang basah tanpa ventilasi. Sobat Besi.co.id, catat foto penerimaan, identitas heat atau batch, kondisi kemasan, dan area karantina sebelum barang masuk stok.
 
-## Objection or shortcut to address
+Checklist pembelian yang ringkas: sebutkan lingkungan; gambar ulir, fit, rongga, dan zona bebas; tulis sistem atau film serta proses persiapan; tetapkan toleransi dan urutan kerja; minta sertifikat dan rekaman inspeksi; sepakati metode perbaikan; lalu verifikasi cara angkat dan penyimpanan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu diuji
 
-## Required conclusion
+Shortcut yang sering dipilih adalah “pakai galvanizing saja karena paling awet”. Itu dapat gagal bila rongga tidak berventilasi, toleransi ulir tidak disiapkan, atau kerusakan angkut tidak memiliki prosedur perbaikan. Alternatif yang lebih aman bukan mengganti dengan cat secara otomatis, melainkan meminta tinjauan galvanizer dan perancang, lalu membandingkannya dengan sistem cat atau oil berdasarkan lingkungan, geometri, pekerjaan hilir, dan bukti penerimaan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah penutup
 
-## Draft completion checklist
+Cat, plating, galvanizing, dan oil protection bukan urutan peringkat universal. Cat cocok ketika persiapan dan pemeliharaan dapat dikendalikan; plating ketika lapisan tipis dan toleransi menjadi kunci; galvanizing ketika fabrikasi, ventilasi, drainase, dan fit telah ditinjau; oil ketika perlindungan hanya sementara dan pembersihan berikutnya jelas.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya, Teman Besi.co.id: kirim gambar dan paparan aktual kepada penanggung jawab desain, pemasok lapisan, serta pemeriksa yang kompeten. Minta spesifikasi tertulis, kriteria penerimaan, rencana perbaikan, dan instruksi handling sebelum membeli atau melapisi. Jika salah satu bukti itu belum ada, tandai keputusan sebagai `[NEEDS REVIEW]`—jangan mengubah asumsi menjadi jaminan.

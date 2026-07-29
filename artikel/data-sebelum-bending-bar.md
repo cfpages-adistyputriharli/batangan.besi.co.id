@@ -2,8 +2,9 @@
 article_id: BESB-09-A01
 title: "Data sebelum Bending Bar Stock"
 slug: "data-sebelum-bending-bar"
-description: "Gather grade/condition, geometry/direction, tooling, sequence, springback, surface, trial, and inspection"
-status: outline
+description: "Data material, geometri, alat, urutan, perubahan balik elastis (springback), permukaan, uji awal, dan inspeksi sebelum pembentukan batang"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,45 +21,11 @@ sources:
   - "https://www.iso.org/standard/60321.html"
   - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
-  - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
-  - "https://www.fhwa.dot.gov/bridge/inspection/"
-  - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Data sebelum Bending Bar Stock
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Data sebelum Bending Bar Stock”
-- **Reader and situation:** Fabricator receiving bend requirement
-- **Reader outcome:** Gather grade/condition, geometry/direction, tooling, sequence, springback, surface, trial, and inspection
-- **Primary intent:** Prepare forming
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No radius/force; qualified procedure owns them
-- **Final public route:** `/artikel/data-sebelum-bending-bar.html`
-- **Appointed CMS date:** `2026-03-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Data sebelum Bending Bar Stock**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,140 +36,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Besi.co.id! Data sebelum bending bar stock bukan sekadar ukuran panjang dan diameter. Sebelum batang masuk mesin, fabricator perlu mengunci identitas material, kondisi pasokan, arah dan geometri tekukan, alat yang dipakai, urutan kerja, cara mengantisipasi springback, perlindungan permukaan, rencana trial, serta pemeriksaan akhirnya. Jika salah satu data itu kosong, hasil bisa tampak rapi tetapi tidak cocok dengan gambar atau sulit dilacak ketika terjadi penyimpangan.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Urutan praktisnya adalah: cocokkan dokumen material dengan batang yang diterima, baca detail geometri dan arah yang relevan, tetapkan tooling dan urutan dari prosedur yang disetujui, lalu lakukan trial terukur sebelum produksi. Nilai radius dan gaya bukan angka yang boleh ditebak dari tabel umum; keduanya milik qualified procedure dan harus dikonfirmasi lewat [NEEDS GATE-01: prosedur bending yang disetujui dan review kompeten].
 
-### KR-01
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-09-A02` → `/artikel/twisting-dan-forging-bar-dekoratif.html` — Twisting dan Forging Decorative Bar
-- `BESB-09-A03` → `/artikel/distortion-setelah-forming-bar.html` — Springback, Ovality, dan Distortion setelah Forming
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Data sebelum Bending Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek sebagai ilustrasi umum; gambar ini bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Data sebelum Bending Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Bar stock” di sini berarti batang logam yang akan dibentuk dengan bending sesuai gambar kerja atau permintaan fabrikasi. Data awal harus menjawab tiga hal: batang apa yang datang, bentuk apa yang diminta, dan bagaimana hasilnya akan dibuktikan. Artikel ini membahas persiapan informasi dan kendali proses; bukan penetapan radius minimum, gaya mesin, kapasitas alat, atau kelayakan struktur. Keputusan tersebut memerlukan spesifikasi produk, gambar yang berlaku, dan prosedur terkualifikasi.
+
+Nama grade pada label tidak cukup. Sertifikat dan identitas heat/lot perlu dapat ditautkan ke batang yang dipakai. Bila pengujian tarik dilaporkan, metode, lokasi dan orientasi spesimen, persiapan, kondisi, satuan, serta identitas produk harus ikut terbaca. ISO 6892-1 menjelaskan metode uji tarik pada suhu ruang, sedangkan ISO 377 dan amendemennya membahas pengambilan spesimen; keduanya tidak menggantikan spesifikasi produk atau membuktikan seluruh stok memenuhi syarat ([ISO 6892-1](https://www.iso.org/standard/78322.html), [ISO 377](https://www.iso.org/standard/72529.html), [ISO 377/Amd 1:2025](https://www.iso.org/standard/89449.html)).
+
+Bila Anda masih menyaring pilihan material, halaman [AS S45C Yogyakarta](/jual-as-s45c-yogyakarta) dan [ST42 Yogyakarta](/jual-as-st42-yogyakarta) dapat menjadi titik rujuk produk. Tetap cocokkan nama grade, heat/lot, dan sertifikat dengan spesifikasi yang berlaku; halaman rujukan tidak menggantikan dokumen material.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Data sebelum Bending Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari paket kerja yang terkendali: gambar dengan revisi, daftar batang, sertifikat material, dan instruksi inspeksi. Tandai setiap batang atau bundel dengan identitas yang tidak mudah tertukar. Catat kondisi awal—misalnya permukaan berlapis, bekas pemanasan, korosi, atau kerusakan mekanis—sebelum dibersihkan atau dipindahkan.
+
+Lalu ubah gambar menjadi lembar data bending: ukuran penampang, panjang awal dan akhir, posisi garis tekuk, sudut, orientasi terhadap tanda material, serta toleransi yang memang tertulis pada gambar. Tunjukkan datum pengukuran dan area yang harus tetap bebas gores. Jika pemotongan termal dilakukan sebelum bending, kualitas tepi dan efek panas harus dinilai bersama kebutuhan downstream; ISO 9013 dan amendemennya memberi kerangka klasifikasi potongan termal, bukan satu toleransi universal ([ISO 9013](https://www.iso.org/standard/60321.html), [ISO 9013/Amd 1:2024](https://www.iso.org/standard/87851.html)).
+
+Setelah itu, cocokkan tooling dengan penampang dan akses alat. Tuliskan nomor die, punch, rol, atau jig yang benar-benar tersedia, termasuk cara penjepitan dan titik referensi. Urutan tekuk harus meminimalkan benturan dengan alat, menjaga bagian yang sudah jadi, dan menyisakan akses untuk pengukuran. Parameter radius dan gaya diambil dari prosedur terkualifikasi, bukan hasil menyalin setting proyek lain.
+
+Trial dilakukan pada material dan kondisi yang mewakili produksi. Ukur sudut, dimensi, dan perubahan bentuk setelah beban dilepas; catat setting, urutan, operator, serta identitas batang uji. Perbedaan antara posisi saat dibebani dan posisi setelah dilepas adalah springback yang perlu dikompensasi hanya sejauh diizinkan prosedur. Hasil trial menjadi dasar keputusan lanjut, bukan alasan untuk mengubah parameter secara diam-diam.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Data sebelum Bending Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Faktor material meliputi grade, kondisi pasokan, variasi heat/lot, arah pengambilan, dan riwayat panas atau pelurusan. Satu nilai uji dari satu spesimen tidak otomatis mewakili seluruh batang. [NEEDS GATE-02: kecocokan sertifikat, sampling, dan disposisi material harus ditinjau terhadap spesifikasi produk yang berlaku.]
+
+Faktor geometri mencakup ukuran penampang, panjang bebas, orientasi garis tekuk, lubang atau las di dekat area tekuk, serta allowance pemotongan. Toleransi umum tidak otomatis berlaku untuk setiap batang atau rakitan; kelas toleransi, metode ukur, dan fungsi komponen harus ditetapkan oleh gambar/prosedur. Untuk hasil yang akan dilas, jangan menutupi cacat tepi dengan las tanpa keputusan engineering.
+
+Kondisi alat dan proses juga menentukan: keausan die, kebersihan bidang kontak, keselarasan jig, kecepatan, jumlah tahap, serta urutan pelepasan. Permukaan yang sudah dilapisi dapat tergores atau terkelupas; tetapkan apakah pelindung harus dilepas, dipulihkan, atau diperiksa setelah forming. Bila ada pemanasan atau pekerjaan panas lanjutan, koordinasikan pengendalian bahaya dan pemeriksaan permukaan sesuai prosedur K3 setempat, bukan menyalin batas dari yurisdiksi lain.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Data sebelum Bending Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua batang memiliki ukuran nominal sama. Batang A memiliki sertifikat dan identitas heat yang cocok, permukaan utuh, serta arah tanda yang terbaca. Batang B datang tanpa dokumen lengkap dan pernah diluruskan. A dapat masuk ke tahap review tooling dan trial; B ditahan untuk klarifikasi, bukan langsung dibengkokkan demi mengejar jadwal.
+
+Contoh lain: gambar meminta dua tekukan berurutan dengan area ukur sempit. Jika jig membuat tekukan kedua menutup akses pengukuran, ubah urutan atau siapkan datum bantu sebelum produksi. Bila hasil trial memenuhi sudut tetapi panjang akhir bergeser, catat penyebab yang mungkin—urutan, penjepitan, atau springback—dan minta persetujuan perubahan prosedur. Jangan menyatakan “pasti aman” tanpa kriteria penerimaan yang tertulis.
+
+Lembar pemeriksaan singkat dapat memuat: identitas batang; revisi gambar; orientasi dan datum; tooling serta nomor jig; urutan; parameter dari prosedur; kondisi permukaan; hasil trial sebelum/sesudah pelepasan; alat ukur dan status kalibrasinya; keputusan terima, tahan, atau ulang. Untuk komponen yang memikul beban atau akan disambung, [NEEDS GATE-04: competent engineer/inspector menetapkan kriteria penerimaan dan kebutuhan pemeriksaan tambahan.]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Data sebelum Bending Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap diameter atau ukuran penampang sudah mencakup semua data. Periksa grade, kondisi, heat/lot, dan orientasi. Kedua, memakai setting dari material “mirip”. Bandingkan spesifikasi, tooling, dan prosedur; kemiripan visual bukan bukti kesetaraan.
 
-## Objection or shortcut to address
+Ketiga, mengukur hanya ketika batang masih terjepit. Ulangi pengukuran setelah dilepas karena springback dan pergeseran penjepitan baru terlihat saat bebas. Keempat, mencampur toleransi gambar dengan toleransi umum. Tulis sumber setiap batas dan alat ukur yang dipakai; ISO 13920 membahas toleransi umum untuk konstruksi las, bukan izin otomatis untuk setiap operasi bending ([ISO 13920](https://www.iso.org/standard/86032.html)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, mengabaikan permukaan dan tepi potong. Lakukan pemeriksaan visual sebelum dan sesudah forming, tandai goresan atau retak untuk disposisi, dan dokumentasikan area yang tidak dapat diukur langsung. Jika temuan mengubah fungsi atau sambungan, hentikan pelepasan ke proses berikutnya sampai ada keputusan tertulis.
 
-## Required conclusion
+Sobat Besi.co.id, gunakan foto dan catatan kondisi awal hanya sebagai rekaman pendukung, bukan pengganti pengukuran atau sertifikat. Setiap penyimpangan perlu nomor temuan dan keputusan yang bisa ditelusuri.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sering dipilih
 
-## Draft completion checklist
+Jalan pintas yang paling menggoda adalah “langsung coba satu batang, lalu ulangi setting sampai terlihat pas”. Cara ini gagal ketika material berbeda, urutan tidak tercatat, atau hasil yang tampak pas di satu titik menimbulkan penyimpangan di titik lain. Alternatif yang lebih dapat diaudit adalah membuat satu lembar data, melakukan trial yang disetujui, mengukur setelah beban dilepas, lalu membekukan parameter dan kriteria penerimaan sebelum produksi berulang.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Besi.co.id, tahan pekerjaan bila identitas material, prosedur, atau kriteria ukur belum jelas. Klarifikasi sebelum mulai membantu mencegah pengulangan kerja atau tercampurnya batang yang tidak terlacak ke dalam satu lot hasil jadi.
+
+Untuk dokumen kerja dan kontak proses berikutnya, gunakan [beranda Besi.co.id](/) sebagai titik kembali ke informasi layanan yang tersedia.
+
+## Kesimpulan dan langkah berikutnya
+
+Data sebelum bending bar stock harus menghubungkan material yang nyata dengan geometri, tooling, urutan, springback, permukaan, trial, dan inspeksi. Kumpulkan dokumen itu dalam satu paket kerja, minta review kompeten untuk gate yang belum terselesaikan, dan simpan catatan hasil trial bersama identitas batang.
+
+Langkah berikutnya: kirim lembar data beserta gambar revisi, sertifikat, temuan kondisi awal, daftar alat ukur, dan rencana trial kepada penanggung jawab prosedur. Jangan menetapkan radius atau gaya dari artikel ini. Aturan operasinya sederhana: tanpa bukti material dan prosedur yang dapat ditelusuri, bending belum siap dimulai.

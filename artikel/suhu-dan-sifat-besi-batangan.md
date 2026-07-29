@@ -2,8 +2,9 @@
 article_id: BESB-07-A05
 title: "Suhu, Heat Treatment, dan Perubahan Sifat Bar"
 slug: "suhu-dan-sifat-besi-batangan"
-description: "Explain thermal history, expansion, softening/hardening concepts, distortion, scale, and verification needs"
-status: outline
+description: "Memahami riwayat panas, pemuaian, konsep pelunakan dan pengerasan, perubahan bentuk, lapisan oksida, serta kebutuhan verifikasi batang"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,46 +18,13 @@ sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
   - "https://www.iso.org/standard/89449.html"
+  - "https://www.iso.org/standard/46556.html"
   - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/77795.html"
-  - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
-  - "https://www.iso.org/standard/46556.html"
-  - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
   - "https://www.fhwa.dot.gov/bridge/inspection/"
-  - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Suhu, Heat Treatment, dan Perubahan Sifat Bar
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Suhu, Heat Treatment, dan Perubahan Sifat Bar”
-- **Reader and situation:** Owner after heating/fire/process upset
-- **Reader outcome:** Explain thermal history, expansion, softening/hardening concepts, distortion, scale, and verification needs
-- **Primary intent:** Understand thermal exposure
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not approve reuse; BESB-09-A04 and BESB-14-A04 own treatment/testing
-- **Final public route:** `/artikel/suhu-dan-sifat-besi-batangan.html`
-- **Appointed CMS date:** `2026-02-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Suhu, Heat Treatment, dan Perubahan Sifat Bar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,146 +35,74 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Suhu, Heat Treatment, dan Perubahan Sifat Bar
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Bar yang pernah terkena api, dipanaskan untuk proses, atau menjalani perlakuan panas tidak otomatis kembali memiliki sifat seperti semula setelah dingin. Jawaban singkatnya: suhu, lama paparan, laju pemanasan-pendinginan, dan kondisi awal material bersama-sama membentuk *thermal history* (riwayat termal). Riwayat itu dapat mengubah ukuran, kekerasan, keuletan, tegangan sisa, dan kondisi permukaan.
 
-### KR-01
+Karena itu, warna permukaan atau perasaan “masih keras” bukan dasar persetujuan penggunaan ulang. Keputusan harus menghubungkan riwayat kejadian dengan identitas material, pemeriksaan geometri dan kerusakan, serta pengujian yang direncanakan. Jika bukti pemanasan tidak lengkap atau batang memikul konsekuensi keselamatan, tandai **[NEEDS GATE-01: penetapan status pakai ulang berdasarkan bukti proyek dan peninjauan pihak kompeten]**.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-besi-beton-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-07-A03` → `/artikel/hardness-wear-dan-machinability-bar.html` — Hardness, Wear, dan Machinability
-- `BESB-07-A04` → `/artikel/fatigue-pada-shaft-dan-pin.html` — Fatigue dan Stress Concentration pada Shaft dan Pin
-- `BESB-07-A06` → `/artikel/checklist-substitusi-bar-stock.html` — Checklist Dampak Substitusi Bar Stock
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Suhu, Heat Treatment, dan Perubahan Sifat Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gambar ini adalah ilustrasi umum dari aset lokal, bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Suhu, Heat Treatment, dan Perubahan Sifat Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Bar” di sini berarti batang baja atau besi berbentuk produk panjang yang sedang dipertimbangkan setelah paparan panas. *Heat treatment* adalah siklus pemanasan, penahanan, dan pendinginan yang sengaja dikendalikan untuk mendapatkan sifat tertentu. Paparan kebakaran, pemotongan, pengelasan, pemanasan lokal, atau proses yang tidak tercatat juga merupakan riwayat termal, meskipun bukan perlakuan panas resmi.
+
+Artikel ini menjelaskan cara memahami perubahan dan bukti yang perlu dikumpulkan. Artikel ini tidak menetapkan apakah suatu bar boleh dipakai kembali, tidak menggantikan spesifikasi produk, dan tidak memberikan resep temperatur untuk suatu mutu atau grade. ISO 13822 menempatkan penilaian kondisi eksisting dalam proses yang mempertimbangkan tujuan, konsekuensi, survei, material, geometri, riwayat perubahan, kerusakan, pengujian, dan keputusan akhir yang ditinjau; detail untuk kejadian kebakaran tetap memerlukan aturan dan analisis proyek yang sesuai ([ISO 13822:2010](https://www.iso.org/standard/46556.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Suhu, Heat Treatment, dan Perubahan Sifat Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saat bar dipanaskan, ia memuai. Bila pemuaian tertahan oleh tumpuan, sambungan, atau bagian yang lebih dingin, timbul tegangan. Pemanasan dan pendinginan yang tidak seragam membuat sebagian penampang berubah lebih dulu sehingga bar dapat melengkung, memuntir, atau berubah panjang. Pendinginan cepat dapat menghasilkan gradien temperatur dan tegangan sisa; pendinginan lambat dapat memberi waktu bagi perubahan mikrostruktur yang berbeda. Hasil akhirnya bergantung pada komposisi, kondisi awal, ukuran penampang, dan siklus aktual—bukan pada satu angka suhu yang ditebak.
+
+Perlakuan panas terkontrol dapat ditujukan untuk mengubah kekerasan, tetapi istilah “lebih keras” tidak sama dengan “lebih aman”. Nilai kekerasan tunggal tidak cukup untuk menyimpulkan keuletan atau kemampuan menahan beban. Hubungan itu harus dibuktikan pada material yang benar dan dibandingkan dengan spesifikasi yang berlaku.
+
+Untuk menguji sifat tarik pada temperatur ruang, ISO 6892-1:2019 menjelaskan metode pengujian; ISO 377:2017 dan amendemennya menjelaskan prinsip pengambilan sampel dan benda uji ([ISO 6892-1](https://www.iso.org/standard/78322.html), [ISO 377](https://www.iso.org/standard/72529.html), [ISO 377/Amd 1:2025](https://www.iso.org/standard/89449.html)). Metode itu memberi cara memperoleh data dari spesimen. Metode tersebut tidak sendirinya membuktikan grade, kesesuaian seluruh stok, atau kapasitas elemen yang sudah terpasang.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Suhu, Heat Treatment, dan Perubahan Sifat Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Catat sedikitnya empat kelompok fakta berikut sebelum menarik kesimpulan:
+
+1. **Riwayat panas.** Kapan kejadian mulai dan berhenti, sumber panas, bagian yang terkena, apakah pemanasan merata, bagaimana pendinginan berlangsung, dan apakah ada siklus berulang. Foto, log proses, atau catatan operator membantu, tetapi tidak boleh diperlakukan sebagai pengukuran temperatur bila memang bukan itu.
+2. **Identitas material.** Simpan nomor heat (identitas lebur), dokumen pembelian, mutu atau grade, ukuran, orientasi, dan lokasi bar. Bar dari sumber atau kelompok produksi berbeda tidak boleh digabung hanya karena diameternya sama.
+3. **Perubahan fisik.** Ukur kelurusan, panjang, diameter, ovalitas, retak, lekukan, pengelupasan, dan perubahan sambungan. *Scale*—lapisan oksida akibat pemanasan—dapat mengelupas dan menyembunyikan kondisi logam dasar; pembersihan yang agresif juga bisa menghapus petunjuk.
+4. **Lingkungan setelah kejadian.** Air pemadam, garam, bahan kimia, kondensasi, dan celah dapat menambah risiko korosi. Klasifikasi lingkungan dan pemilihan pelindung harus dimulai dari kondisi paparan serta inspeksi substrat, bukan dari label “cat antikarat” saja. Untuk kerangka umum, lihat [ISO 12944-2:2017](https://www.iso.org/standard/64834.html) dan [ISO 12944-5:2019](https://www.iso.org/standard/77795.html) bila proyek memang memerlukan keputusan pelapisan. Kategori, persiapan, sistem, dan ketahanan lapisan tetap memerlukan bagian standar yang berlaku, data produsen, dan fakta lokasi.
+
+Sobat Besi.co.id, bila satu dari empat kelompok ini kosong, tulis kekosongan itu di lembar pemeriksaan. Jangan mengisi temperatur, durasi, atau grade dengan perkiraan agar formulir tampak lengkap.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Suhu, Heat Treatment, dan Perubahan Sifat Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua bar dengan ukuran sama. Bar pertama memiliki catatan siklus pemanasan dan pendinginan, identitas heat number, serta hasil pemeriksaan yang menunjukkan geometri tetap dalam batas proyek. Bar kedua hanya diketahui “berada dekat api”, dengan permukaan bersisik dan sedikit melengkung. Keduanya tidak boleh menerima keputusan yang sama. Bar pertama masih memerlukan verifikasi kompeten terhadap spesifikasi dan hasil uji; bar kedua memerlukan karakterisasi tambahan atau penahanan penggunaan.
+
+Gunakan urutan keputusan berikut:
+
+| Pertanyaan | Jika jawabannya “ya” | Jika “tidak” atau tidak diketahui |
+|---|---|---|
+| Riwayat panas dan identitas bar terdokumentasi? | Cocokkan dengan spesifikasi produk dan rencanakan inspeksi. | Tahan keputusan pakai ulang; minta rekonstruksi bukti. |
+| Ada perubahan bentuk, retak, atau lapisan oksida tebal? | Petakan lokasi dan minta penilaian teknis. | Lanjutkan pemeriksaan permukaan dan dimensi. |
+| Data uji berasal dari sampel yang mewakili lokasi dan orientasi? | Tinjau metode, unit, kondisi, dan laporan laboratorium. | Jangan menyamakan satu hasil dengan seluruh stok. |
+| Elemen memiliki fungsi keselamatan atau konsekuensi tinggi? | Naikkan ke peninjauan profesional dan dokumentasikan keputusan akhirnya. | Tetap ikuti spesifikasi dan prosedur mutu proyek. |
+
+Jika keputusan menyentuh elemen kritis, pertahankan penanda **[NEEDS GATE-04: rencana sampling, laboratorium, dan kriteria penerimaan proyek]** sampai dokumen tersebut benar-benar tersedia.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Suhu, Heat Treatment, dan Perubahan Sifat Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai warna oksida sebagai “termometer”. Warna dipengaruhi permukaan, atmosfer, waktu, dan pencahayaan; tanpa rekaman terkalibrasi ia tidak menetapkan temperatur puncak. Kesalahan kedua adalah mengukur kekerasan di satu titik lalu menyimpulkan seluruh bar telah berubah seragam. Kesalahan ketiga adalah menganggap hasil tarik satu benda uji sebagai bukti semua batang memenuhi mutu atau grade.
 
-## Objection or shortcut to address
+Buat lembar verifikasi yang mencatat identitas benda uji, lokasi dan orientasi pengambilan, persiapan, metode, kondisi pengujian, unit, nomor laporan, serta keterkaitannya dengan nomor heat atau produk. Tanyakan juga apakah laboratorium memiliki ruang lingkup yang sesuai dan apakah hasil dibandingkan dengan spesifikasi material yang berlaku. Bila jawabannya belum jelas, statusnya adalah “belum dapat diputuskan”, bukan “lulus sementara”.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk komponen yang sudah terpasang, dokumentasikan detail sambungan, riwayat beban dan perubahan penggunaan, korosi, kerusakan, serta temuan inspeksi. Hub inspeksi FHWA dapat menjadi contoh struktur dokumentasi inspeksi, tetapi panduan jembatan tersebut bukan persyaratan bangunan Indonesia dan tidak boleh dipakai untuk menghitung umur sisa atau interval inspeksi proyek Anda ([FHWA bridge inspection](https://www.fhwa.dot.gov/bridge/inspection/)).
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah “luruskan, amplas lapisan oksida, lalu pakai seperti biasa”. Cara itu mungkin menghilangkan tanda visual, tetapi tidak membuktikan bahwa sifat internal, tegangan sisa, atau kapasitas telah kembali seperti semula. Alternatif yang lebih dapat dipertanggungjawabkan adalah menahan material, mengamankan area bila perlu, merekonstruksi riwayat panas, melakukan inspeksi dan pengujian yang disetujui, lalu meminta keputusan tertulis dari pihak kompeten.
 
-## Draft completion checklist
+Kawan Besi.co.id, jangan memulai pemanasan ulang untuk “menormalkan” bar tanpa prosedur yang menetapkan tujuan, siklus, peralatan, dan verifikasi. Pemanasan tambahan justru menambah riwayat termal dan dapat memperbesar ketidakpastian.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Suhu mengubah sifat bar melalui pemuaian, gradien temperatur, perubahan mikrostruktur, tegangan sisa, distorsi, dan pembentukan scale. Heat treatment yang terkendali berbeda dari paparan panas yang tidak tercatat; keduanya tidak dapat dinilai hanya dari tampilan atau satu angka kekerasan.
+
+Langkah berikutnya: hentikan keputusan pakai ulang, kumpulkan catatan riwayat panas dan identitas material, petakan perubahan bentuk/permukaan, lalu susun rencana pengambilan sampel serta peninjauan pihak kompeten. Bila material harus diganti setelah dinyatakan tidak layak, Anda dapat meninjau pilihan [batang AS S45C di Yogyakarta](/jual-as-s45c-yogyakarta) atau [batang ST42 di Yogyakarta](/jual-as-st42-yogyakarta), sambil tetap mencocokkan mutu atau grade dan dokumen dengan spesifikasi proyek. Simpan **[NEEDS GATE-01]** dan **[NEEDS GATE-04]** sampai bukti proyek dan kriteria penerimaan tersedia. Aturan operasionalnya sederhana: tanpa riwayat, benda uji yang mewakili, dan penilaian yang ditinjau, status bar adalah belum terverifikasi—bukan otomatis aman.

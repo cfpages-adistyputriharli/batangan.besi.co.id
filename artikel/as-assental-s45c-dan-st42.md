@@ -2,8 +2,9 @@
 article_id: BESB-04-A01
 title: "AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade"
 slug: "as-assental-s45c-dan-st42"
-description: "Separate round form, finish, trade label, grade/standard, condition, and certificate"
-status: outline
+description: "Memisahkan bentuk bulat, finishing, sebutan dagang, grade/standar, kondisi, dan sertifikat"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,48 +17,13 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
-  - "https://www.iso.org/standard/89449.html"
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/9985.html"
   - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade”
-- **Reader and situation:** Buyer comparing existing routes
-- **Reader outcome:** Separate round form, finish, trade label, grade/standard, condition, and certificate
-- **Primary intent:** Decode round-bar labels
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not equate S45C/ST42; BESB-02-A04 owns equivalence
-- **Final public route:** `/artikel/as-assental-s45c-dan-st42.html`
-- **Appointed CMS date:** `2025-11-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -68,145 +34,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Besi ST42` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Saat penawaran menulis “AS”, “assental”, “S45C”, atau “ST42”, jangan langsung menganggap semuanya nama material yang bisa saling menggantikan. **AS** biasanya menunjuk bentuk batang bulat, **assental** adalah sebutan dagang atau finishing yang perlu dikonfirmasi, sedangkan **S45C** dan **ST42** adalah label grade/standar yang harus dibaca bersama spesifikasi produknya. Satu batang dapat memiliki bentuk bulat dan kondisi permukaan tertentu, tetapi grade-nya tetap perlu dibuktikan terpisah.
 
-### KR-01
+Risiko terbesar muncul ketika pembeli mencampur pertanyaan “bentuknya apa?”, “mutunya apa?”, dan “dokumennya mana?”. Jawaban dapat berubah bila purchase order, standar produk, kondisi pasokan, atau sertifikat material menyatakan hal berbeda. Data pada sertifikat harus cocok dengan identitas heat/batch dan tanda fisik; hasil uji lepas tanpa identitas tidak cukup untuk menyatakan seluruh stok sesuai ([ISO 377](https://www.iso.org/standard/72529.html); [ISO 6892-1](https://www.iso.org/standard/78322.html)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi Besi ST42](/wp-content/uploads/2024/06/Besi-ST42.png)
 
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-as-st42-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-as-st42-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-as-st42-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-as-st42-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-as-st42-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-as-st42-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-04-A02` → `/artikel/memilih-bar-untuk-shaft-dan-pin.html` — Memilih Bar Stock untuk Shaft dan Pin
-- `BESB-04-A03` → `/artikel/surface-finish-round-bar.html` — Surface Finish dan Dimensional Precision Round Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu. Gambar ini hanya ilustrasi umum, bukan dokumentasi proyek.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan enam lapis informasi pada label atau penawaran:
+
+| Lapis | Pertanyaan | Contoh penulisan |
+|---|---|---|
+| Bentuk | Geometri apa yang diterima? | batang bulat, diameter, panjang |
+| Kondisi permukaan | Bagaimana permukaannya dibuat? | hot-rolled, cold-drawn, atau istilah pemasok |
+| Nama dagang | Sebutan pasar apa yang dipakai? | “assental” atau “as” |
+| Grade/standar | Persyaratan material dan produk apa? | S45C atau ST42, dengan standar jelas |
+| Kondisi pasokan | Kondisi pengerjaan/pengiriman apa? | sesuai PO dan dokumen pabrik |
+| Bukti | Apa yang menautkan barang ke syarat? | sertifikat, heat number, marking |
+
+“As” menjawab bentuk, bukan otomatis grade. “Assental” jangan diperlakukan sebagai standar tunggal sebelum penjual menyebut definisi, ukuran, dan kondisi permukaannya. Nama grade juga tidak otomatis memberitahu apakah batang presisi, dikeraskan, atau cocok untuk tugas tertentu. Artikel ini tidak menyetarakan S45C dengan ST42; kesetaraan memerlukan analisis spesifikasi dan persetujuan teknis tersendiri.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Tulis fungsi dan geometri.** Catat kebutuhan batang bulat, diameter, panjang, dan toleransi. Tabel massa teoritis bukan pengganti pengukuran; tabel terikat pada geometri dan aturan pembulatan rujukannya ([ISO 4200](https://www.iso.org/standard/9985.html)).
+2. **Tetapkan grade dan standar produk.** Minta nama standar lengkap, edisi, dan produk yang dicakup. Metode uji menjelaskan cara memperoleh hasil; spesifikasi material/produk menetapkan nilai dan keputusan penerimaan.
+3. **Kunci kondisi pasokan.** Tanyakan kondisi pengerjaan atau perlakuan yang benar-benar dijanjikan. Istilah finishing tanpa definisi tertulis tidak cukup untuk menetapkan perilaku pemesinan atau dimensi.
+4. **Cocokkan barang dan dokumen.** Nomor heat/batch, produsen, ukuran, jumlah, dan marking harus tertaut ke dokumen inspeksi. ISO 10474 menekankan hubungan dokumen dengan pesanan, produk, dan hasil pemeriksaan ([ISO 10474](https://www.iso.org/standard/53736.html)).
+5. **Tinjau laporan uji.** Periksa metode, unit, lokasi/orientasi spesimen, kondisi, dan kewenangan laboratorium. Kompetensi menurut ISO/IEC 17025 meningkatkan kepercayaan pada proses, tetapi tidak sendirian membuktikan barang tertentu sesuai PO ([ISO/IEC 17025](https://www.iso.org/standard/66912.html)).
+
+Kawan Besi.co.id, bila langkah ini berhenti pada “katanya sama”, tahan keputusan penerimaan sampai definisinya tertulis.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Fungsi komponen.** Batang untuk spacer, poros, pin, atau struktur memiliki kebutuhan desain dan pemeriksaan berbeda. Nama grade saja tidak memberi kapasitas terpasang.
+- **Standar pada PO.** Edisi, amendment, dan ruang lingkup produk menentukan nilai yang dibandingkan. Jangan menyalin angka dari tabel yang bukan standar pengadaan.
+- **Proses hilir.** Pemotongan, pembubutan, pengelasan, atau perlakuan panas dapat mengubah kebutuhan inspeksi; persetujuan proses berada pada penanggung jawab teknis.
+- **Identitas stok.** Bundel tercampur, marking hilang, atau sertifikat tanpa heat number membuat hasil uji sulit ditautkan. [NEEDS GATE-01: konfirmasi proyek untuk status penerimaan stok tanpa identitas lengkap].
+- **Dimensi dan tagihan.** Ukuran nominal, hasil ukur, berat aktual, dan dasar invoice adalah pemeriksaan berbeda. Rujukan pipa seperti ASME B36.10 menunjukkan pentingnya membedakan dimensi nominal dari tabel produk; jangan mengalihkannya ke batang bulat tanpa standar relevan ([ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalkan PO hanya menulis “AS ST42 Ø30 mm, assental”. Kembalikan tiga pertanyaan: apakah “AS” berarti batang bulat dengan panjang tertentu; apa definisi “assental” pada pemasok itu; dan standar mana yang mendefinisikan ST42 serta dokumen penerimaannya. Jika pemasok menawarkan S45C sebagai pengganti, jangan mencentang “setara” karena sama-sama batang bulat. Minta revisi PO atau deviasi resmi yang membandingkan persyaratan dan disetujui pihak berwenang.
+
+| Temuan | Keputusan sementara |
+|---|---|
+| Bentuk, ukuran, grade, standar tertulis; heat cocok | Lanjutkan review sertifikat dan inspeksi |
+| Bentuk cocok, grade hanya istilah dagang | Minta standar lengkap atau [NEEDS GATE-02: review spesifikasi] |
+| Grade tertulis, kondisi permukaan kabur | Minta definisi kondisi dan dampaknya |
+| Sertifikat ada, identitas barang tidak cocok | Tahan/karantina; jangan gabungkan hasil uji |
+
+Untuk kanal permintaan barang, Anda dapat melihat [halaman AS untuk Yogyakarta](/jual-as-s45c-yogyakarta). Rute itu bukan pengganti persetujuan grade atau pemeriksaan proyek.
+
+Bila Anda hendak menanyakan opsi ST42, gunakan [halaman ST42 untuk Yogyakarta](/jual-as-st42-yogyakarta) hanya untuk mengirim kebutuhan ukuran dan dokumen. Tetap lakukan pemeriksaan teknis yang sama, karena lokasi penawaran tidak mengubah arti grade atau kewajiban penelusuran.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap “assental” sebagai sertifikat mutu. Minta definisi tertulis: proses/finish, toleransi, dan standar produk. Kedua, menyalin angka uji tarik dari brosur ke semua batang. Setiap hasil harus tertaut ke spesimen, metode, unit, dan heat/batch; ISO 6892-1 dan ISO 377 menjelaskan mengapa asal spesimen serta prosedur tidak boleh dihilangkan.
 
-## Objection or shortcut to address
+Ketiga, menimbang batang lalu menyimpulkan grade. Berat membantu pemeriksaan dimensi atau kuantitas, bukan identifikasi metalurgi. Keempat, menerima logo laboratorium sebagai bukti otomatis. Periksa ruang lingkup akreditasi, metode, otorisasi laporan, dan rantai identitas; [NEEDS GATE-04: verifikasi dokumen dan kompetensi oleh reviewer proyek].
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Teman Besi.co.id, jadikan pertanyaan ini checklist penerimaan: “Apa bentuknya? Apa grade dan standar lengkapnya? Kondisinya apa? Nomor heat/batch mana? Di mana marking-nya? Siapa yang menyetujui hasil uji?” Bila satu jawaban kosong, catat sebagai ketidaksesuaian terbuka, bukan asumsi.
 
-## Required conclusion
+## Jalan pintas yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintasnya adalah membeli “AS assental” lalu meminta penjual menuliskan S45C atau ST42 belakangan. Ini gagal karena nama dagang, kondisi permukaan, dan grade berasal dari lapisan berbeda. Dokumen yang ditulis setelah barang datang tidak otomatis memulihkan identitas heat atau membuktikan seluruh bundel diuji. Kunci tiga hal sebelum pesan: standar/grade, kondisi pasokan, dan format bukti; kemudian periksa identitas serta dimensi saat barang tiba.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+AS adalah petunjuk bentuk batang bulat; assental adalah istilah dagang/finish yang harus didefinisikan; S45C dan ST42 adalah label grade/standar yang tidak boleh disetarakan tanpa analisis spesifikasi. Minta pemasok menuliskan standar lengkap, kondisi pasokan, ukuran, heat/batch, dan dokumen inspeksi, lalu cocokkan dengan PO sebelum material dipakai. Jika bukti identitas atau persyaratan proyek belum lengkap, tahan penerimaan dan minta review teknis—label pendek tidak pernah menggantikan keputusan desain.

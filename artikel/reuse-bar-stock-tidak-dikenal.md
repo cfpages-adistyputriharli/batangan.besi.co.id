@@ -2,8 +2,9 @@
 article_id: BESB-14-A04
 title: "Reuse Bar Stock yang Tidak Dikenal"
 slug: "reuse-bar-stock-tidak-dikenal"
-description: "Require provenance, identity/testing, geometry, condition, alterations, exposure, weldability, new use, and approval"
-status: outline
+description: "Menilai asal-usul, identitas dan pengujian, geometri, kondisi, perubahan, paparan, kemampuan las, penggunaan baru, serta persetujuan teknis"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,42 +20,89 @@ sources:
   - "https://www.fhwa.dot.gov/bridge/inspection/"
   - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
   - "https://worldsteel.org/wider-sustainability/circular-economy/"
-  - "https://worldsteel.org/media/publications/steel-permanent-circular-economy/"
   - "https://www.aisc.org/aisc/sustainability/recycling/"
   - "https://www.iso.org/standard/83054.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Reuse Bar Stock yang Tidak Dikenal
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Bar stock bekas yang asal-usulnya tidak dikenal belum layak langsung dipakai ulang sebagai komponen struktur atau mesin. Keputusan yang aman bukan “terlihat masih bagus berarti boleh”, melainkan “bukti identitas, kondisi, kecocokan penggunaan baru, dan persetujuan teknisnya cukup atau belum”. Jika bukti kunci tidak dapat dibangun, pilihan yang lebih jujur adalah menurunkan fungsi, memisahkan untuk proses lain, atau mendaur ulang—bukan menebak kelas materialnya.
 
-- **Writer task:** Expand this file into one complete article answering: “Reuse Bar Stock yang Tidak Dikenal”
-- **Reader and situation:** Owner salvaging stock
-- **Reader outcome:** Require provenance, identity/testing, geometry, condition, alterations, exposure, weldability, new use, and approval
-- **Primary intent:** Assess reuse feasibility
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not approve reuse; BESB-02-A06 and BESB-12-A04 own verification
-- **Final public route:** `/artikel/reuse-bar-stock-tidak-dikenal.html`
-- **Appointed CMS date:** `2026-07-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Reuse masih mungkin bila batang dapat diberi identitas unik, riwayat dan paparan sebelumnya dapat ditelusuri secukupnya, geometri serta kondisi aktual terukur, dan penggunaan baru dinilai oleh tenaga kompeten. Penilaian kondisi eksisting memang lazim dimulai dari tujuan, konsekuensi, dokumen, survei, identitas material, geometri, riwayat pemakaian, perubahan, kerusakan, pengujian, analisis, serta disposisi yang ditinjau ([ISO 13822:2010](https://www.iso.org/standard/46556.html)). Untuk kasus tanpa data dasar, hasil akhirnya dapat berupa “belum dapat disetujui”, bukan angka kekuatan yang dibuat-buat.
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Reuse Bar Stock yang Tidak Dikenal**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal; gambar ini hanya ilustrasi umum dan bukan dokumentasi proyek tertentu.*
 
+## Definisi dan batas objek
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Yang dimaksud di sini adalah batangan baja hasil bongkaran, sisa stok, atau komponen lepas yang label, sertifikat, dan sejarah penggunaannya tidak lengkap. “Tidak dikenal” berarti identitasnya belum terbukti, bukan otomatis berarti mutunya buruk. Sebaliknya, karat tipis, cat baru, atau permukaan yang sudah dibersihkan juga tidak membuktikan kelas, proses pembuatan, atau kapasitasnya.
+
+Artikel ini membahas penyaringan kelayakan reuse. Ia tidak menetapkan mutu baja, menggantikan pengujian laboratorium, menghitung kapasitas, atau mengeluarkan persetujuan proyek. Standar dan panduan publik hanya membantu membangun proses; standar asing bukan otomatis persyaratan bangunan Indonesia. **[NEEDS GATE-01: verifikasi standar yang berlaku dan teks lengkapnya untuk aplikasi aktual]** serta **[NEEDS GATE-02: tetapkan dasar aturan Indonesia, spesifikasi proyek, dan jalur persetujuan]** sebelum keputusan definitif.
+
+Reuse berbeda dari recycle. Reuse mempertahankan benda dan sebagian nilai produknya; recycle mengembalikan baja sebagai bahan baku sehingga identitas batang semula hilang. World Steel Association dan AISC menjelaskan perbedaan nilai tersebut, tetapi keduanya bukan sertifikat material, analisis jejak karbon proyek, atau bukti kepatuhan limbah Indonesia ([worldsteel circular economy](https://worldsteel.org/wider-sustainability/circular-economy/); [AISC recycling and deconstruction](https://www.aisc.org/aisc/sustainability/recycling/)).
+
+## Cara kerjanya
+
+Mulailah dengan karantina dan pencatatan, bukan pemotongan. Beri setiap batang nomor unik; foto tanda yang tersisa; catat panjang, penampang, diameter, berat terukur, lubang, ulir, sambungan, dan lokasi ditemukan. Simpan dokumen pembelian, gambar lama, daftar aset, catatan bongkar, serta pernyataan pemilik sebelumnya. Jika dua batang tampak serupa tetapi tidak dapat dibedakan, perlakukan sebagai lot terpisah sampai identitasnya terbukti.
+
+Berikut urutan kerja yang dapat dipakai pemilik stok:
+
+1. **Tetapkan penggunaan baru dan konsekuensinya.** Balok penyangga, poros berputar, pagar, dan elemen nonstruktural memiliki tuntutan berbeda. Catat beban, siklus, sambungan, akses inspeksi, dan akibat kegagalan. Jangan menyatakan batang “aman” sebelum fungsi dan konsekuensi ini jelas.
+2. **Bangun identitas material.** Cocokkan nomor heat, tanda pada batang, dokumen pemasok, atau rekam manufaktur bila ada. Bila tidak ada, minta rencana pengambilan sampel dan pengujian untuk memeriksa komposisi atau sifat yang relevan. Hasil satu benda uji tidak boleh otomatis mewakili semua batang.
+3. **Ukur geometri aktual.** Verifikasi kelurusan, diameter atau sisi, penipisan, ovalitas, panjang efektif, takik, dan perubahan penampang. Pengukuran harus dicatat dengan alat, lokasi, dan toleransi yang disepakati pada proyek.
+4. **Periksa kondisi dan riwayat.** Petakan korosi, retak, gouge, bekas panas, deformasi, lubang tambahan, bekas las, dan area yang tidak dapat diakses. Riwayat beban, getaran, tumbukan, kebakaran, bahan kimia, kelembapan, dan penyimpanan memengaruhi interpretasi temuan.
+5. **Nilai sambungan dan kemampuan las.** Kemampuan dilas tidak boleh disimpulkan dari warna percikan atau keberhasilan tukang pada satu titik. Komposisi, ketebalan, proses, bahan tambah, pemanasan, dan prosedur perlu ditetapkan oleh personel kompeten. Bila bukti tidak memadai, pilih sambungan mekanis atau turunkan fungsi hanya setelah desain menilainya.
+6. **Analisis dan tinjau.** Insinyur atau penilai yang berwenang menghubungkan data batang, detail sambungan, beban, lingkungan, serta konsekuensi kegagalan. FHWA menekankan bahwa peninjauan retak lelah dan patah memerlukan identitas detail, sejarah beban, konteks tegangan, riwayat material/fabrikasi/las, korosi, kerusakan, dan temuan sebelumnya ([fatigue and fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf)). Panduan itu berasal dari konteks jembatan Amerika Serikat, jadi gunakan sebagai kerangka pertanyaan, bukan aturan bangunan Indonesia.
+7. **Tetapkan keputusan dan kendali.** Hasil dapat berupa reuse dengan pembatasan, perbaikan yang dirancang, penggunaan nonkritis, atau recycle. Tandai batang yang lolos secara administratif, simpan berkas penelusuran, dan tetapkan pemeriksaan ulang saat serah terima. ISO 55001 mengaitkan identitas aset, kondisi dasar, keputusan intervensi, dan tinjauan berikutnya dalam sistem pengelolaan aset ([ISO 55001:2024](https://www.iso.org/standard/83054.html)).
+
+Selama pemeriksaan, area kerja, pengangkatan, pemotongan, pembersihan, dan pengujian memerlukan metode kerja serta kontrol K3 khusus. **[NEEDS GATE-07: persetujuan personel kompeten, akses/lifting, zona eksklusi, APD, tanggap darurat, dan kondisi stop-work]** harus tersedia sebelum pekerjaan berisiko dimulai.
+
+## Faktor yang mengubah hasil
+
+Beberapa faktor sering mengubah keputusan meski batang terlihat identik:
+
+- **Konsekuensi fungsi baru.** Elemen yang kegagalannya membahayakan orang atau menghentikan operasi memerlukan tingkat bukti lebih tinggi daripada spacer atau dudukan sementara.
+- **Detail dan perubahan.** Lubang baru, ulir, alur pasak, penggerindaan, pelurusan, atau pengelasan mengubah luas efektif dan titik konsentrasi tegangan. Catat siapa yang mengerjakan dan kapan, bila informasinya ada.
+- **Paparan.** Air asin, uap kimia, tanah, panas, siklus basah-kering, dan penyimpanan terbuka dapat menimbulkan kerusakan yang tidak tampak pada satu sisi. Bersihkan secukupnya untuk inspeksi, tetapi jangan menghapus jejak sebelum didokumentasikan.
+- **Akses dan pemantauan.** Bagian yang tertutup atau sulit diukur menambah ketidakpastian. Rencana inspeksi dan pemantauan harus mengikuti risiko proyek, bukan interval yang dipinjam dari sumber lain ([FHWA bridge inspection hub](https://www.fhwa.dot.gov/bridge/inspection/)).
+- **Bukti produk dan aturan.** Lembar data atau label lama tidak menggantikan bukti yang dapat ditelusuri ke batang yang ditawarkan. **[NEEDS GATE-04: kumpulkan lembar data, laporan uji, konfigurasi, keterbatasan, dan bukti terkini yang dapat ditelusuri ke produk/sistem aktual]**.
+
+Kawan Besi.co.id, ketika satu faktor penting kosong, tulis “belum diketahui” di daftar pemeriksaan. Pernyataan itu lebih berguna daripada mengisi kolom dengan perkiraan.
+
+## Contoh keputusan praktis
+
+Gunakan tabel berikut sebagai penyaring awal, bukan surat persetujuan:
+
+| Kondisi bukti | Keputusan sementara | Tindakan berikutnya |
+|---|---|---|
+| Tanda pada batang dan dokumen cocok; geometri serta kondisi terukur; penggunaan baru jelas | Kandidat reuse bersyarat | Minta analisis dan persetujuan teknis, lalu simpan berkas penelusuran |
+| Identitas sebagian ada, tetapi riwayat beban atau paparan kosong | Tahan untuk penilaian | Tambah survei, pengujian, dan batasan fungsi; jangan pasang dulu |
+| Retak, deformasi besar, penipisan, atau bekas panas belum dievaluasi | Karantina | Hentikan pengerjaan dan panggil pemeriksa kompeten |
+| Tidak ada identitas, dokumen, atau cara sampling yang dapat dipertanggungjawabkan | Jangan gunakan untuk fungsi konsekuensial | Pertimbangkan penggunaan nonkritis yang dirancang atau alihkan ke recycle |
+
+Contoh ini sengaja tidak memberi angka penerimaan. Nilai yang tepat bergantung pada penampang, material, detail, beban, lingkungan, dan aturan proyek. Jika penilai tidak dapat menghubungkan kesimpulan ke nomor batang dan data uji, keputusan belum siap ditandatangani.
+
+## Kesalahan umum dan cara memeriksanya
+
+1. **Menganggap “besi as” sebagai kelas material.** Tanyakan: dokumen apa yang menghubungkan istilah dagang itu ke spesifikasi dan batang tertentu?
+2. **Mengandalkan inspeksi visual singkat.** Tanyakan: sisi mana yang tidak terlihat, dan adakah metode untuk menemukan retak atau penipisan tersembunyi?
+3. **Mencampur lot tanpa identitas.** Tanyakan: apakah setiap batang memiliki nomor, riwayat, dan hasil pemeriksaan sendiri?
+4. **Mengelas dulu, menguji kemudian.** Tanyakan: siapa yang menetapkan kemampuan las dan prosedur sebelum perubahan dilakukan?
+5. **Menyamakan reuse dengan klaim hijau otomatis.** Tanyakan: apakah ada perhitungan proyek dan bukti rantai pasok, atau hanya slogan industri?
+6. **Menganggap hasil penilaian sebagai persetujuan.** Tanyakan: siapa yang berwenang menyetujui desain, metode kerja, dan serah terima di yurisdiksi proyek?
+
+## Jalan pintas yang tampak praktis, tetapi berisiko
+
+Jalan pintas yang sering dipilih adalah mengukur diameter, mengamplas satu titik, lalu memakai batang pada fungsi lama karena “dulu sudah bekerja”. Cara ini gagal ketika beban, detail sambungan, paparan, atau kondisi setelah bongkar berbeda. Ia juga menghapus bukti permukaan sebelum dicatat. Alternatif yang lebih dapat dipertanggungjawabkan: karantina, dokumentasikan kondisi awal, tetapkan penggunaan baru, lalu minta rencana pemeriksaan dan keputusan tertulis dari pihak kompeten. Catatan inspeksi jembatan FHWA menunjukkan pentingnya riwayat temuan, akses, dan tindak lanjut; gunakan prinsip pencatatannya tanpa mengimpor aturan jembatan ke proyek Anda ([FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)).
+
+Teman Besi.co.id, simpan salinan daftar dan keputusan itu bersama batangnya. Jika kebutuhan akhirnya beralih ke material baru, Anda dapat membandingkan konteks produk melalui [baja S45C di Yogyakarta](/jual-as-s45c-yogyakarta) atau [baja ST42 di Yogyakarta](/jual-as-st42-yogyakarta); kedua rute itu bukan bukti bahwa batang bekas ini setara. Untuk pemeriksaan lanjutan, berikan daftar tersebut kepada penilai kompeten agar setiap kesimpulan tetap terhubung ke nomor batang dan bukti yang tersedia.
+
+## Kesimpulan
+
+Reuse bar stock yang tidak dikenal hanya layak dipertimbangkan setelah identitas, geometri, kondisi, perubahan, paparan, kemampuan las, penggunaan baru, dan jalur persetujuan dapat dibuktikan. Langkah Anda sekarang: karantina dan beri nomor setiap batang, kumpulkan berkas asal, buat peta kondisi, lalu minta penilai kompeten menetapkan kebutuhan uji dan analisis. Jika **[NEEDS GATE-01]**, **[NEEDS GATE-02]**, **[NEEDS GATE-04]**, atau **[NEEDS GATE-07]** belum tertutup, jangan pasang pada fungsi konsekuensial. Aturan operasinya sederhana: tidak ada bukti yang dapat ditelusuri, tidak ada persetujuan reuse.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -65,143 +113,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-### KR-27
-
-- **Original sources:** [worldsteel circular economy](https://worldsteel.org/wider-sustainability/circular-economy/), [worldsteel circular-economy publication](https://worldsteel.org/media/publications/steel-permanent-circular-economy/), and [AISC recycling/deconstruction overview](https://www.aisc.org/aisc/sustainability/recycling/)
-- **Purpose for this article:** Define reduce, reuse, remanufacture, and recycle while preserving structural reuse and waste-law gates.
-- **Safe grounded facts:** Reuse can retain more product value but requires provenance, condition, geometry, material/weldability evidence, alterations/exposure history, new use, testing rationale, and design approval. Recycling does not preserve a member's identity or certify recycled-content/environmental claims.
-- **Limits:** Industry sustainability claims are not project LCAs, material certification, structural approval, or Indonesian waste compliance. Obtain project evidence, licensed assessment, current waste rules, and authorized routes through G-14/G-17.
-
-### KR-28
-
-- **Original sources:** [ISO 55001:2024 — asset-management-system requirements](https://www.iso.org/standard/83054.html) and [ISO 13822:2010](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Support asset register, baseline inspection, recurring condition review, intervention choice, and handover.
-- **Safe grounded facts:** A useful steel-asset baseline links unique identity/location/function to drawings/dossier, material/fabrication evidence, geometry, coating, connections, environment, condition/photos, defects, access, actions, inspections, changes, decisions, and next review.
-- **Limits:** The asset-management abstract does not prescribe inspection interval, defect limit, repair, or structural acceptance. The owner and competent disciplines must define the risk-based plan using project facts through G-14/G-18. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `BESB-01` | KR-01, KR-02, KR-05, KR-08, KR-21 | Solid bar taxonomy and terminology; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-06; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-02` | KR-01, KR-05, KR-07, KR-22, KR-23 | Grades, standards, certificates, traceability; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-03` | KR-01, KR-08, KR-15, KR-21, KR-23 | Dimensions, tolerances, mass, and quantity; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-04` | KR-01, KR-03, KR-05, KR-07, KR-08 | Round bar, shafting, S45C and ST42 labels; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-05` | KR-01, KR-02, KR-08, KR-15, KR-20 | Square/nako and twisted decorative bars; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-06` | KR-01, KR-05, KR-06, KR-07, KR-21 | Reinforcing bar systems; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-07` | KR-01, KR-03, KR-16, KR-24, KR-26 | Properties, selection, and failure behavior; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-08` | KR-01, KR-03, KR-07, KR-15, KR-20 | Cutting and machining; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-09` | KR-01, KR-03, KR-15, KR-20, KR-26 | Bending, twisting, forging, and heat treatment; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-10` | KR-01, KR-12, KR-13, KR-14, KR-20 | Welding and mechanical joining; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-11` | KR-01, KR-16, KR-17, KR-18, KR-21 | Corrosion, coatings, and storage preservation; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-05, GATE-06, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-12` | KR-01, KR-03, KR-07, KR-22, KR-23 | Procurement, QA, testing, and handover; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-08; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-13` | KR-01, KR-18, KR-19, KR-20, KR-21 | Transport, handling, storage, and K3; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `BESB-14` | KR-01, KR-24, KR-26, KR-27, KR-28 | Inspection, repair, reuse, and end of life; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-04, GATE-07; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | Coverage result: **14/14 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A definition, method, regulation, product claim, and complete-system result are different evidence layers. 2. A source supports only its stated jurisdiction, edition, product, specimen, configuration, conditions, and public scope. 3. Standards abstracts identify documents and visible scope; exact requirements require the current full text. 4. Foreign standards and industry guidance do not automatically become Indonesian legal requirements. 5. Procurement and handover claims require current project, supplier, contract, test, warranty, and traceability evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `GATE-01` licensed standards | `BESB-01`, `BESB-02`, `BESB-03`, `BESB-04`, `BESB-05`, `BESB-06`, `BESB-07`, `BESB-08`, `BESB-09`, `BESB-10`, `BESB-11`, `BESB-12`, `BESB-13`, `BESB-14` | Obtain and review current applicable standards before using exact requirements, tolerances, classifications, test values, or acceptance criteria. | | `GATE-02` Indonesian application and approval basis | `BESB-01`, `BESB-02`, `BESB-03`, `BESB-04`, `BESB-05`, `BESB-06`, `BESB-07`, `BESB-08`, `BESB-09`, `BESB-10`, `BESB-11`, `BESB-12`, `BESB-13`, `BESB-14` | Identify the current Indonesian national/local rule, approval path, and project specification that govern the actual application. | | `GATE-03` qualified technical design | `BESB-05` | A competent professional must verify design inputs, loads, interfaces, failure consequences, and the complete installed configuration. | | `GATE-04` current product/system evidence | `BESB-01`, `BESB-02`, `BESB-03`, `BESB-04`, `BESB-05`, `BESB-06`, `BESB-07`, `BESB-08`, `BESB-09`, `BESB-10`, `BESB-11`, `BESB-12`, `BESB-13`, `BESB-14` | Obtain exact current datasheets, test reports, listings/certificates, configurations, limitations, and evidence traceable to the offered product/system. | | `GATE-05` manufacturer compatibility and instructions | `BESB-05`, `BESB-11` | Obtain written compatibility, processing, installation, cleaning, maintenance, cure, and warranty instructions for selected materials/products. | | `GATE-06` site, user, and exposure facts | `BESB-01`, `BESB-11` | Verify dimensions, supports/substrates, environment, access, users, existing condition, interfaces, drainage, and operational constraints. | | `GATE-07` K3 and safe execution | `BESB-10`, `BESB-11`, `BESB-14` | Approve task-specific competent personnel, method, access/lifting controls, exclusion zones, PPE, emergency response, and stop-work conditions. | | `GATE-08` commercial, contract, and handover facts | `BESB-12` | Verify current scope, quotation assumptions, competence, submittals, exclusions, schedule, warranty, QC, traceability, and handover records. | ## Source-refresh triggers Recheck a record immediately when: - an Indonesian law, regulation, or official standard status changes; - a standards body publishes a new edition used by the article; - a manufacturer changes product scope, instructions, compatibility, test evidence, or warranty; - an article introduces a number, price, rating, classification, compliance statement, or safety procedure; - the target project/application differs from the exemplar's jurisdiction, user, product, configuration, or operating environment. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-14-A02` → `/artikel/gejala-kerusakan-bar-stock.html` — Retak, Bend, Wear, dan Deformasi pada Bar
-- `BESB-14-A03` → `/artikel/repair-atau-replace-bar-component.html` — Repair, Straighten, Re-Machine, atau Replace
-- `BESB-14-A05` → `/artikel/deconstruction-komponen-bar.html` — Deconstruction dan Salvage Komponen Batangan
-- `BESB-14-A06` → `/artikel/recycling-besi-batangan.html` — Sorting, Scrap, dan Recycling Besi Batangan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Reuse Bar Stock yang Tidak Dikenal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Reuse Bar Stock yang Tidak Dikenal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Reuse Bar Stock yang Tidak Dikenal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Reuse Bar Stock yang Tidak Dikenal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Reuse Bar Stock yang Tidak Dikenal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Reuse Bar Stock yang Tidak Dikenal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

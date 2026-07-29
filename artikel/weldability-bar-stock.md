@@ -2,8 +2,9 @@
 article_id: BESB-10-A02
 title: "Weldability dan Carbon Equivalent pada Bar"
 slug: "weldability-bar-stock"
-description: "Explain chemistry source, thickness/diameter, restraint, hydrogen, heat input, toughness, and condition"
-status: outline
+description: "Panduan menilai sumber kimia, diameter atau ketebalan, kekangan, hidrogen, masukan panas, ketangguhan, dan kondisi bar sebelum pengelasan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,45 +19,9 @@ sources:
   - "https://www.iso.org/standard/68893.html"
   - "https://www.iso.org/standard/83737.html"
   - "https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/"
-  - "https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/"
-  - "https://www.iso.org/standard/85705.html"
-  - "https://www.iso.org/standard/75614.html"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Weldability dan Carbon Equivalent pada Bar
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Weldability dan Carbon Equivalent pada Bar”
-- **Reader and situation:** Engineer reviewing chemistry
-- **Reader outcome:** Explain chemistry source, thickness/diameter, restraint, hydrogen, heat input, toughness, and condition
-- **Primary intent:** Understand weldability inputs
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not set preheat or approve weld; qualified procedure owns it
-- **Final public route:** `/artikel/weldability-bar-stock.html`
-- **Appointed CMS date:** `2026-04-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Weldability dan Carbon Equivalent pada Bar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,142 +32,79 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Weldability dan Carbon Equivalent pada Bar
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id! Bar yang mudah dilas bukan sekadar bar dengan angka carbon equivalent (CE) rendah. Dalam peninjauan awal, CE membantu membaca kecenderungan material terhadap pengerasan dan retak akibat hidrogen, tetapi keputusan pengelasan tetap bergantung pada kimia aktual, diameter atau ketebalan, kekakuan sambungan, hidrogen, masukan panas, tuntutan ketangguhan, dan kondisi material saat dikerjakan.
 
-### KR-01
+Jadi, jangan menjadikan satu angka CE sebagai izin otomatis untuk mengelas. Mulailah dari nomor lebur (heat number) dan sertifikat material, cocokkan dimensi serta kondisi pasok dengan sambungan, lalu biarkan prosedur pengelasan (WPS), rekaman kualifikasinya (PQR), dan koordinasi pengelasan yang memenuhi syarat menentukan parameter. Rangkaian mutu seperti persyaratan ISO 3834-2, koordinasi ISO 14731, dan pengendalian peralatan ISO 17662 menempatkan material, prosedur, personel, peralatan, inspeksi, dan rekaman sebagai satu rantai bukti ([ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 14731:2019](https://www.iso.org/standard/68893.html), [ISO 17662:2025](https://www.iso.org/standard/83737.html)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-12
-
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
-
-### KR-13
-
-- **Original sources:** [AWS D1.1/D1.1M:2025-AMD1 official page](https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/) and [AWS D1 Committee published-document page](https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/)
-- **Purpose for this article:** Give structural-welding articles a current discovery source while preventing automatic or out-of-scope adoption.
-- **Safe grounded facts:** AWS explicitly says the code is not automatically law and becomes binding when adopted by a contract, project specification, or regulatory requirement. Its scope is structural steel, not every appliance, pressure system, stainless product, rebar weld, or repair.
-- **Limits:** Confirm governing Indonesian/project adoption, current amendment/errata, material and joint scope, engineer modifications, and full licensed code through G-01/G-07.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-10-A01` → `/artikel/bukti-sebelum-mengelas-bar-stock.html` — Bukti sebelum Mengelas Besi Batangan
-- `BESB-10-A03` → `/artikel/dokumen-pengelasan-bar-stock.html` — WPS, PQR, Welder, dan Consumable Control
-- `BESB-10-A04` → `/artikel/cacat-las-sambungan-bar.html` — Cacat Las dan NDT pada Sambungan Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Weldability dan Carbon Equivalent pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal ini adalah ilustrasi umum, bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Weldability dan Carbon Equivalent pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Weldability adalah seberapa masuk akal suatu bar dapat dibuat menjadi sambungan yang memenuhi persyaratan tanpa cacat atau perubahan sifat yang tidak dapat diterima, bila proses, bahan tambah, dan kendalinya sesuai. Istilah ini berbeda dari “bisa menyala busur las”: busur dapat hidup, tetapi zona terpengaruh panas masih mungkin menjadi terlalu keras, kehilangan ketangguhan, atau retak setelah pendinginan.
+
+CE adalah cara merangkum pengaruh unsur paduan dari analisis kimia ke indikator risiko pengelasan. Rumus yang dipakai harus berasal dari spesifikasi material atau standar aplikasi yang disepakati; jangan mencampur rumus untuk tujuan yang berbeda. Nilai CE bukan hasil uji sambungan, bukan jaminan bebas retak, dan bukan pengganti WPS yang disetujui. **[NEEDS GATE-01: definisi, rumus, dan ambang CE harus dikonfirmasi pada spesifikasi material serta standar aplikasi yang berlaku.]**
+
+Batas artikel ini adalah input keputusan untuk bar baja. Artikel ini tidak menetapkan suhu pemanasan awal, suhu antar-lapis, arus, tegangan, kecepatan, bahan tambah, atau penerimaan cacat. Semua itu milik prosedur yang dikualifikasi dan persetujuan proyek. **[NEEDS GATE-01: standar aplikasi, spesifikasi material, dan dokumen pengelasan yang berlaku harus ditetapkan oleh penanggung jawab teknis.]**
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Weldability dan Carbon Equivalent pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan praktisnya dimulai dari identitas material. Ambil nomor lebur (heat number), kelas material (grade), ukuran, kondisi pasok, dan sertifikat analisis kimia. Pastikan sertifikat itu merujuk ke bar yang benar, bukan hanya ke nama produk atau pemasok. Dari unsur yang benar-benar dilaporkan, pihak yang berwenang memilih rumus CE yang relevan dan membaca kecenderungan pengerasan; angka tersebut lalu dibandingkan dengan ketebalan, kekangan, dan proses yang akan dipakai.
+
+Selanjutnya, prosedur mengendalikan sumber hidrogen dan laju pendinginan. Kelembapan pada bahan tambah, permukaan berkarat atau berminyak, dan lingkungan kerja dapat menambah risiko. Masukan panas mengubah siklus termal: terlalu kecil dapat mempercepat pendinginan dan menaikkan kekerasan lokal, sedangkan terlalu besar dapat merusak ketangguhan atau memperlebar zona terpengaruh panas. Karena hubungan ini saling tarik-menarik, parameter tidak boleh dipilih hanya dari CE.
+
+Koordinasi pengelasan memastikan persyaratan, personel, peralatan, bahan, inspeksi, ketidaksesuaian, dan rekaman tersambung. Peralatan pengukuran dan pemantauan yang dipakai dalam proses juga perlu dikalibrasi atau diverifikasi sesuai kebutuhan ([ISO 17662:2025](https://www.iso.org/standard/83737.html)). Pemeriksaan akhir tidak dapat memulihkan variabel penting yang sejak awal tidak dikendalikan; itulah sebabnya rekaman aktual dari pengelasan penting.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Weldability dan Carbon Equivalent pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kimia dan sumber data.** Analisis heat yang tertelusur lebih berguna daripada asumsi grade. Unsur karbon, mangan, kromium, molibdenum, nikel, tembaga, dan unsur lain yang masuk ke rumus harus berasal dari dokumen yang sama dan berada dalam batas spesifikasi. Jika sertifikat tidak lengkap atau heat number tidak cocok, CE belum layak dipakai untuk keputusan.
+
+Nama grade pada halaman pemasok hanya membantu menemukan kandidat material. Untuk membandingkan contoh bar, Anda dapat melihat rute [besi as S45C di Yogyakarta](/jual-as-s45c-yogyakarta) atau [besi as ST42 di Yogyakarta](/jual-as-st42-yogyakarta), lalu tetap minta sertifikat nomor lebur dan cocokkan ukuran serta kondisi pasoknya; rute produk itu bukan bukti bahwa sambungan tertentu telah memenuhi syarat.
+
+**Diameter atau ketebalan.** Penampang lebih besar menyimpan panas dan dapat mengubah laju pendinginan, tetapi geometri sambungan dan urutan pengelasan juga menentukan. Karena itu, “diameter kecil pasti aman” atau “bar besar pasti harus dipanaskan” adalah kesimpulan yang belum cukup bukti.
+
+**Kekangan (restraint).** Sambungan yang tidak leluasa menyusut menahan tegangan sisa lebih tinggi. Las titik (tack weld), urutan, celah, detail simpul, dan anggota yang sudah terpasang dapat mengubah kekangan dari satu lokasi ke lokasi lain. Teman Besi.co.id, minta penilaian terhadap sambungan aktual, bukan hanya potongan bar di meja.
+
+**Hidrogen dan kebersihan.** Sumber hidrogen harus dicari pada bahan tambah, penyimpanan, kelembapan, pelapis, minyak, dan kontaminasi. Pengendalian tersebut perlu dicatat di prosedur dan pelaksanaan; jangan menyamakan label “rendah hidrogen” (low hydrogen) dengan bukti bahwa seluruh sistem tetap kering.
+
+**Masukan panas (heat input) dan ketangguhan.** Masukan panas adalah variabel proses, bukan sifat tetap bar. Rentang yang disetujui harus menjaga kombinasi kekerasan, kekuatan, dan ketangguhan yang diminta desain. Jika sambungan berada pada kondisi temperatur rendah, beban dinamis, atau tuntutan ketangguhan patah (fracture toughness), bukti kualifikasi dan kriteria penerimaan harus diperiksa lebih ketat. **[NEEDS GATE-04: persyaratan ketangguhan dan rentang masukan panas harus dikonfirmasi dari desain serta standar aplikasi.]**
+
+**Kondisi material.** Bar yang telah dibentuk, dipotong termal, dilapisi, atau mengalami pemanasan sebelumnya tidak identik dengan bar setelah pengerolan (as-rolled). Catatan proses dan pemeriksaan permukaan membantu menjelaskan perubahan yang mungkin terjadi sebelum pengelasan dimulai.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Weldability dan Carbon Equivalent pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai penyaring awal, bukan persetujuan pengelasan:
+
+| Temuan awal | Pertanyaan berikutnya | Konsekuensi keputusan |
+|---|---|---|
+| CE tidak dapat dihitung dari heat yang tertelusur | Apakah analisis kimia pengganti sah dan disetujui? | Tahan keputusan sampai identitas material jelas. |
+| CE tersedia, tetapi sambungan sangat terkekang | Bagaimana detail, urutan, dan penyusutan dikendalikan? | Minta tinjauan prosedur dan risiko retak; CE saja tidak cukup. |
+| Bar besar dengan permukaan lembap atau kotor | Apa sumber hidrogen dan bagaimana dikendalikan? | Hentikan persiapan sampai kondisi bahan dan bahan tambah terdokumentasi. |
+| Ketangguhan desain penting | Bukti kualifikasi mana yang mencakup dimensi dan heat input ini? | Jangan menyalin parameter dari sambungan lain. |
+
+Misalnya, dua bar dapat memiliki CE serupa tetapi berbeda diameter dan kekangan. Yang perlu dibandingkan adalah rentang kondisi yang dicakup kualifikasi, bukan angka CE secara terpisah. **[NEEDS GATE-07: kecukupan bukti kualifikasi untuk kombinasi material, dimensi, sambungan, dan proses harus dinilai oleh koordinator/insinyur.]**
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Weldability dan Carbon Equivalent pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama ialah memakai tabel internet yang memberi satu batas CE lalu menganggap masalah selesai. Periksa asal rumus, edisi spesifikasi, dan apakah analisisnya khusus untuk nomor lebur tersebut. Kedua, mengabaikan diameter, kekangan, dan urutan karena “materialnya sama”. Tambahkan kolom dimensi dan detail sambungan pada lembar tinjau.
 
-## Objection or shortcut to address
+Ketiga, menetapkan preheat atau bahan tambah dari pengalaman umum tanpa dokumen kualifikasi. Catat siapa yang menyetujui WPS/PQR, rentang yang dicakup, dan kondisi penyimpanan bahan tambah. Keempat, memeriksa hasil las tetapi tidak memeriksa kalibrasi alat, rekaman parameter, atau ketertelusuran material. ISO 3834-2 menekankan rantai pengendalian dan rekaman; inspeksi akhir bukan pengganti kendali proses.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk pekerjaan struktur, AWS D1.1 dapat menjadi sumber penelusuran hanya jika kontrak, spesifikasi proyek, atau ketentuan yang berwenang memang mengadopsinya; AWS sendiri menjelaskan bahwa kode tersebut tidak otomatis menjadi hukum dan cakupannya adalah baja struktural, bukan semua produk atau perbaikan ([AWS D1.1/D1.1M](https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/)). **[NEEDS GATE-02: adopsi dan edisi kode yang mengikat harus dikonfirmasi pada kontrak serta regulasi proyek.]**
 
-## Required conclusion
+## Jalan pintas yang tampak praktis tetapi berisiko
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah meminta pemasok menjawab “bar ini bisa dilas” tanpa mengirim sertifikat nomor lebur dan tanpa menjelaskan sambungan. Jawaban itu mungkin cukup untuk percakapan pembelian, tetapi tidak cukup untuk keputusan teknik: pemasok belum tentu mengetahui kekangan, hidrogen, masukan panas, atau tuntutan ketangguhan di lapangan.
 
-## Draft completion checklist
+Alternatif yang lebih dapat diaudit ialah membuat paket keputusan: nomor lebur dan analisis kimia, ukuran serta kondisi bar, sketsa dan detail sambungan, penilaian kekangan, rencana kendali hidrogen, WPS/PQR yang relevan, kompetensi personel, dan rekaman peralatan. Jika satu mata rantai hilang, tandai sebagai kekosongan bukti, bukan sebagai “aman secara umum”.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Weldability bar ditentukan oleh interaksi CE dengan penampang, restraint, hidrogen, heat input, ketangguhan, dan kondisi aktual. CE adalah alat penyaring untuk memulai pembahasan, bukan tiket otomatis untuk mengelas atau menetapkan preheat.
+
+Kawan Besi.co.id, sebelum pekerjaan dimulai, minta penanggung jawab teknis memeriksa sertifikat nomor lebur, dimensi, detail sambungan, WPS/PQR, kendali bahan tambah, dan persyaratan inspeksi dalam satu paket. Simpan keputusan serta batas kualifikasinya. Untuk menata pertanyaan lanjutan dan dokumen proyek, Anda dapat kembali ke [beranda Besi.co.id](/). Aturan operasinya sederhana: bila material atau kondisi sambungan berubah di luar rentang yang dibuktikan, berhenti dan minta tinjauan profesional—jangan mengisi celah bukti dengan angka CE saja.

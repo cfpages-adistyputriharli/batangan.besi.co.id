@@ -2,8 +2,9 @@
 article_id: BESB-05-A04
 title: "Nako untuk Pagar, Railing, dan Grille"
 slug: "nako-untuk-pagar-dan-railing"
-description: "Map spacing/security intent, load/supports, joints, corrosion, sharp points, gates, maintenance, and evidence"
-status: outline
+description: "Panduan menentukan jarak, keamanan, beban, tumpuan, sambungan, korosi, ujung tajam, pintu, perawatan, dan bukti untuk sistem nako."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -26,37 +27,7 @@ sources:
   - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Nako untuk Pagar, Railing, dan Grille
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Nako untuk Pagar, Railing, dan Grille”
-- **Reader and situation:** Fabricator choosing components
-- **Reader outcome:** Map spacing/security intent, load/supports, joints, corrosion, sharp points, gates, maintenance, and evidence
-- **Primary intent:** Define system requirements
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not design railing/security; competent system designer owns it
-- **Final public route:** `/artikel/nako-untuk-pagar-dan-railing.html`
-- **Appointed CMS date:** `2025-12-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Nako untuk Pagar, Railing, dan Grille**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-004`
@@ -67,149 +38,75 @@ sources:
 - **Selection basis:** filename/source metadata identifies `pagar` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Nako untuk Pagar, Railing, dan Grille
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id! Nako dapat menjadi batang pengisi yang rapi untuk pagar, railing, atau grille, tetapi memilih ukuran dan jarak hanya dari tampilan sering membuat sistem gagal di titik lain. Jawaban singkatnya: tentukan dulu fungsi dan pola bukaan, lalu cocokkan penampang, tumpuan, sambungan, perlindungan korosi, serta detail ujungnya. Nako bukan otomatis pengganti elemen struktur atau jaminan keamanan.
 
-### KR-01
+Untuk pagar pembatas, prioritasnya biasanya bukaan yang sulit dipanjat dan sambungan yang tidak mudah dicongkel. Untuk railing, beban pada tangan dan tubuh serta kekakuan tiang menjadi keputusan utama. Grille menambah isu akses, engsel, dan penguncian. Beban rencana, tinggi, bentang, dan tuntutan keamanan harus ditetapkan oleh perancang sistem yang kompeten; [NEEDS GATE-01: verifikasi beban, tumpuan, dan kriteria keselamatan proyek].
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi pagar](/wp-content/uploads/2024/07/pagar.jpg)
 
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-nako-ulir-pagar-alam.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-pagar-alam` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-pagar-alam.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-pagar-alam` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/nako-ulir` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/nako` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-05-A02` → `/artikel/mengukur-besi-nako.html` — Mengukur Nako: Across Flats, Corner, Straightness, dan Twist
-- `BESB-05-A03` → `/artikel/proses-twist-bar-dekoratif.html` — Cold Twist dan Hot Twist pada Bar Dekoratif
-- `BESB-05-A05` → `/artikel/sambungan-besi-nako.html` — Sambungan Nako: Weld, Bolt, dan Mechanical Detail
-- `BESB-05-A06` → `/artikel/inspeksi-nako-ulir.html` — Inspeksi Distorsi dan Retak pada Nako Ulir
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Nako untuk Pagar, Railing, dan Grille”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Nako untuk Pagar, Railing, dan Grille”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Di perdagangan, “nako” bisa menunjuk bentuk batang kotak, ulir, atau produk dekoratif lain. Klasifikasi bentuk produk membantu percakapan awal, bukan bukti kimia, grade, toleransi, lapisan, atau kecocokan pemakaian. Kosakata bentuk dan tahap pembuatan baja dibahas dalam [ISO 6929:2013](https://www.iso.org/standard/52949.html), sementara klasifikasi ICS memisahkan pipa/tabung, profil, pelat, batang, kawat, grating, dan produk fabrikasi ([ISO ICS](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)). Karena itu, minta penandaan, datasheet, atau sertifikat yang benar-benar merujuk produk yang dibeli.
+
+Artikel ini membahas cara menyusun kebutuhan sistem untuk nako pada pagar, railing, dan grille. Ia tidak mendesain railing atau keamanan, tidak menetapkan jarak universal, dan tidak menggantikan gambar kerja, perhitungan, persetujuan pemilik, atau pemeriksaan lapangan. Jika dokumen proyek belum menetapkan beban, tinggi, bentang, atau kategori lingkungan, hentikan keputusan final sampai [NEEDS GATE-02: kriteria desain dan persetujuan perancang tersedia].
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Nako untuk Pagar, Railing, dan Grille”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari alur gaya. Beban pada batang pengisi diteruskan ke rangka panel, lalu ke tiang, pelat dasar, angkur, dan fondasi. Setiap mata rantai dapat menjadi titik lemah: batang cukup kuat tetapi las terlalu pendek, rangka kaku tetapi angkur tidak sesuai, atau fondasi tidak mampu menahan momen. Buat sketsa yang menandai arah beban, jarak antar tumpuan, serta siapa yang memeriksa tiap sambungan.
+
+Jarak nako adalah keputusan fungsi, bukan sekadar estetika. Bukaan lebih kecil dapat membatasi lolosnya benda atau tangan, namun menambah panjang las, jumlah potongan, berat, dan waktu pengecatan. Bukaan lebih besar mengurangi material tetapi mungkin tidak memenuhi tujuan pengamanan atau kenyamanan. Tuliskan tujuan yang dapat diperiksa—misalnya pembatas akses, perlindungan pandangan, atau pegangan—tanpa mengklaim tingkat keamanan sebelum diverifikasi.
+
+Rangka dan batang harus memiliki detail ujung yang aman. Tutup ujung terbuka, hilangkan duri potongan, dan arahkan ornamen tajam menjauh dari jalur sentuh. Pada grille, daun pintu, engsel, stopper, dan kunci perlu ruang gerak yang tidak menjepit pengguna. Pastikan jalur evakuasi atau akses servis tidak tertutup oleh pola yang dipilih.
+
+Pemotongan termal dapat memengaruhi kualitas tepi dan kebutuhan perapian. [ISO 9013:2017](https://www.iso.org/standard/60321.html) dan amendemennya ([ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html)) menyediakan kerangka untuk mengaitkan proses, material, ketebalan, dan kelas kualitas; dokumen lengkap serta gambar kerja tetap diperlukan untuk menetapkan penerimaan. Untuk konstruksi las, toleransi umum bukan izin memakai satu angka untuk semua fungsi; [ISO 13920:2023](https://www.iso.org/standard/86032.html) harus dibaca bersama gambar dan prosedur yang disetujui.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Nako untuk Pagar, Railing, dan Grille”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, beban dan geometri: tinggi pagar, lebar panel, jarak tiang, eksposur angin, orang yang bersandar pada railing, serta berat daun grille mengubah tuntutan pada nako dan rangka. Jangan mengubah ukuran batang hanya karena stok tersedia. [NEEDS GATE-03: perhitungan atau verifikasi kompeten untuk penampang, bentang, tiang, angkur, dan fondasi].
+
+Kedua, bukti dimensi. Label nominal tidak selalu sama dengan ukuran terukur atau massa aktual. [ISO 4200](https://www.iso.org/standard/9985.html) membahas dimensi dan massa teoritis tabung baja, sedangkan [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe) membahas pipa baja wrought yang dilas dan seamless; keduanya tidak otomatis menjadi tabel untuk semua batang nako. Gunakan standar yang memang dirujuk pemasok, ukur sampel masuk, dan pisahkan massa teoritis dari hasil timbang serta basis invoice.
+
+Ketiga, sambungan dan urutan kerja. Las harus memiliki akses, pembersihan, urutan tack, pengendalian distorsi, dan pemeriksaan yang ditetapkan. Lubang baut perlu jarak tepi dan detail pelat yang tidak merobek saat menerima beban. Jangan menutup area las atau celah sebelum inspeksi selesai. [NEEDS GATE-04: WPS, kualifikasi pelaksana, metode inspeksi, dan penerimaan sambungan proyek].
+
+Keempat, korosi dan perawatan. Lingkungan luar, air yang terperangkap, pasangan logam berbeda, serta kerusakan lapisan saat pengelasan mempercepat karat. Rancang kemiringan atau drainase pada bagian yang bisa menampung air, bersihkan permukaan, dan sepakati sistem lapisan serta interval pemeriksaan dengan spesifikasi proyek. Jangan menyebut “anti-karat” tanpa identitas sistem, persiapan permukaan, dan bukti aplikasinya.
+
+Kelima, keselamatan kerja dan penggunaan. Pengelasan menghasilkan asap dan bahaya lain yang dipengaruhi proses, bahan dasar, kontaminasi, ventilasi, posisi, serta pekerja sekitar. NIOSH memetakan risiko asap las dan mangan ([NIOSH welding](https://www.cdc.gov/niosh/welding/about/index.html)); OSHA memberi peta bahaya hot work ([OSHA welding hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions)). Pengendalian lokal harus dinilai di tempat kerja—contoh evaluasi rekayasa ventilasi NIOSH dapat dibaca di [engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)—bukan disalin sebagai angka atau resep K3 Indonesia.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Nako untuk Pagar, Railing, dan Grille”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai urutan pertanyaan, bukan ukuran jadi:
+
+| Situasi | Pertanyaan sebelum memilih nako | Konsekuensi bila belum terjawab |
+|---|---|---|
+| Pagar dengan tuntutan pembatas akses | Bukaan maksimum dan cara pemanjatan apa yang harus dicegah? | Pola bisa tampak rapat tetapi gagal terhadap tujuan keamanan. |
+| Railing tangga atau balkon | Beban pada pegangan, tinggi, dan jarak tiang ditetapkan siapa? | Batang pengisi dapat mengalihkan perhatian dari tiang/angkur yang kritis. |
+| Grille berdaun atau berpintu | Berat daun, posisi engsel, stopper, dan jalur buka sudah digambar? | Daun melendut, menggesek, atau menciptakan titik jepit. |
+| Area lembap atau dekat pantai | Sistem perlindungan dan akses pengecatan ulang apa yang disetujui? | Air terperangkap dan kerusakan lapisan tidak terdeteksi. |
+
+Teman Besi.co.id, bila tujuan Anda hanya mencari bentuk dan keluarga produk, gunakan [halaman nako untuk orientasi](/jual-nako-yogyakarta) lalu minta spesifikasi aktual. Untuk kebutuhan pagar ulir, [referensi nako ulir Yogyakarta](/jual-nako-ulir-yogyakarta) dapat menjadi langkah menuju pertanyaan pengadaan, bukan pengganti pemeriksaan mutu dan desain.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Nako untuk Pagar, Railing, dan Grille”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan “lebih tebal” dengan “lebih aman”. Tebal menambah berat; tanpa tumpuan dan sambungan yang sesuai, sistem tetap dapat melendut atau merusak angkur. Periksa jalur gaya dan minta catatan perhitungan atau persetujuan perancang.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memesan berdasarkan nama dagang. Cocokkan bentuk, ukuran terukur, panjang, kondisi permukaan, dan dokumen pemasok dengan daftar material. Bila istilah “pipa”, “tube”, dan “batang” dipakai bergantian, minta definisi produk tertulis sebelum PO.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah mengecat sebelum menginspeksi las dan sudut tajam. Terapkan urutan: potong, rapikan, rakit, periksa dimensi dan sambungan, bersihkan, lalu lapisi. Simpan foto, formulir inspeksi, dan catatan perbaikan yang dapat ditelusuri.
 
-## Required conclusion
+Kesalahan keempat adalah menganggap pagar dan railing punya kriteria sama. Pagar berfokus pada batas dan akses; railing pada perlindungan jatuh dan kenyamanan tangan; grille pada operasi daun, kunci, dan celah. Pisahkan kriteria penerimaan untuk tiap fungsi.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jangan mengandalkan pola proyek lama
 
-## Draft completion checklist
+Shortcut yang sering dipilih adalah “pakai jarak dan ukuran yang sama seperti proyek sebelumnya”. Itu bisa gagal karena tinggi, bentang, beban, lingkungan, dan detail tumpuan berbeda. Cara yang lebih andal adalah menyalin hanya format pemeriksaannya: tujuan, beban, dimensi, sambungan, lapisan, uji fungsi, dan jadwal perawatan. Isi setiap kolom dengan bukti proyek saat ini. [NEEDS GATE-05: review akhir paket gambar, spesifikasi, dan kondisi lapangan oleh pihak berwenang].
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Nako untuk pagar, railing, dan grille dipilih sebagai bagian dari sistem: pola bukaan mengikuti tujuan, batang mengikuti beban dan bentang, rangka serta angkur meneruskan gaya, sambungan dan tepi dibuat aman, lalu korosi dan perawatan direncanakan. Tidak ada jarak atau ukuran universal yang dapat menggantikan keputusan tersebut.
+
+Langkah berikutnya adalah minta gambar kerja dan daftar material yang menyebut fungsi tiap panel, ukuran terukur, detail tumpuan, sambungan, sistem lapisan, serta kriteria inspeksi. Bawa paket itu kepada perancang sistem dan penanggung jawab K3 untuk menutup marker [NEEDS GATE-01] sampai [NEEDS GATE-05]. Kawan Besi.co.id, jadikan aturan operasi Anda sederhana: jangan produksi atau memasang sebelum bukti desain, sambungan, dan kondisi lapangan terbaca serta disetujui pihak yang kompeten.

@@ -2,8 +2,9 @@
 article_id: BESB-10-A03
 title: "WPS, PQR, Welder, dan Consumable Control"
 slug: "dokumen-pengelasan-bar-stock"
-description: "Explain document roles, linkage, scope, revision, continuity, consumable batch/storage, and records"
-status: outline
+description: "Panduan memeriksa peran WPS, PQR, welder, dan kendali consumable beserta keterlacakan rekamannya"
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-04-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,45 +19,89 @@ sources:
   - "https://www.iso.org/standard/68893.html"
   - "https://www.iso.org/standard/83737.html"
   - "https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/"
-  - "https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/"
   - "https://www.iso.org/standard/85705.html"
   - "https://www.iso.org/standard/75614.html"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
   - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # WPS, PQR, Welder, dan Consumable Control
 
-## Assignment lock
+Halo, Teman Besi.co.id! Saat menilai penawaran pengelasan bar stock, jangan berhenti pada kalimat “welder berpengalaman” atau foto sertifikat. Keputusan yang lebih aman adalah menerima pekerjaan hanya jika ada rantai bukti: kebutuhan sambungan diterjemahkan ke WPS, WPS didukung PQR bila memang diwajibkan, orang yang mengelas teridentifikasi dan masih berwenang, lalu consumable, alat, inspeksi, dan rekamannya dapat ditelusuri.
 
-- **Writer task:** Expand this file into one complete article answering: “WPS, PQR, Welder, dan Consumable Control”
-- **Reader and situation:** Buyer reviewing shop QA
-- **Reader outcome:** Explain document roles, linkage, scope, revision, continuity, consumable batch/storage, and records
-- **Primary intent:** Audit welding documents
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Qualification rules belong to governing standard
-- **Final public route:** `/artikel/dokumen-pengelasan-bar-stock.html`
-- **Appointed CMS date:** `2026-04-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+WPS (Welding Procedure Specification) adalah instruksi kerja yang disetujui untuk sambungan tertentu. PQR (Procedure Qualification Record) adalah rekaman kualifikasi yang menjadi dasar ketika standar atau spesifikasi proyek mensyaratkannya. Bukti kualifikasi welder menunjukkan kompetensi orang pada ruang lingkup yang relevan; consumable control menjaga agar bahan tambah yang dipakai, disimpan, dan dikeluarkan sesuai dokumen. Rantai ini belum otomatis menyatakan sambungan diterima: edisi standar, material, jenis joint, kriteria penerimaan, dan persetujuan engineer harus ditetapkan oleh proyek. **[NEEDS GATE-01: standar dan edisi yang mengatur pekerjaan ini]**
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **WPS, PQR, Welder, dan Consumable Control**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
+Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek, klien, hasil, atau bukti kinerja tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+## Definisikan kebutuhan sebelum meminta harga
+
+Mulailah dengan lembar kebutuhan, bukan dengan meminta vendor mengirim “paket WPS”. Catat fungsi bar stock, ukuran dan grade material, tipe sambungan, posisi pengelasan, akses, kondisi permukaan, kuantitas, toleransi, urutan kerja, serta siapa yang menyetujui hasil. Bedakan sambungan untuk fabrikasi struktural dari pekerjaan perbaikan atau komponen lain; kode AWS D1.1, misalnya, berlingkup structural steel dan tidak otomatis berlaku untuk semua produk. AWS juga menjelaskan bahwa kodenya mengikat bila diadopsi kontrak, spesifikasi proyek, atau regulasi, bukan semata-mata karena dicantumkan vendor. [Lihat ruang lingkup AWS D1.1](https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/).
+
+Saat grade material belum jelas, minta vendor menuliskannya persis di lembar kebutuhan—misalnya merujuk [besi as S45C Yogyakarta](/jual-as-s45c-yogyakarta) atau [besi as ST42 Yogyakarta](/jual-as-st42-yogyakarta)—lalu cocokkan dengan dokumen pembelian dan persyaratan pengelasan. Halaman produk membantu mengidentifikasi bahan yang ditawarkan, bukan menggantikan governing standard atau persetujuan engineer.
+
+Minta pemilik proyek menetapkan standar pengelasan yang berlaku, sambungan mana yang memerlukan kualifikasi, metode inspeksi, dan pihak yang berwenang menyetujui perubahan. Jangan menebak parameter preheat, heat input, arus, atau acceptance level dari brosur. Abstrak [ISO 3834-2](https://www.iso.org/standard/81651.html) menempatkan persyaratan, koordinasi, personel, peralatan, material, inspeksi, ketidaksesuaian, dan rekaman sebagai satu sistem; detail kualifikasinya tetap harus dibaca dari standar aplikasi dan dokumen proyek. **[NEEDS GATE-02: persyaratan teknis dan acceptance criteria yang disetujui]**
+
+## Buat penawaran benar-benar sebanding
+
+Susun matriks penawaran dengan kolom dokumen, aktivitas, pemilik, dan titik persetujuan. Minta nomor dan revisi WPS, nomor PQR yang dirujuk, daftar welder yang ditugaskan, identitas batch consumable, catatan kalibrasi atau verifikasi alat, rencana inspeksi, format laporan, serta daftar eksklusi. Dengan begitu, dua harga dapat dibandingkan atas scope yang sama, bukan atas jumlah lembar PDF.
+
+Periksa tautan WPS–PQR: material, ketebalan atau ukuran, proses, posisi, joint detail, dan rentang yang tercakup harus dibaca sebagai ruang lingkup dokumen, bukan diasumsikan sama karena judulnya mirip. WPS tanpa dasar kualifikasi tidak otomatis salah, tetapi harus ada alasan standar atau proyek yang terdokumentasi. Sebaliknya, PQR lama tidak otomatis mencakup semua pekerjaan baru. **[NEEDS GATE-04: kecocokan rentang kualifikasi terhadap sambungan aktual]**
+
+Koordinasi pengelasan juga perlu pemilik yang jelas. [ISO 14731](https://www.iso.org/standard/68893.html) membahas welding coordination; gunakan sumber itu untuk menanyakan siapa yang menyusun, memeriksa, menyetujui, dan mengendalikan revisi dokumen. Harga yang memisahkan “inspeksi” dari akses ke rekaman, witness point, atau rework dapat terlihat murah tetapi membuat audit tidak selesai.
+
+## Dokumen yang membuktikan hal berbeda
+
+Bedakan fungsi bukti berikut saat membuka berkas vendor:
+
+- **WPS:** instruksi yang dipakai welder di lantai kerja. Pastikan status persetujuan, revisi berlaku, joint detail, proses, consumable, posisi, dan variabel yang memang diminta standar tercantum.
+- **PQR:** rekaman hasil kualifikasi prosedur. Ia mendukung rentang yang dinyatakan, bukan sertifikat universal untuk setiap material dan ukuran.
+- **Welder qualification dan continuity:** identitas, metode, ruang lingkup, tanggal uji, serta bukti kesinambungan sesuai aturan yang dipakai proyek. Jangan mengganti bukti ini dengan CV.
+- **Consumable control:** nama/klasifikasi yang disetujui, lot atau batch, penerimaan, kondisi kemasan, penyimpanan, pengeringan atau holding bila diwajibkan dokumen, pengeluaran, dan pengembalian. Catatan tersebut menghubungkan batang elektroda atau kawat yang nyata dengan sambungan tertentu.
+- **Equipment record:** identitas mesin, rentang penggunaan, dan kalibrasi/verifikasi/validasi yang relevan. [ISO 17662](https://www.iso.org/standard/83737.html) memberi kerangka umum untuk pengendalian peralatan las; jangan mengubah abstraknya menjadi angka interval tanpa standar proyek.
+- **Inspection record:** joint atau spool, metode, prosedur, personel, alat, cakupan, temuan, kriteria, hasil, dan disposisi. [ISO 17635](https://www.iso.org/standard/85705.html) menekankan aturan umum NDT, sementara [ISO 9712](https://www.iso.org/standard/75614.html) berkaitan dengan kompetensi personel NDT. Keduanya bukan izin untuk memilih metode atau acceptance level tanpa rencana inspeksi yang disetujui.
+
+Dokumen-dokumen itu harus bertemu pada satu nomor sambungan atau weld map. Jika WPS menyebut revisi 2 tetapi laporan inspeksi merujuk revisi 1, tahan penerimaan sampai perbedaan dijelaskan.
+
+## Pertanyaan wajib kepada penyedia
+
+Ajukan pertanyaan tertulis berikut dan minta jawabannya ditautkan ke rekaman, bukan hanya pernyataan:
+
+1. Standar dan edisi apa yang mengatur pekerjaan ini, dan siapa yang menyetujuinya? **[NEEDS GATE-07: konfirmasi governing standard oleh pihak berwenang]**
+2. WPS mana yang dipakai untuk setiap tipe sambungan, dan PQR mana yang menjadi dasarnya?
+3. Bagaimana Anda membuktikan welder yang ditugaskan masih berada dalam ruang lingkup dan status continuity yang berlaku?
+4. Bagaimana lot consumable diterima, disimpan, dikeluarkan, dikembalikan, dan dikaitkan ke weld map?
+5. Alat ukur atau mesin apa yang dipakai, dan rekaman kalibrasi/verifikasinya tersedia pada tanggal pekerjaan?
+6. Siapa yang menyaksikan hold point, siapa yang menyetujui repair, dan bagaimana revisi WPS atau personel dicatat?
+7. Berkas apa yang diserahkan saat handover: log pengelasan, inspeksi visual, NDT bila dipersyaratkan, nonconformance, repair, dan close-out?
+
+Sobat Besi.co.id, bila jawaban “nanti dibuat setelah selesai” muncul, anggap itu celah kendali proses. Rekaman yang dibuat belakangan sulit membuktikan kondisi aktual saat pengelasan.
+
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Waspadai satu WPS untuk semua ukuran tanpa matriks ruang lingkup, PQR berupa scan tanpa identitas sambungan, sertifikat welder tanpa tanggal atau metode, consumable dipindahkan ke wadah tanpa label lot, serta laporan NDT yang hanya berbunyi “pass”. Itu bukan otomatis bukti kegagalan, tetapi cukup untuk meminta klarifikasi dan menahan titik penerimaan.
+
+Biaya tersembunyi biasanya muncul dari menunggu persetujuan, membuka akses ulang, memilah consumable yang tidak terlacak, mengulang inspeksi, atau memperbaiki sambungan karena revisi terlambat. Jangan mengonversi sumber K3 asing menjadi persyaratan Indonesia; namun pengendalian pekerjaan panas tetap harus menilai asap, pelapis atau kontaminan, ventilasi, pekerja sekitar, api, listrik, dan gas sesuai prosedur K3 serta batas nasional yang berlaku. OSHA menyediakan peta bahaya umum sebagai bahan pertanyaan, bukan pengganti persyaratan lokasi. [Rujukan bahaya pengelasan OSHA](https://www.osha.gov/welding-cutting-brazing/hazards-solutions).
+
+## Penerimaan, serah terima, dan keputusan akhir
+
+Tetapkan urutan pemeriksaan: verifikasi material dan identitas joint, cek WPS serta welder sebelum mulai, cocokkan consumable dan alat saat pekerjaan berlangsung, lalu tinjau inspeksi dan NDT sesuai rencana. Setiap penyimpangan diberi nomor nonconformance, keputusan disposition, dan bukti penutupan. Penerimaan tidak boleh hanya berdasarkan hasil akhir yang tampak rapi karena inspeksi akhir tidak dapat merekonstruksi variabel proses yang tidak pernah dikendalikan; prinsip sistem mutu ini sejalan dengan [ISO 3834-2](https://www.iso.org/standard/81651.html).
+
+Pada handover, minta indeks berkas yang menghubungkan weld map, WPS/PQR, daftar welder dan continuity, log consumable, rekaman alat, laporan inspeksi, repair, dan persetujuan perubahan. Pembayaran atau acceptance akhir sebaiknya mengikuti kelengkapan bukti yang disyaratkan kontrak, bukan sekadar jumlah sambungan yang selesai. **[NEEDS GATE-01, GATE-02, GATE-04, GATE-07: keputusan akhir menunggu review standar dan bukti proyek]**
+
+## Jalan pintas yang tampak praktis
+
+Jalan pintas paling umum adalah mengizinkan welder mulai bekerja memakai WPS “yang mirip”, lalu melengkapi PQR dan log consumable bila auditor meminta. Ini gagal karena identitas prosedur, orang, lot bahan, dan kondisi alat terputus; auditor tidak bisa memastikan sambungan dibuat dalam ruang lingkup yang disetujui. Alternatifnya sederhana: bekukan daftar dokumen dan revisi sebelum pekerjaan, lakukan verifikasi singkat di titik mulai, dan catat setiap perubahan melalui pihak koordinasi pengelasan. Bila ruang lingkup kualifikasi tidak jelas, hentikan keputusan teknis dan minta penetapan dari engineer atau personel kompeten.
+
+## Kesimpulan: rantai bukti sebelum tanda tangan
+
+WPS memberi instruksi, PQR memberi dasar kualifikasi bila diwajibkan, welder membuktikan kompetensi orang, dan consumable control menjaga keterlacakan bahan. Keempatnya baru bermakna jika terhubung ke standar proyek, alat, inspeksi, revisi, dan rekaman yang dapat diaudit.
+
+Langkah Anda berikutnya: minta matriks WPS–PQR–welder–consumable per weld map, cocokkan revisi yang berlaku, lalu minta review teknis atas gate yang masih terbuka sebelum menyetujui harga atau penerimaan. Kawan Besi.co.id, jangan jadikan artikel ini pengganti governing standard atau persetujuan engineer; gunakan sebagai daftar pemeriksaan untuk menemukan bukti yang belum ada.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,143 +112,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-12
-
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
-
-### KR-13
-
-- **Original sources:** [AWS D1.1/D1.1M:2025-AMD1 official page](https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/) and [AWS D1 Committee published-document page](https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/)
-- **Purpose for this article:** Give structural-welding articles a current discovery source while preventing automatic or out-of-scope adoption.
-- **Safe grounded facts:** AWS explicitly says the code is not automatically law and becomes binding when adopted by a contract, project specification, or regulatory requirement. Its scope is structural steel, not every appliance, pressure system, stainless product, rebar weld, or repair.
-- **Limits:** Confirm governing Indonesian/project adoption, current amendment/errata, material and joint scope, engineer modifications, and full licensed code through G-01/G-07.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-10-A01` → `/artikel/bukti-sebelum-mengelas-bar-stock.html` — Bukti sebelum Mengelas Besi Batangan
-- `BESB-10-A02` → `/artikel/weldability-bar-stock.html` — Weldability dan Carbon Equivalent pada Bar
-- `BESB-10-A04` → `/artikel/cacat-las-sambungan-bar.html` — Cacat Las dan NDT pada Sambungan Bar
-- `BESB-10-A05` → `/artikel/distorsi-pengelasan-bar.html` — Distorsi saat Mengelas Round dan Square Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Definisikan kebutuhan sebelum meminta harga
-
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “WPS, PQR, Welder, dan Consumable Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Buat penawaran benar-benar sebanding
-
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “WPS, PQR, Welder, dan Consumable Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Dokumen yang membuktikan hal berbeda
-
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “WPS, PQR, Welder, dan Consumable Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pertanyaan wajib kepada penyedia
-
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “WPS, PQR, Welder, dan Consumable Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Red flag dan biaya yang sering tersembunyi
-
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “WPS, PQR, Welder, dan Consumable Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Penerimaan, serah terima, dan keputusan akhir
-
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “WPS, PQR, Welder, dan Consumable Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

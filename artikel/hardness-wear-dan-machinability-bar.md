@@ -2,8 +2,8 @@
 article_id: BESB-07-A03
 title: "Hardness, Wear, dan Machinability"
 slug: "hardness-wear-dan-machinability-bar"
-description: "Connect wear mechanism, hardness, toughness, condition, machining, heat treatment, and tests"
-status: outline
+description: "Memahami hubungan kekerasan, keausan, ketangguhan, kondisi material, dan kemudahan pemesinan pada bar stock."
+status: draft
 publication_date: "2026-01-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,50 +13,90 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/hardness-wear-dan-machinability-bar.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
-  - "https://www.iso.org/standard/89449.html"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
   - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
   - "https://www.iso.org/standard/46556.html"
-  - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
-  - "https://www.fhwa.dot.gov/bridge/inspection/"
-  - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Hardness, Wear, dan Machinability
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Saat memilih bar untuk poros atau blank perkakas, angka hardness yang tinggi sering dianggap otomatis berarti tahan wear dan tetap mudah dikerjakan. Hubungan itu tidak sesederhana itu. Hardness adalah ketahanan permukaan terhadap penetrasi atau deformasi lokal; wear adalah mekanisme hilangnya material saat terjadi gesekan, tumbukan, atau partikel abrasif; sedangkan machinability adalah seberapa terkendali material dapat dipotong, dibor, atau dibubut dengan alat dan kondisi tertentu.
 
-- **Writer task:** Expand this file into one complete article answering: “Hardness, Wear, dan Machinability”
-- **Reader and situation:** Buyer of shaft/tooling blank
-- **Reader outcome:** Connect wear mechanism, hardness, toughness, condition, machining, heat treatment, and tests
-- **Primary intent:** Evaluate wear/machining claims
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not select grade/cutting parameters; BESB-08-A04 owns machining
-- **Final public route:** `/artikel/hardness-wear-dan-machinability-bar.html`
-- **Appointed CMS date:** `2026-01-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih dan terima material berdasarkan pasangan mekanisme keausan dan kondisi pemesinan, bukan satu angka hardness. Material yang sangat keras dapat memperlambat pemesinan dan mempercepat keausan pahat, sementara material yang lebih lunak dapat mudah dikerjakan tetapi cepat berubah bentuk pada kontak. Kondisi stok, riwayat heat treatment, ketangguhan, geometri komponen, pelumasan, serta bukti uji dapat mengubah keputusan. Klaim penerimaan akhir tetap memerlukan spesifikasi produk, identitas heat, metode sampling, dan peninjauan teknis proyek.
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Hardness, Wear, dan Machinability**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu.*
 
+## Jawaban singkat dan salah paham utama
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Hardness bukan sinonim dari umur pakai. Pada kontak geser, permukaan yang keras dapat menahan penetrasi, tetapi partikel asing, lapisan oksida, permukaan kasar, atau pelumasan yang gagal tetap dapat memicu abrasive atau adhesive wear. Pada beban kejut, material yang terlalu keras namun kurang tangguh dapat mengalami retak atau pengelupasan. Di sisi lain, machinability bukan label tetap untuk satu grade: kondisi lunak setelah pasokan, kondisi hasil normalisasi, dan kondisi setelah pengerasan akan menghasilkan respons pahat yang berbeda.
+
+Kawan Besi.co.id, sebelum menyetujui pernyataan “lebih keras pasti lebih awet”, tanyakan tiga hal: keausan macam apa yang diperkirakan, pasangan material apa yang bersentuhan, dan pada kondisi apa komponen bekerja. Tanpa tiga jawaban itu, angka hardness hanya menjadi indikator terbatas, bukan jaminan performa.
+
+## Definisi dan batas objek
+
+Artikel ini membahas cara menghubungkan hardness, wear, toughness, kondisi material, pemesinan, heat treatment, dan pengujian untuk bar stock yang akan menjadi shaft atau tooling blank. Wear dapat berupa abrasi oleh partikel keras, adhesi akibat permukaan saling menempel, erosi oleh aliran, atau kelelahan kontak yang menyebabkan pitting. Setiap mekanisme menuntut bukti dan kendali berbeda.
+
+Yang tidak dibahas di sini adalah pemilihan grade tertentu, kecepatan potong, feed, kedalaman potong, atau rancangan proses mesin. Parameter tersebut bergantung pada alat, geometri, pendingin, dan mesin; keputusan rinci harus ditetapkan dalam prosedur pemesinan yang kompeten. Artikel ini juga tidak menetapkan angka kelulusan hardness, umur pahat, kapasitas poros, atau masa pakai karena semua itu memerlukan spesifikasi dan data proyek.
+
+## Cara kerjanya
+
+Mulailah dari antarmuka kerja. Jika permukaan bar bergesekan dengan material yang lebih keras atau membawa pasir, mekanisme abrasi menjadi perhatian. Jika ada tekanan tinggi dan gerak relatif kecil, kelelahan kontak atau pengelupasan dapat dominan. Jika dua permukaan bersih menempel tanpa pelumasan memadai, adhesi dan galling perlu dipertimbangkan. Lingkungan lembap, garam, atau bahan kimia menambah korosi; produk korosi yang terlepas kemudian dapat bertindak sebagai partikel abrasif. Sebagai kerangka awal, paparan dapat dikelompokkan menurut kelembapan, garam, polutan, perendaman, celah, kontak logam, temperatur, kerusakan, dan pemeliharaan. Faktor-faktor itu dibahas dalam ISO 12944-2:2017 dan pengantar AMPP tentang korosi ([ISO 12944-2](https://www.iso.org/standard/64834.html); [AMPP Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)). Halaman katalog tersebut membantu mengenali faktor paparan, bukan menetapkan sistem perlindungan, ketebalan lapisan, atau masa pakai; keputusan itu memerlukan bagian standar yang berlaku dan data lokasi.
+
+Setelah mekanismenya jelas, hubungkan hardness dengan toughness. Hardness yang meningkat melalui heat treatment dapat mengurangi deformasi plastis, tetapi perubahan mikrostruktur juga dapat memengaruhi ketangguhan dan stabilitas dimensi. Pendinginan tidak seragam, tegangan sisa, atau kulit permukaan yang berbeda dari inti dapat membuat hasil potong dan perilaku kontak tidak seragam sepanjang bar. Karena itu, mintalah kondisi pasokan dan riwayat perlakuan panas, bukan hanya nama grade.
+
+Machinability muncul pada tahap pembuatan. Material yang lebih keras umumnya menuntut kontrol panas, pahat, dan pendinginan yang lebih ketat, tetapi tidak tepat menyimpulkan hasil hanya dari hardness nominal. Inklusi, segregasi, arah serat, dan variasi antar-heat juga memengaruhi pembentukan geram dan keausan pahat. Catat kondisi awal sebelum pemesinan, lalu verifikasi permukaan dan dimensi setelah proses.
+
+Untuk data tarik atau sifat mekanik pendukung, laporan harus menyebut sumber dan identitas spesimen, orientasi, lokasi, persiapan, metode, kondisi, satuan, serta identitas produk atau heat. ISO 6892-1:2019 membahas pengujian tarik pada temperatur ruang, sedangkan ISO 377:2017 mengatur pengambilan sampel dan benda uji; keduanya tidak menggantikan spesifikasi produk yang menetapkan nilai dan keputusan penerimaan ([ISO 6892-1](https://www.iso.org/standard/78322.html); [ISO 377](https://www.iso.org/standard/72529.html)).
+
+## Faktor yang mengubah hasil
+
+Periksa faktor dalam empat kelompok berikut.
+
+1. **Kontak dan beban.** Kecepatan geser, tekanan, kejutan, misalignment, dan siklus beban menentukan apakah abrasi, adhesi, atau fatigue wear yang dominan. Permukaan yang sama dapat berperilaku berbeda ketika pelumasan atau beban berubah.
+2. **Material dan kondisi.** Hardness permukaan, hardness inti, toughness, kebersihan, arah pengerolan, cacat, serta perubahan akibat heat treatment perlu dipisahkan. Sertifikat material adalah titik awal, bukan bukti bahwa seluruh stok memiliki kondisi identik.
+3. **Lingkungan.** Air, kondensasi, garam, bahan kimia, celah, dan pasangan logam dapat memulai korosi. Klasifikasi lingkungan perlu didasarkan pada survei paparan dan rencana pemeliharaan; kategori umum tidak cukup untuk menjanjikan durabilitas.
+4. **Pemesinan dan bukti.** Mesin, pahat, pendingin, urutan roughing-finishing, allowance, dan metode pengukuran memengaruhi hasil. Simpan rekaman heat, lokasi pengambilan benda uji, kalibrasi alat, dan ketidakpastian laboratorium bila hasil dipakai untuk penerimaan.
+
+Sobat Besi.co.id, bila bar sudah pernah dipanaskan atau permukaannya dikupas, jangan menganggap data lama masih mewakili kondisi akhir. Perubahan tujuan pakai, beban, atau lingkungan juga memerlukan penilaian ulang kondisi eksisting dan riwayat perubahan, sebagaimana pendekatan penilaian dalam ISO 13822:2010 ([ISO 13822](https://www.iso.org/standard/46556.html)).
+
+## Contoh keputusan praktis
+
+Gunakan skenario bersyarat berikut, bukan sebagai resep angka.
+
+| Situasi | Risiko salah baca | Bukti dan keputusan berikutnya |
+|---|---|---|
+| Poros berputar pada lingkungan berdebu | Menganggap hardness tinggi cukup | Identifikasi sumber partikel, cek pelumasan dan seal, lalu tetapkan pemeriksaan pola abrasi |
+| Blank perkakas harus banyak dibubut sebelum pengerasan | Memesan kondisi terlalu keras sejak awal | Minta kondisi pemesinan yang disepakati, allowance, urutan heat treatment, dan pemeriksaan setelahnya |
+| Kontak menerima tumbukan berulang | Mengutamakan hardness tanpa toughness | Tinjau geometri, konsentrasi tegangan, riwayat beban, dan bukti retak; jangan menetapkan umur tanpa analisis |
+| Bar menunjukkan hasil hardness berbeda sepanjang panjangnya | Mengambil satu titik sebagai wakil seluruh stok | Petakan lokasi, ulangi sampling sesuai spesifikasi, dan tahan keputusan penerimaan sampai identitas heat jelas |
+
+Jika spesifikasi proyek belum menyatakan mekanisme wear dan metode uji, tandai keputusan sebagai belum final: **[NEEDS PROJECT EVIDENCE: kriteria hardness/wear, rencana sampling, dan persetujuan teknis]**. Penanda ini tidak dapat digantikan oleh brosur atau satu sertifikat.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah menyamakan hardness dengan wear resistance. Periksa jejak aus dan kondisi pasangan kontak, bukan hanya angka alat uji. Kedua, memakai nilai dari satu kupon untuk menyatakan seluruh bar lulus. Tanyakan lokasi dan orientasi benda uji, metode yang dipakai, identitas heat, serta apakah persyaratan berasal dari spesifikasi produk yang berlaku. Ketiga, mengabaikan kondisi material sebelum pemesinan. Minta catatan heat treatment dan verifikasi hardness di lokasi yang relevan.
+
+Kesalahan berikutnya adalah mengubah parameter potong secara spontan ketika pahat cepat aus. Hentikan dan pisahkan penyebab: perubahan stok, pendingin, runout, geometri pahat, atau permukaan yang terkorosi. Catat kondisi sebelum dan sesudah setiap perubahan agar koreksi dapat ditinjau. Jangan menyimpulkan machinability dari satu operasi singkat.
+
+Terakhir, menganggap lingkungan hanya urusan coating. Coating dapat membantu, tetapi keberhasilannya bergantung pada persiapan permukaan, sistem pelindung, kerusakan, akses, dan pemeliharaan. Untuk komponen yang sudah mengalami perubahan fungsi atau kerusakan, dokumentasikan survei, geometri, beban, material, dan hasil inspeksi sebelum memutuskan pakai ulang atau perbaikan.
+
+## Jalan pintas yang sering dipilih
+
+Jalan pintas yang paling menggoda adalah memilih bar dengan hardness tertinggi yang tersedia lalu berharap pemesinan dan umur pakai akan mengikuti. Cara ini dapat gagal karena toughness turun, pahat tidak cocok, distribusi hardness tidak seragam, atau mekanisme aus sebenarnya dikendalikan korosi dan partikel. Alternatif yang lebih aman adalah menetapkan mekanisme kontak dan kondisi pemesinan terlebih dahulu, meminta dokumen identitas material dan heat treatment, lalu menyusun rencana uji serta pemeriksaan yang dapat ditelusuri.
+
+## Kesimpulan
+
+Hardness, wear, dan machinability harus dibaca sebagai satu rangkaian keputusan: mekanisme kontak menentukan kebutuhan permukaan; toughness dan kondisi heat treatment menentukan ketahanan terhadap retak atau deformasi; kondisi material menentukan kemudahan pemesinan; dan metode uji menentukan apakah data dapat dipercaya. Tidak ada satu angka yang membuktikan semuanya.
+
+Teman Besi.co.id, langkah berikutnya adalah meminta spesifikasi penerimaan, identitas heat, kondisi pasokan dan perlakuan panas, rencana sampling, serta catatan lingkungan dan beban. Anda dapat memulai pengumpulan dokumen dari [beranda Besi.co.id](/), lalu membandingkan dokumen penawaran pada halaman [AS S45C Yogyakarta](/jual-as-s45c-yogyakarta) dan [AS ST42 Yogyakarta](/jual-as-st42-yogyakarta) tanpa menganggap nama material itu sebagai bukti kecocokan. Minta peninjauan teknis kompeten sebelum material dilepas untuk dipakai. Aturan operasinya sederhana: jangan menyebut bar “tahan aus dan mudah dimesin” sampai mekanisme, kondisi, dan bukti uji yang relevan telah disepakati.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,142 +107,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-07-A01` → `/artikel/matriks-pemilihan-bar-stock.html` — Matriks Pemilihan Material Bar Stock
-- `BESB-07-A02` → `/artikel/sifat-mekanik-besi-batangan.html` — Strength, Ductility, Toughness, dan Hardness pada Bar
-- `BESB-07-A04` → `/artikel/fatigue-pada-shaft-dan-pin.html` — Fatigue dan Stress Concentration pada Shaft dan Pin
-- `BESB-07-A05` → `/artikel/suhu-dan-sifat-besi-batangan.html` — Suhu, Heat Treatment, dan Perubahan Sifat Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Hardness, Wear, dan Machinability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Hardness, Wear, dan Machinability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Hardness, Wear, dan Machinability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Hardness, Wear, dan Machinability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Hardness, Wear, dan Machinability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Hardness, Wear, dan Machinability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

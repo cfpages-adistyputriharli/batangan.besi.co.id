@@ -2,8 +2,8 @@
 article_id: BESB-07-A06
 title: "Checklist Dampak Substitusi Bar Stock"
 slug: "checklist-substitusi-bar-stock"
-description: "Compare grade/form/condition, geometry, properties, machining, welding, corrosion, testing, and design impact"
-status: outline
+description: "Panduan membandingkan grade, bentuk, kondisi, geometri, sifat, proses, korosi, pengujian, dan dampak desain sebelum mengganti bar stock."
+status: draft
 publication_date: "2026-02-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/checklist-substitusi-bar-stock.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
@@ -22,41 +23,19 @@ sources:
   - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
   - "https://www.iso.org/standard/46556.html"
   - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
-  - "https://www.fhwa.dot.gov/bridge/inspection/"
-  - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Checklist Dampak Substitusi Bar Stock
 
-## Assignment lock
+Halo, Teman Besi.co.id! Ketika kontraktor menawarkan bar stock pengganti, jawaban yang aman bukan “diameternya sama berarti boleh”. Substitusi baru layak dipertimbangkan setelah grade, bentuk, kondisi pasokan, geometri, sifat, proses pemesinan dan pengelasan, paparan korosi, rencana pengujian, serta dampaknya pada desain dibandingkan pada dokumen yang sama.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Dampak Substitusi Bar Stock”
-- **Reader and situation:** Contractor offered alternative
-- **Reader outcome:** Compare grade/form/condition, geometry, properties, machining, welding, corrosion, testing, and design impact
-- **Primary intent:** Review substitution
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Approval belongs to BESB-02-A04 and competent designer
-- **Final public route:** `/artikel/checklist-substitusi-bar-stock.html`
-- **Appointed CMS date:** `2026-02-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Checklist ini membantu Anda menyiapkan perbandingan dan menemukan titik berhenti. Data sertifikat atau satu angka uji dapat berubah menjadi dasar keputusan hanya jika identitas heat/produk, spesimen, metode, satuan, dan persyaratan materialnya jelas. Persetujuan akhir tetap berada pada jalur BESB-02-A04 dan perancang yang kompeten. Jika salah satu bukti utama belum tersedia, tandai **[NEEDS GATE-01/02/04: bukti proyek dan review kompeten]**—jangan mengisi kekosongan dengan asumsi.
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Dampak Substitusi Bar Stock**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal; ini bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,140 +46,60 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-07-A04` → `/artikel/fatigue-pada-shaft-dan-pin.html` — Fatigue dan Stress Concentration pada Shaft dan Pin
-- `BESB-07-A05` → `/artikel/suhu-dan-sifat-besi-batangan.html` — Suhu, Heat Treatment, dan Perubahan Sifat Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Dampak Substitusi Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari adalah keputusan tertulis: diterima, diterima dengan syarat, atau ditolak. Siapkan gambar dan fungsi komponen, spesifikasi bar stock awal, penawaran pengganti, mill certificate atau dokumen identifikasi, riwayat penyimpanan, serta catatan proses yang direncanakan. Tetapkan siapa yang menyusun perbandingan, siapa yang memeriksa, dan siapa yang berwenang menyetujui.
 
-## Langkah 1 — tetapkan scope
+Jangan mulai dari harga. Mulai dari fungsi dan konsekuensi bila material gagal. Untuk struktur yang sudah ada atau akan berubah fungsi, penilaian perlu mempertimbangkan tujuan, dokumen, survei, identitas material, geometri, riwayat beban, perubahan, kerusakan, pengujian, analisis, dan disposisi yang ditinjau; kerangka proses seperti ini dijelaskan dalam [ISO 13822:2010](https://www.iso.org/standard/46556.html). Standar tersebut bukan pengganti peraturan Indonesia atau perhitungan proyek.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Dampak Substitusi Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan ruang lingkup
+
+Tuliskan satu baris untuk setiap antarmuka: bagian yang dibubut, dipasang tekan, dilas, diberi lapisan, atau bersentuhan dengan material lain. Kunci bentuk awal—round, flat, square, atau bentuk lain—lalu catat diameter atau ukuran nominal, toleransi, panjang, kelurusan, dan allowance pemesinan. Kondisi material juga harus eksplisit: baru atau bekas, permukaan teroksidasi, sudah dilapisi, pernah dipanaskan, atau pernah mengalami beban.
+
+Ruang lingkup ini membedakan substitusi pembelian dari perubahan desain. Anda boleh membandingkan dua produk, tetapi tidak boleh menyimpulkan kapasitas komponen, umur lelah, atau kelayakan sambungan tanpa analisis yang ditugaskan kepada perancang. Panduan kelelahan FHWA ditujukan untuk konteks jembatan; gunakan [referensi fatigue/fracture FHWA](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf) sebagai pengingat jenis data yang perlu dikumpulkan, bukan sebagai aturan bangunan Indonesia.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Dampak Substitusi Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel perbandingan dengan kolom “material awal”, “calon pengganti”, “bukti”, dan “status”. Periksa berurutan:
+
+1. **Identitas dan grade.** Nama dagang bukan grade. Cocokkan spesifikasi produk, heat/lot, bentuk produk, dan edisi dokumen yang dirujuk. Status “berlaku” pada katalog saja tidak membuktikan bahwa persyaratan kontrak telah dipenuhi.
+2. **Geometri dan kondisi.** Ukur bagian yang kritis dan simpan lokasi pengukuran. Catat cacat, pitting, bekas penjepitan, skala, atau perubahan penampang yang terlihat; jangan menyimpulkan kedalaman atau dampak tanpa pemeriksaan yang sesuai.
+3. **Sifat dan spesimen.** Bedakan nilai yang dijanjikan spesifikasi dari hasil uji aktual. [ISO 6892-1:2019](https://www.iso.org/standard/78322.html) mengatur metode uji tarik pada temperatur ruang, sedangkan [ISO 377:2017](https://www.iso.org/standard/72529.html) dan amendemennya ([ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)) membantu menempatkan pengambilan dan preparasi spesimen dalam konteksnya. Catat sumber dan orientasi spesimen, lokasi, kondisi, metode, unit, identitas heat, laboratorium, dan ketidakpastian. Metode uji tidak otomatis membuktikan kesesuaian seluruh batang.
+4. **Pemesinan dan pengelasan.** Minta prosedur dan batasan dari pemasok atau fabrikator: perilaku saat dibubut, kebutuhan perlakuan panas, kebersihan permukaan, serta prosedur las yang disetujui. Jangan menebak weldability dari nama grade atau warna permukaan.
+5. **Korosi dan lingkungan.** Survei basah-kering, kondensasi, garam, bahan kimia, tanah atau perendaman, celah, drainase, logam kontak, temperatur, kerusakan lapisan, akses, dan rencana perawatan. [ISO 12944-2:2017](https://www.iso.org/standard/64834.html) membahas klasifikasi lingkungan dan [ISO 12944-5:2019](https://www.iso.org/standard/77795.html) sistem cat pelindung; [AMPP Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction) menekankan bahwa pemilihan perlindungan berangkat dari substrat dan paparan. Kategori lingkungan saja bukan spesifikasi sistem lengkap.
+
+Teman Besi.co.id, minta setiap angka memiliki jejak dokumen. Bila sertifikat hanya menyebut “setara” tanpa grade, heat, atau metode, statusnya **belum terbukti**, bukan “aman sementara”.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Dampak Substitusi Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan review dari yang paling mudah menghentikan pekerjaan. Pertama, cocokkan fungsi, bentuk, ukuran, dan kondisi. Kedua, cocokkan identitas material dan persyaratan produk. Ketiga, minta bukti sifat atau rencanakan pengambilan spesimen yang dapat ditelusuri. Keempat, tinjau pemesinan, pengelasan, dan perlakuan permukaan bersama orang yang bertanggung jawab atas proses tersebut. Kelima, masukkan data yang telah diverifikasi ke pemeriksaan desain: penampang, beban, konsentrasi tegangan, sambungan, toleransi, dan perubahan penggunaan.
 
-## Hold point dan kondisi berhenti
+Untuk komponen yang telah terpasang, bandingkan kondisi aktual dengan gambar dan riwayat beban. Cari perubahan, kerusakan, korosi, dan perbaikan lama sebelum memilih tes. Pada detail yang menerima siklus beban, identitas detail, riwayat penggunaan, material/fabrikasi, las, korosi, temuan sebelumnya, akses, dan pemantauan adalah input evaluasi fatigue; jangan menghitung umur sisa dari satu pengamatan.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Dampak Substitusi Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beri status tiap baris: **terverifikasi**, **perlu bukti**, atau **tidak cocok**. Hanya baris terverifikasi yang boleh masuk paket pengajuan. Perancang kemudian memutuskan apakah perubahan memerlukan hitungan ulang, detail sambungan baru, atau penolakan.
 
-## Verifikasi hasil dan handover
+## Titik tahan dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Dampak Substitusi Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan pembelian, pemotongan, atau pengelasan bila identitas grade/heat tidak dapat ditelusuri, dimensi aktual keluar dari toleransi yang disyaratkan, kondisi bekas pakai tidak terdokumentasi, atau bukti uji tidak menjelaskan spesimen dan metode. Berhenti juga ketika lingkungan korosif berubah, coating yang dipilih belum memiliki sistem dan data produsen, atau substitusi mengubah penampang maupun sambungan.
 
-## Objection or shortcut to address
+Pada setiap kondisi tersebut, pasang **[NEEDS GATE-01/02/04: keputusan berbasis bukti proyek]** di lembar pengajuan dan minta review kompeten. Jangan melanjutkan dengan label “setara” atau mengandalkan inspeksi visual sebagai pengganti verifikasi material.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Paket serah terima minimal memuat tabel perbandingan final, dokumen identitas produk dan heat/lot, catatan pengukuran geometri dan kondisi, laporan uji yang tertelusur, prosedur pemesinan/pengelasan yang disetujui, survei lingkungan dan sistem perlindungan, gambar revisi, serta keputusan perancang. Simpan foto dan lokasi pengukuran sebagai rekaman, tanpa menjadikannya bukti kapasitas.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Sebelum material dilepas ke produksi, pastikan setiap ketidaksesuaian memiliki disposisi tertulis: perbaiki, uji tambahan, terima dengan batasan, atau tolak. Setelah pemasangan, cocokkan material yang datang dengan heat/lot pada dokumen dan catat perubahan lapangan. Handover belum lengkap bila persetujuan hanya lisan atau dokumen belum menunjuk bagian yang benar-benar dipasang.
 
-## Draft completion checklist
+## Jalan pintas yang tampak praktis tetapi gagal
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas paling umum adalah menyamakan diameter dan menganggap grade lain pasti setara. Diameter hanya menjawab sebagian geometri. Perbedaan grade atau kondisi membuat kecocokan proses, lingkungan, dan data pemeriksaan perlu diverifikasi ulang. Sertifikat dengan satu nilai tarik pun tidak membuktikan seluruh stok, karena validitas nilai bergantung pada asal, orientasi, preparasi, metode, dan identitas produk.
+
+Alternatif yang lebih aman adalah membuat matriks “klaim–bukti–pemilik keputusan”. Untuk klaim “boleh dipakai”, bukti harus menunjuk dokumen material, kondisi aktual, proses fabrikasi, dan review perancang. Jika satu sel kosong, status tetap tertunda. Kawan Besi.co.id, kecepatan yang benar datang dari menemukan kekosongan sebelum material dipotong, bukan dari menghapus langkah pemeriksaan.
+
+## Kesimpulan
+
+Checklist dampak substitusi bar stock mencakup grade, bentuk dan kondisi, geometri, sifat dengan spesimen tertelusur, pemesinan, pengelasan, korosi, pengujian, serta dampak desain. Kumpulkan bukti itu dalam satu paket, tetapkan titik tahan, dan serahkan keputusan kepada BESB-02-A04 serta perancang kompeten.
+
+Langkah Anda berikutnya: minta pemasok mengirim identitas grade dan heat/lot beserta dokumen uji, ukur material yang benar-benar tersedia, lalu ajukan matriks perbandingan untuk review. Jika opsi material perlu dibandingkan, lihat [bar AS S45C di Yogyakarta](/jual-as-s45c-yogyakarta) dan [bar AS ST42 di Yogyakarta](/jual-as-st42-yogyakarta) sebagai tujuan informasi produk; halaman tersebut bukan pengganti verifikasi proyek. Anda dapat menyimpan dokumen pendukung di [beranda Besi.co.id](/) sesuai alur proyek. Tanpa bukti proyek dan persetujuan tersebut, bar stock pengganti belum boleh diperlakukan sebagai material yang disetujui.

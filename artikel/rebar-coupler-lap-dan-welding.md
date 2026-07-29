@@ -2,8 +2,9 @@
 article_id: BESB-06-A04
 title: "Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan"
 slug: "rebar-coupler-lap-dan-welding"
-description: "Explain design intent, bar/coupler identity, preparation, installation, testing, traceability, and restrictions"
-status: outline
+description: "Panduan membedakan niat desain, identitas batang dan coupler, persiapan, pemasangan, pengujian, ketertelusuran, serta batas penggunaannya"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,50 +17,17 @@ technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
   - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024"
-  - "https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf"
   - "https://pesta.bsn.go.id/produk/detail/11443-sni20522017"
   - "https://pesta.bsn.go.id/produk/detail/11700-20522017"
+  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
+  - "https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan”
-- **Reader and situation:** Contractor facing congestion
-- **Reader outcome:** Explain design intent, bar/coupler identity, preparation, installation, testing, traceability, and restrictions
-- **Primary intent:** Compare joining methods
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not detail reinforcement; licensed designer and BESB-10-A01 own approval
-- **Final public route:** `/artikel/rebar-coupler-lap-dan-welding.html`
-- **Appointed CMS date:** `2026-01-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,142 +38,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Besi.co.id! Saat tulangan mulai padat, tiga istilah sering dipakai seolah-olah sama: rebar coupler, lap splice, dan welding. Padahal ketiganya adalah keputusan penyambungan yang berbeda. Coupler menyambung dua batang dengan komponen mekanis; lap splice mengandalkan panjang tumpang tindih dan transfer gaya melalui beton; welding mengandalkan sambungan las yang prosedurnya harus cocok dengan material dan desain. Memilih berdasarkan “yang paling cepat tersedia” dapat membuat detail, material, dan bukti penerimaan tidak lagi cocok.
 
-### KR-01
+Jawaban singkatnya: ikuti metode yang ditetapkan perencana untuk lokasi dan gaya yang ditinjau. Coupler bukan pengganti otomatis lap, dan las bukan jalan pintas ketika ruang penyaluran sempit. Diameter, mutu, posisi sambungan, tuntutan konstruksi, serta prosedur yang disetujui dapat mengubah pilihan. [NEEDS GATE-01: konfirmasi detail desain, lokasi splice, dan metode yang disetujui perencana/BESB-10-A01.]
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-06
-
-- **Original sources:** [Permenperin 55/2024 status and abstract](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024), [official regulation PDF](https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf), [BSN SNI 2052:2017 record showing `Berlaku` and a related 2024 edition](https://pesta.bsn.go.id/produk/detail/11443-sni20522017), and [separate BSN 2052:2017 record showing `Tidak Berlaku`](https://pesta.bsn.go.id/produk/detail/11700-20522017)
-- **Purpose for this article:** Ground rebar procurement in a current regulatory source while preserving the unresolved edition/product/scope details.
-- **Safe grounded facts:** Regulatory scope, product definitions, conformity assessment, responsibilities, exceptions, transition, and marking cannot be reconstructed from a BSN title alone. Reinforcing bar, rerolled bar, and coiled product must not be collapsed into one generic `besi beton`.
-- **Limits:** A legal/technical reviewer must read the current consolidated regulation and referenced current SNI before stating requirements, effective transitions, exemptions, SPPT-SNI details, or acceptance. Recheck law and BSN status through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-06-A02` → `/artikel/membaca-marking-besi-beton.html` — Cara Membaca Marking Besi Beton
-- `BESB-06-A03` → `/artikel/cutting-dan-bending-rebar.html` — Cutting dan Bending Rebar: Bukti sebelum Membentuk
-- `BESB-06-A05` → `/artikel/penyimpanan-dan-traceability-rebar.html` — Penyimpanan Rebar dan Traceability di Site
-- `BESB-06-A06` → `/artikel/rust-pada-besi-beton.html` — Rust pada Rebar: Observasi, Bukti, dan Eskalasi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi lokal ini bersifat umum, bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lap, coupler, dan welding bukan tiga nama untuk satu pekerjaan. Pada lap, dua batang ditempatkan saling tumpang tindih sesuai detail; pada coupler, ujung batang bertemu melalui selongsong atau mekanisme yang dipasok sebagai satu sistem; pada welding, panas dan prosedur las membentuk ikatan di area yang ditentukan. Masing-masing memiliki cara transfer gaya, toleransi pemasangan, dan paket pemeriksaan sendiri.
+
+Karena itu, jangan mengganti lap dengan coupler di lapangan hanya karena tulangan terlalu rapat. Jangan pula mengelas batang hanya karena ujungnya terlihat mudah dijangkau. Perubahan tersebut adalah perubahan metode dan harus kembali ke dokumen desain serta persetujuan teknis. Kawan Besi.co.id, pertanyaan awal yang aman adalah: “Apa metode yang tertulis untuk batang, zona, dan beban ini?” bukan “Metode mana yang sedang ada stoknya?”
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membandingkan niat desain, identitas batang dan coupler, persiapan, pemasangan, pengujian, serta traceability (ketertelusuran). Traceability berarti setiap batang, komponen sambungan, dokumen, dan hasil inspeksi dapat dihubungkan kembali ke pesanan dan identitas fisiknya. Catatan inspeksi perlu direkonsiliasi dengan produsen, heat atau batch, ukuran, pengujian, dan marking; kerangka inspeksi dokumen ISO 10474 dapat membantu menyusun pertanyaan itu, tanpa otomatis membuktikan kesesuaian barang tertentu ([ISO 10474:2013](https://www.iso.org/standard/53736.html)). Jika Anda membutuhkan konteks pengadaan lokal sebelum membuat daftar penerimaan, lihat [besi beton di Yogyakarta](/jual-besi-beton-yogyakarta) atau [besi beton di Sleman](/jual-besi-beton-sleman); keputusan sambungan tetap mengikuti desain proyek.
+
+Batasnya penting: halaman ini tidak menghitung panjang lap, kapasitas sambungan, detail penyaluran, kelas las, atau penggantian tulangan. Itu wilayah perencana berlisensi dan review teknis proyek. Status katalog BSN juga tidak boleh dibaca sebagai seluruh isi klausul atau keputusan penerimaan. Katalog dapat menampilkan lebih dari satu edisi atau status untuk subjek yang berdekatan; rekam edisi yang dipakai harus dikonfirmasi terhadap kontrak dan dokumen terkini ([katalog BSN baja profil](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [katalog BSN produk baja datar](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=)).
+
+Untuk pengadaan, bedakan reinforcing bar, rerolled bar, dan produk gulungan. Jangan menyatukannya menjadi “besi beton” tanpa memeriksa definisi produk dan ruang lingkup aturan yang berlaku. Rekaman SNI 2052:2017 memperlihatkan perlunya memeriksa status dan edisi yang tepat ([rekam SNI 2052:2017](https://pesta.bsn.go.id/produk/detail/11443-sni20522017), [rekam lain SNI 2052:2017](https://pesta.bsn.go.id/produk/detail/11700-20522017)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari bar schedule, gambar penulangan, dan lokasi sambungan. Tandai batang, diameter, mutu, elevasi, serta zona yang akan disambung. Kemudian cocokkan metode:
+
+- **Lap splice:** batang disusun dengan tumpang tindih sebagaimana detail. Keberhasilannya bergantung pada geometri, beton di sekitar sambungan, dan pelaksanaan yang sesuai gambar; panjangnya tidak boleh ditebak dari kebiasaan proyek.
+- **Coupler:** identifikasi merek atau sistem, tipe coupler, rentang ukuran, dan orientasi pemasangan. Ujung batang harus dipersiapkan dengan alat dan toleransi yang ditetapkan pemasok. Coupler yang bentuknya mirip belum tentu dapat dipertukarkan.
+- **Welding:** pastikan material, prosedur pengelasan, welder, urutan kerja, dan pemeriksaan telah disetujui. Kawat las atau produk las memiliki keluarga standar dan catatan produknya sendiri; rekam BSN untuk SNI 9172:2023 menunjukkan bahwa identitas produk las perlu dibaca terpisah dari standar batang ([rekam SNI 9172:2023](https://pesta.bsn.go.id/produk/detail/14592-91722023)).
+
+Urutan praktisnya adalah menerima material, memeriksa marking dan dokumen, mengarantina yang tidak cocok, menyiapkan ujung atau permukaan, memasang sesuai prosedur, memeriksa sebelum tertutup beton, lalu menyimpan bukti. Laboratorium yang kompeten membantu meningkatkan kepercayaan pada hasil, tetapi akreditasi laboratorium saja tidak membuktikan satu sambungan tertentu memenuhi desain ([ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, **niat struktur**. Sambungan di zona dengan tuntutan tarik, tekan, siklik, atau kepadatan berbeda tidak boleh diperlakukan sama. Jika gambar tidak menyebut metode atau ada konflik antara shop drawing dan gambar desain, pekerjaan berhenti pada titik itu. [NEEDS GATE-02: review profesional atas perubahan metode, lokasi, dan kompatibilitas sistem.]
+
+Kedua, **identitas material**. Cocokkan heat/batch, diameter, mutu, marking fisik, coupler, dan dokumen pesanan. Catatan yang hanya bertuliskan “rebar 16 mm” belum cukup untuk menghubungkan batang dengan sambungan yang terpasang.
+
+Ketiga, **kesiapan lapangan**. Batang yang bengkok, ulir coupler rusak, permukaan terkontaminasi, atau area las basah memerlukan penanganan menurut prosedur yang disetujui. Simpan stok di atas tumpuan stabil, cegah bergulir atau menyebar, jaga marking tetap terlihat, dan pisahkan material yang diragukan. Panduan penyimpanan produsen serta prinsip penyimpanan material OSHA menekankan stabilitas, akses, segregasi, dan perlindungan dari kondisi yang merusak; keduanya bukan pengganti desain penyimpanan proyek ([LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), [OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
+
+Keempat, **bukti penerimaan**. Tentukan siapa yang memeriksa dimensi dan marking, siapa yang menyaksikan pemasangan, apa yang difoto sebelum pengecoran, serta laporan apa yang disimpan. Untuk pengadaan batang, Permenperin 55/2024 perlu dibaca bersama SNI dan kondisi kontrak; abstrak atau judul regulasi saja tidak cukup untuk menyimpulkan transisi, pengecualian, atau kewajiban penandaan ([status dan abstrak Permenperin 55/2024](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan tim menemukan tulangan dinding terlalu padat untuk memasukkan batang baru. Tiga pertanyaan berikut menjaga keputusan tetap terkendali:
+
+| Temuan di lapangan | Tindakan aman | Bukti yang diminta |
+|---|---|---|
+| Gambar sudah menetapkan lap, tetapi panjang dan zona tidak terbaca | Tahan pekerjaan di lokasi itu dan minta klarifikasi gambar | Revisi detail atau instruksi tertulis perencana |
+| Gambar menetapkan coupler, tetapi batang dan coupler berbeda identitas | Karantina pasangan tersebut; jangan mencampur stok | Sertifikat/dokumen pesanan, marking, dan catatan kompatibilitas |
+| Ada usulan welding untuk mengatasi kepadatan | Jangan mengelas sebelum prosedur dan persetujuan tersedia | WPS atau prosedur proyek, kualifikasi pelaksana, serta rencana pemeriksaan yang disetujui |
+
+Tabel ini bukan persetujuan desain. Ia hanya membantu mandor mengubah kebingungan menjadi eskalasi yang dapat dilacak. Sobat Besi.co.id, bila keputusan mengubah metode awal, simpan pertanyaan, jawaban, revisi gambar, dan identitas sambungan dalam satu paket inspeksi—bukan hanya percakapan lisan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap semua coupler universal. Periksa tipe, ukuran, arah pemasangan, kondisi ulir atau permukaan, dan instruksi sistem yang dibeli. Kesalahan kedua adalah memakai panjang lap “standar kebiasaan”. Kembalikan pemeriksaan ke detail perencana; artikel ini tidak memberi angka pengganti.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menutup sambungan sebelum identitas dan pemeriksaan dicatat. Buat hold point: foto marking, posisi, orientasi, dan kondisi sebelum pengecoran; cocokkan dengan daftar batang dan nomor batch. Kesalahan keempat adalah menerima sertifikat tanpa mencocokkannya dengan barang. Dokumen inspeksi harus selaras dengan order, produsen, batch, ukuran, pengujian, dan marking fisik; hasil dari laboratorium kompeten tetap perlu ditautkan ke benda yang diuji.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Terakhir, jangan memindahkan atau menumpuk bundel tanpa rencana massa, geometri, titik angkat, dan kapasitas penyangga. Jika ada kerusakan, marking hilang, atau material tercampur, beri status karantina dan minta keputusan kompeten. [NEEDS GATE-04: verifikasi rencana handling, penyimpanan, dan disposisi material tidak sesuai sebelum pekerjaan dilanjutkan.]
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintasnya biasanya berbunyi, “Las saja, nanti kuat.” Masalahnya bukan sekadar kuat atau tidak, melainkan apakah material, prosedur, pelaksana, lokasi, dan pemeriksaannya cocok dengan niat desain. Las tanpa paket persetujuan menghapus jejak keputusan dan dapat menyulitkan penerimaan. Alternatif yang lebih aman adalah mengembalikan usulan ke perencana, menunggu instruksi tertulis, lalu menjalankan metode yang memiliki identitas dan bukti pemeriksaan jelas.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Lap, rebar coupler, dan welding tidak boleh dipertukarkan hanya karena ruang sempit atau stok berubah. Pilihan yang benar mengikuti detail desain, identitas batang dan sistem sambungan, prosedur pemasangan, serta bukti yang dapat ditelusuri. Langkah berikutnya: tandai setiap lokasi yang bermasalah, kumpulkan gambar dan dokumen materialnya, lalu minta review perencana/BESB-10-A01 sebelum memotong, mengulir, atau mengelas.
+
+Pegang aturan operasi ini, Teman Besi.co.id: bila metode, identitas, atau bukti tidak cocok, berhenti dan eskalasi—jangan menutup sambungan dengan asumsi.

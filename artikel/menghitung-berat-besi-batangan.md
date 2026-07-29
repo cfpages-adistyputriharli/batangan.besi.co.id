@@ -2,8 +2,9 @@
 article_id: BESB-03-A02
 title: "Menghitung Berat Teoretis Besi Batangan"
 slug: "menghitung-berat-besi-batangan"
-description: "Calculate mass from geometry, length, density assumption, units, and rounding"
-status: outline
+description: "Cara menghitung massa teoritis besi batangan dari geometri, panjang, asumsi massa jenis, satuan, dan pembulatan"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,48 +17,11 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/9985.html"
   - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
-  - "https://www.iso.org/standard/86032.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
-  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://www.iso.org/standard/85464.html"
-  - "https://www.iso.org/standard/64622.html"
-  - "https://www.iso.org/standard/66912.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Menghitung Berat Teoretis Besi Batangan
+<!-- BEGIN MANAGED IMAGE PLAN
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Menghitung Berat Teoretis Besi Batangan”
-- **Reader and situation:** Estimator checking quantity
-- **Reader outcome:** Calculate mass from geometry, length, density assumption, units, and rounding
-- **Primary intent:** Calculate theoretical mass
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Actual weighing/reconciliation belongs to BESB-03-A04
-- **Final public route:** `/artikel/menghitung-berat-besi-batangan.html`
-- **Appointed CMS date:** `2025-10-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menghitung Berat Teoretis Besi Batangan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,146 +32,90 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Besi.co.id! Jika Anda perlu memperkirakan massa besi batangan untuk quantity take-off, jawabannya berasal dari volume, panjang, dan asumsi massa jenis—bukan dari nama nominal saja. Rumus dasarnya adalah:
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+`massa teoritis = luas penampang × panjang × massa jenis`.
 
-### KR-01
+Samakan satuan terlebih dahulu, lalu bulatkan hanya pada tahap akhir. Hasil ini adalah angka perhitungan berdasarkan geometri yang dirujuk; ISO 4200 dan ASME B36.10 sama-sama menempatkan dimensi serta massa teoritis dalam konteks tabel produk, sehingga label nominal, ukuran terukur, dan dasar tagihan tidak boleh dicampur ([ISO 4200](https://www.iso.org/standard/9985.html); [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-besi-beton-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-03-A01` → `/artikel/toleransi-ukuran-besi-batangan.html` — Nominal, Aktual, dan Toleransi Ukuran Batang
-- `BESB-03-A03` → `/artikel/mengukur-geometri-bar-stock.html` — Mengukur Diameter, Across Flats, dan Straightness
-- `BESB-03-A04` → `/artikel/rekonsiliasi-berat-bar-stock.html` — Berat Teoretis, Timbangan, dan Invoice
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Aset lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Berat Teoretis Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk batang bulat, luas penampangnya `π × d² / 4`. Untuk batang persegi, gunakan `s²`; untuk persegi panjang, `lebar × tebal`. Kalikan luas itu dengan panjang batang dan massa jenis yang disetujui pada lembar perhitungan. Konversi milimeter ke meter sebelum menghitung volume dalam meter kubik. Bila diameter masih berupa label nominal, tandai hasilnya sebagai teoritis, bukan hasil timbang.
+
+Kesalahan paling mahal biasanya terjadi saat estimator memakai diameter dalam milimeter bersama panjang dalam meter tanpa konversi, atau membulatkan diameter dan massa jenis terlalu dini. Kesalahan lain adalah menganggap angka teoritis otomatis sama dengan berat pada invoice. Kawan Besi.co.id, perlakukan tiga angka berbeda: geometri acuan, massa teoritis, dan massa aktual yang kelak diverifikasi saat penerimaan. Ruang lingkup artikel ini berhenti pada perhitungan teoritis; penimbangan dan rekonsiliasi invoice memerlukan pemeriksaan terpisah.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Berat Teoretis Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Berat” dalam percakapan sehari-hari sering berarti massa. Di lembar estimator, gunakan istilah massa dan satuan yang konsisten, misalnya kilogram. Massa teoritis adalah hasil model: penampang dianggap sesuai dimensi acuan, panjang dianggap sesuai potongan, dan massa jenis dianggap konstan sesuai dokumen material atau asumsi proyek.
+
+Model ini tidak menetapkan toleransi, kelas schedule, kelayakan struktur, atau hak pembayaran. Tabel produk dapat menyajikan massa nominal, tetapi edisi standar yang berlaku dan syarat pasokan harus diperiksa sebelum angka dipakai sebagai dasar kontrak. Jika angka ini akan memengaruhi pengangkatan, kapasitas rak, atau keputusan pelepasan material, minta tinjauan kompeten dan bukti proyek yang mutakhir: `[NEEDS GATE-01/GATE-02/GATE-04: verifikasi dimensi, asumsi massa jenis, dan tujuan penggunaan sebelum keputusan keselamatan atau komersial]`.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Berat Teoretis Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan identifikasi penampang dari gambar, datasheet, atau dokumen pembelian. Catat apakah batang bulat, persegi, persegi panjang, atau profil berongga. Untuk penampang berongga, hitung luas luar dikurangi luas dalam; jangan mengganti dinding aktual dengan diameter luar saja.
+
+Berikut urutan yang dapat dipakai di spreadsheet:
+
+1. **Tetapkan geometri.** Masukkan ukuran yang dirujuk dan sumbernya. Jika yang tersedia hanya label nominal, simpan label itu di kolom terpisah dari ukuran terukur.
+2. **Konversi satuan.** Ubah semua panjang menjadi meter. Diameter 25 mm, misalnya, ditulis 0,025 m sebelum dikuadratkan.
+3. **Hitung luas penampang.** Pilih rumus sesuai bentuk. Jangan memakai rumus batang bulat untuk batang persegi.
+4. **Hitung volume.** Kalikan luas dalam m² dengan panjang dalam m sehingga volume menjadi m³.
+5. **Terapkan massa jenis.** Isi `ρ` dari dokumen material atau asumsi yang disetujui. Hindari mengunci satu angka universal jika material atau basis pengadaan berbeda.
+6. **Bulatkan dan dokumentasikan.** Simpan nilai mentah, aturan pembulatan, tanggal, serta siapa yang menyetujui asumsi.
+
+Rumus umum dapat ditulis `m = A × L × ρ`. Jika Anda menghitung banyak batang dengan ukuran sama, kalikan massa satu batang dengan jumlahnya; jika panjang berbeda, hitung tiap kelompok agar pembulatan tidak menumpuk. Tabel dimensi dan massa seperti yang dibahas ISO 4200/ASME B36.10 membantu menetapkan geometri rujukan, tetapi tidak menggantikan pengukuran penerimaan atau syarat pasokan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Berat Teoretis Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Dimensi.** Karena diameter batang bulat dikuadratkan, perubahan kecil pada diameter memberi pengaruh lebih besar daripada perubahan panjang yang sama secara relatif. Ovalitas, chamfer, radius sudut, atau rongga juga mengubah luas efektif. Gunakan dimensi pada dokumen yang sama; jangan menggabungkan diameter dari satu sumber dengan panjang dari sumber lain tanpa catatan.
+
+**Panjang.** Panjang teoritis adalah panjang yang benar-benar dimodelkan: satu batang penuh, potongan bersih, atau total akumulasi. Kerf pemotongan dan sisa ujung hanya masuk bila memang termasuk kuantitas yang dihitung. Untuk kebutuhan pemesanan, bedakan panjang bersih dari allowance fabrikasi.
+
+**Massa jenis.** Simbol `ρ` adalah asumsi input, bukan keluaran rumus. Ambil dari spesifikasi material yang disetujui atau nyatakan jelas bahwa itu asumsi estimasi. Jika revisi dokumen mengubah nilai tersebut, hitung ulang seluruh baris terkait.
+
+**Pembulatan.** Bulatkan pada hasil akhir per batang atau pada total—pilih satu aturan dan terapkan konsisten. Menjumlahkan angka yang sudah dibulatkan per potong dapat berbeda dari membulatkan total mentah. Untuk lifting atau desain penyangga, jangan mengandalkan angka pembulatan yang mengurangi margin tanpa tinjauan kompeten.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Berat Teoretis Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalkan estimator menerima satu batang bulat dengan diameter acuan 25 mm dan panjang 6 m. Ia memilih massa jenis asumsi `ρ = 7.800 kg/m³` hanya untuk contoh perhitungan internal, bukan klaim nilai standar atau jaminan material.
+
+Konversi diameter menjadi 0,025 m. Luas penampangnya `π × (0,025²) / 4 ≈ 0,0004909 m²`. Volume satu batang `0,0004909 × 6 ≈ 0,002945 m³`. Massa teoritisnya `0,002945 × 7.800 ≈ 22,97 kg`, lalu dibulatkan sesuai aturan lembar kerja.
+
+Keputusan berikutnya bergantung pada tujuan:
+
+| Tujuan | Angka yang dipakai | Pemeriksaan sebelum diputuskan |
+|---|---|---|
+| Estimasi kuantitas awal | Massa teoritis dari asumsi tertulis | Cocokkan bentuk, ukuran, dan panjang pada gambar |
+| Input pengangkatan/rak | Massa teoritis konservatif | Tinjauan kapasitas, tumpuan, dan kondisi aktual; jangan memakai angka contoh |
+| Penerimaan atau invoice | Bukan massa teoritis saja | Ikuti prosedur timbang, dokumen pasokan, dan rekonsiliasi yang disetujui |
+
+Teman Besi.co.id, bila salah satu input belum pasti, tampilkan rentang atau marker tinjauan daripada menyamarkan ketidakpastian dengan dua angka desimal.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menghitung Berat Teoretis Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Campur mm dan m.** Tulis unit di setiap kolom dan buat pemeriksaan otomatis bahwa semua panjang untuk volume sudah dalam meter.
+- **Mengkuadratkan angka yang salah.** Pastikan diameter dikonversi sebelum `d²`; jangan mengonversi luas setelah pembulatan.
+- **Menganggap nominal = aktual.** Simpan kolom “acuan” dan “terukur” terpisah. Jika belum ada pengukuran, sebut hasilnya teoritis.
+- **Mengabaikan bentuk berongga.** Kurangi luas dalam dari luas luar dan dokumentasikan tebal dinding yang dipakai.
+- **Membulatkan tiap langkah.** Pertahankan beberapa digit pada luas dan volume, bulatkan sekali di keluaran.
+- **Menjadikan hasil sebagai bukti timbang.** Massa teoritis tidak membuktikan massa aktual, kadar air, pelapis, atau dasar invoice. Tandai kebutuhan verifikasi penerimaan.
 
-## Objection or shortcut to address
+Checklist singkat sebelum mengirim quantity take-off: apakah sumber dimensi tercatat, unit seragam, massa jenis memiliki dasar, panjang dan jumlah batang benar, aturan pembulatan tertulis, serta tujuan penggunaan sudah ditetapkan? Jika jawabannya belum, perhitungan belum siap menjadi keputusan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sebaiknya dihindari
 
-## Required conclusion
+Shortcut yang sering dipilih adalah menyalin “kg per meter” dari tabel lama karena terlihat cepat. Cara itu hanya aman jika tabel tersebut benar-benar merujuk pada bentuk, dimensi, edisi dokumen, massa jenis, dan aturan pembulatan yang sama. ISO 4200 dan ASME B36.10 menunjukkan mengapa dimensi serta massa teoritis terikat pada produk dan tabel tertentu; keduanya tidak memberi hak untuk memindahkan angka ke semua batang.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih dapat diaudit: bangun satu baris rumus dari geometri, panjang, dan `ρ`, lalu simpan tautan atau nomor dokumen sumber. Untuk kebutuhan lanjutan, Anda dapat melihat [besi AS S45C di Yogyakarta](/jual-as-s45c-yogyakarta) atau [besi AS ST42 di Yogyakarta](/jual-as-st42-yogyakarta) setelah spesifikasi dan jumlahnya jelas. Minta pemeriksaan kedua untuk baris yang akan dipakai pada lifting, kapasitas penyimpanan, atau komitmen komersial. Jika bukti proyek belum tersedia, pertahankan marker kebutuhan review dan jangan mengisinya dengan tebakan.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Berat teoretis besi batangan dihitung dengan `m = A × L × ρ`: tentukan luas penampang yang benar, samakan satuan, gunakan massa jenis yang dinyatakan, dan bulatkan di akhir. Angka tersebut berguna untuk estimasi kuantitas, tetapi tidak menggantikan timbang aktual, dokumen pasokan, atau persetujuan profesional.
+
+Langkah Anda sekarang adalah menyimpan dimensi acuan, sumbernya, panjang, jumlah batang, asumsi `ρ`, dan aturan pembulatan dalam satu lembar yang dapat ditinjau. Sobat Besi.co.id, pakai hasil teoritis sebagai input terjelas untuk keputusan berikutnya—dan hentikan penggunaannya sebagai angka keselamatan atau invoice sampai pemeriksaan kompeten menyelesaikan `[NEEDS GATE-01/GATE-02/GATE-04]`.

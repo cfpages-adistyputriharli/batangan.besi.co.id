@@ -2,8 +2,9 @@
 article_id: BESB-12-A03
 title: "Receiving Inspection Besi Batangan"
 slug: "receiving-inspection-besi-batangan"
-description: "Reconcile PO/docs/marks, geometry, count/mass, condition, coating, photos, quarantine, and release"
-status: outline
+description: "Panduan memeriksa dokumen, tanda, ukuran, jumlah, kondisi, lapisan, foto, karantina, dan rilis besi batangan saat diterima"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-31"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,47 +17,13 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
-  - "https://www.iso.org/standard/89449.html"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
   - "https://www.iso.org/standard/85464.html"
-  - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Receiving Inspection Besi Batangan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Receiving Inspection Besi Batangan”
-- **Reader and situation:** Warehouse accepting stock
-- **Reader outcome:** Reconcile PO/docs/marks, geometry, count/mass, condition, coating, photos, quarantine, and release
-- **Primary intent:** Inspect delivery
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Acceptance values belong to specification BESB-02-A01
-- **Final public route:** `/artikel/receiving-inspection-besi-batangan.html`
-- **Appointed CMS date:** `2026-05-31` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Receiving Inspection Besi Batangan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,148 +34,81 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Receiving Inspection Besi Batangan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Receiving inspection bukan sekadar menghitung bundel lalu menandatangani surat jalan. Keputusan yang benar adalah: barang boleh dirilis hanya setelah identitas pesanan, bukti dokumen, penandaan fisik, ukuran, jumlah atau massa, kondisi, dan persyaratan permukaan dapat direkonsiliasi. Jika satu bagian belum terbukti, pisahkan material dan tahan statusnya.
 
-### KR-01
+Mulailah dari PO, spesifikasi BESB-02-A01, dan dokumen pengiriman sebagai satu paket. Cocokkan heat atau batch, ukuran, bentuk, kuantitas, serta identitas produsen pada dokumen dengan tanda yang benar-benar terlihat pada batang atau bundel. Catat hasil pemeriksaan, foto penanda dan kondisi, lalu tentukan **rilis**, **karantina**, atau **tahan untuk klarifikasi**. Nilai penerimaan, toleransi, dan aturan sampling tidak boleh ditebak dari kebiasaan gudang; semuanya menunggu spesifikasi dan rencana inspeksi proyek yang disetujui. **[NEEDS GATE-01: spesifikasi BESB-02-A01, ITP, dan kriteria penerimaan yang berlaku]**
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-besi-beton-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-12-A01` → `/artikel/template-rfq-besi-batangan.html` — Template RFQ Besi Batangan
-- `BESB-12-A02` → `/artikel/itp-besi-batangan.html` — ITP Material dan Proses Besi Batangan
-- `BESB-12-A04` → `/artikel/pengujian-besi-batangan.html` — Chemistry, Tensile, Hardness, dan NDT pada Bar
-- `BESB-12-A05` → `/artikel/quote-dan-substitusi-bar-stock.html` — Membandingkan Quote dan Mengelola Substitusi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Inspection Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Gambar ini adalah ilustrasi umum, bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Inspection Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Receiving inspection adalah pemeriksaan saat material tiba dan sebelum material dipakai atau dipindahkan ke stok bebas. Fokusnya adalah kesesuaian kiriman terhadap pesanan dan bukti yang menyertainya, bukan pembuktian kapasitas struktur setelah terpasang. Anda memeriksa besi batangan sebagai lot atau kelompok yang identitasnya jelas: misalnya satu nomor heat, batch, ukuran, dan pengiriman yang dapat ditelusuri.
+
+Pemeriksaan ini tidak menggantikan verifikasi desain, pengujian laboratorium, atau persetujuan insinyur. Hasil uji tarik, misalnya, baru bermakna jika spesimen, orientasi, lokasi pengambilan, metode, kondisi, satuan, dan identitas produk tercatat. ISO 6892-1 menjelaskan metode uji tarik pada temperatur ruang, sedangkan ISO 377 membahas pengambilan spesimen dan benda uji; keduanya tidak otomatis menetapkan bahwa seluruh stok memenuhi grade atau aman dipakai ([ISO 6892-1:2019](https://www.iso.org/standard/78322.html); [ISO 377:2017](https://www.iso.org/standard/72529.html)).
+
+Karena itu, batas keputusan pada halaman ini adalah status kiriman: cocok dan dapat dipertimbangkan untuk dirilis, tidak cocok dan dikarantina, atau belum cukup bukti sehingga ditahan. **[NEEDS GATE-02: pihak berwenang dan aturan disposition untuk material tidak sesuai]**
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Inspection Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Susun meja penerimaan sebelum truk dibongkar. Siapkan PO dan revisinya, spesifikasi, surat jalan, packing list, sertifikat atau inspection document, formulir pemeriksaan, alat ukur yang sesuai, kamera, label status, dan area karantina. Tunjuk pemeriksa serta penanggung jawab yang berhak memberi keputusan; jangan biarkan tanda tangan penerima barang dianggap sebagai persetujuan teknis.
+
+Ikuti urutan berikut agar jejak keputusan tidak putus.
+
+1. **Bekukan identitas kiriman.** Tulis tanggal tiba, pemasok, nomor PO, nomor surat jalan, kendaraan, dan lokasi bongkar. Beri nomor pemeriksaan atau ID lot yang sama pada formulir, foto, dan label fisik.
+2. **Rekonsiliasi dokumen.** Bandingkan deskripsi, grade atau designation, ukuran nominal, panjang, jumlah, massa, produsen, heat/batch, dan revisi pesanan. Inspection document perlu dicocokkan dengan order, produsen, produk, heat/batch, dimensi, pengujian, dan penandaan fisik; kerangka pemeriksaan dokumen ISO 10474 membantu menata rekonsiliasi ini, tetapi dokumen itu sendiri bukan bukti bahwa item tertentu otomatis lulus ([ISO 10474:2013](https://www.iso.org/standard/53736.html)).
+3. **Baca tanda pada material.** Foto tanda pada batang, tag bundel, atau label yang dapat ditelusuri. Jika nomor heat pada tag tidak cocok dengan sertifikat atau tanda hilang, hentikan aliran lot tersebut dan minta klarifikasi tertulis.
+4. **Periksa geometri dan kuantitas.** Ukur karakteristik yang diwajibkan spesifikasi dengan alat yang layak dan catat lokasi serta unitnya. Hitung batang atau timbang massa sesuai metode yang disetujui; jangan mengubah selisih massa menjadi keputusan lulus tanpa aturan toleransi yang tertulis.
+5. **Periksa kondisi dan coating.** Amati karat, goresan, tekukan, ujung rusak, kontaminasi, kelembapan terperangkap, atau lapisan yang terkelupas. Untuk material berlapis, catat kesinambungan dan kerusakan lapisan sebagaimana kriteria BESB-02-A01; jangan menyimpulkan umur layanan dari tampilan permukaan.
+6. **Kunci bukti.** Ambil foto keseluruhan, label, tanda heat, titik ukur, dan cacat yang ditemukan. Simpan file dengan ID lot dan waktu, bukan nama kamera saja.
+7. **Tetapkan status.** Rilis hanya bila semua bukti wajib tersedia dan kriteria terpenuhi. Jika ada konflik identitas, cacat, atau hasil ukur di luar kriteria, pasang label karantina. Jika bukti belum lengkap tetapi belum ada ketidaksesuaian final, gunakan status tahan untuk klarifikasi.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Inspection Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Identitas lot adalah faktor pertama. Dua bundel dengan ukuran sama tidak boleh digabung jika heat, pemasok, atau dokumennya berbeda. Segregasi fisik dan catatan perpindahan membantu rantai pengawasan; ISO 22095 membedakan model identitas fisik, mass-balance, dan klaim administratif. Klaim yang dapat diaudit memerlukan batas sistem, catatan input-output, aturan transfer, pihak bertanggung jawab, dan pencegahan penghitungan ganda—bukan sekadar logo pada sertifikat ([ISO 22095:2020](https://www.iso.org/standard/72532.html)).
+
+Kondisi bongkar juga memengaruhi bukti. Material yang langsung tercampur, dipotong, atau dipindahkan tanpa foto awal akan lebih sulit ditelusuri ketika ada sengketa. Catat keadaan saat tiba, kemasan atau pengikat, dan siapa yang menyaksikan pemeriksaan. Untuk hasil laboratorium, status kompetensi laboratorium dan ruang lingkup akreditasinya relevan terhadap kepercayaan pada hasil, tetapi tidak menggantikan keputusan kesesuaian item; periksa laporan, metode, otorisasi, dan rantai identitasnya ([ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)).
+
+Rencana sampling juga mengubah hasil. Jangan memilih jumlah sampel karena “biasanya begitu” atau karena satu batang tampak baik. Rencana harus menyebut populasi atau lot, karakteristik, metode, pemilihan dan identitas sampel, frekuensi atau ukuran sampel, sumber kriteria, aturan keputusan, penanggung jawab, dan jalur ketidaksesuaian. ISO 2859-1 dan ISO 28590 memberi kerangka seri sampling atribut; abstraknya tidak cukup untuk menetapkan AQL, ukuran sampel, switching rule, atau aturan rilis proyek Anda ([ISO 2859-1:2026](https://www.iso.org/standard/85464.html)). **[NEEDS GATE-04: sampling plan/ITP dan aturan keputusan yang disetujui]** Teman Besi.co.id, anggap setiap angka dalam rencana sebagai keputusan yang harus dapat diaudit, bukan kebiasaan lisan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Inspection Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai cara berpikir, bukan pengganti nilai di BESB-02-A01.
+
+| Temuan saat tiba | Status sementara | Tindakan berikutnya |
+|---|---|---|
+| PO, sertifikat, tag, heat, ukuran, dan hasil ukur konsisten; kondisi memenuhi kriteria | Tahan sampai ditandatangani pemeriksa berwenang | Lengkapi foto dan formulir, lalu ajukan rilis |
+| Dokumen menyebut heat A, tag fisik menunjukkan heat B | Karantina | Pisahkan lot, buka permintaan klarifikasi, jangan mencampur atau memotong |
+| Identitas cocok, tetapi bukti ukuran atau massa belum lengkap | Tahan untuk klarifikasi | Ulangi pengukuran dengan metode dan alat yang disetujui |
+| Lapisan atau permukaan rusak dan kriteria penanganannya tidak jelas | Karantina | Minta keputusan teknis tertulis; jangan memperbaiki atau mengecat ulang sepihak |
+| Satu hasil uji tersedia, tetapi lot, spesimen, atau aturan sampling tidak jelas | Tahan | Verifikasi laporan dan minta review kompeten sebelum keputusan |
+
+Kawan Besi.co.id, perhatikan bahwa tabel ini sengaja tidak memberi angka toleransi atau jumlah sampel. Angka tersebut adalah bagian dari spesifikasi, ITP, kontrak, atau keputusan teknis proyek yang belum tersedia dalam dokumen proyek ini. **[NEEDS GATE-08: persetujuan teknis akhir untuk rilis, rework, atau penolakan]**
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Inspection Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan sertifikat dengan identitas barang. Tanyakan: nomor heat atau batch mana yang tercetak pada material, apakah sama persis dengan dokumen, dan apakah jumlah atau massa dokumen masih masuk akal terhadap barang yang datang?
 
-## Objection or shortcut to address
+Kesalahan kedua adalah mengandalkan hitungan batang tanpa definisi satuan. Tanyakan apakah PO memesan batang, bundel, atau massa; metode penimbangan apa yang disetujui; dan bagaimana selisih dicatat. Kesalahan ketiga adalah memotret hanya tag. Ambil juga konteks bundel, tanda individual jika ada, titik ukur, dan cacat, lalu hubungkan semuanya ke ID lot.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan keempat adalah menghapus jejak karantina ketika material dipindahkan. Gunakan label status yang terlihat, catat perpindahan, dan batasi akses sampai keputusan tertulis keluar. Kesalahan kelima adalah menganggap laboratorium berakreditasi membuat hasil pasti cocok. Periksa ruang lingkup, metode, identitas spesimen, dan otorisasi laporan; keputusan tetap harus merujuk pada kriteria produk dan lot.
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah “barang tampak lurus dan pemasok langganan, jadi langsung masuk stok.” Cara ini gagal ketika heat tertukar, dokumen berasal dari pengiriman lain, atau cacat permukaan tertutup pengikat. Reputasi pemasok dapat menjadi konteks risiko, bukan pengganti bukti kiriman saat ini.
 
-## Draft completion checklist
+Alternatifnya sederhana: buat status tahan beberapa menit lebih lama, foto identitas sebelum bongkar, dan minta pemasok menjawab ketidaksesuaian melalui dokumen yang dapat ditelusuri. Jika keputusan menyentuh keselamatan, perubahan coating, atau penerimaan di luar spesifikasi, eskalasi ke penanggung jawab teknis. Jangan mengubah material atau menghapus label karantina agar angka penerimaan terlihat baik.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Receiving inspection besi batangan berarti merekonsiliasi PO dan dokumen dengan tanda fisik, geometri, jumlah atau massa, kondisi, coating, serta rekaman foto; kemudian menetapkan rilis, karantina, atau tahan berdasarkan kriteria BESB-02-A01 dan ITP yang benar-benar disetujui. Langkah berikutnya adalah kumpulkan paket dokumen dan bukti untuk satu ID lot, tandai material yang belum terbukti, lalu minta review teknis atas **[NEEDS GATE-01, GATE-02, GATE-04, dan GATE-08]** sebelum material dipakai.
+
+Jika perlu menindaklanjuti kebutuhan pengadaan setelah inspeksi, Anda dapat membandingkan [besi S45C di Yogyakarta](/jual-as-s45c-yogyakarta) dan [besi ST42 di Yogyakarta](/jual-as-st42-yogyakarta); tautan itu bukan bukti bahwa kiriman tertentu telah lolos.
+
+Aturan operasionalnya: tidak ada bukti identitas dan kriteria yang lengkap, tidak ada rilis. Artikel ini membantu menata penerimaan; ia bukan persetujuan desain, hasil uji, atau pengganti keputusan profesional proyek.

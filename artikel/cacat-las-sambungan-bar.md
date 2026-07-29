@@ -2,8 +2,9 @@
 article_id: BESB-10-A04
 title: "Cacat Las dan NDT pada Sambungan Bar"
 slug: "cacat-las-sambungan-bar"
-description: "Map visual/subsurface indications, access/geometry, method factors, reporting, and escalation"
-status: outline
+description: "Panduan memilah indikasi las pada sambungan bar, memilih NDT, membaca laporan, dan menentukan eskalasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -23,40 +24,81 @@ sources:
   - "https://www.iso.org/standard/75614.html"
   - "https://www.cdc.gov/niosh/welding/about/index.html"
   - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cacat Las dan NDT pada Sambungan Bar
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Cacat pada las sambungan bar tidak boleh langsung diberi label “gagal” hanya karena tampak sebagai garis, pori, atau perubahan warna. Langkah pertama adalah memetakan indikasinya: di permukaan atau diduga di bawah permukaan, berada di logam las atau daerah terpengaruh panas, menerus atau terputus, serta apakah akses dan geometri memungkinkan pemeriksaan yang memadai.
 
-- **Writer task:** Expand this file into one complete article answering: “Cacat Las dan NDT pada Sambungan Bar”
-- **Reader and situation:** Inspector reviewing joints
-- **Reader outcome:** Map visual/subsurface indications, access/geometry, method factors, reporting, and escalation
-- **Primary intent:** Triage weld discontinuities
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Accept/reject belongs to approved NDT/ITP BESB-12-A02
-- **Final public route:** `/artikel/cacat-las-sambungan-bar.html`
-- **Appointed CMS date:** `2026-04-19` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: lakukan triase berurutan dari observasi visual dan dokumen pengelasan, kemudian pilih NDT yang sesuai dengan jenis indikasi, material, bentuk bar, dan akses. Hasil uji harus dicatat bersama teknik, cakupan, personel, peralatan, dan kriteria proyek. Keputusan terima/tolak tetap berada pada NDT/ITP yang disetujui dan review kompeten—[NEEDS GATE-01: standar penerimaan dan otoritas keputusan proyek belum diberikan].
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cacat Las dan NDT pada Sambungan Bar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal, bukan dokumentasi proyek tertentu.*
 
+## Mulai dari gejala, bukan tebakan penyebab
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Sebelum menggosok, menggerinda, atau meminta radiografi, buat identitas sambungan: nomor bar, ukuran dan bentuk penampang, posisi, tanggal pengelasan, welder, WPS yang dirujuk, serta sisi yang dapat diakses. Foto dengan skala, sketsa lokasi, panjang indikasi, dan jaraknya dari ujung sambungan membuat pemeriksaan ulang lebih bermakna. Catat juga kapan indikasi terlihat—segera setelah pengelasan, setelah pembersihan, atau setelah beban/handling.
+
+Bedakan istilah *discontinuity* (ketidakterusan geometris atau metalurgis) dari *defect* (ketidakterusan yang melampaui kriteria penerimaan). Retak terbuka, undercut, overlap, kurang fusi yang tampak, dan porositas permukaan adalah temuan visual; ketiadaan temuan visual tidak membuktikan bagian dalam bebas indikasi. Bentuk bar yang bulat atau persegi dapat menyulitkan sudut pandang dan membuat area akar tertutup.
+
+Tanyakan tiga hal sederhana: apa yang benar-benar terlihat, bagian mana yang tidak terlihat, dan data proses apa yang dapat mendukung atau menyangkal dugaan. Sistem mutu pengelasan menekankan koordinasi, prosedur, personel, material, peralatan, inspeksi, dan rekaman; inspeksi akhir saja tidak dapat merekonstruksi variabel proses yang tidak terkendali ([ISO 3834-2](https://www.iso.org/standard/81651.html), [ISO 14731](https://www.iso.org/standard/68893.html), [ISO 17662](https://www.iso.org/standard/83737.html)).
+
+## Saringan risiko langsung
+
+Hentikan pekerjaan panas dan batasi akses bila ada retak yang bertambah, suara atau gerakan tidak biasa, bar menjadi tidak stabil, percikan mengenai bahan mudah terbakar, atau asap mengganggu pandangan dan pernapasan. Jangan menutup indikasi dengan cat, sealant, atau penggerindaan agresif sebelum lokasi didokumentasikan. Penggerindaan dapat mengubah bukti dan mengurangi penampang tanpa persetujuan perbaikan.
+
+Penilaian bahaya pengelasan perlu mempertimbangkan proses, pelapis atau kontaminasi logam dasar, consumable, ventilasi, posisi kerja, pekerja sekitar, kondisi hot-work, listrik dan gas, serta keadaan darurat. NIOSH dan OSHA memetakan bahaya asap, mangan, api, listrik, dan ventilasi, tetapi panduan Amerika Serikat itu bukan pengganti prosedur K3 serta batas paparan Indonesia yang berlaku ([NIOSH welding fumes](https://www.cdc.gov/niosh/welding/about/index.html); [OSHA welding hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions)).
+
+Kawan Besi.co.id, bila sambungan berada pada elemen yang sedang memikul beban atau fungsi keselamatannya tidak jelas, pasang kontrol sementara sesuai rencana proyek dan minta insinyur/inspektor kompeten menentukan apakah pekerjaan boleh dilanjutkan. Jangan mengandalkan “tampak kecil” sebagai penilaian risiko. Untuk konteks dokumen dan layanan material lain, Anda dapat mulai dari [beranda Besi.co.id](/).
+
+## Kemungkinan mekanisme
+
+Gunakan hipotesis, bukan diagnosis. Indikasi memanjang di tepi las dapat berkaitan dengan bentuk manik, undercut, atau retak; titik-titik dapat berupa pori permukaan atau kontaminasi; perubahan profil pada bar bulat dapat merupakan masalah geometri atau distorsi. Indikasi di akar dapat dipengaruhi fit-up, celah, akses elektroda, urutan lintasan, atau pembersihan antar-lapis. Namun penyebab tidak dapat dipastikan dari pola visual saja.
+
+Telusuri rantai bukti: identitas material dan heat/lot, kondisi permukaan, consumable dan penyimpanannya, WPS/PQR yang disetujui, catatan welder, parameter yang direkam, kalibrasi alat, suhu lingkungan bila diwajibkan prosedur, serta urutan tack dan lintasan. Bila salah satu mata rantai hilang, tulis sebagai ketidakpastian dan eskalasikan; jangan mengisi angka preheat, heat input, atau ukuran cacat dari ingatan.
+
+Jika Anda perlu memeriksa nama material pada dokumen pemasok, [halaman baja as S45C di Yogyakarta](/jual-as-s45c-yogyakarta) dapat menjadi titik awal untuk mencocokkan istilah produk. Halaman produk tidak menggantikan identitas heat/lot atau sertifikat material yang harus tetap ditautkan ke sambungan.
+
+AWS D1.1 adalah rujukan untuk pengelasan baja struktural hanya bila diadopsi oleh kontrak, spesifikasi proyek, atau persyaratan regulator. Halamannya tidak menjadikannya hukum otomatis, dan cakupannya bukan semua bar, alat, atau sistem ([AWS D1.1](https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/); [AWS D1 Committee](https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/)). [NEEDS GATE-02: standar aplikasi, edisi, material, dan ruang lingkup sambungan proyek belum dikonfirmasi].
+
+## Urutan pemeriksaan dan pengujian
+
+Mulai dengan pemeriksaan visual (VT) oleh personel yang ditunjuk: bersihkan secukupnya, pastikan pencahayaan dan akses, ukur profil atau panjang indikasi dengan alat yang sesuai, lalu simpan foto dan sketsa. Periksa kedua sisi bar bila tersedia, termasuk transisi ke logam dasar. Selanjutnya cocokkan temuan dengan dokumen, bukan dengan asumsi penyebab.
+
+Pilih metode NDT berdasarkan pertanyaan yang hendak dijawab. PT membantu menemukan indikasi terbuka ke permukaan pada permukaan yang dapat dipersiapkan; MT berlaku untuk material feromagnetik dan indikasi permukaan/dekat permukaan; UT dapat menilai volume dari permukaan yang memiliki jalur akses dan geometri yang mendukung; RT menghasilkan citra volumetrik dengan pertimbangan akses, keselamatan radiasi, dan kemampuan mendeteksi jenis indikasi tertentu. Tidak ada metode yang otomatis mencakup semua volume bar atau semua orientasi retak.
+
+Gunakan prosedur NDT dan ITP yang disetujui untuk menentukan metode, teknik, cakupan, dan tingkat penerimaan. ISO 17635 dan ISO 9712 hanya menjadi rujukan umum untuk aturan pemeriksaan las serta kualifikasi/sertifikasi personel; abstraknya tidak menetapkan pilihan proyek Anda ([ISO 17635](https://www.iso.org/standard/85705.html); [ISO 9712](https://www.iso.org/standard/75614.html)). [NEEDS GATE-04: metode, cakupan, teknik, dan tingkat penerimaan belum ditetapkan oleh rencana inspeksi proyek].
+
+Atur urutan yang aman: dokumentasikan, kendalikan pekerjaan panas, lakukan VT, verifikasi dokumen dan akses, lalu NDT lanjutan oleh personel berwenang. Jangan memotong sampel atau membuka sambungan dengan gerinda sebelum ada instruksi tertulis, karena tindakan itu dapat menghilangkan indikasi asli.
+
+## Cara membaca hasil tanpa melompat ke kesimpulan
+
+Laporan yang dapat diaudit menyebut objek dan nomor sambungan, metode dan teknik, prosedur, personel, identitas alat serta kalibrasi/verifikasi, kondisi permukaan dan akses, cakupan, sensitivitas yang ditetapkan prosedur, temuan, kriteria sumber, hasil, dan disposisi. “NDT passed” tanpa rincian tersebut bukan bukti yang cukup untuk menyatakan sambungan memenuhi spesifikasi.
+
+Pisahkan empat lapisan keputusan: (1) hasil observasi atau sinyal, (2) interpretasi indikasi, (3) perbandingan dengan kriteria yang benar-benar diadopsi proyek, dan (4) keputusan teknis serta tindak lanjut. Satu sinyal belum tentu cacat; satu hasil “tidak ada indikasi” juga tidak membuktikan area yang tidak terjangkau. Bila teknik, cakupan, atau kriteria tidak tercantum, tandai laporan sebagai belum lengkap dan minta klarifikasi.
+
+Teman Besi.co.id, simpan rantai identifikasi agar hasil dapat ditautkan ke bar yang sama setelah perbaikan atau pemeriksaan ulang. Jangan memakai hasil dari sambungan lain sebagai pengganti, kecuali rencana inspeksi secara eksplisit menetapkan dasar sampling dan keterwakilannya.
+
+## Pilihan tindakan dan titik eskalasi
+
+Kontrol sementara dapat berupa menghentikan beban, mengisolasi area, atau melindungi permukaan dari kerusakan lanjutan—bukan perbaikan permanen. Pemantauan hanya layak bila engineer dan ITP menetapkan apa yang diukur, intervalnya, batas pemicu, serta siapa yang memutuskan eskalasi. Perbaikan, penggantian, atau pengelasan ulang harus memakai prosedur yang disetujui, personel yang memenuhi persyaratan, rekaman material/consumable, dan NDT ulang sesuai rencana.
+
+Eskalasi segera bila indikasi diduga retak, berada di daerah beban kritis, meluas, muncul pada banyak sambungan, atau data WPS, material, welder, alat, dan inspeksi tidak dapat ditelusuri. [NEEDS GATE-07: disposition, repair method, dan otoritas final belum tersedia dalam bukti proyek]. Sampai gate ini ditutup, status yang aman adalah “ditahan untuk review”, bukan “diterima” atau “ditolak”.
+
+## Jalan pintas yang sering gagal
+
+Jalan pintas yang tampak hemat adalah menggerinda garis lalu mengecatnya, atau cukup melakukan satu metode NDT pada semua sambungan. Cara itu dapat menghapus bukti permukaan, melewatkan indikasi berorientasi lain, dan tidak menjawab apakah perubahan geometri berasal dari proses, material, atau kerusakan setelah pengelasan. Alternatif yang lebih dapat dipertanggungjawabkan adalah foto dan pemetaan lebih dulu, konfirmasi dokumen, pemilihan metode berbasis indikasi dan akses, lalu laporan lengkap yang ditinjau pihak berwenang.
+
+## Kesimpulan
+
+Cacat las pada sambungan bar ditriase dengan memisahkan gejala, kemungkinan mekanisme, keterjangkauan pemeriksaan, dan hasil NDT. Mulailah dari VT serta rekaman pengelasan, lanjutkan ke metode NDT yang ditetapkan prosedur, dan pastikan laporan mengikat temuan pada sambungan serta kriteria proyek.
+
+Langkah berikutnya adalah minta salinan WPS/PQR yang berlaku, identitas material dan welder, prosedur NDT, ITP, serta kriteria penerimaan; kemudian ajukan paket itu untuk review kompeten. Aturan operasinya sederhana: jangan menyamakan “tidak terlihat” atau “NDT selesai” dengan “diterima” sebelum [NEEDS TECHNICAL REVIEW: GATE-01, GATE-02, GATE-04, dan GATE-07] diselesaikan oleh otoritas proyek.
+
+Bila dokumen menyebut material ST42 dan Anda perlu menelusuri istilah produknya, [halaman baja ST42 di Yogyakarta](/jual-as-st42-yogyakarta) dapat membantu mengenali nama produk; keputusan kesesuaian tetap mengikuti dokumen proyek dan review teknis.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,143 +109,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-12
-
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
-
-### KR-13
-
-- **Original sources:** [AWS D1.1/D1.1M:2025-AMD1 official page](https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/) and [AWS D1 Committee published-document page](https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/)
-- **Purpose for this article:** Give structural-welding articles a current discovery source while preventing automatic or out-of-scope adoption.
-- **Safe grounded facts:** AWS explicitly says the code is not automatically law and becomes binding when adopted by a contract, project specification, or regulatory requirement. Its scope is structural steel, not every appliance, pressure system, stainless product, rebar weld, or repair.
-- **Limits:** Confirm governing Indonesian/project adoption, current amendment/errata, material and joint scope, engineer modifications, and full licensed code through G-01/G-07.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-10-A02` → `/artikel/weldability-bar-stock.html` — Weldability dan Carbon Equivalent pada Bar
-- `BESB-10-A03` → `/artikel/dokumen-pengelasan-bar-stock.html` — WPS, PQR, Welder, dan Consumable Control
-- `BESB-10-A05` → `/artikel/distorsi-pengelasan-bar.html` — Distorsi saat Mengelas Round dan Square Bar
-- `BESB-10-A06` → `/artikel/mechanical-joint-bar-stock.html` — Thread, Key, Pin, Coupler, dan Mechanical Joint
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Mulai dari gejala, bukan tebakan penyebab
-
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las dan NDT pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Saringan risiko langsung
-
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las dan NDT pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kemungkinan mekanisme
-
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las dan NDT pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Urutan pemeriksaan dan pengujian
-
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las dan NDT pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara membaca hasil tanpa melompat ke kesimpulan
-
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las dan NDT pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan tindakan dan titik eskalasi
-
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Cacat Las dan NDT pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

@@ -2,8 +2,9 @@
 article_id: BESB-08-A01
 title: "Memilih Proses Cutting Bar Stock"
 slug: "memilih-proses-cutting-bar-stock"
-description: "Compare saw, shear, thermal cutting by geometry, heat, kerf, edge, throughput, allowance, and follow-on work"
-status: outline
+description: "Panduan membandingkan saw, shear, dan potong termal berdasarkan geometri, panas, kerf, tepi, kapasitas, allowance, serta pekerjaan lanjutan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,50 +15,13 @@ reader_address: "Teman Besi.co.id"
 final_route: "/artikel/memilih-proses-cutting-bar-stock.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/78322.html"
-  - "https://www.iso.org/standard/72529.html"
-  - "https://www.iso.org/standard/89449.html"
-  - "https://www.iso.org/standard/53736.html"
-  - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/60321.html"
   - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
   - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Memilih Proses Cutting Bar Stock
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Memilih Proses Cutting Bar Stock”
-- **Reader and situation:** Fabricator planning blanks
-- **Reader outcome:** Compare saw, shear, thermal cutting by geometry, heat, kerf, edge, throughput, allowance, and follow-on work
-- **Primary intent:** Compare cutting routes
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No machine settings; approved route owns them
-- **Final public route:** `/artikel/memilih-proses-cutting-bar-stock.html`
-- **Appointed CMS date:** `2026-02-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Proses Cutting Bar Stock**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,140 +32,83 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Memilih Proses Cutting Bar Stock
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id! Memilih proses pemotongan bar stock bukan sekadar mencari alat yang paling cepat. Pilihan yang tepat bergantung pada bentuk penampang, jumlah potongan, tuntutan tepi, panas yang boleh masuk, dan pekerjaan setelah potong. Untuk blank yang memerlukan ujung relatif dingin dan ukuran konsisten, mulai dari saw (gergaji). Shear (gunting geser) layak dipertimbangkan bila bentuk dan kapasitas mesinnya sesuai. Thermal cutting (potong termal) membantu ketika penampang terlalu besar atau geometri tidak praktis untuk bilah, tetapi Anda harus memasukkan kerf, zona terpengaruh panas, dan pembersihan ke rencana.
 
-### KR-01
+Jawaban itu masih bersyarat. Gambar kerja, material dan ketebalan, target kuantitas, toleransi, fungsi ujung, serta rute lanjutan dapat mengubah keputusan. Jangan memilih hanya dari waktu potong yang dijanjikan; waktu menandai, merapikan, meluruskan, mengukur, dan menunggu pemeriksaan adalah bagian dari waktu proses. Mulailah dari [ruang lingkup Besi.co.id](/) bila Anda perlu menata pertanyaan proyek, lalu kembali ke keputusan teknis. Parameter mesin dan urutan kerja harus ditetapkan oleh prosedur yang disetujui, bukan oleh artikel ini.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-08-A02` → `/artikel/kondisi-ujung-setelah-cutting-bar.html` — Burr, Heat-Affected Zone, dan End Condition
-- `BESB-08-A03` → `/artikel/drilling-threading-dan-keyway-bar.html` — Drilling, Threading, dan Keyway pada Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal sebagai ilustrasi umum, bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Cutting Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan saw sebagai titik awal untuk bar bulat, kotak, atau profil yang dapat dijepit stabil dan memerlukan ujung yang siap dikerjakan lagi. Shear bukan “versi lebih cepat untuk semua bar”: gaya geser dapat meninggalkan deformasi di sisi potong dan memerlukan kecocokan yang ketat antara bentuk material dan alat. Sobat Besi.co.id, jadikan kondisi ujung sebagai syarat fungsi, bukan kosmetik terakhir. Thermal cutting sesuai untuk ukuran besar, bentuk khusus, atau volume yang membuat pemotongan mekanis tidak praktis, dengan konsekuensi panas, dross, dan pekerjaan tepi.
+
+Salah paham yang sering mahal adalah menganggap allowance (kelebihan ukuran untuk proses berikutnya) akan memperbaiki semua hasil. Allowance harus ditentukan dari cara ukur dan operasi lanjutan yang benar-benar akan dilakukan. Jika ujung akan dibubut, sisakan bahan untuk facing dan penjepitan. Jika langsung dilas, tentukan kebutuhan bevel, celah, dan kebersihan sesuai gambar atau WPS yang berlaku. Tanpa itu, potongan cepat hanya memindahkan masalah ke mesin berikutnya.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Cutting Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bar stock di sini berarti bahan panjang dengan penampang tetap—misalnya batang bulat, persegi, atau bentuk lain—yang dipotong menjadi blank. Yang dibandingkan adalah rute pemotongan dan konsekuensi perencanaannya, bukan merek mesin, harga jasa, atau setelan operasi. “Kerf” adalah lebar material yang hilang akibat jalur bilah atau sumber panas. “End condition” mencakup tegak lurus, burr, dross, kekasaran, dan kebutuhan merapikan ujung. Pada potong termal, HAZ (heat-affected zone atau zona terpengaruh panas) perlu dipertimbangkan meski ukurannya tidak ditetapkan di sini.
+
+Toleransi bukan angka tunggal yang otomatis berlaku. ISO 13920 membahas toleransi umum untuk konstruksi las, tetapi penerapannya tetap harus dicocokkan dengan gambar, material, fungsi, dan metode pengukuran; standar umum itu tidak otomatis menjadi syarat setiap blank atau komponen [ISO 13920:2023](https://www.iso.org/standard/86032.html). Jika material belum diputuskan, Anda dapat membandingkan [baja S45C untuk kebutuhan bar stock](/jual-as-s45c-yogyakarta) atau [baja ST42 sebagai opsi material](/jual-as-st42-yogyakarta) sebelum mengunci rute potong. **[NEEDS GATE-01: konfirmasi gambar, spesifikasi produk, dan kelas toleransi yang disetujui.]**
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Cutting Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saw memisahkan material dengan gigi bilah yang bergerak melewati penampang. Material tetap relatif dingin dibanding proses termal, tetapi kontak mekanis menghasilkan kerf dan dapat meninggalkan burr. Penjepitan menentukan apakah potongan tetap tegak lurus. Setelah pemotongan, operator biasanya memeriksa panjang, kesikuan, dan kondisi ujung sebelum deburring atau proses mesin.
+
+Shear menggunakan dua sisi pemotong yang memberi gaya berlawanan. Rute ini dapat sangat produktif untuk bentuk dan rentang ukuran yang memang didukung, terutama ketika blank tidak memerlukan kontur rumit. Namun, ujung dapat mengalami rollover, miring, atau perubahan bentuk lokal. Karena itu, data penampang dan batas alat harus dikonfirmasi sebelum menjadikan shear sebagai rute utama.
+
+Thermal cutting melelehkan atau mengoksidasi material sepanjang jalur sumber panas. Jalurnya dapat mengikuti geometri yang sulit dijangkau bilah, tetapi menghasilkan kerf, perubahan warna, dross, dan HAZ. ISO 9013 menyediakan kerangka untuk kualitas potongan termal; edisi dan amendemennya perlu dibaca bersama persyaratan proyek, bukan dipakai sebagai izin untuk menyalin satu kelas kualitas ke semua pekerjaan [ISO 9013:2017](https://www.iso.org/standard/60321.html) dan [amendemen 2024](https://www.iso.org/standard/87851.html).
+
+Urutan yang aman adalah: baca gambar, kenali material dan penampang, tetapkan fungsi ujung, pilih kandidat proses, hitung kerf dan allowance, lalu sepakati inspeksi. Hasil potong diserahkan ke operasi berikutnya bersama identitas material dan tanda potongan yang dapat dilacak. Jika ada hot work, penilaian bahaya harus mencakup sumber panas, pelapis atau kontaminan, ventilasi, benda mudah terbakar, gas/listrik, dan pekerja di sekitar; rujukan keselamatan umum tidak menggantikan prosedur K3 dan batas Indonesia yang berlaku [OSHA—Welding, Cutting, and Brazing](https://www.osha.gov/welding-cutting-brazing/hazards-solutions).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Cutting Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Geometri dan penjepitan.** Bar bulat panjang yang dapat ditopang biasanya mudah dijadwalkan ke saw. Penampang tipis atau bentuk yang mudah terjepit mungkin lebih cocok untuk shear, bila deformasi ujung masih dapat diterima. Kontur, lubang, atau perubahan ukuran sering mendorong thermal cutting, tetapi sisakan pekerjaan finishing yang realistis.
+
+**Panas dan material.** Saw dan shear tidak menambahkan HAZ seperti thermal cutting, walau panas gesekan dan perubahan bentuk tetap harus diamati. Pada material dengan lapisan, residu, atau persyaratan khusus, thermal cutting dapat mengubah pekerjaan pembersihan dan pemeriksaan. Jangan menyimpulkan sifat material atau kelulusan komponen dari tampilan tepi saja.
+
+**Kerf, allowance, dan pengukuran.** Kerf mengurangi panjang bahan dan dapat berubah menurut proses. Ukur dari datum yang ditentukan gambar, bukan dari sisi burr atau dross. Allowance harus cukup untuk facing, penggerindaan, bevel, atau pelurusan yang benar-benar diperlukan, tetapi jangan dibesarkan tanpa batas karena menambah waktu dan scrap.
+
+**Tepi dan pekerjaan lanjutan.** Tepi saw mungkin hanya memerlukan deburring; shear mungkin perlu pemeriksaan deformasi; thermal hampir selalu memerlukan keputusan tentang dross, HAZ, dan apakah tepi harus digerinda atau dimachining. Bila tepi akan menjadi permukaan tumpu, bidang las, atau awal ulir, fungsi tersebut lebih penting daripada kecepatan awal.
+
+**Volume dan aliran kerja.** Untuk satu atau dua blank, proses yang sudah siap dan mudah diverifikasi dapat mengalahkan janji throughput. Untuk batch besar, waktu setup, pergantian ukuran, penandaan, pemindahan, dan inspeksi harus dihitung. Tetapkan siapa yang menyetujui rute serta kapan blank boleh masuk ke operasi berikutnya. **[NEEDS GATE-02: verifikasi kapasitas aktual, urutan produksi, dan kriteria penerimaan di proyek.]**
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Cutting Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai penyaring awal, bukan persetujuan final.
+
+| Kondisi blank | Kandidat awal | Hal yang harus dikunci |
+|---|---|---|
+| Bar bulat/kotak, ujung akan dibubut | Saw | allowance untuk facing, cara menjepit, dan identitas tiap potongan |
+| Penampang yang sesuai alat geser, jumlah banyak | Shear | batas ukuran alat, risiko deformasi, dan kebutuhan merapikan ujung |
+| Penampang besar atau kontur sulit dijangkau bilah | Thermal | HAZ, dross, kerf, pembersihan, dan inspeksi tepi |
+| Ujung menjadi bidang tumpu atau sambungan kritis | Proses dengan finishing terkontrol | datum ukur, allowance, serta pemeriksaan kesikuan dan kerataan |
+
+Contoh pertama: blank bar bulat akan masuk bubut. Saw sering menjadi kandidat karena operator dapat merencanakan panjang potong plus bahan untuk facing. Keputusan berubah bila panjang sangat pendek sehingga penjepitan tidak aman atau bila gambar meminta ujung tanpa pengaruh panas tertentu.
+
+Contoh kedua: batch panjang dari penampang yang memang didukung shear. Throughput mungkin menarik, tetapi periksa satu potongan awal untuk rollover dan perubahan bentuk. Jika ujung itu akan langsung menjadi dudukan, biaya finishing dan risiko ketidakrataan bisa menghapus keuntungan waktu. Kawan Besi.co.id, hentikan batch bila sampel awal tidak memenuhi fungsi ujung yang disepakati.
+
+Contoh ketiga: bar berukuran besar dengan bentuk yang menyulitkan saw. Thermal cutting dapat membuka opsi, namun blank perlu ditandai sebagai hasil potong termal dan diarahkan ke pembersihan atau machining yang telah disetujui. Jangan mengklaim hasil memenuhi kelas tertentu sebelum dokumen proyek dan pemeriksaan mengonfirmasinya. **[NEEDS GATE-04: persetujuan rute thermal, batas HAZ, dan metode inspeksi.]**
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Proses Cutting Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih dari kecepatan potong saja. Tanyakan: berapa waktu setup, pemindahan, deburring, pengukuran, dan rework? Catat waktu total per blank pada kondisi yang sama.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah mengabaikan bentuk penampang. Tanyakan apakah seluruh sisi tertopang, apakah gaya shear akan merusak bentuk, dan apakah jalur thermal dapat mengikuti kontur tanpa meninggalkan tepi yang tidak dapat dipakai.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah mengukur dari sisi yang salah. Tetapkan datum, alat ukur, frekuensi pemeriksaan, dan siapa yang melepas hold. Simpan identitas heat atau batch bersama bundel blank agar dokumen material tidak terpisah dari benda fisik.
 
-## Required conclusion
+Kesalahan keempat adalah menganggap gambar atau standar umum sudah cukup. Mintalah versi dokumen yang berlaku, prosedur pemotongan, dan kriteria penerimaan proyek. ISO 9013 dan ISO 13920 membantu membingkai pembicaraan, tetapi tidak menggantikan spesifikasi produk atau gambar yang disetujui.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang tampak menarik
 
-## Draft completion checklist
+“Pakai thermal saja; nanti digerinda.” Jalan pintas ini gagal ketika HAZ, dross, atau material yang terbuang memengaruhi fungsi ujung dan waktu finishing. Penggerindaan juga bukan penghapus otomatis untuk kesikuan yang salah atau allowance yang kurang. Alternatif yang lebih andal adalah membuat matriks keputusan singkat: geometri, panas yang diizinkan, kerf, kondisi tepi, allowance, total waktu, dan bukti inspeksi. Minta persetujuan rute sebelum batch berjalan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Untuk memilih proses cutting bar stock, cocokkan saw, shear, atau thermal dengan penampang dan penjepitan, lalu uji konsekuensinya pada panas, kerf, tepi, allowance, dan pekerjaan lanjutan. Teman Besi.co.id, langkah berikutnya adalah membawa gambar kerja, daftar material, target jumlah, dan fungsi ujung ke penanggung jawab proses. Minta rute yang disetujui, metode ukur, serta kriteria pelepasan blank; jangan menetapkan setelan mesin dari panduan umum ini. Jika data proyek atau batas HAZ belum tersedia, tahan keputusan pada **[NEEDS TECHNICAL REVIEW: GATE-01, GATE-02, GATE-04]** dan lanjutkan hanya setelah kompeten meninjaunya.

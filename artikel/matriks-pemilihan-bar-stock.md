@@ -2,8 +2,9 @@
 article_id: BESB-07-A01
 title: "Matriks Pemilihan Material Bar Stock"
 slug: "matriks-pemilihan-bar-stock"
-description: "Translate load, stiffness, wear, toughness, temperature, corrosion, machining, joining, availability, and evidence"
-status: outline
+description: "Cara membandingkan bar stock berdasarkan beban, kekakuan, keausan, lingkungan, proses, pasokan, dan bukti"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -26,37 +27,17 @@ sources:
   - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Matriks Pemilihan Material Bar Stock
 
-## Assignment lock
+Halo, Teman Besi.co.id! Memilih bar stock bukan soal mencari material yang paling keras atau paling murah. Pilihan yang dapat dipertanggungjawabkan dimulai dari beban dan kekakuan, lalu memeriksa keausan, ketangguhan, temperatur, korosi, proses pemesinan dan penyambungan, ketersediaan, serta mutu buktinya. Matriks membantu Anda membandingkan faktor-faktor itu secara terbuka sebelum grade tertentu diputuskan. Bila perlu konteks umum, mulai dari [beranda Besi.co.id](/).
 
-- **Writer task:** Expand this file into one complete article answering: “Matriks Pemilihan Material Bar Stock”
-- **Reader and situation:** Designer/buyer defining stock
-- **Reader outcome:** Translate load, stiffness, wear, toughness, temperature, corrosion, machining, joining, availability, and evidence
-- **Primary intent:** Frame selection
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not prescribe grade; BESB-02-A01 owns identity
-- **Final public route:** `/artikel/matriks-pemilihan-bar-stock.html`
-- **Appointed CMS date:** `2026-01-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: buat satu baris untuk setiap kandidat material dan satu kolom untuk setiap tuntutan nyata pada komponen. Beri status “memenuhi”, “perlu data”, atau “tidak cocok”, dengan catatan kondisi uji dan dokumen pemasok. Matriks tidak menetapkan grade; ia menyaring pilihan dan menunjukkan kapan perhitungan, inspeksi, atau persetujuan profesional diperlukan. Jika data identitas, kondisi operasi, atau laporan pengujian belum ada, keputusan akhir harus ditahan: **[NEEDS GATE-01: data proyek dan review kompeten sebelum pemilihan final]**.
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Matriks Pemilihan Material Bar Stock**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,140 +48,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-07-A02` → `/artikel/sifat-mekanik-besi-batangan.html` — Strength, Ductility, Toughness, dan Hardness pada Bar
-- `BESB-07-A03` → `/artikel/hardness-wear-dan-machinability-bar.html` — Hardness, Wear, dan Machinability
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Material Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Material Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bar stock adalah bahan awal berbentuk batang yang akan dipotong, dibubut, frais, dibor, dibentuk, atau disambung menjadi komponen. “Material” di sini mencakup keluarga logam, kondisi pasokan, ukuran, dan jejak dokumennya—bukan nama dagang saja. Matriks pemilihan adalah alat keputusan, bukan tabel katalog dan bukan pengganti spesifikasi produk.
+
+Batasnya penting. Artikel ini tidak menetapkan grade, ukuran, faktor keamanan, kapasitas, atau umur layanan untuk proyek tertentu. Identitas grade dan persyaratan produk harus ditetapkan pada dokumen desain/pembelian yang berlaku. Sifat tarik yang dilaporkan, misalnya, tetap harus terhubung dengan sumber spesimen, orientasi, lokasi, persiapan, metode, kondisi, satuan, serta identitas produk atau heat. ISO 6892-1 menjelaskan metode uji tarik pada temperatur ruang, sedangkan ISO 377 dan amendemennya membahas pengambilan sampel dan benda uji; keduanya tidak dengan sendirinya membuktikan seluruh batang memenuhi grade tertentu ([ISO 6892-1](https://www.iso.org/standard/78322.html), [ISO 377](https://www.iso.org/standard/72529.html), [amendemen ISO 377](https://www.iso.org/standard/89449.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Material Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari fungsi komponen. Catat gaya, momen, tumpuan, siklus, toleransi lendutan, kontak geser, temperatur, dan lingkungan. Pisahkan kebutuhan wajib dari preferensi: “tidak boleh gagal” berbeda dari “lebih mudah dikerjakan”. Berikut urutan yang dapat dipakai dalam lembar kerja:
+
+1. **Tulis kondisi batas.** Nyatakan beban maksimum dan berulang, arah serat atau orientasi yang relevan, rentang temperatur, paparan air/garam/kimia, serta akses perawatan. Bila nilai belum diketahui, tandai sebagai data yang harus diukur, bukan diisi dengan tebakan.
+2. **Tentukan mekanisme kegagalan.** Tanyakan apakah risiko utamanya luluh, patah getas, tekuk, kelelahan, aus, korosi, deformasi termal, cacat sambungan, atau kombinasi. Satu material dapat unggul pada satu mekanisme dan buruk pada yang lain.
+3. **Pilih kandidat yang dapat dibuktikan.** Masukkan keluarga material dan kondisi pasokan yang benar-benar tersedia dari pemasok. Minta sertifikat material, identitas heat/lot, ukuran, kondisi pengiriman, dan batas toleransi.
+4. **Uji antarmuka proses.** Konfirmasi kemampuan mesin, alat potong, perlakuan panas bila ada, metode pengelasan atau penyambungan, serta urutan inspeksi. Sifat di datasheet belum tentu sama dengan sifat setelah proses.
+5. **Nilai bukti dan tindak lanjut.** Beri skor atau status hanya setelah dokumen dan hasil verifikasi jelas. Kandidat “perlu data” tidak boleh diperlakukan sebagai “memenuhi”.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Material Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Beban dan kekakuan.** Kekuatan menahan tegangan bukan satu-satunya pertanyaan. Kekakuan, geometri, panjang bebas, tumpuan, dan konsentrasi tegangan dapat mengendalikan lendutan atau tekuk. Minta perhitungan yang menyatakan asumsi dan kombinasi beban; jangan mengganti analisis dengan angka kekuatan tarik tunggal.
+
+**Keausan dan ketangguhan.** Hardness dapat membantu membandingkan ketahanan penetrasi atau pemesinan, tetapi bukan bukti otomatis ketahanan aus pada pasangan gesek tertentu. Ketangguhan berkaitan dengan kemampuan menahan retak atau beban kejut; ia perlu dipertimbangkan bersama detail, temperatur, dan cacat yang mungkin ada. Catat jenis kontak, pelumas, partikel, siklus, dan konsekuensi bila permukaan aus.
+
+**Temperatur.** Rentang suhu mengubah kekuatan, pemuaian, pelumas, dan perilaku sambungan. Matriks harus memuat temperatur minimum-maksimum dan durasi, bukan hanya label “panas”. Jika ada api, kriogenik, atau perubahan termal cepat, perlakukan sebagai kajian khusus dan minta review kompeten.
+
+**Korosi dan lingkungan.** Mulailah dari survei paparan: basah atau kondensasi, garam, polutan, bahan kimia, perendaman/tanah, celah, kontak logam berbeda, drainase, kerusakan lapisan, akses, dan rencana pemeliharaan. ISO 12944-2 mengelompokkan lingkungan dan ISO 12944-5 membahas sistem cat pelindung; kategori lingkungan saja bukan spesifikasi perlindungan lengkap, dan halaman katalognya menandai bagian tersebut untuk revisi ([ISO 12944-2](https://www.iso.org/standard/64834.html), [ISO 12944-5](https://www.iso.org/standard/77795.html)). Gunakan data sistem terkini dan kondisi lokasi; [Corrosion Basics dari AMPP](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction) dapat membantu memahami mekanisme, bukan menggantikan desain perlindungan.
+
+**Pemesinan dan penyambungan.** Tanyakan gaya potong, toleransi, kekasaran, perubahan dimensi setelah perlakuan, serta ketersediaan alat. Untuk las atau sambungan mekanis, verifikasi kompatibilitas proses, urutan kerja, distorsi, dan pemeriksaan. Klaim “mudah dilas” atau “mudah dibubut” harus dikaitkan dengan kondisi material dan prosedur yang dipakai.
+
+**Ketersediaan dan bukti.** Harga dan stok berubah; gunakan penawaran dan tanggal yang dapat dilacak. Ketersediaan tanpa sertifikat bukan pilihan yang setara. Untuk komponen eksisting atau perubahan fungsi, penilaian harus mencakup dokumen, survei, identitas material, geometri, riwayat penggunaan/perubahan, kerusakan, pengujian, analisis, dan disposisi yang ditinjau, sebagaimana kerangka ISO 13822 ([ISO 13822](https://www.iso.org/standard/46556.html)).
+
+Jika Anda perlu membandingkan stok yang benar-benar ditawarkan, gunakan [opsi bar AS S45C](/jual-as-s45c-yogyakarta) dan [opsi bar ST42](/jual-as-st42-yogyakarta) hanya sebagai titik awal permintaan dokumen; status “memenuhi” tetap menunggu verifikasi matriks.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Material Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan poros yang menerima beban berulang, kontak geser, lingkungan lembap, dan harus dibuat dari stok yang tersedia. Matriks ringkasnya dapat berbentuk seperti ini:
+
+| Kriteria | Pertanyaan verifikasi | Status kandidat |
+|---|---|---|
+| Beban/kekakuan | Apakah analisis menunjukkan tegangan, lendutan, dan tekuk dalam batas desain? | Memenuhi / perlu hitung |
+| Kelelahan/ketangguhan | Apakah siklus, detail, temperatur, dan riwayat cacat diketahui? | Perlu data |
+| Keausan | Apakah pasangan material, pelumas, dan siklus kontak terdokumentasi? | Memenuhi bersyarat |
+| Korosi | Apakah paparan dan sistem proteksi dengan data terkini ditetapkan? | Perlu survei |
+| Proses | Apakah prosedur mesin dan sambungan telah diuji/ditinjau? | Memenuhi bersyarat |
+| Pasokan | Apakah ukuran, heat/lot, sertifikat, dan waktu pasok dapat dilacak? | Memenuhi / tidak |
+
+Jika satu kandidat unggul pada kekuatan tetapi tidak memiliki bukti heat atau prosedur sambungan, statusnya tetap “perlu data”. Teman Besi.co.id, catatan bersyarat itu justru keluaran penting matriks: ia memberi daftar pekerjaan sebelum pembelian, bukan alasan untuk mengunci grade secara prematur. **[NEEDS GATE-04: konfirmasi kriteria penerimaan dan dokumen pemasok untuk kandidat terpilih]**.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Material Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memilih berdasarkan satu angka—misalnya kekuatan tarik atau hardness—lalu menganggap semua risiko selesai. Periksa mekanisme kegagalan satu per satu dan tulis kondisi uji yang menyertai angka tersebut.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menganggap sertifikat material sebagai bukti kapasitas komponen. Sertifikat mendukung identitas dan hasil pengujian pada lingkupnya; desain tetap memerlukan geometri, beban, sambungan, dan pemeriksaan yang sesuai. Cocokkan heat/lot pada dokumen dengan tanda dan jumlah batang yang diterima.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah memakai kategori korosi atau label “tahan karat” tanpa survei lokasi. Catat sumber air, garam, celah, drainase, logam pasangan, temperatur, dan rencana perbaikan. Jika data lingkungan belum lengkap, tandai `[NEEDS GATE-02: survei paparan dan sistem proteksi terkini]`.
 
-## Required conclusion
+Kesalahan keempat adalah menyalin aturan inspeksi dari proyek lain. Referensi FHWA membahas jembatan dan konteksnya; sumber itu berguna untuk mengingat unsur fatigue/fracture seperti riwayat beban, detail, fabrikasi, korosi, temuan, akses, dan pemantauan, tetapi bukan aturan bangunan Indonesia ([manual fatigue/fracture FHWA](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [pusat inspeksi jembatan FHWA](https://www.fhwa.dot.gov/bridge/inspection/), [program NDE retak lelah FHWA](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)). Untuk proyek Anda, minta kriteria dan interval dari pihak kompeten.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sebaiknya dihindari
 
-## Draft completion checklist
+Jalan pintas yang sering muncul adalah: “ambil grade yang paling umum, karena stoknya ada.” Cara itu menghemat satu percakapan tetapi dapat memindahkan risiko ke pemesinan, sambungan, korosi, atau bukti penerimaan. Alternatif yang lebih aman adalah membuat matriks dua tahap: saring kandidat yang tidak memenuhi kondisi batas, lalu bandingkan kandidat tersisa berdasarkan proses, pasokan, dan mutu dokumen. Bila data kunci kosong, beli waktu untuk inspeksi atau pengujian yang tepat, bukan mengubah kolom “perlu data” menjadi “ya”.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Matriks pemilihan bar stock yang baik menerjemahkan tuntutan nyata—beban, kekakuan, aus, ketangguhan, temperatur, korosi, proses, pasokan, dan bukti—menjadi keputusan yang dapat diaudit. Ia membantu Anda memilih kandidat untuk ditinjau, bukan menetapkan grade atau menjamin kinerja.
+
+Kawan Besi.co.id, langkah berikutnya adalah mengumpulkan gambar dan beban desain, kondisi lingkungan, rencana proses/sambungan, daftar pemasok, sertifikat heat/lot, serta kriteria penerimaan. Minta perhitungan dan review profesional untuk mengunci keputusan; untuk pekerjaan eksisting, tambahkan survei dan inspeksi sesuai tujuan penggunaannya. Aturan operasionalnya sederhana: **tidak ada status “memenuhi” tanpa kondisi yang jelas, bukti yang dapat dilacak, dan persetujuan kompeten ketika konsekuensinya signifikan.**

@@ -2,8 +2,8 @@
 article_id: BESB-08-A06
 title: "Route Card dan Traceability Proses Bar Stock"
 slug: "route-card-bar-stock"
-description: "Link heat ID, cut blanks, operations, operators, inspections, NCRs, finish, and final serial"
-status: outline
+description: "Menelusuri heat ID, blank potongan, operasi, operator, inspeksi, NCR, finishing, dan serial akhir"
+status: draft
 publication_date: "2026-03-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/route-card-bar-stock.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
@@ -21,43 +22,17 @@ sources:
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/60321.html"
   - "https://www.iso.org/standard/87851.html"
-  - "https://www.iso.org/standard/86032.html"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Route Card dan Traceability Proses Bar Stock
 
-## Assignment lock
+Halo, Teman Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Route Card dan Traceability Proses Bar Stock”
-- **Reader and situation:** QA controlling many parts
-- **Reader outcome:** Link heat ID, cut blanks, operations, operators, inspections, NCRs, finish, and final serial
-- **Primary intent:** Maintain process records
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** ITP/release belongs to BESB-12-A02
-- **Final public route:** `/artikel/route-card-bar-stock.html`
-- **Appointed CMS date:** `2026-03-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Route card yang baik bukan sekadar lembar tanda tangan. Ia adalah rantai identitas: heat ID dari material masuk harus dapat ditelusuri ke blank hasil potong, operasi, operator, inspeksi, NCR, finishing, sampai serial final. Untuk QA yang mengendalikan banyak part, aturan praktisnya sederhana: jangan lepaskan part ketika satu mata rantai tidak dapat dicocokkan dengan bukti fisik dan dokumen sumber.
 
-## Opening instructions
+Mulailah dari satu ID unik per batang atau bundel, lalu buat catatan perubahan status di setiap perpindahan. Sertifikat material, hasil uji, dan marking harus direkonsiliasi dengan order, produsen, produk, heat atau batch, dimensi, dan pengujian. Kerangka inspeksi dokumen [ISO 10474](https://www.iso.org/standard/53736.html) membantu menata rekonsiliasi itu, sedangkan kompetensi laboratorium perlu ditinjau terpisah melalui [ISO/IEC 17025](https://www.iso.org/standard/66912.html). [NEEDS GATE-01: tetapkan dokumen produk, aturan sampling, dan kriteria penerimaan proyek sebelum release.]
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Route Card dan Traceability Proses Bar Stock**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,140 +43,57 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-08-A04` → `/artikel/machining-round-bar.html` — Machining Round Bar: Condition, Allowance, dan Distortion
-- `BESB-08-A05` → `/artikel/bar-melengkung-setelah-machining.html` — Residual Stress dan Bar yang Melengkung setelah Machining
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Route Card dan Traceability Proses Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil akhirnya adalah satu paket rekaman yang memungkinkan orang lain menjawab tiga pertanyaan tanpa menebak: material apa yang dipakai, pekerjaan apa yang sudah dilakukan, dan bukti apa yang mendasari statusnya. QA mengendalikan format serta review; produksi mengisi kejadian aktual; operator mengonfirmasi pekerjaan yang dilakukan; dan inspeksi mencatat hasil ukur atau observasi. Persetujuan engineering atau klien tetap mengikuti prosedur proyek—halaman ini tidak menggantikan ITP atau release.
 
-## Langkah 1 — tetapkan scope
+Sebelum route card diterbitkan, siapkan nomor order, drawing dan revisinya, daftar operasi, identitas material, metode pengukuran, formulir NCR, serta aturan penamaan serial. Tentukan pula siapa yang boleh membuka, menahan, mengoreksi, dan menutup kartu. Jika sistem digital dipakai, kunci riwayat perubahan; jika kertas dipakai, gunakan koreksi yang masih memperlihatkan catatan awal dan paraf berwenang.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Route Card dan Traceability Proses Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan batas
+
+Tuliskan batas proses secara eksplisit: penerimaan bar stock, pemotongan blank, machining atau proses lain yang termasuk order, inspeksi antar-operasi, finishing, lalu serial final. Cantumkan antarmuka dengan gudang, subcontractor, laboratorium, dan area karantina. ITP dan keputusan release berada di ruang lingkup dokumen proyek lain, sehingga route card hanya merekam status dan bukti yang menjadi inputnya.
+
+Buat matriks identitas. Kolom awal memuat heat ID, nomor bundel, ukuran awal, kuantitas, lokasi penyimpanan, dan marking fisik. Setiap blank mendapat turunan ID yang tidak menghapus heat asal. Saat satu batang dibagi menjadi beberapa blank, catat hubungan induk-anak dan sisa material. Tanpa hubungan ini, hasil ukur yang tampak rapi tetap tidak membuktikan asalnya. Jika perlu membandingkan pilihan material di Yogyakarta, Anda dapat melihat [AS S45C Yogyakarta](/jual-as-s45c-yogyakarta) atau [ST42 Yogyakarta](/jual-as-st42-yogyakarta); kecocokan akhirnya tetap mengikuti drawing dan spesifikasi order.
+
+Tentukan toleransi dan metode ukur dari drawing atau spesifikasi yang disetujui, bukan dari kebiasaan bengkel. [ISO 9013](https://www.iso.org/standard/60321.html) dan [amendemen 2024-nya](https://www.iso.org/standard/87851.html) dapat menjadi rujukan umum untuk kualitas potongan termal, tetapi kelas, rentang, dan metode ukur harus dikonfirmasi terhadap material, ketebalan, drawing, serta prosedur proyek. [NEEDS GATE-02: verifikasi edisi dokumen dan persyaratan dimensional yang benar untuk order ini.]
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Route Card dan Traceability Proses Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan bukti berdasarkan titik keputusan. Pada incoming, cocokkan sertifikat dengan order, heat atau batch, dimensi, dan marking pada benda. [ISO 10474](https://www.iso.org/standard/53736.html) menempatkan inspeksi dokumen dalam konteks produk dan identitasnya; nama sertifikat saja tidak cukup. Simpan salinan yang terbaca, nomor revisi, penerbit, serta tautan ke ID material internal.
+
+Untuk hasil uji tarik, tautkan laporan ke spesimen yang benar: sumber material, orientasi atau lokasi, persiapan, metode, kondisi, satuan, dan heat atau product identity. [ISO 6892-1](https://www.iso.org/standard/78322.html) menjelaskan metode uji pada temperatur ruang, sedangkan [ISO 377](https://www.iso.org/standard/72529.html) dan [amendemen 2025-nya](https://www.iso.org/standard/89449.html) membahas pengambilan serta penyiapan spesimen. Metode uji tidak otomatis menetapkan nilai lulus; nilai dan disposisi harus berasal dari spesifikasi produk atau kontrak yang berlaku. Satu angka tanpa chain of identity bukan dasar release.
+
+Di setiap operasi, catat tanggal dan shift, mesin atau alat, operator, instruksi kerja yang dipakai, kuantitas masuk-keluar, dan status inspeksi. Tambahkan nomor alat ukur serta status kalibrasi bila hasilnya menjadi dasar keputusan. Bila terjadi penyimpangan, buat NCR yang merujuk langsung ke ID part, operasi, bukti ukur yang tersedia, disposition, dan otoritas yang menyetujuinya. Jangan menimpa nilai lama; buat entri koreksi yang terlacak.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Route Card dan Traceability Proses Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan konseptualnya: verifikasi material dan marking, keluarkan work order beserta route card, potong dan identifikasi blank, lakukan inspeksi awal, lanjutkan operasi berikutnya, tahan part saat hasil tidak sesuai, lalu tutup kartu setelah semua bukti dan serial final cocok. Pada handoff, penerima menghitung kuantitas dan memeriksa identitas sebelum menandatangani penerimaan.
 
-## Hold point dan kondisi berhenti
+Untuk potongan termal, rekam proses dan kondisi yang relevan bagi kualitas tepi serta fungsi downstream, lalu gunakan persyaratan drawing sebagai acuan. Jangan menjadikan satu toleransi umum sebagai izin untuk semua produk. Jika ada pekerjaan panas, tautkan nomor prosedur dan catatan K3 yang berlaku; rincian kontrol harus ditetapkan oleh penilaian kompeten dan prosedur lokasi.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Route Card dan Traceability Proses Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Besi.co.id, perlakukan route card sebagai peta status, bukan buku harian. Setiap baris harus menjawab “apa yang berubah?”, “siapa yang mengonfirmasi?”, dan “bukti mana yang bisa dibuka kembali?”.
 
-## Verifikasi hasil dan handover
+## Titik tahan dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Route Card dan Traceability Proses Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan aliran part dan pindahkan ke status hold bila heat ID hilang, marking fisik tidak terbaca, kuantitas tidak cocok, sertifikat tidak terkait dengan order, revisi drawing meragukan, alat ukur tidak berstatus layak, atau hasil inspeksi menyimpang. Hold juga berlaku saat NCR belum memiliki disposition yang disetujui. Jangan mengganti ID dengan label baru tanpa menjaga relasi ke catatan asal.
 
-## Objection or shortcut to address
+Jika hasil uji berasal dari laboratorium eksternal, periksa identitas penerbit, ruang lingkup kompetensi, metode yang dipakai, otorisasi laporan, dan chain of custody. Akreditasi atau kompetensi laboratorium meningkatkan kepercayaan pada proses hasil, tetapi tidak sendirian membuktikan part tertentu memenuhi spesifikasi. [NEEDS GATE-04: review laporan aktual, ruang lingkup laboratorium, dan persetujuan disposition oleh pihak kompeten.]
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Sebelum handover, QA melakukan rekonsiliasi silang: heat ID di sertifikat = material di gudang = blank dan serial final; kuantitas masuk dikurangi scrap dan rework = kuantitas keluar; setiap operasi memiliki status dan pelaksana; setiap inspeksi memiliki metode, unit, hasil, dan alat; setiap NCR tertutup atau ditahan secara resmi; finishing dan marking akhir terbaca.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Buat indeks paket dengan tautan atau nomor halaman ke drawing revisi, sertifikat, laporan laboratorium, catatan inspeksi, NCR, dan foto identifikasi bila dipersyaratkan. Simpan daftar part yang ditahan agar tidak bercampur dengan part released. Jika rekonsiliasi gagal, kembalikan status ke hold dan buka pertanyaan spesifik—misalnya “blank B-014 berasal dari heat mana?”—bukan sekadar meminta tanda tangan tambahan.
 
-## Draft completion checklist
+## Kebiasaan ringkas yang sering dicoba
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang menggoda adalah menyalin heat ID pada awal pekerjaan lalu menganggap semua blank dan serial otomatis mewarisinya. Ini gagal ketika satu batang dibagi, ada sisa yang kembali ke stok, atau part berpindah area tanpa marking. Alternatif yang lebih andal adalah relasi induk-anak dan verifikasi di setiap handoff. Mengarsipkan satu sertifikat tanpa mencocokkan spesimen dan laporan uji juga membuat angka terlihat resmi tetapi tidak menjawab identitas part.
+
+## Kesimpulan
+
+Route card dan traceability bar stock berarti menghubungkan heat ID, blank, operasi, operator, inspeksi, NCR, finishing, dan serial final dalam satu rantai yang dapat diaudit. Ambil satu order aktif, uji rekonsiliasi tiga titik—sertifikat, marking fisik, dan serial—lalu minta review QA/engineering untuk gate yang belum terjawab. Kawan Besi.co.id, jangan nyatakan release hanya karena formulir lengkap; nyatakan status berdasarkan identitas, bukti, dan persetujuan proyek yang benar-benar tersedia.

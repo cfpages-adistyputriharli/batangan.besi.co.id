@@ -2,8 +2,9 @@
 article_id: BESB-04-A02
 title: "Memilih Bar Stock untuk Shaft dan Pin"
 slug: "memilih-bar-untuk-shaft-dan-pin"
-description: "Map loads, wear, toughness, surface, tolerance, machining, heat treatment, and inspection"
-status: outline
+description: "Panduan memetakan beban, keausan, ketangguhan, permukaan, toleransi, pemesinan, perlakuan panas, dan inspeksi"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,46 +19,23 @@ sources:
   - "https://www.iso.org/standard/72529.html"
   - "https://www.iso.org/standard/89449.html"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
----
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+---
 
 # Memilih Bar Stock untuk Shaft dan Pin
 
-## Assignment lock
+Halo, Teman Besi.co.id! Untuk shaft dan pin, bar stock tidak dipilih hanya karena diameternya pas atau karena penjual menyebutnya “baja as”. Pilihan yang dapat dipertanggungjawabkan dimulai dari peta beban, keausan, ketangguhan, kondisi permukaan, toleransi, proses bubut, kondisi perlakuan panas, lalu bukti inspeksinya. Grade dan ukuran final tetap harus disahkan lewat desain serta tinjauan proyek; halaman ini membantu Anda menyusun kebutuhan blank, bukan menggantikan persetujuan itu.
 
-- **Writer task:** Expand this file into one complete article answering: “Memilih Bar Stock untuk Shaft dan Pin”
-- **Reader and situation:** Machinist/designer sourcing blank
-- **Reader outcome:** Map loads, wear, toughness, surface, tolerance, machining, heat treatment, and inspection
-- **Primary intent:** Define shaft-stock requirements
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not design shaft/pin or select grade; BESB-07-A01 owns approval
-- **Final public route:** `/artikel/memilih-bar-untuk-shaft-dan-pin.html`
-- **Appointed CMS date:** `2025-11-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jika shaft menerima torsi dan lentur berulang, tanyakan bagaimana beban masuk dan keluar dari komponen, bukan sekadar berapa diameter nominalnya. Pin yang bekerja sebagai engsel atau penahan geser mungkin lebih dipengaruhi kontak dan keausan. Lingkungan basah, temperatur, korosi, dan metode pengerjaan juga dapat mengubah bar stock yang masuk akal. Data uji hanya berguna bila identitas heat/batch, lokasi spesimen, orientasi, metode, kondisi, dan satuannya jelas; ISO 6892-1 dan ISO 377 menjelaskan kerangka pengujian serta pengambilan spesimen, bukan jaminan bahwa seluruh batang memenuhi kebutuhan desain ([ISO 6892-1:2019](https://www.iso.org/standard/78322.html), [ISO 377:2017](https://www.iso.org/standard/72529.html)).
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Bar Stock untuk Shaft dan Pin**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,141 +46,65 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-04-A01` → `/artikel/as-assental-s45c-dan-st42.html` — AS, Assental, S45C, dan ST42: Pisahkan Bentuk dari Grade
-- `BESB-04-A03` → `/artikel/surface-finish-round-bar.html` — Surface Finish dan Dimensional Precision Round Bar
-- `BESB-04-A04` → `/artikel/heat-treatment-condition-round-bar.html` — Heat Treatment Condition pada Round Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Bar Stock untuk Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Bar Stock untuk Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bar stock di sini berarti bahan awal berbentuk batang yang akan dikerjakan menjadi shaft atau pin. Yang dibahas adalah cara menerjemahkan fungsi komponen menjadi persyaratan pembelian dan pemeriksaan penerimaan. Ini bukan panduan menghitung diameter, memilih grade tertentu, atau menyetujui desain. Bila keputusan menyentuh keselamatan, fatigue, atau perubahan perlakuan panas, hentikan pemilihan sementara dan minta [NEEDS GATE-01: review desain dan kondisi layanan oleh personel kompeten].
+
+Istilah “shaft” mengarah pada elemen yang meneruskan putaran atau torsi; “pin” lebih sering menjadi sumbu sambungan, penahan geser, atau elemen lokasi. Satu komponen dapat memiliki kedua fungsi, sehingga label pada quotation tidak cukup. Minta bentuk produk (round bar, forged bar, atau bentuk lain), ukuran awal, kondisi pasokan, dan dokumen yang mengikatnya pada pesanan. Katalog BSN menunjukkan bahwa keluarga standar produk baja memiliki banyak bentuk dan edisi; status yang terlihat pada katalog bukan pengganti pemeriksaan standar yang benar-benar berlaku untuk pesanan Anda ([katalog profil baja BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Bar Stock untuk Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan lembar kebutuhan satu halaman. Catat fungsi, arah beban (torsi, lentur, tarik, tekan, geser), pola beban (statis, bolak-balik, kejut), titik kontak, target umur, lingkungan, dan apakah ada sambungan las atau ulir. Tambahkan zona yang akan dikerjakan, allowance untuk machining, serta datum pengukuran. Dengan urutan ini, pembelian tidak terjebak pada angka diameter yang tampak murah tetapi menyisakan terlalu sedikit material atau terlalu banyak pekerjaan.
+
+Berikutnya, pisahkan persyaratan material dari persyaratan geometri. Material mencakup identitas grade yang disetujui, kondisi heat treatment, dan batas penerimaan. Geometri mencakup diameter awal, kelurusan, ovalitas, panjang, dan kualitas permukaan yang dibutuhkan untuk proses. Tanyakan kepada pemasok apakah setiap batang dapat dilacak ke heat/batch dan tanda fisiknya. Saat sertifikat datang, cocokkan nomor itu dengan order, produsen, produk, dimensi, hasil uji, dan marking; prinsip rekonsiliasi dokumen inspeksi ini sejalan dengan ISO 10474 ([ISO 10474:2013](https://www.iso.org/standard/53736.html)).
+
+Untuk menindaklanjuti pilihan bahan, Anda dapat melihat [opsi AS S45C di Yogyakarta](/jual-as-s45c-yogyakarta) dan [opsi AS ST42 di Yogyakarta](/jual-as-st42-yogyakarta) sebagai rujukan penawaran. Halaman produk tidak menggantikan pencocokan grade, kondisi pasokan, dan acceptance criteria pada gambar atau pesanan.
+
+Setelah blank tiba, lakukan pemeriksaan identitas dan dimensi sebelum dibubut. Ambil ukuran pada beberapa posisi yang disepakati, periksa cacat permukaan yang terlihat, dan simpan foto marking serta catatan alat ukur. Bila hasil uji berasal dari laboratorium eksternal, periksa metode, otorisasi laporan, dan ruang lingkup kompetensinya. Akreditasi atau kompetensi laboratorium meningkatkan kepercayaan pada proses hasil, tetapi tidak otomatis membuktikan item tertentu konform ([ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Bar Stock untuk Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Beban dan ketangguhan.** Shaft dengan pembalikan torsi perlu perhatian pada konsentrasi tegangan di keyway, shoulder, atau ulir. Pin dengan beban kejut memerlukan pertanyaan berbeda dari pin yang hanya menahan posisi. Jangan menukar istilah “kuat” dengan satu angka kekuatan tarik; minta desain menjelaskan mode kegagalan dan kondisi temperatur yang relevan.
+
+Sobat Besi.co.id, jadikan pertanyaan tentang beban ini bagian dari review gambar, bukan catatan informal setelah material dipesan.
+
+**Keausan dan permukaan.** Area journal, lubang pin, dan permukaan geser dapat memerlukan allowance serta proses akhir yang berbeda dari badan batang. Kekasaran, kerak, goresan, atau decarburized layer yang masuk ke zona kontak harus dinilai terhadap proses dan fungsi. Jangan menjadikan foto permukaan sebagai bukti performa.
+
+**Toleransi dan kelurusan.** Diameter nominal tidak menyatakan toleransi akhir setelah machining. Minta toleransi pasokan dan sisa material yang memungkinkan seluruh permukaan kritis dibersihkan. Untuk pin panjang, kelurusan dan ovalitas dapat lebih penting daripada sekadar berat per meter.
+
+**Machining dan panas.** Kondisi as-supplied memengaruhi gaya potong, distorsi, dan urutan pengerjaan. Perlakuan panas setelah roughing dapat mengubah ukuran, sehingga datum, allowance, dan rencana inspeksi harus disepakati sebelum order. Jangan menjanjikan hasil heat treatment tanpa prosedur dan bukti aktual proyek.
+
+**Lingkungan dan bukti.** Korosi, temperatur, kontaminasi, serta penyimpanan dapat mengubah keputusan. Tentukan dokumen apa yang wajib diterima: sertifikat material, laporan uji, rekaman heat/batch, hasil ukur, dan disposisi bila ada deviasi. Setiap persyaratan penerimaan harus berasal dari standar produk, pesanan, dan tinjauan teknis yang berlaku—bukan dari tabel internet yang berdiri sendiri.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Bar Stock untuk Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan matriks sederhana berikut saat meminta penawaran:
+
+| Pertanyaan | Jika jawabannya “ya” | Konsekuensi pada bar stock |
+|---|---|---|
+| Ada beban bolak-balik atau kejut? | Fatigue/ketangguhan penting | Minta kondisi material dan bukti uji yang dapat dilacak; tandai untuk review desain. |
+| Ada kontak geser atau journal? | Keausan dan permukaan dominan | Sisakan allowance machining dan tetapkan pemeriksaan permukaan. |
+| Ada heat treatment setelah roughing? | Distorsi mungkin terjadi | Sepakati urutan, allowance, dan pengukuran antara. |
+| Shaft/pin masuk ke sambungan kritis? | Identitas dan traceability penting | Cocokkan marking, heat/batch, sertifikat, dan order sebelum diproses. |
+
+Misalnya, dua quotation menawarkan diameter awal sama. Pada opsi pertama, penjual hanya memberi nama dagang; pada opsi kedua, tersedia identitas heat dan metode uji, tetapi toleransi pasokan perlu dikonfirmasi. Pilihan yang lebih informatif bukan otomatis opsi kedua—Anda tetap harus memastikan standar produk, kondisi pengiriman, dan kebutuhan desain cocok. Jika salah satu data utama belum ada, tulis [NEEDS GATE-02: konfirmasi spesifikasi pembelian dan acceptance criteria] pada paket pengadaan, bukan mengisinya dengan asumsi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Bar Stock untuk Shaft dan Pin”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah membeli “as” lalu menganggap grade, kondisi panas, dan toleransinya sudah pasti. Periksa dokumen yang menyebut bentuk produk, ukuran, kondisi, dan identitas lot. Kedua, memakai satu hasil tensile test untuk menyimpulkan seluruh batang atau seluruh desain. Tanyakan asal spesimen, orientasi, preparasi, metode, unit, dan hubungan dengan heat/batch; amendment ISO 377 juga perlu diperhatikan bila dijadikan rujukan ([ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)).
 
-## Objection or shortcut to address
+Ketiga, menerima sertifikat tanpa mencocokkan marking fisik. Tahan proses bila nomor heat, panjang, atau dimensi tidak cocok. Keempat, mengukur hanya satu ujung batang. Tentukan lokasi dan jumlah pengukuran dalam rencana penerimaan. Kelima, menganggap sertifikat laboratorium sebagai persetujuan desain. Sertifikat mendukung penelusuran dan bukti pengujian; keputusan kapasitas, fatigue, dan keselamatan tetap milik desain serta review kompeten.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu dihindari
 
-## Required conclusion
+Shortcut yang sering dipilih adalah “ambil diameter lebih besar, nanti dibubut”. Cara ini dapat menambah waktu machining, menyembunyikan masalah kelurusan atau cacat permukaan, dan tidak menyelesaikan pertanyaan tentang material serta traceability. Alternatif yang lebih aman adalah menerbitkan RFQ dengan fungsi, beban, zona machining, toleransi pasokan, kondisi perlakuan panas, dokumen wajib, dan prosedur deviasi yang jelas. Teman Besi.co.id, jika pemasok tidak dapat menjawab satu item konsekuensial, tandai kekosongan itu dan eskalasikan untuk review, jangan menebak.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Kawan Besi.co.id, bila ada deviasi, simpan keputusan disposisinya bersama dokumen lot agar jejak pemeriksaan tidak putus.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Memilih bar stock untuk shaft dan pin berarti memetakan fungsi dan beban ke material, bentuk, allowance, kondisi panas, permukaan, toleransi, proses, dan bukti penerimaan. Bar dengan diameter yang benar belum tentu memenuhi kebutuhan bila identitas heat, kondisi pasokan, atau rekaman inspeksinya tidak dapat ditelusuri.
+
+Langkah berikutnya: minta gambar atau data desain yang disetujui, susun RFQ berdasarkan matriks di atas, lalu cocokkan sertifikat dan marking sebelum machining. Untuk keputusan grade, kapasitas, fatigue, atau heat treatment, selesaikan [NEEDS GATE-04: tinjauan teknis proyek dan persetujuan profesional] terlebih dahulu. Aturan operasinya sederhana: jangan lepaskan blank ke proses berikutnya sebelum fungsi, identitas, dimensi, dan bukti uji yang relevan saling cocok.

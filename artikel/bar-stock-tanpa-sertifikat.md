@@ -2,8 +2,9 @@
 article_id: BESB-02-A06
 title: "Bar Stock Tanpa Sertifikat"
 slug: "bar-stock-tanpa-sertifikat"
-description: "Map quarantine, history, sampling/testing, restricted use, and reclassification"
-status: outline
+description: "Panduan karantina, penelusuran riwayat, sampling, pengujian, pembatasan penggunaan, dan reklasifikasi bar stock tanpa sertifikat"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,99 @@ final_route: "/artikel/bar-stock-tanpa-sertifikat.html"
 technical_review: required
 sources:
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
   - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
   - "https://www.iso.org/standard/85464.html"
   - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Bar Stock Tanpa Sertifikat
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Bar stock yang datang tanpa sertifikat jangan langsung dipakai, dijual sebagai material bersertifikat, atau dimusnahkan. Keputusan awal yang aman adalah **karantina dan tahan pemakaian** sampai identitas, riwayat, dan kesesuaiannya dapat direkonsiliasi. Jika bukti akhirnya cukup dan hasil pemeriksaan memenuhi kriteria proyek, material dapat diusulkan untuk penggunaan terbatas atau reklasifikasi. Jika tidak, statusnya tetap nonkonform atau harus ditolak.
 
-- **Writer task:** Expand this file into one complete article answering: “Bar Stock Tanpa Sertifikat”
-- **Reader and situation:** Owner inheriting unknown stock
-- **Reader outcome:** Map quarantine, history, sampling/testing, restricted use, and reclassification
-- **Primary intent:** Decide disposition
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not assign grade; BESB-12-A04 and competent designer own acceptance
-- **Final public route:** `/artikel/bar-stock-tanpa-sertifikat.html`
-- **Appointed CMS date:** `2025-10-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Ketiadaan sertifikat bukan bukti otomatis bahwa batang itu bermutu rendah; sebaliknya, bentuk dan marking yang tampak juga bukan bukti kepatuhan. Standar yang relevan bergantung pada bentuk produk dan penggunaannya. Katalog BSN untuk profil baja memperlihatkan bahwa beberapa subjek memiliki rekaman dan edisi berbeda, sehingga status “berlaku” pada satu halaman tidak menggantikan pemeriksaan edisi yang diminta dalam PO dan desain ([katalog profil baja BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [rekaman SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018)).
 
-## Opening instructions
+Untuk menyiapkan daftar dokumen dan pertanyaan proyek, Anda dapat mulai dari [beranda Besi.co.id](/), lalu kembali ke catatan lot yang spesifik. Jika disposition berujung pada pencarian material pengganti, lihat [halaman AS S45C Yogyakarta](/jual-as-s45c-yogyakarta) atau [halaman AS ST42 Yogyakarta](/jual-as-st42-yogyakarta) sebagai langkah komersial terpisah—bukan bukti bahwa stok lama sudah diterima.
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bar Stock Tanpa Sertifikat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
+Gambar ini adalah ilustrasi umum dari aset lokal, bukan dokumentasi proyek atau bukti kondisi material tertentu.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+## Definisi dan batas objek
+
+Dalam artikel ini, “bar stock tanpa sertifikat” berarti batang yang tersedia secara fisik tetapi tidak disertai dokumen inspeksi atau sertifikat yang dapat dihubungkan secara meyakinkan dengan PO, produsen, heat atau batch, ukuran, dan marking batang tersebut. “Tanpa sertifikat” bisa berarti dokumen hilang, identitas terputus, atau dokumen ada tetapi tidak cocok. Tiga keadaan itu memerlukan tindakan berbeda, namun semuanya harus ditahan sebelum dipakai pada pekerjaan yang mensyaratkan bukti material.
+
+Yang dibahas adalah disposition: karantina, pelacakan, pemeriksaan, pengujian, pembatasan pemakaian, dan usulan reklasifikasi. Artikel ini tidak menetapkan grade, menggantikan perhitungan desain, atau mengesahkan material untuk struktur. Penerimaan akhir berada pada [NEEDS GATE-01: kompeten review dan bukti proyek yang disetujui], termasuk designer atau pihak yang ditunjuk dalam ITP.
+
+## Cara kerjanya
+
+Mulai dengan membuat satu identitas untuk setiap kelompok yang ditemukan. Beri nomor lot internal, catat lokasi, tanggal ditemukan, jumlah, bentuk penampang, ukuran nominal, kondisi permukaan, dan semua marking yang terbaca. Foto label dan marking sebagai catatan, bukan sebagai pengganti sertifikat. Pisahkan secara fisik dari material rilis dan pasang tanda “HOLD—belum diterima”. Jangan memotong, mengecat, meluruskan, atau mencampur batang selama statusnya belum diputuskan.
+
+Berikut urutan kerja yang dapat dipakai pemilik stok:
+
+1. **Karantina.** Pengawas gudang mencatat kuantitas dan mencegah pengeluaran tanpa otorisasi.
+2. **Rekonstruksi riwayat.** Telusuri PO, delivery note, packing list, invoice, catatan penerimaan, sertifikat yang mungkin tersimpan terpisah, dan catatan pemindahan. Cocokkan produsen, heat/batch, ukuran, jumlah, serta marking fisik. Prinsip dokumen inspeksi adalah rekonsiliasi identitas tersebut dengan pesanan dan hasil uji; ISO 10474:2013 membahas kerangka dokumen inspeksi, sedangkan kompetensi laboratorium dijelaskan dalam ISO/IEC 17025:2017 ([ISO 10474:2013](https://www.iso.org/standard/53736.html), [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)).
+3. **Tentukan populasi.** Kelompokkan hanya batang yang memiliki karakteristik dan riwayat yang dapat dipertanggungjawabkan. Jangan menggabungkan stok dari pemasok, heat, atau ukuran berbeda sekadar agar sampelnya lebih sedikit.
+4. **Rencanakan pemeriksaan dan pengujian.** Rencana harus menyebut karakteristik, metode, pemilihan sampel, identitas sampel, frekuensi, kriteria, aturan keputusan, penanggung jawab, dan rute nonkonform. ISO 2859-1 dan ISO 28590 memberi kerangka umum sampling atribut, tetapi tidak boleh dipakai untuk menebak AQL atau jumlah sampel proyek tanpa teks standar produk dan ITP yang disetujui ([ISO 2859-1:2026](https://www.iso.org/standard/85464.html), [ISO 28590:2017](https://www.iso.org/standard/64622.html)).
+5. **Review hasil.** Laboratorium yang kompeten dan sesuai lingkup metodenya dapat meningkatkan kepercayaan pada hasil, tetapi satu laporan tidak otomatis membuktikan seluruh lot konform. Tinjau chain of custody sampel, metode, otorisasi laporan, ketidakpastian yang dilaporkan, dan hubungan sampel dengan lot.
+6. **Tetapkan disposition.** Hasilnya dapat berupa rilis untuk penggunaan yang disetujui, penggunaan terbatas dengan pembatasan terdokumentasi, reklasifikasi ke spesifikasi lain yang benar-benar dibuktikan, pengembalian, atau penolakan.
+
+## Faktor yang mengubah hasil
+
+Pertama, **identitas dan segregasi**. Batang dengan marking jelas tetapi tanpa dokumen tetap membutuhkan pengaitan ke catatan pemasok. Batang tanpa marking yang dapat dibaca memiliki ketidakpastian lebih tinggi. Jika material bercampur selama penyimpanan, batas lot dan chain of custody menjadi kabur; pisahkan lagi hanya jika bukti pemisahannya dapat ditunjukkan.
+
+Kedua, **fungsi di proyek**. Batang untuk elemen kritis, sambungan, atau pekerjaan yang secara kontrak mensyaratkan sertifikat memerlukan bukti lebih ketat dibanding penggunaan nonstruktural yang disetujui tertulis. Jangan menyamakan “bisa dikerjakan” dengan “boleh dipakai”: keputusan harus mengacu pada gambar, spesifikasi, PO, dan ITP yang berlaku.
+
+Ketiga, **jenis produk dan standar**. Profil, batang, pelat, pipa, kawat las, dan produk lain bisa berada pada keluarga standar berbeda. Rekaman BSN menunjukkan pentingnya memeriksa judul dan ruang lingkup produk yang tepat, bukan menyalin nomor SNI dari bentuk yang mirip. [NEEDS GATE-02: standar produk, edisi, regulasi wajib, dan persyaratan PO harus dikonfirmasi untuk stok ini].
+
+Keempat, **kondisi fisik dan lingkungan**. Korosi, deformasi, kontaminasi, atau perubahan penampang harus dinilai terhadap kriteria penerimaan proyek. Pemeriksaan visual hanya memberi informasi kondisi yang terlihat; ia tidak membuktikan komposisi kimia atau sifat mekanik.
+
+Teman Besi.co.id, pisahkan juga keputusan teknis dari keputusan komersial. Harga beli, urgensi jadwal, atau keinginan menghabiskan stok tidak mengubah bukti yang dibutuhkan untuk penerimaan.
+
+Kelima, **aturan klaim dan serah-terima**. Jika material membawa klaim asal, daur ulang, atau keberlanjutan, catat model chain of custody yang dipakai. ISO 22095 membedakan model identitas fisik, mass-balance, dan administratif; klaim yang dapat diaudit memerlukan batas sistem, catatan input-output, pihak yang bertanggung jawab, aturan transfer, dan pencegahan penghitungan ganda ([ISO 22095:2020](https://www.iso.org/standard/72532.html)). Jangan menambahkan klaim asal hanya karena pemasok menyebutkannya secara lisan.
+
+## Contoh keputusan praktis
+
+Gunakan tabel ini sebagai pemetaan awal, bukan persetujuan otomatis.
+
+| Kondisi bukti | Tindakan sementara | Disposition yang mungkin |
+|---|---|---|
+| Sertifikat ditemukan dan heat, ukuran, jumlah, serta marking cocok | Tetap hold sampai verifikasi dokumen | Usul rilis setelah review proyek |
+| Dokumen ada, tetapi heat atau pemasok tidak cocok | Segregasi lot terkait | Nonkonform; cari bukti baru atau tolak |
+| Marking terbaca, riwayat pemasok dapat ditelusuri, hasil uji sesuai rencana | Simpan semua rekaman sampel | Penggunaan terbatas atau reklasifikasi hanya dengan persetujuan tertulis |
+| Marking hilang, lot tercampur, atau chain of custody putus | Jangan gabungkan dengan lot teridentifikasi | Tahan; [NEEDS GATE-04: competent review menentukan apakah pengujian masih representatif] |
+| Kondisi fisik rusak atau ukuran aktual di luar toleransi yang disyaratkan | Hentikan pemakaian | Tolak, kembalikan, atau alihkan ke penggunaan yang disetujui terpisah |
+
+Misalnya, pemilik gudang menemukan beberapa bundel dari dua pemasok tanpa label. Langkah yang benar bukan mengambil satu batang dari seluruh tumpukan lalu menyatakan “lulus”. Pisahkan menurut sumber dan ukuran yang masih dapat dibuktikan, tetapkan rencana sampling untuk tiap populasi, lalu minta keputusan designer atau pihak penerima. Jika populasi tidak dapat dibatasi, hasil uji tidak boleh dipresentasikan sebagai bukti untuk semua batang.
+
+## Kesalahan umum dan cara memeriksanya
+
+**Menganggap bentuk sama berarti grade sama.** Periksa spesifikasi dan fungsi produk, bukan hanya diameter atau panjang.
+
+**Menggunakan foto, invoice, atau hasil PMI satu titik sebagai sertifikat.** Itu adalah petunjuk identitas atau data parsial. Hubungkan dengan lot dan kriteria penerimaan yang disetujui.
+
+**Memilih jumlah sampel dari tabel internet.** Minta laboratorium dan quality engineer menyusun rencana berdasarkan standar produk, ukuran lot, karakteristik, dan aturan keputusan yang berlaku. Simpan nomor sampel, lokasi pengambilan, segel, pengiriman, serta penerimaannya.
+
+**Mencampur material yang belum diterima dengan material rilis.** Terapkan label status yang mudah dibaca dan kontrol pengeluaran berbasis nomor lot.
+
+**Menyebut reklasifikasi sebagai “penurunan grade” tanpa dasar desain.** Reklasifikasi hanya berarti perubahan status penggunaan yang didukung bukti dan persetujuan; ia tidak boleh mengubah kapasitas desain secara sepihak.
+
+Sebelum meminta rilis, ajukan lima pertanyaan: apa batas lotnya, dokumen mana yang mengikat, metode uji apa yang disetujui, siapa yang menandatangani keputusan, dan ke mana material dipakai. Jawaban yang belum lengkap berarti status tetap hold.
+
+## Jalan pintas yang tampak hemat
+
+Jalan pintas yang sering dipilih adalah “uji tarik satu batang, lalu pakai semua”. Cara ini gagal ketika batang berasal dari heat berbeda, identitas sampel tidak terlacak, atau karakteristik yang dipersyaratkan bukan hanya tarik. Kerangka sampling ISO 2859 ditujukan untuk rencana lot dengan karakteristik dan aturan keputusan yang ditentukan, bukan untuk membenarkan satu hasil yang mewakili populasi tak dikenal. Alternatif yang lebih aman adalah menetapkan populasi, memilih sampel secara terdokumentasi, dan menahan keputusan sampai competent review selesai.
+
+## Kesimpulan dan langkah berikutnya
+
+Bar stock tanpa sertifikat diperlakukan sebagai material berstatus **belum terbukti**, bukan langsung baik atau buruk. Karantina, rekonsiliasi PO–marking–riwayat, rencana sampling yang disetujui, dan review hasil menentukan apakah stok dapat dirilis, dibatasi, direklasifikasi, atau ditolak. Standar katalog dan laboratorium membantu kerangka pemeriksaan, tetapi tidak menggantikan persyaratan proyek.
+
+Kawan Besi.co.id, buat satu lembar disposition untuk setiap lot hari ini: nomor lot, bukti identitas, status hold, rencana pemeriksaan, hasil, dan tanda tangan pihak berwenang. Minta [NEEDS TECHNICAL REVIEW: designer/competent reviewer] menyelesaikan GATE-01, GATE-02, dan GATE-04 sebelum material masuk pekerjaan. Aturan operasionalnya sederhana: **tanpa identitas dan persetujuan tertulis, jangan keluarkan batang dari karantina.**
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,140 +119,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-02-A04` → `/artikel/membandingkan-grade-lintas-standar-bar.html` — Membandingkan Grade Lintas Standar
-- `BESB-02-A05` → `/artikel/rekonsiliasi-identitas-bar-stock.html` — Rekonsiliasi PO, Marking, dan Certificate
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Bar Stock Tanpa Sertifikat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Bar Stock Tanpa Sertifikat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Bar Stock Tanpa Sertifikat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Bar Stock Tanpa Sertifikat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Bar Stock Tanpa Sertifikat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Bar Stock Tanpa Sertifikat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

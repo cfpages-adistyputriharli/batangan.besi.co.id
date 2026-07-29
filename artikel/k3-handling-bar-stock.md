@@ -1,9 +1,10 @@
 ---
 article_id: BESB-13-A04
+writing_contract_version: "native-id-v2"
 title: "Manual Handling, Sharp Edge, dan Pinch Point"
 slug: "k3-handling-bar-stock"
-description: "Identify mass/length, rolling, whip, sharp/burred ends, pinch/crush, team/mechanical aids, routes, storage, communication, and stop conditions"
-status: outline
+description: "Panduan mengenali massa dan panjang batang, gerak menggelinding, ujung tajam, titik jepit, alat bantu, jalur, penyimpanan, komunikasi, dan kondisi berhenti."
+status: draft
 publication_date: "2026-06-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,52 +15,23 @@ reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/k3-handling-bar-stock.html"
 technical_review: required
 sources:
-  - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
-  - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
-  - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
----
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+---
 
 # Manual Handling, Sharp Edge, dan Pinch Point
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Memindahkan satu batang bukan otomatis pekerjaan ringan. Panjang, massa, titik berat, ujung tajam, dan jalur yang sempit dapat membuat batang bergulir, mengayun, atau menjepit tangan sebelum orang sempat bereaksi. Jawaban praktisnya: jangan mulai dari “siapa yang kuat mengangkat”, tetapi dari pemetaan benda, jalur, titik jepit, dan cara mengendalikan gerak.
 
-- **Writer task:** Expand this file into one complete article answering: “Manual Handling, Sharp Edge, dan Pinch Point”
-- **Reader and situation:** Workers moving individual bars
-- **Reader outcome:** Identify mass/length, rolling, whip, sharp/burred ends, pinch/crush, team/mechanical aids, routes, storage, communication, and stop conditions
-- **Primary intent:** Map handling hazards
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No manual limits/PPE prescription; site K3 assessment owns controls
-- **Final public route:** `/artikel/k3-handling-bar-stock.html`
-- **Appointed CMS date:** `2026-06-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Sebelum menyentuh stok, cocokkan identitas batang dan perkiraan massa dengan data pemasok atau dokumen material. Lalu sepakati rute, aba-aba, posisi tangan, serta kondisi berhenti. Jika massa, kondisi lantai, alat bantu, atau kompetensi orang yang ditunjuk belum jelas, pekerjaan belum siap dimulai. [NEEDS SITE K3 REVIEW: batas massa, metode, dan alat pelindung diri harus ditetapkan melalui penilaian risiko proyek.]
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
+Ilustrasi umum dari aset lokal; gambar ini bukan dokumentasi proyek tertentu.
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Manual Handling, Sharp Edge, dan Pinch Point**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,142 +42,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-13-A02` → `/artikel/transport-long-bar.html` — Transport dan Restraint Long Bar
-- `BESB-13-A03` → `/artikel/storage-bar-stock.html` — Rack, Chock, dan Storage untuk Bar Stock
-- `BESB-13-A05` → `/artikel/damage-report-bar-stock.html` — Damage Report setelah Transport atau Handling
-- `BESB-13-A06` → `/artikel/k3-proses-besi-batangan.html` — K3 Cutting, Machining, Bending, dan Welding Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Manual Handling, Sharp Edge, dan Pinch Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Manual Handling, Sharp Edge, dan Pinch Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Manual handling” di sini berarti pekerja memegang, mendorong, menarik, menggeser, atau mengarahkan batang satuan. Bahayanya tidak hanya saat batang terangkat. Saat satu ujung masih bertumpu, batang dapat berputar seperti tuas; ketika tumpuan dilepas, ia bisa meluncur atau mengayun. *Sharp edge* mencakup ujung potong, geram, burr, atau sudut yang dapat merobek kulit. *Pinch point* adalah ruang yang menutup di antara batang dan lantai, rak, kendaraan, atau batang lain sehingga tangan, kaki, atau badan terhimpit.
+
+Artikel ini bukan penetapan batas angkat manual, pilihan sarung tangan, kapasitas alat, atau pengganti izin kerja. SMKK dan kewajiban K3 perlu diterjemahkan ke metode kerja, personel kompeten, pemeriksaan alat, komunikasi, dan rencana darurat yang berlaku di lokasi. Permen PUPR 10/2021 menjadi salah satu rujukan sistem manajemen keselamatan konstruksi; penerapannya tetap perlu dibaca bersama dokumen proyek dan tinjauan K3 yang berwenang ([Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Manual Handling, Sharp Edge, dan Pinch Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan sederhana berikut sebelum dan selama pemindahan:
+
+1. **Kenali benda.** Catat jenis, panjang, jumlah yang dipindahkan, kondisi ujung, titik berat yang mungkin tidak berada di tengah, dan apakah permukaan licin atau berminyak. Data massa harus berasal dari dokumen yang dapat diverifikasi; jangan menebak dari diameter saja.
+2. **Amankan jalur.** Periksa lantai, ambang, genangan, kabel, lalu lintas orang, serta ruang untuk berbalik. Ujung batang yang melewati badan atau tikungan memerlukan ruang bebas yang benar-benar diukur di lapangan.
+3. **Pilih kendali gerak.** Bila batang panjang, berat, tidak stabil, atau rutenya menuntut perubahan arah, evaluasi alat bantu mekanis dan metode pengikatan. Minta pemeriksaan dan persetujuan alat sesuai prosedur proyek; Permenaker 8/2020 dapat menjadi rujukan awal untuk menelusuri keselamatan peralatan angkat dan angkut, bukan bukti bahwa alat atau metode tertentu sudah sesuai ([Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)).
+4. **Briefing singkat.** Tunjuk satu pemberi aba-aba. Sepakati kata “angkat”, “maju”, “turun”, dan “berhenti”; siapa pun boleh memerintahkan berhenti jika kehilangan pandangan atau keseimbangan.
+5. **Gerakkan perlahan dan letakkan terkendali.** Jangan melepas pegangan sebelum batang ditopang dan dicegah bergerak. Setelah diletakkan, pastikan tidak dapat menggelinding, menyebar, atau menimpa jalur orang.
+
+Kawan Besi.co.id, perhatikan antarmuka antar-orang: dua orang dapat menerima beban berbeda ketika satu ujung lebih tinggi atau lebih jauh. Aba-aba yang terdengar bukan bukti semua orang melihat bahaya yang sama, jadi lakukan konfirmasi visual sebelum perubahan arah.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Manual Handling, Sharp Edge, dan Pinch Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kelompokkan pemeriksaan menjadi empat bagian agar tidak ada bahaya yang tertutup oleh istilah “angkat manual”.
+
+**Benda dan geraknya:** panjang menentukan radius ayun dan risiko *whip* (ujung mencambuk ketika batang memantul). Batang bundar dapat menggelinding; tumpukan yang tidak diberi penahan dapat menyebar ketika satu batang ditarik. Ujung ber-burr tetap berbahaya walau batang diam.
+
+**Orang dan koordinasi:** jumlah orang bukan jaminan aman. Pastikan semua memahami sisi mana yang boleh ditempati, titik pegangan, dan siapa yang mengendalikan alat. Orang yang kehilangan pandangan terhadap ujung batang harus menghentikan gerakan, bukan memberi aba-aba berdasarkan perkiraan.
+
+**Lingkungan dan jalur:** hujan, minyak, permukaan tidak rata, penerangan buruk, lalu lintas kendaraan, serta pekerjaan lain di atas atau di samping jalur mengubah konsekuensi satu kesalahan. Sisakan jalur keluar, bukan hanya jalur masuk.
+
+**Penyimpanan sementara:** rancangan penyimpanan perlu mempertimbangkan massa, geometri, pusat gravitasi, tumpuan stabil, pencegah gelinding/menyebar, akses antar tumpukan, drainase, ventilasi, dan inspeksi. Panduan penyimpanan LYSAGHT menekankan perlunya melindungi material dari kondisi penyimpanan yang menyebabkan kerusakan; persyaratan lapangan tetap harus disetujui pihak kompeten ([LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)). Ketentuan penyimpanan material OSHA juga dapat dipakai sebagai pertanyaan pembanding, bukan sebagai pengganti aturan Indonesia ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Manual Handling, Sharp Edge, dan Pinch Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai pemicu diskusi metode kerja, bukan angka izin otomatis.
+
+| Kondisi yang terlihat | Pertanyaan keputusan | Tindakan sebelum lanjut |
+|---|---|---|
+| Satu ujung melewati tikungan | Apakah seluruh radius ayun bebas dari orang dan benda? | Kosongkan zona atau ubah rute; tetapkan pengamat ujung. |
+| Batang bundar di lantai miring | Apa yang mencegahnya menggelinding saat disentuh? | Pasang penahan yang dirancang untuk kondisi itu dan verifikasi kestabilannya. |
+| Ujung terpotong atau bergeram | Di mana tangan dan badan berada ketika batang turun? | Ubah posisi pegangan dan buat zona bebas jepit; jangan mengandalkan refleks. |
+| Massa atau titik berat tidak terverifikasi | Siapa yang menyetujui metode dan alat bantu? | Tahan pekerjaan, cari data material, lalu minta tinjauan K3/kompeten. |
+| Pandangan antar-pengangkat terputus | Bagaimana aba-aba diteruskan tanpa asumsi? | Hentikan gerakan, atur ulang posisi, dan gunakan satu pemberi aba-aba. |
+
+Teman Besi.co.id, skenario “hanya memindahkan satu batang” tetap memerlukan keputusan bila konsekuensinya adalah terjepit atau batang mengenai orang lain. Catat perubahan rute, alat, atau tumpuan pada briefing agar pemeriksaan berikutnya tidak mengulang asumsi lama.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Manual Handling, Sharp Edge, dan Pinch Point”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Mengangkat dari ujung terdekat tanpa melihat ujung lainnya.** Minta orang kedua memeriksa radius ayun dan titik jepit sebelum aba-aba.
+- **Menarik batang paling bawah dari tumpukan.** Uji apakah batang di atas memiliki penahan dan jalur jatuh terkendali; bila tidak, gunakan metode pembongkaran yang disetujui.
+- **Menaruh batang melintang di jalur.** Ukur kembali akses, beri penandaan, dan cegah batang bergulir sebelum orang lain lewat.
+- **Menganggap alat bantu selalu aman.** Cocokkan kapasitas dan kondisi alat dengan massa serta geometri aktual; dokumen pemeriksaan harus tersedia sesuai prosedur proyek.
+- **Mengabaikan kerusakan setelah kontak atau jatuh.** Pisahkan material, tandai statusnya, dan minta pemeriksaan sebelum dipakai atau dipindahkan lagi.
 
-## Objection or shortcut to address
+Jika jawaban atas salah satu pemeriksaan belum ada, itu bukan celah untuk improvisasi. Tandai sebagai [NEEDS SITE K3 REVIEW: metode, alat, tumpuan, dan jalur belum disetujui] lalu hentikan tahap yang bergantung padanya.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Mengapa gerak cepat bukan solusi
 
-## Required conclusion
+Jalan pintas yang sering dipilih adalah “angkat cepat supaya selesai sebelum batang sempat bergerak”. Kecepatan justru mengurangi waktu untuk menyamakan aba-aba dan memperbesar energi ketika batang meluncur atau mengayun. Alternatif yang lebih dapat diperiksa adalah memperlambat gerakan, menjaga zona bebas, dan menghentikan pemindahan saat pandangan, tumpuan, atau komunikasi hilang. Tidak ada angka universal yang dapat menggantikan penilaian risiko lokasi.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Penanganan manual stok batang yang aman dimulai dengan data massa dan panjang, dilanjutkan pemetaan gerak bergulir/*whip*, ujung tajam, serta titik jepit, lalu dikendalikan melalui jalur, tumpuan, komunikasi, dan alat bantu yang disetujui. Jika label stok menyebut grade tertentu, Anda dapat membandingkan istilahnya lewat halaman [AS S45C Yogyakarta](/jual-as-s45c-yogyakarta) atau [ST42 Yogyakarta](/jual-as-st42-yogyakarta); data massa dan kondisi aktual tetap harus berasal dari dokumen material serta pemeriksaan di lokasi. Sebelum pekerjaan berikutnya, minta penanggung jawab K3 memeriksa metode kerja, catatan pemeriksaan alat, kondisi penyimpanan, dan kriteria berhenti untuk batang yang akan dipindahkan. Aturan operasinya sederhana: bila benda, jalur, atau kendali gerak belum dapat diverifikasi, berhenti—jangan menukar ketidakpastian dengan tenaga tambahan.

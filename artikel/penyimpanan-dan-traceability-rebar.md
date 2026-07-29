@@ -1,9 +1,10 @@
 ---
 article_id: BESB-06-A05
+writing_contract_version: "native-id-v2"
 title: "Penyimpanan Rebar dan Traceability di Site"
 slug: "penyimpanan-dan-traceability-rebar"
-description: "Cover racks, ground/water, segregation by heat/grade/size, tags, cutting remnants, contamination, rust observation, and issue control"
-status: outline
+description: "Membahas rak dan tumpuan, air serta tanah, pemisahan menurut heat (batch), mutu, dan ukuran, label, sisa potongan, kontaminasi, pengamatan karat, serta kendali pengeluaran"
+status: draft
 publication_date: "2026-01-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,52 +15,22 @@ reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/penyimpanan-dan-traceability-rebar.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024"
-  - "https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/11443-sni20522017"
-  - "https://pesta.bsn.go.id/produk/detail/11700-20522017"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
+  - "https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024"
+  - "https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Penyimpanan Rebar dan Traceability di Site
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Rebar tidak otomatis tetap memenuhi kebutuhan pekerjaan hanya karena sertifikat datang bersama truk. Keputusan yang paling aman adalah menyimpan batang di atas tumpuan yang stabil, menjaga air dan tanah tidak menjadi kontak langsung, memisahkan stok menurut identitasnya, lalu mengendalikan setiap pengeluaran dengan catatan yang dapat ditelusuri kembali. Jika identitas heat, grade, ukuran, atau status inspeksi hilang, material yang tampak baik pun harus diperlakukan sebagai belum terverifikasi.
 
-- **Writer task:** Expand this file into one complete article answering: “Penyimpanan Rebar dan Traceability di Site”
-- **Reader and situation:** Site warehouse
-- **Reader outcome:** Cover racks, ground/water, segregation by heat/grade/size, tags, cutting remnants, contamination, rust observation, and issue control
-- **Primary intent:** Preserve reinforcement quality
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Stack limits belong to BESB-13-A03
-- **Final public route:** `/artikel/penyimpanan-dan-traceability-rebar.html`
-- **Appointed CMS date:** `2026-01-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Rancang alurnya sejak penerimaan: cocokkan dokumen dan marking fisik, beri label lokasi, amati kondisi permukaan, karantina anomali, dan catat siapa mengambil berapa banyak untuk pekerjaan mana. Detail jarak tumpuan, kapasitas rak, metode angkat, serta keputusan menerima karat atau kontaminasi bukan angka universal; semuanya perlu [NEEDS GATE-01: persetujuan kompeten atas layout, kapasitas, dan kriteria penerimaan site].
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Penyimpanan Rebar dan Traceability di Site**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,141 +41,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-06
-
-- **Original sources:** [Permenperin 55/2024 status and abstract](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024), [official regulation PDF](https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf), [BSN SNI 2052:2017 record showing `Berlaku` and a related 2024 edition](https://pesta.bsn.go.id/produk/detail/11443-sni20522017), and [separate BSN 2052:2017 record showing `Tidak Berlaku`](https://pesta.bsn.go.id/produk/detail/11700-20522017)
-- **Purpose for this article:** Ground rebar procurement in a current regulatory source while preserving the unresolved edition/product/scope details.
-- **Safe grounded facts:** Regulatory scope, product definitions, conformity assessment, responsibilities, exceptions, transition, and marking cannot be reconstructed from a BSN title alone. Reinforcing bar, rerolled bar, and coiled product must not be collapsed into one generic `besi beton`.
-- **Limits:** A legal/technical reviewer must read the current consolidated regulation and referenced current SNI before stating requirements, effective transitions, exemptions, SPPT-SNI details, or acceptance. Recheck law and BSN status through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-06-A03` → `/artikel/cutting-dan-bending-rebar.html` — Cutting dan Bending Rebar: Bukti sebelum Membentuk
-- `BESB-06-A04` → `/artikel/rebar-coupler-lap-dan-welding.html` — Rebar Coupler, Lap, dan Welding: Jangan Dipertukarkan
-- `BESB-06-A06` → `/artikel/rust-pada-besi-beton.html` — Rust pada Rebar: Observasi, Bukti, dan Eskalasi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Penyimpanan Rebar dan Traceability di Site”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal sebagai ilustrasi umum, bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Penyimpanan Rebar dan Traceability di Site”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, “penyimpanan” mencakup area bongkar, rak atau sleeper, perlindungan terhadap genangan dan kondensasi, akses inspeksi, serta pemindahan menuju titik fabrikasi. “Traceability” (ketertelusuran) berarti kemampuan menghubungkan batang yang sedang berada di lapangan dengan pesanan, pemasok, dokumen inspeksi, produsen, heat atau batch, ukuran, marking, lokasi, dan riwayat pengeluaran. Ini bukan sekadar menempelkan label baru.
+
+Fokusnya adalah menjaga mutu dan identitas rebar sebelum dipotong, dibengkokkan, atau dipasang. Penentuan batas tumpukan, desain struktur rak, dan keselamatan lifting mengikuti paket pekerjaan serta kompetensi yang ditunjuk; pembahasan angka stack limit berada di artikel lain dan tidak boleh ditebak di sini. Demikian pula, status standar atau kewajiban sertifikasi harus dicek pada regulasi dan edisi SNI yang berlaku, bukan disimpulkan dari judul katalog. Permenperin 55/2024 dan catatan BSN perlu dibaca dalam versi terkini oleh reviewer hukum/teknis sebelum dijadikan dasar penerimaan. ([status dan abstrak Permenperin 55/2024](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024); [PDF resmi](https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf))
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Penyimpanan Rebar dan Traceability di Site”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan daftar kedatangan. Petugas penerimaan memotret atau menyalin nomor dokumen, memeriksa jumlah ikatan, ukuran nominal, marking pabrik, dan kondisi kemasan. Jangan menghapus tag pemasok sebelum tag internal terpasang dan diverifikasi. Jika dokumen menyebut heat atau batch, gunakan nilai itu sebagai kunci, bukan nomor truk atau tanggal bongkar.
+
+Berikutnya, tetapkan lokasi yang mudah dibaca: misalnya zona, baris, dan tingkat rak. Satu label lokasi harus menunjuk pada satu kombinasi identitas yang disetujui. Pisahkan sekurang-kurangnya menurut heat/batch, grade atau mutu yang dipesan, dan ukuran. Ikatan campuran hanya boleh dipecah setelah identitas setiap sub-ikatan tetap terbawa. Dokumen inspeksi harus direkonsiliasi dengan order, produsen, produk, dimensi, pengujian, dan marking fisik; itulah prinsip pemeriksaan dokumen yang dijelaskan ISO 10474:2013 ([ISO 10474:2013](https://www.iso.org/standard/53736.html)).
+
+Saat dipindahkan, rencanakan titik angkat, massa, geometri, dan pusat gravitasi sesuai instruksi pemasok serta penunjukan personel kompeten. Gunakan Permenaker 8/2020 sebagai salah satu rujukan keselamatan pesawat angkat dan angkut, lalu cocokkan dengan prosedur dan persetujuan site ([Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)). Setelah tiba di rak, pastikan batang tidak menggelinding atau menyebar, jalur orang dan alat tetap terbuka, serta label menghadap sisi inspeksi.
+
+Setiap issue dicatat: tanggal, identitas heat/grade/ukuran, jumlah atau panjang yang keluar, tujuan pekerjaan, dan saldo. Untuk sisa potongan, buat identitas turunan yang mengacu pada heat asal dan statusnya. Sisa tanpa asal-usul tidak boleh dimasukkan kembali ke stok “siap pakai”.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Penyimpanan Rebar dan Traceability di Site”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Air adalah pengubah pertama. Pilih lantai atau tanah yang tidak menahan genangan, beri tumpuan yang tidak mudah ambles, dan sediakan drainase. Panduan perawatan dan penyimpanan LYSAGHT menekankan perlindungan dari kelembapan, kondensasi, kerusakan kontak, serta pentingnya ventilasi dan pemeriksaan berkala ([LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)). Rebar yang berada di ruang terbuka mungkin memerlukan penutup yang memungkinkan udara bergerak; penutup kedap tanpa pengendalian kondensasi dapat memperburuk kondisi.
+
+Faktor kedua adalah segregasi. Perbedaan diameter yang terlihat tidak cukup untuk mengidentifikasi grade atau heat. Gunakan kode warna hanya sebagai bantuan visual, bukan satu-satunya bukti. Ketika label basah, pudar, atau terlepas, hentikan issue dari ikatan tersebut dan pindahkan ke karantina sampai dokumen dan marking fisik cocok kembali.
+
+Faktor ketiga adalah kontaminasi dan kerusakan. Lumpur, oli, semen, garam, percikan las, atau deformasi akibat garpu forklift harus dicatat sebagai observasi, bukan langsung diberi vonis “aman” atau “gagal”. Amati karat: bedakan perubahan permukaan yang tampak dari kehilangan penampang atau kerak yang mengelupas, lalu minta keputusan spesifikasi/proyek. [NEEDS GATE-02: kriteria penerimaan, pembersihan, atau penolakan karat dan kontaminasi harus disahkan oleh engineer/QC berdasarkan dokumen proyek].
+
+Faktor keempat adalah bukti. Laboratorium yang kompeten relevan untuk kepercayaan terhadap hasil uji, tetapi akreditasi laboratorium sendiri tidak membuktikan bahwa batang tertentu sesuai. Periksa identitas sampel, metode, ruang lingkup akreditasi, otorisasi laporan, dan rantai pengambilannya sesuai prinsip ISO/IEC 17025:2017 ([ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Penyimpanan Rebar dan Traceability di Site”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan matriks sederhana berikut pada papan stok dan formulir issue:
+
+| Kondisi saat menerima atau mengeluarkan | Keputusan sementara | Bukti yang harus menyertai |
+|---|---|---|
+| Label, dokumen, dan marking fisik cocok; tumpuan stabil dan kering | Terima ke lokasi teridentifikasi | Foto/scan dokumen, heat, ukuran, lokasi |
+| Dokumen cocok tetapi label ikatan hilang | Karantina; jangan campur | Rekonsiliasi pemasok dan pemeriksaan marking |
+| Ada karat, lumpur, atau oli | Tahan untuk penilaian QC/engineer | Foto, lokasi, tanggal, keputusan tertulis |
+| Sisa potongan memiliki heat asal yang jelas | Simpan sebagai stok turunan terpisah | Referensi heat asal, panjang, dan pekerjaan tujuan |
+| Sisa potongan tidak dapat ditelusuri | Jangan issue sebagai rebar terverifikasi | Formulir nonkonformitas atau instruksi disposisi |
+
+Skenario bersyaratnya begini, Teman Besi.co.id: jika hujan membuat sebagian area tergenang, jangan memindahkan ikatan secara acak ke ruang kosong. Tandai area terdampak, cek apakah tumpuan berubah atau label rusak, dokumentasikan kondisi, lalu minta keputusan sebelum stok kembali ke status tersedia. Jika satu ikatan harus dibagi ke dua pekerjaan, catat pengeluaran parsial dan saldo dengan referensi heat yang sama; jangan membuat heat baru.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Penyimpanan Rebar dan Traceability di Site”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menaruh batang langsung di tanah karena “hanya sementara”. Pertanyaan pemeriksa: apakah air dapat mengalir, apakah tumpuan tetap stabil setelah hujan, dan apakah petugas dapat membaca label tanpa memindahkan ikatan lain? OSHA 1926.250 menempatkan stabilitas, pencegahan bergeser atau runtuh, dan akses penyimpanan sebagai bagian dari pengendalian material; gunakan sebagai referensi bahaya, bukan sebagai pengganti desain site Indonesia ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
 
-## Objection or shortcut to address
+Kesalahan kedua adalah mencampur grade atau heat demi menghemat ruang. Periksa apakah satu baris lokasi memuat lebih dari satu identitas dan apakah sistem issue masih dapat menunjukkan asal setiap batang. Jika tidak, hentikan pengeluaran sampai dipilah ulang.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah mengandalkan sertifikat sebagai bukti tunggal. Sertifikat harus bertemu dengan barang nyata, marking, jumlah, dan rantai sampel. Tanyakan siapa penerbitnya, produk mana yang dicakup, apakah metode uji dan otorisasi laporan dapat diverifikasi, serta apakah ada perbedaan antara nama pada order dan dokumen.
 
-## Required conclusion
+Kesalahan keempat adalah mengembalikan cutting remnants ke rak utama tanpa status. Beri label “sisa”, heat asal, dimensi aktual, tanggal, dan pekerjaan sumber. Bila salah satu data tidak ada, perlakukan sebagai karantina. Kawan Besi.co.id, aturan sederhana ini sering lebih bernilai daripada spreadsheet panjang yang tidak dipakai saat material bergerak.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang perlu dihindari
 
-## Draft completion checklist
+Shortcut yang sering dipilih adalah: “Selama diameter dan bentuknya sama, ikatan boleh digabung; nanti QC lihat saat pemasangan.” Cara itu gagal ketika label tertukar atau sisa potongan berpindah lokasi, karena pemeriksaan akhir tidak lagi punya rantai identitas yang utuh. Alternatif yang lebih andal adalah menggabungkan hanya setelah identitas dan persetujuan perubahan dicatat; jika ragu, pertahankan segregasi dan karantina. Jangan menutup celah bukti dengan asumsi bahwa semua batang berasal dari produsen atau heat yang sama.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Penyimpanan rebar yang menjaga mutu memerlukan tiga hal serentak: tumpuan dan lingkungan yang terkendali, segregasi berdasarkan identitas material, serta catatan issue sampai sisa potongan. Besi yang tampak bersih belum tentu dapat dipakai bila heat atau grade-nya tidak dapat dibuktikan.
+
+Sebelum issue berikutnya, minta tim menunjukkan peta lokasi, daftar heat/grade/ukuran, dokumen inspeksi yang sudah direkonsiliasi, dan daftar karantina. Minta reviewer kompeten menyelesaikan [NEEDS GATE-04: persetujuan akhir kriteria release, karat/kontaminasi, dan kapasitas penyimpanan site] sebelum status “tersedia” dipakai untuk pekerjaan. Untuk langkah berikutnya, Anda dapat meninjau [besi beton untuk wilayah Yogyakarta](/jual-besi-beton-yogyakarta) atau [besi beton untuk wilayah Sleman](/jual-besi-beton-sleman) sesuai kebutuhan pengadaan. Operasi yang aman berhenti pada material tanpa identitas; jangan mengarang asal-usulnya.

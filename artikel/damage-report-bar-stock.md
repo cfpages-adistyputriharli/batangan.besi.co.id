@@ -2,8 +2,9 @@
 article_id: BESB-13-A05
 title: "Damage Report setelah Transport atau Handling"
 slug: "damage-report-bar-stock"
-description: "Document identity, extent, exposure, photos, quarantine, assessment, disposition, repair, and reinspection"
-status: outline
+description: "Cara mencatat identitas, luas kerusakan, paparan, foto, karantina, penilaian, keputusan, perbaikan, dan pemeriksaan ulang bar stock."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-06-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,50 +17,24 @@ technical_review: required
 sources:
   - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
   - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
-  - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
+  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
   - "https://www.cdc.gov/niosh/welding/about/index.html"
   - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
   - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
-  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Damage Report setelah Transport atau Handling
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Jangan langsung meluruskan, mengecat, atau memasang bar stock yang baru tiba hanya karena kerusakannya terlihat kecil. Buat *damage report* lebih dulu: kunci identitas material, pisahkan stok, rekam kondisi dan paparannya, lalu minta keputusan tertulis dari pihak yang berwenang. Laporan itu mengendalikan barang yang rusak; laporan itu bukan persetujuan pemakaian atau perbaikan.
 
-- **Writer task:** Expand this file into one complete article answering: “Damage Report setelah Transport atau Handling”
-- **Reader and situation:** Receiver finding bends/rust/coating damage
-- **Reader outcome:** Document identity, extent, exposure, photos, quarantine, assessment, disposition, repair, and reinspection
-- **Primary intent:** Control damaged stock
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not approve use/repair; BESB-12-A03 and BESB-14-A03 own release
-- **Final public route:** `/artikel/damage-report-bar-stock.html`
-- **Appointed CMS date:** `2026-06-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: tahan barang di area karantina sampai identitas, jumlah, lokasi kerusakan, dan bukti foto cocok dengan surat jalan serta dokumen mutu. Setelah itu, penanggung jawab desain, pemilik spesifikasi, galvanizer, atau pihak lain yang ditunjuk proyek menilai apakah barang dapat dipakai, diperbaiki, dikembalikan, atau ditolak. Bila data utama atau kewenangan belum ada, tulis `[NEEDS GATE-01: keputusan disposition dan kewenangan pelepasan belum diverifikasi]` dan jangan menebak.
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
+Gambar ini adalah aset lokal dan bukan dokumentasi proyek tertentu.
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Damage Report setelah Transport atau Handling**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,141 +45,79 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-13-A03` → `/artikel/storage-bar-stock.html` — Rack, Chock, dan Storage untuk Bar Stock
-- `BESB-13-A04` → `/artikel/k3-handling-bar-stock.html` — Manual Handling, Sharp Edge, dan Pinch Point
-- `BESB-13-A06` → `/artikel/k3-proses-besi-batangan.html` — K3 Cutting, Machining, Bending, dan Welding Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report setelah Transport atau Handling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kerusakan setelah angkat, ikat, bongkar, atau perjalanan adalah peristiwa yang perlu ditelusuri, bukan sekadar noda atau bengkok yang boleh “dibereskan” di lapangan. *Damage report* harus menjawab siapa menerima, batang atau bundel mana yang terdampak, kapan ditemukan, apa yang terlihat, dan apa status sementaranya. Foto tanpa nomor material tidak cukup; nomor material tanpa foto juga tidak cukup.
+
+Salah paham yang sering mahal adalah menganggap penerimaan berarti persetujuan pemakaian. Tanda tangan penerima tidak dengan sendirinya melepas barang dari pengendalian; ikuti kewenangan yang ditetapkan proyek. Catatan “diterima dengan kerusakan” harus diikuti karantina, pemberitahuan, dan penilaian. Jangan menghapus label atau mencampur batang yang diduga rusak dengan stok yang belum diperiksa.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report setelah Transport atau Handling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Di sini *damage report* berarti rekaman terkendali sejak temuan awal sampai pemeriksaan ulang: identitas, uraian kerusakan, paparan, foto, pengamanan, penilaian, keputusan, pekerjaan yang diizinkan, dan hasil inspeksi ulang. Objeknya bar stock dan pengikat atau kemasan yang memengaruhi kondisi selama transport maupun handling. “Rusak” dapat berarti bengkok, tergores, lapisan galvanis terkelupas, korosi, deformasi ujung, label hilang, atau indikasi beban/gesekan yang belum jelas.
+
+Laporan ini tidak menetapkan batas lurus, toleransi penampang, ketebalan lapisan, kapasitas angkat, metode pelurusan, atau kelayakan las. Panduan AGA menjelaskan bahwa geometri tertutup, ventilasi-drainase, pengelasan, kontaminasi, handling, inspeksi, dan perbaikan saling berinteraksi; ukuran lubang, lokasi, dan dampak strukturnya tetap perlu ditetapkan oleh perancang dan galvanizer yang bertanggung jawab ([AGA venting and draining](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report setelah Transport atau Handling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ikuti urutan berikut agar bukti tidak berubah menjadi opini:
+
+1. **Hentikan perpindahan.** Beri tag “hold/quarantine”, catat waktu dan orang yang menemukan, lalu pastikan area aman dari lalu lintas alat, air menggenang, dan kontak dengan stok lain.
+2. **Kunci identitas.** Salin nomor heat/lot, ukuran, panjang, kuantitas, bundel, nomor surat jalan, pemasok, dan dokumen mutu. Jika label lepas, foto label yang tersisa dan tandai identitas sebagai belum terverifikasi.
+3. **Rekam kondisi sebelum disentuh.** Ambil foto keseluruhan, empat sisi yang relevan, detail kerusakan dengan skala, tanda ikat atau tumpuan, serta kondisi kemasan. Simpan nama berkas dan waktu; jangan mengedit foto asli.
+4. **Catat paparan dan mekanisme yang diduga.** Tulis apakah kerusakan ditemukan saat bongkar, setelah disimpan, atau saat dipindah lagi. Catat air, lumpur, garam, gesekan, jatuh, tumpuan tidak stabil, dan alat yang digunakan sebagai fakta teramati atau keterangan saksi—bukan sebagai penyebab pasti.
+5. **Buat matriks kuantitas.** Pisahkan jumlah terdampak, jumlah diperiksa, dan jumlah yang belum diperiksa. Sketsa posisi batang dalam bundel membantu mencegah satu foto dipakai untuk seluruh lot.
+6. **Minta penilaian tertulis.** Kirim laporan dan bukti kepada pemilik spesifikasi/perancang, pemasok, galvanizer bila lapisan terlibat, serta K3 untuk bahaya handling. SMKK dan aturan K3 Indonesia mencakup lebih dari satu lingkup; tugas, kompetensi, catatan alat, penilaian risiko, metode kerja, izin, rencana darurat, dan pengawasan harus dibaca pada teks serta dokumen proyek yang berlaku ([Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)).
+7. **Catat disposition, bukan usulan pribadi.** Pilih hanya keputusan yang ditandatangani pihak berwenang: pakai setelah verifikasi, perbaiki dengan prosedur disetujui, kembalikan/ganti, atau tolak. Tulis syarat, batas area, dan dokumen rujukannya.
+
+Jika keputusan tertulis menetapkan pengembalian atau penggantian, catat spesifikasi yang harus dicocokkan sebelum meminta material baru. Anda dapat memakai jalur permintaan seperti [besi as S45C Yogyakarta](/jual-as-s45c-yogyakarta) atau [besi as ST42 Yogyakarta](/jual-as-st42-yogyakarta), tetapi halaman produk bukan bukti bahwa stok pengganti tersedia atau sudah disetujui proyek.
+
+8. **Tutup dengan pemeriksaan ulang.** Cocokkan pekerjaan yang benar-benar dilakukan dengan instruksi, periksa ulang identitas dan kondisi, lampirkan foto baru, lalu ubah status karantina hanya setelah ada tanda tangan pelepasan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report setelah Transport atau Handling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Identitas dan keterlacakan.** Batang tanpa label yang dapat dicocokkan tidak boleh “diasumsikan” berasal dari bundel yang benar. Pisahkan identitas yang hilang sebagai masalah tersendiri, meskipun bentuknya tampak baik.
+
+**Jenis dan lokasi kerusakan.** Bengkok di ujung, gores memanjang, penyok lokal, retak, atau lapisan terkelupas memiliki implikasi berbeda. Catat ukuran hasil ukur yang benar-benar dilakukan, alat dan tanggalnya; jangan mengisi angka perkiraan. Kerusakan pada area sambungan, lubang, ulir, atau dekat las harus dinaikkan kepada perancang/galvanizer, bukan diputuskan dari foto saja.
+
+**Paparan.** Air terperangkap, kondensasi, tanah, garam, dan penutup kedap dapat mempercepat korosi atau menutupi kondisi awal. Panduan perawatan dan penyimpanan LYSAGHT menekankan perlunya rencana penyimpanan, dukungan stabil, drainase/ventilasi, pemisahan, penandaan, dan inspeksi; gunakan itu sebagai pertanyaan verifikasi, bukan sebagai hukum Indonesia ([LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)).
+
+**Handling dan keselamatan.** Massa, geometri, pusat gravitasi, stabilitas tumpuan, risiko terguling, titik jepit, dan kondisi alat menentukan cara mengamankan barang. Jangan meminta pekerja mengangkat atau meluruskan material karantina tanpa metode dan kompetensi yang sesuai. Bila perbaikan memerlukan pemanasan atau pengelasan, penilaian harus mencakup material dasar/lapisan, kontaminasi, ventilasi, posisi, pekerja sekitar, bahaya api, listrik, gas, dan kendali darurat. Panduan NIOSH/OSHA hanya peta bahaya dan bukan batas paparan atau resep PPE untuk proyek Indonesia ([NIOSH welding](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), [NIOSH local exhaust](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)).
+
+**Kewenangan dan bukti.** Kontrak, spesifikasi coating, gambar yang disetujui, instruksi pemasok, dan prosedur proyek dapat mengubah keputusan. Karena gate persetujuan belum tersedia dalam paket ini, pertahankan `[NEEDS GATE-02: kriteria penerimaan/perbaikan dan dokumen proyek yang berlaku belum diperoleh]` sampai coordinator teknis melengkapinya.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report setelah Transport atau Handling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai alur dokumentasi, bukan persetujuan teknis:
+
+| Temuan dan bukti | Status sementara | Pertanyaan sebelum keputusan |
+|---|---|---|
+| Label dan jumlah cocok; gores terlihat; tidak ada pemeriksaan lapisan | Karantina | Apa spesifikasi coating dan siapa yang menginspeksi? |
+| Bundel berubah bentuk; titik tumpu atau cara ikat tidak jelas | Karantina diperluas | Apakah semua batang dalam zona terdampak sudah diidentifikasi dan aman? |
+| Bengkok dekat sambungan/lubang atau ada retak | Jangan dipindah untuk dipakai | Apa penilaian perancang dan metode pemeriksaan yang disetujui? |
+| Lapisan galvanis terkelupas setelah gesekan/las | Karantina dan koordinasi galvanizer | Bagaimana area diperiksa dan prosedur repair yang disahkan? |
+| Label hilang, foto hanya sebagian bundel | Hold identitas | Dokumen apa yang mengembalikan keterlacakan tanpa asumsi? |
+
+Contoh ini sengaja tidak memberi ambang “boleh” atau “tidak boleh”. Sobat Besi.co.id, keputusan yang aman adalah keputusan yang dapat diaudit kembali: setiap perubahan status memiliki tanggal, nama, dasar dokumen, dan foto sebelum-sesudah.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report setelah Transport atau Handling”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Membersihkan atau mengecat sebelum foto.** Simpan bukti awal; tindakan pembersihan harus punya instruksi dan dicatat.
+- **Menggabungkan laporan per bundel.** Beri nomor unik untuk setiap batang atau kelompok yang memang dapat ditelusuri.
+- **Mengukur tanpa menyimpan metode.** Tulis alat, titik ukur, satuan, kondisi, dan siapa yang mengukur. Jika belum diukur, tulis “belum diukur”.
+- **Menganggap karat permukaan pasti kosmetik.** Minta pemeriksaan material/lapisan sesuai spesifikasi; jangan menyimpulkan dari warna.
+- **Membiarkan tag karantina hilang saat dipindah.** Gunakan tag fisik dan daftar lokasi; cocokkan pada setiap serah terima.
+- **Mengutip panduan asing sebagai ketentuan proyek.** Tandai sebagai referensi pertanyaan dan minta persetujuan dokumen Indonesia/proyek yang berlaku.
 
-## Objection or shortcut to address
+Sebelum menutup laporan, periksa enam hal: identitas, jumlah, lokasi, paparan, foto asli, dan rantai persetujuan. Bila salah satunya kosong, status tetap *hold*.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu dihindari
 
-## Required conclusion
+“Kerusakannya kecil; luruskan sekarang agar jadwal tidak terlambat.” Shortcut itu memutus jejak kondisi awal dan dapat menutupi kerusakan atau bahaya alat yang belum dinilai. Alternatif yang lebih cepat justru disiplin: foto dan tag dalam satu siklus penerimaan, pindahkan hanya untuk mengamankan dengan metode K3, lalu minta keputusan tertulis. Pelepasan atau perbaikan tidak boleh dilakukan oleh pembuat laporan seorang diri.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah penutup
 
-## Draft completion checklist
+Damage report setelah transport atau handling adalah alat pengendalian: identifikasi, karantina, bukti, penilaian, disposition, tindakan yang disetujui, dan inspeksi ulang. Buat laporan untuk setiap temuan, tautkan ke dokumen pengiriman dan mutu, dan jangan menghapus marker `[NEEDS GATE-01]`, `[NEEDS GATE-02]`, atau `[NEEDS GATE-04: hasil pemeriksaan ulang dan otorisasi pelepasan belum diverifikasi]` sebelum pihak berwenang mengisinya.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya: tetapkan nomor laporan, bekukan lokasi material, unggah foto asli, lalu jadwalkan review perancang/galvanizer dan K3 sesuai lingkupnya. Kawan Besi.co.id, aturan operasionalnya sederhana: tidak ada pemakaian atau perbaikan dari stok karantina tanpa keputusan tertulis dan pemeriksaan ulang yang dapat ditelusuri.

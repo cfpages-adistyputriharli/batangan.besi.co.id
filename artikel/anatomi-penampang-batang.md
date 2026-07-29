@@ -2,8 +2,9 @@
 article_id: BESB-01-A04
 title: "Anatomi Penampang Batang dan Istilah Ukurannya"
 slug: "anatomi-penampang-batang"
-description: "Explain diameter, across flats, corner radius, area, perimeter, length, and axes"
-status: outline
+description: "Panduan memahami diameter, across flats, radius sudut, luas, keliling, panjang, dan sumbu penampang batang"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,49 +16,83 @@ final_route: "/artikel/anatomi-penampang-batang.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/52949.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
-  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Anatomi Penampang Batang dan Istilah Ukurannya
 
-## Assignment lock
+Halo, Teman Besi.co.id! Saat membaca katalog batang baja, Anda mungkin melihat “diameter”, “AF”, “radius sudut”, “luas penampang”, dan “panjang” dalam satu baris. Istilah itu bukan variasi nama untuk ukuran yang sama. Masing-masing menunjuk bagian geometri yang berbeda, sehingga salah membaca satu kolom dapat membuat batang yang datang tidak cocok dengan gambar kerja atau alat ukur.
 
-- **Writer task:** Expand this file into one complete article answering: “Anatomi Penampang Batang dan Istilah Ukurannya”
-- **Reader and situation:** Buyer reading a catalog
-- **Reader outcome:** Explain diameter, across flats, corner radius, area, perimeter, length, and axes
-- **Primary intent:** Understand geometry terms
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not calculate mass; BESB-03-A02 owns quantity
-- **Final public route:** `/artikel/anatomi-penampang-batang.html`
-- **Appointed CMS date:** `2025-09-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: mulai dengan mengenali bentuk penampang, tetapkan sumbu dan titik acuannya, lalu catat ukuran melintang serta panjang secara terpisah. Diameter dipakai pada lingkaran; across flats (AF) pada jarak dua sisi datar yang berseberangan; corner radius pada pembulatan sudut; area dan perimeter merangkum penampang; sedangkan panjang diukur sepanjang sumbu batang. Label nominal di katalog tetap perlu dicocokkan dengan gambar, standar produk, dan hasil inspeksi penerimaan.
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Anatomi Penampang Batang dan Istilah Ukurannya**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+_Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu._
 
+## Definisi dan batas objek
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+“Penampang” adalah bentuk yang terlihat jika batang dipotong tegak lurus terhadap arah memanjangnya. Batang bulat, persegi, segi enam, atau profil khusus memiliki cara baca yang tidak sama. Kosakata bentuk produk baja memang dibedakan menurut bentuk dan tahap pembuatannya; istilah produk itu sendiri tidak otomatis membuktikan mutu, toleransi, komposisi, atau kecocokan aplikasi. Rujukan kosakata baja ISO 6929 membantu menyamakan istilah, tetapi istilah dagang lokal tetap harus diverifikasi pada standar produk, penandaan, dan sertifikat yang berlaku ([ISO 6929:2013](https://www.iso.org/standard/52949.html)).
+
+Artikel ini membahas geometri untuk memahami katalog dan memeriksa barang. Ia tidak menghitung massa, kebutuhan jumlah, kapasitas struktur, atau kelayakan desain. Untuk batang berongga, misalnya, “diameter” bisa berarti diameter luar atau dalam; dinding dan bentuk lubang harus disebutkan sebelum area dihitung. Untuk profil tak beraturan, gunakan gambar penampang atau tabel pabrikan, bukan menebak dari nama dagang.
+
+Jika Anda sedang membandingkan ukuran pada katalog penjualan, gunakan halaman [baja AS S45C](/jual-as-s45c-yogyakarta) untuk memeriksa istilah produk yang ditawarkan, lalu cocokkan lagi bentuk dan ukurannya dengan dokumen pemasok. Untuk varian lain, [baja ST42](/jual-as-st42-yogyakarta) dapat menjadi titik awal pencarian; kedua halaman itu bukan pengganti gambar kerja atau kriteria penerimaan proyek.
+
+## Cara kerjanya
+
+Bayangkan Anda menaruh batang lurus di meja. Garis tengah sepanjang batang adalah **sumbu memanjang** (axis). Bidang yang memotong sumbu itu secara tegak lurus menghasilkan penampang. Dua sumbu pada bidang penampang—misalnya X dan Y—menjadi acuan arah pengukuran. Menetapkan acuan lebih dulu mencegah ukuran diambil miring atau dari sisi yang keliru.
+
+Untuk batang bulat padat, ukur garis lurus yang melewati pusat dan menghubungkan dua titik pada tepi: itulah diameter (D). Jika pengukuran tidak melewati pusat, hasilnya adalah tali busur, bukan diameter. Pada kondisi nyata, ukur di lebih dari satu arah dan posisi; perbedaan hasil mengindikasikan bentuk tidak benar-benar bulat atau ada kerusakan permukaan. Jangan menyebut satu pembacaan sebagai diameter “sebenarnya” tanpa aturan inspeksi yang disepakati.
+
+Batang persegi memakai lebar sisi (S) dan, bila diperlukan, diagonal. Batang segi enam sering dicantumkan **across flats (AF)**, yaitu jarak tegak lurus antara dua sisi datar yang berseberangan. AF bukan jarak antar-sudut (across corners/AC). Pada penampang segi enam beraturan, AF dan AC memiliki hubungan geometri tertentu, tetapi jangan mengonversinya dari angka katalog jika bentuk, chamfer, atau toleransinya tidak dinyatakan.
+
+Di sudut yang tidak tajam, **corner radius (R)** adalah jari-jari busur pembulatan. Radius diukur dari pusat busur ke permukaan busur, bukan dari ujung sisi lurus. Pembulatan ini mengubah luas dan perimeter dibandingkan poligon bersudut tajam. Karena itu, gambar yang hanya menulis “segi empat 20 mm” belum lengkap bila radius sudut memengaruhi dudukan, kunci, atau celah pasang.
+
+**Area penampang (A)** adalah luas bidang potongan. Untuk lingkaran padat, rumus geometri A = πD²/4 dapat dipakai sebagai pemeriksaan awal, dengan D dalam satuan yang konsisten. **Perimeter (P)** adalah panjang total batas luar penampang; keliling lingkaran padat adalah πD. Pada penampang berongga, area material merupakan area luar dikurangi area lubang, sedangkan perimeter dapat berarti batas luar saja atau seluruh batas (luar dan dalam). Tanyakan definisi yang dipakai pada lembar data sebelum membandingkan angka.
+
+**Panjang (L)** diukur sepanjang sumbu memanjang dari ujung ke ujung sesuai titik referensi yang disepakati. Panjang potong, panjang nominal, dan panjang aktual dapat berbeda karena cara ukur, ujung miring, atau allowance pemotongan. Tabel dimensi produk—termasuk tabel tabung—menghubungkan ukuran dan panjang dengan basis teoritisnya; tabel itu bukan pengganti pengukuran barang yang diterima ([ISO 4200:1991](https://www.iso.org/standard/9985.html)).
+
+## Faktor yang mengubah hasil
+
+Pertama, pastikan unit. Campuran milimeter dan inci dapat terlihat masuk akal tetapi menghasilkan luas atau panjang yang salah. Tulis unit di setiap catatan, bukan hanya di judul kolom. Kedua, identifikasi apakah angka adalah nominal, target produksi, atau hasil ukur aktual. Istilah “20” tanpa penjelasan bisa berarti sisi 20 mm, AF 20 mm, atau diameter 20 mm.
+
+Ketiga, perhatikan kondisi ujung dan permukaan. Karat tebal, burr, cat, atau penyok berada di antara alat dan logam sehingga pembacaan melambung atau berubah-ubah. Bersihkan secukupnya sesuai prosedur penerimaan; jangan menggerinda material untuk “mencocokkan” ukuran tanpa persetujuan. Keempat, alat harus cocok dengan besaran: jangka sorong untuk jarak luar yang terjangkau, mikrometer untuk pemeriksaan lebih teliti, dan pita ukur untuk panjang batang. Alat ukur yang tidak terkalibrasi atau rahang yang tidak tegak lurus menghasilkan angka yang sulit dipertanggungjawabkan.
+
+Terakhir, bentuk penampang dapat berubah sepanjang batang akibat proses pembentukan, pemotongan, atau benturan. Ambil sampel posisi dan arah yang telah ditentukan dalam rencana inspeksi. Jika keputusan menyangkut sambungan, beban, atau toleransi kritis, hentikan penerimaan dan minta peninjauan pihak kompeten; data katalog saja tidak cukup untuk keputusan proyek yang masih memerlukan bukti terkini.
+
+## Contoh keputusan praktis
+
+Misalkan katalog menulis “segi enam AF 24 mm, panjang 6 m”. Sebelum memesan, ubahnya menjadi pertanyaan yang dapat diperiksa:
+
+| Yang dibaca | Pertanyaan verifikasi | Konsekuensi bila keliru |
+|---|---|---|
+| AF 24 mm | Apakah jarak dua sisi datar, bukan AC atau diameter lingkaran luar? | Kunci atau dudukan bisa tidak masuk. |
+| Penampang | Padat, berongga, atau profil dengan chamfer/radius? | Area material dan kontak berubah. |
+| Panjang 6 m | Nominal atau panjang potong aktual, dan diukur dari titik mana? | Rencana pemotongan dan sambungan meleset. |
+| Toleransi | Dokumen mana yang menetapkan batas ukur? | Angka inspeksi tidak punya kriteria lulus. |
+
+Pada batang bulat, Anda dapat mencatat dua pembacaan diameter pada arah yang saling tegak lurus di setiap lokasi sampel. Bila hasil berbeda, laporkan variasinya dan minta kriteria penerimaan dari dokumen pengadaan. Jangan mengubah diameter rata-rata menjadi klaim mutu atau massa; itu berada di luar tujuan artikel ini. Teman Besi.co.id, kebiasaan menulis “apa yang diukur dan dari mana acuannya” sering lebih berharga daripada menambah banyak angka.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah menyamakan diameter dengan AF. Solusinya, gambar ulang penampang sederhana dan beri anak panah pada dua sisi atau dua titik yang dimaksud. Kesalahan kedua adalah memakai diagonal sebagai lebar sisi. Ukur diagonal hanya bila gambar atau spesifikasi memang memintanya.
+
+Kesalahan ketiga ialah mengabaikan radius sudut. Pada komponen yang memakai kunci, sleeve, atau celah sempit, radius dapat mengubah titik kontak. Catat R sebagai ukuran terpisah; jangan memasukkannya diam-diam ke lebar sisi. Kesalahan keempat adalah menjumlahkan luas dari angka yang berbeda unit. Konversi semua ukuran ke satu unit sebelum memakai rumus.
+
+Kesalahan kelima ialah menganggap angka tabel sebagai bukti barang aktual. Cocokkan nomor heat/lot, penandaan, dokumen pemasok, dan hasil ukur penerimaan sesuai prosedur proyek. Status atau judul suatu standar membantu menemukan dokumen yang tepat, tetapi tidak memberi Anda toleransi atau kewajiban yang tidak terlihat di dalam teks lengkapnya.
+
+## Jalan pintas yang tampak praktis
+
+Jalan pintas yang sering dipilih adalah memesan berdasarkan kata “batang 24” lalu meminta gudang menyesuaikan saat barang tiba. Cara ini gagal ketika “24” ternyata merujuk ke diameter, sisi, atau AF yang berbeda. Kesalahan baru terlihat setelah batang dipotong atau dikirim ke area kerja, saat biaya koreksi sudah lebih besar.
+
+Alternatif yang lebih aman adalah mengirim satu baris spesifikasi yang menyebut bentuk penampang, besaran ukur (D, S, AF, atau AC), radius bila relevan, panjang dan unit, serta dokumen rujukannya. Minta pemasok mengonfirmasi definisi tersebut sebelum PO diterbitkan. Saat penerimaan, foto lembar ukur dan tandai lokasi sampel; bila hasil atau dokumen tidak cocok, karantina lot dan minta keputusan teknis, bukan menebak istilahnya.
+
+## Penutup: aturan operasi
+
+Anatomi penampang batang menjadi mudah dibaca setelah Anda memisahkan tiga hal: bentuk bidang potong, ukuran melintang dengan sumbu acuannya, dan panjang sepanjang sumbu batang. Diameter untuk lingkaran, AF untuk jarak antarsisi datar, radius untuk pembulatan sudut, area dan perimeter untuk ringkasan geometri, serta panjang untuk dimensi memanjang—semuanya harus memiliki unit dan definisi yang jelas.
+
+Langkah berikutnya, tandai langsung pada gambar atau baris katalog: bentuk, titik acuan, ukuran, unit, toleransi, dan cara ukur. Cocokkan dengan dokumen produk dan minta tinjauan profesional jika ukuran itu memengaruhi sambungan atau keselamatan. Aturan operasinya sederhana, Kawan Besi.co.id: jangan menerima angka yang tidak menyebut apa yang diukur, dari mana acuannya, dan bukti mana yang menetapkan batasnya.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,148 +103,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-nako-ulir-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-batang-hari` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-batang` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-01-A02` → `/artikel/istilah-besi-baja-batang-as-assental.html` — Besi, Baja, Batang, AS, dan Assental
-- `BESB-01-A03` → `/artikel/proses-pembentukan-bar-stock.html` — Hot Rolled, Cold Drawn, Forged, dan Peeled Bar
-- `BESB-01-A05` → `/artikel/bar-stock-versus-komponen-jadi.html` — Bar Stock versus Komponen Jadi
-- `BESB-01-A06` → `/artikel/mitos-identifikasi-grade-batang.html` — Mitos Mengenali Grade Batang dari Warna dan Percikan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penampang Batang dan Istilah Ukurannya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penampang Batang dan Istilah Ukurannya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penampang Batang dan Istilah Ukurannya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penampang Batang dan Istilah Ukurannya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penampang Batang dan Istilah Ukurannya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Penampang Batang dan Istilah Ukurannya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

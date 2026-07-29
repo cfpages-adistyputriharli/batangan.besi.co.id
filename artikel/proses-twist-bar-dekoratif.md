@@ -2,8 +2,9 @@
 article_id: BESB-05-A03
 title: "Cold Twist dan Hot Twist pada Bar Dekoratif"
 slug: "proses-twist-bar-dekoratif"
-description: "Explain material identity, cold/hot deformation, tooling, pitch, distortion, cracking, trials, and records"
-status: outline
+description: "Panduan memilih cold twist atau hot twist pada bar dekoratif, dari identitas material sampai trial dan pemeriksaan."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2025-12-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,48 +16,13 @@ final_route: "/artikel/proses-twist-bar-dekoratif.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/52949.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
-  - "https://www.iso.org/standard/86032.html"
   - "https://www.cdc.gov/niosh/welding/about/index.html"
   - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cold Twist dan Hot Twist pada Bar Dekoratif
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Cold Twist dan Hot Twist pada Bar Dekoratif”
-- **Reader and situation:** Fabricator planning decorative work
-- **Reader outcome:** Explain material identity, cold/hot deformation, tooling, pitch, distortion, cracking, trials, and records
-- **Primary intent:** Understand twisting routes
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No process values; BESB-09-A02 owns qualified forming plan
-- **Final public route:** `/artikel/proses-twist-bar-dekoratif.html`
-- **Appointed CMS date:** `2025-12-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cold Twist dan Hot Twist pada Bar Dekoratif**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,144 +33,63 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Besi.co.id! Memilih cold twist atau hot twist pada bar dekoratif bukan sekadar memilih mesin. Keduanya adalah rute deformasi yang memberi jejak berbeda pada penampang, pitch (jarak satu putaran ke putaran berikutnya), dan risiko cacat. Cold twist dilakukan tanpa pemanasan proses yang disengaja; hot twist memakai pemanasan terkontrol agar material lebih mudah berubah bentuk.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Untuk bar yang penampangnya harus tetap terbaca, cold twist dapat dipertimbangkan karena tidak menambah pengaruh panas. Hot twist dapat dipertimbangkan bila gaya pembentukan atau kekakuan awal membuat puntir dingin tidak stabil. Tidak ada pilihan yang otomatis paling baik: identitas material, geometri, tooling, urutan kerja, dan inspeksi aktual yang mengubah keputusan. [NEEDS GATE-01: rute pembentukan harus disetujui dari data material dan review kompeten proyek.]
 
-### KR-01
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-05-A01` → `/artikel/besi-nako-dan-nako-ulir.html` — Besi Nako dan Nako Ulir: Bentuk, Proses, dan Fungsi
-- `BESB-05-A02` → `/artikel/mengukur-besi-nako.html` — Mengukur Nako: Across Flats, Corner, Straightness, dan Twist
-- `BESB-05-A04` → `/artikel/nako-untuk-pagar-dan-railing.html` — Nako untuk Pagar, Railing, dan Grille
-- `BESB-05-A05` → `/artikel/sambungan-besi-nako.html` — Sambungan Nako: Weld, Bolt, dan Mechanical Detail
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cold Twist dan Hot Twist pada Bar Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Gambar ini adalah ilustrasi umum dari aset lokal, bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Cold Twist dan Hot Twist pada Bar Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Bar dekoratif” menjelaskan bentuk pemakaian, bukan bukti grade atau mutu. Kosakata produk baja membedakan bentuk produk dan tahap pembuatannya dari kimia, toleransi, pelapisan, dan kesesuaian fungsi. Rujukan [ISO 6929:2013](https://www.iso.org/standard/52949.html) membantu memisahkan bar dari pipa, profil, pelat, kawat, atau produk fabrikasi; label penjual tetap harus dicocokkan dengan marking, datasheet, dan sertifikat material.
+
+Artikel ini membahas pembentukan puntir pada bar padat atau bentuk dekoratif sejenis: bagaimana gaya dipindahkan, apa yang mengubah pitch, dan bagaimana menyiapkan pemeriksaan. Ini bukan prosedur qualified forming plan dan tidak menetapkan suhu, putaran, torsi, radius, atau acceptance criteria. Nilai proses harus berasal dari material dan peralatan aktual. Untuk menyiapkan pertanyaan material, Anda dapat mulai dari [beranda Besi.co.id](/), lalu membandingkan [pilihan besi nako di Yogyakarta](/jual-nako-yogyakarta) dan [nako ulir di Yogyakarta](/jual-nako-ulir-yogyakarta) bila keduanya relevan dengan kebutuhan Anda. [NEEDS GATE-02: identitas penampang, grade, kondisi pasokan, dan tujuan penggunaan belum diverifikasi pada paket proyek.]
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Cold Twist dan Hot Twist pada Bar Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada cold twist, bar dijepit di dua tooling. Satu sisi ditahan, sisi lain diputar relatif terhadapnya. Torsi menyebar melalui panjang bebas; area dekat rahang menerima konsentrasi tegangan dan dapat meninggalkan bekas jepitan. Karena tidak ada pemanasan yang sengaja diberikan, respons sangat dipengaruhi kekakuan penampang, panjang bebas, dan kemampuan material menerima deformasi lokal.
+
+Pada hot twist, bar dipanaskan pada zona yang akan dibentuk lalu dipuntir dengan prinsip penjepitan yang sama. Panas menurunkan hambatan deformasi, tetapi menambah antarmuka: pemerataan panas, oksidasi permukaan, penyusutan saat dingin, dan potensi distorsi setelah gaya dilepas. Pemanasan tidak menghapus kebutuhan alignment, kontrol pitch, atau trial.
+
+Urutannya dimulai dari verifikasi identitas bar, pemeriksaan kelurusan awal, penandaan panjang referensi, pemasangan tooling, dan trial pada benda uji. Operator membandingkan pitch serta penampang dengan gambar, mencatat kondisi yang dipakai, lalu memutuskan penyesuaian. Untuk hot twist, penilaian K3 harus mencakup proses, lapisan atau kontaminan, ventilasi, posisi kerja, pekerja sekitar, hot-work, listrik, dan gas. [NIOSH](https://www.cdc.gov/niosh/welding/about/index.html) membahas bahaya asap pengelasan termasuk mangan; [OSHA](https://www.osha.gov/welding-cutting-brazing/hazards-solutions) menekankan pengendalian bahaya sesuai kondisi pekerjaan. [NEEDS GATE-03: competent K3 review dan prosedur lokasi diperlukan sebelum rute panas dijalankan.]
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Cold Twist dan Hot Twist pada Bar Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Material adalah faktor pertama. Dua bar dengan nama dagang serupa dapat memiliki grade, kondisi pengerjaan, atau sejarah panas berbeda. Minta dokumen penerimaan yang menyebut ukuran dan identitas material; jangan menyimpulkan sifat hanya dari kilap, warna, atau kemudahan diputar.
+
+Geometri menentukan gerak permukaan. Penampang persegi, bulat, atau berpola tidak memutar dengan cara yang sama. Sudut tajam, lubang, takik, dan perubahan penampang dapat menjadi lokasi konsentrasi tegangan. Panjang bebas yang berbeda juga mengubah jumlah putaran yang terlihat pada segmen yang sama.
+
+Tooling harus memusatkan bar tanpa merusak permukaan. Rahang tidak sejajar dapat membuat bar melintir sekaligus membengkok; celah longgar menyebabkan slip; penjepitan berlebihan meninggalkan bekas tekan. Tandai orientasi awal agar rotasi aktual dapat dibaca, lalu ukur pitch pada beberapa lokasi, bukan hanya di tengah.
+
+Pada hot twist, panas tidak seragam membuat satu sisi lebih lunak. Bar dapat keluar dari sumbu, pitch berubah setelah pendinginan, atau permukaan memperlihatkan oksida dan retak rambut. Jangan menganggap pemanasan sebagai jalan pintas untuk memperbaiki tooling. Kawan Besi.co.id, bedakan bentuk visual, integritas material, dan kecocokan fungsi: pitch rapi belum membuktikan tidak ada retak. [NEEDS GATE-04: kriteria inspeksi, metode ukur, dan batas penerimaan harus ditetapkan penanggung jawab teknis proyek.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Cold Twist dan Hot Twist pada Bar Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Kondisi yang diketahui | Pertanyaan keputusan | Langkah aman berikutnya |
+|---|---|---|
+| Penampang jelas dan tampilan permukaan penting | Apakah deformasi dingin dapat dipantau tanpa slip? | Mulai cold-twist trial pada kupon; periksa jejak tooling, pitch, dan kelurusan. |
+| Gaya pembentukan terasa terlalu besar | Apakah pemanasan diizinkan spesifikasi material dan proyek? | Minta rencana hot-twist yang mengatur pemanasan, penjepitan, pendinginan, dan inspeksi. |
+| Pitch berubah antara ujung dan tengah | Apakah bar meluncur, membengkok, atau menerima panas tidak merata? | Tandai zona, periksa alignment, lalu ulangi trial dengan satu perubahan terukur. |
+| Muncul retak rambut atau sobekan | Apakah cacat berasal dari material atau rute pembentukan? | Karantina benda uji, dokumentasikan, dan minta evaluasi kompeten. |
+
+Catat nomor heat atau batch bila tersedia, ukuran awal, kondisi permukaan, orientasi, tooling, urutan operasi, hasil ukur pitch, dan foto inspeksi. Jangan menambahkan angka proses yang belum dikualifikasi. Untuk dampak panas pada pekerjaan lanjutan, standar umum hanya referensi awal; penerapannya harus ditautkan ke gambar, material, metode ukur, dan fungsi aktual. [NEEDS GATE-05: hasil trial dan rekaman inspeksi harus ditinjau serta disetujui sebelum produksi.]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Cold Twist dan Hot Twist pada Bar Dekoratif”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut yang sering terjadi adalah memesan “bar nako” berdasarkan foto, lalu langsung memuntir semua batang. Nama pasar tidak memverifikasi penampang atau grade. Mintalah marking, ukuran nominal, dokumen material, dan contoh potongan; cocokkan dengan gambar sebelum memilih rute.
 
-## Objection or shortcut to address
+Kesalahan berikutnya adalah mengukur hanya jumlah putaran. Dua benda dapat memiliki jumlah putaran sama tetapi pitch berbeda karena panjang bebasnya berbeda. Ukur jarak antar tanda referensi di ujung, tengah, dan area dekat penjepit. Periksa pula garis sumbu dengan alat ukur yang disetujui proyek.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Pemanasan yang tampak merata juga bukan bukti cukup. Tetapkan siapa yang memantau, apa yang dicatat, dan kapan benda kerja harus dihentikan. Untuk pengelasan atau pemotongan sesudahnya, lakukan penilaian bahaya dan pengendalian sesuai kondisi setempat; jangan mengubah angka panduan luar negeri menjadi aturan Indonesia.
 
-## Required conclusion
+Teman Besi.co.id, bila operator berkata “sudah biasa”, minta satu rekaman trial yang dapat dilacak. Rekaman itu harus menjawab: material apa, tooling mana, perubahan apa, hasil ukur apa, dan siapa yang menyetujui. Tanpa jejak tersebut, masalah pitch atau retak sulit dibedakan antara variasi material dan kesalahan proses.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
+Cold twist dan hot twist sama-sama dapat membentuk bar dekoratif, tetapi bukan resep yang saling menggantikan. Cold twist menuntut pengendalian torsi, slip, dan distorsi; hot twist menambah tuntutan pemerataan panas, pendinginan, permukaan, dan K3. Pilih rute setelah identitas material, geometri, tooling, dan fungsi disepakati.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah membuat satu trial terdokumentasi, menetapkan titik ukur pitch dan kelurusan, lalu meminta review teknis atas hasilnya. Operating rule-nya: tanpa data material, kriteria inspeksi, dan persetujuan kompeten, rute puntir tetap percobaan—bukan bukti bahwa bar siap dipasang.

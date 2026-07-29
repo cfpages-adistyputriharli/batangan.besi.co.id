@@ -1,9 +1,10 @@
 ---
 article_id: BESB-04-A04
+writing_contract_version: "native-id-v2"
 title: "Heat Treatment Condition pada Round Bar"
 slug: "heat-treatment-condition-round-bar"
-description: "Explain condition effects on hardness, properties, machining, welding, distortion, and verification"
-status: outline
+description: "Dampak kondisi heat treatment round bar pada kekerasan, sifat, pemesinan, pengelasan, distorsi, dan verifikasi"
+status: draft
 publication_date: "2025-11-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,47 +18,13 @@ sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
   - "https://www.iso.org/standard/89449.html"
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Heat Treatment Condition pada Round Bar
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Heat Treatment Condition pada Round Bar”
-- **Reader and situation:** Buyer encountering normalized/annealed/QT labels
-- **Reader outcome:** Explain condition effects on hardness, properties, machining, welding, distortion, and verification
-- **Primary intent:** Understand supply condition
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Treatment cycles belong to BESB-09-A04
-- **Final public route:** `/artikel/heat-treatment-condition-round-bar.html`
-- **Appointed CMS date:** `2025-11-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Heat Treatment Condition pada Round Bar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,142 +35,89 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Besi.co.id! Label seperti *normalized*, *annealed*, atau *quenched and tempered* (QT) pada round bar bukan sekadar nama proses di pabrik. Label itu menjelaskan kondisi material ketika diserahkan, sehingga dapat memengaruhi kekerasan, kemudahan dibubut, respons saat dilas, dan risiko perubahan bentuk. Namun, label saja tidak membuktikan bahwa seluruh batang memenuhi grade atau kebutuhan komponen Anda.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jika Anda sedang menyusun daftar material, gunakan [beranda Besi.co.id](/) untuk kembali ke konteks produk dan istilah terkait setelah membaca panduan ini.
 
-### KR-01
+Jawaban singkatnya: pilih kondisi pasokan berdasarkan pekerjaan setelah material datang. *Annealed* biasanya dipertimbangkan ketika prioritasnya kemudahan pemesinan dan pembentukan; *normalized* ketika diperlukan kondisi yang lebih seragam dengan kekuatan menengah; QT ketika kombinasi kekuatan dan ketangguhan tertentu memang diminta. Nilai aktual tetap harus dikonfirmasi pada spesifikasi produk, identitas heat atau batch, sertifikat, dan pemeriksaan yang disepakati. Bila data itu belum ada, jangan mengubah nama kondisi menjadi jaminan performa. [NEEDS GATE-01: kondisi pasokan, grade, dan kriteria penerimaan harus dikonfirmasi dari PO/spesifikasi proyek.]
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-03
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-04-A02` → `/artikel/memilih-bar-untuk-shaft-dan-pin.html` — Memilih Bar Stock untuk Shaft dan Pin
-- `BESB-04-A03` → `/artikel/surface-finish-round-bar.html` — Surface Finish dan Dimensional Precision Round Bar
-- `BESB-04-A05` → `/artikel/receiving-round-bar.html` — Checklist Receiving Round Bar
-- `BESB-04-A06` → `/artikel/s45c-versus-st42.html` — S45C versus ST42: Mengapa Nama Saja Tidak Cukup
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Condition pada Round Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Salah paham yang sering terjadi adalah menganggap “QT” berarti batang pasti paling baik untuk semua pekerjaan, atau “annealed” berarti kualitasnya lebih rendah. Kondisi tersebut adalah titik awal sifat dan proses, bukan peringkat mutu universal. Batang yang sangat keras mungkin menyulitkan pahat dan menambah panas pemesinan; batang yang lebih lunak dapat lebih mudah dikerjakan tetapi belum tentu cocok untuk beban akhir. Kebutuhan desain, ukuran penampang, grade, dan proses lanjutan tetap menentukan.
+
+Kawan Besi.co.id, mintalah pemasok menuliskan kondisi pasokan secara eksplisit, bukan hanya menyebut nama material. Tanyakan apakah “normalized” berarti kondisi setelah normalizing, apakah QT mencakup tempering, dan apakah nilai kekerasan atau sifat tarik yang dicantumkan berlaku untuk setiap heat, setiap ukuran, atau hanya contoh uji. Tanpa jawaban itu, perbandingan dua penawaran belum setara.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Condition pada Round Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Heat treatment condition* pada artikel ini berarti keadaan metalurgi round bar saat diterima: misalnya annealed (dilunakkan melalui siklus pemanasan dan pendinginan terkendali), normalized (dinormalisasi untuk memperoleh struktur yang lebih seragam), atau quenched and tempered/QT (dikeraskan melalui pendinginan cepat lalu ditemper). Istilah Inggris perlu dibaca bersama grade, diameter, dan dokumen pasokan; istilah yang sama tidak otomatis menghasilkan nilai yang sama pada semua produk.
+
+Yang dibahas adalah dampak kondisi pasokan terhadap keputusan pembelian, pemesinan, pengelasan, distorsi, serta cara memverifikasinya. Rincian resep siklus—suhu, waktu tahan, media quench, laju pendinginan, atau prosedur perlakuan ulang—berada di luar halaman ini dan memerlukan prosedur serta persetujuan teknis tersendiri. Artikel ini juga bukan penetapan kapasitas beban atau pengganti kajian desain dan prosedur pengelasan yang berlaku.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Condition pada Round Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi pasokan sudah ditetapkan sebelum round bar masuk bengkel. Saat barang tiba, pembeli mencocokkan dokumen yang disepakati dengan produsen, grade, nomor heat/batch, ukuran, jumlah, dan tanda fisik. ISO 10474 menjelaskan kerangka dokumen inspeksi; kerangka itu membantu rekonsiliasi identitas, tetapi tidak menggantikan spesifikasi produk atau keputusan penerimaan [ISO 10474:2013](https://www.iso.org/standard/53736.html).
+
+Secara praktis, perubahan struktur akibat kondisi pasokan mengubah kompromi antara kekerasan, kekuatan, ketangguhan, dan keuletan. Dampaknya terlihat pada tiga antarmuka. Pertama, pahat dan parameter pemesinan menghadapi gaya potong serta panas yang berbeda. Kedua, pengelasan dapat memerlukan pengendalian panas dan penilaian risiko retak sesuai grade dan ketebalan. Ketiga, pelepasan tegangan yang tidak seragam dapat memunculkan perubahan bentuk ketika material dibubut atau dipotong. Besar dampak itu tidak boleh ditebak hanya dari nama kondisi.
+
+Jika sertifikat memuat hasil tarik, perlakukan hasil tersebut sebagai hasil spesimen tertentu. ISO 6892-1 menetapkan metode uji tarik pada suhu ruang, sedangkan ISO 377 menetapkan prinsip pengambilan sampel dan benda uji; keduanya tidak menetapkan bahwa seluruh stok otomatis lolos [ISO 6892-1:2019](https://www.iso.org/standard/78322.html), [ISO 377:2017](https://www.iso.org/standard/72529.html). Tanyakan lokasi dan orientasi spesimen, metode, satuan, kondisi material, serta identitas heat sebelum membandingkan angka.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Condition pada Round Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa faktor berikut perlu dibaca sebagai satu paket:
+
+| Faktor | Mengapa berpengaruh | Pertanyaan yang perlu dijawab |
+|---|---|---|
+| Grade dan diameter | Komposisi serta ukuran memengaruhi respons pendinginan dan sifat di penampang | Spesifikasi produk apa yang mengatur nilai dan toleransinya? |
+| Kondisi pasokan | Annealed, normalized, dan QT memberi titik awal berbeda untuk pemesinan dan pengelasan | Kondisi mana yang tertulis di PO dan sertifikat? |
+| Posisi pengambilan sampel | Permukaan dan inti batang dapat mengalami riwayat panas yang berbeda | Spesimen diambil dari mana dan mewakili heat yang mana? |
+| Proses bengkel | Pemotongan, pembubutan, dan pengelasan dapat mengubah tegangan serta bentuk | Apakah ada urutan kerja dan pemeriksaan antara yang disetujui? |
+| Bukti dan laboratorium | Hasil hanya bermakna bila metode, identitas, dan kompetensi penguji jelas | Apakah laboratorium memiliki kompetensi relevan menurut ISO/IEC 17025? |
+
+ISO/IEC 17025 relevan untuk menilai kompetensi laboratorium, tetapi akreditasi laboratorium sendiri tidak membuktikan barang tertentu memenuhi pesanan [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html). Untuk pekerjaan kritis, minta peninjauan teknis atas spesifikasi, metode uji, ketidakpastian, dan rantai identitas. [NEEDS GATE-04: penerimaan akhir memerlukan review kompeten atas spesifikasi produk dan laporan aktual.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Condition pada Round Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua kebutuhan hipotetis. Komponen pertama akan dibubut dengan banyak pengurangan material dan tidak memiliki persyaratan kekuatan tinggi yang dinyatakan. Kondisi yang lebih lunak mungkin memudahkan pemesinan, tetapi pembeli tetap harus memastikan grade dan batas kekerasan yang disetujui. Komponen kedua membutuhkan kekuatan serta ketangguhan yang ditentukan desain. QT mungkin tercantum sebagai syarat, namun nilai target, lokasi uji, dan penerimaan harus berasal dari spesifikasi yang berlaku—bukan dari kebiasaan pemasok.
+
+Untuk menindaklanjuti pengecekan grade pada penawaran, Anda dapat melihat halaman [round bar S45C di Yogyakarta](/jual-as-s45c-yogyakarta) dan [round bar ST42 di Yogyakarta](/jual-as-st42-yogyakarta), lalu tetap cocokkan kondisi pasokan serta dokumen dengan persyaratan proyek.
+
+Gunakan aturan keputusan berikut sebelum memesan:
+
+1. Tulis fungsi komponen dan proses setelah penerimaan: bubut, frais, las, atau langsung dipakai.
+2. Tetapkan kondisi pasokan yang diminta dan sifat apa yang harus dibuktikan.
+3. Minta contoh sertifikat yang menunjukkan grade, heat, dimensi, kondisi, metode uji, dan hasil terkait.
+4. Sepakati tindakan bila hasil tidak cocok: karantina, uji konfirmasi, atau penolakan. Jangan melakukan heat treatment ulang sebagai “perbaikan” tanpa persetujuan desain.
+
+Teman Besi.co.id, bila rencana Anda mencakup pengelasan pada batang QT atau batang dengan kekerasan tinggi, libatkan welding engineer atau penanggung jawab prosedur yang berwenang. Kondisi pasokan dapat memengaruhi urutan kerja, tetapi artikel ini tidak menetapkan preheat, interpass, atau post-weld heat treatment.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Heat Treatment Condition pada Round Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama ialah memilih berdasarkan satu angka kekerasan. Kekerasan pada satu titik tidak otomatis mewakili seluruh batang. Kesalahan kedua ialah menerima sertifikat tanpa mencocokkan nomor heat pada label dan dokumen. Kesalahan ketiga ialah menyamakan metode uji dengan persyaratan penerimaan; metode memberi cara mengukur, sedangkan spesifikasi produk memberi nilai dan keputusan yang harus dipenuhi.
 
-## Objection or shortcut to address
+Saat receiving, catat setidaknya:
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+- identitas pemasok, grade, diameter, panjang, dan jumlah;
+- nomor heat/batch pada batang, bundel, dan sertifikat;
+- kondisi pasokan yang tertulis, termasuk istilah dan singkatannya;
+- metode, lokasi, orientasi, satuan, dan hasil uji yang dilaporkan;
+- tanda ketidaksesuaian, kerusakan, atau perubahan bentuk yang terlihat.
 
-## Required conclusion
+ISO 377 dan amendemennya menegaskan pentingnya keterkaitan sampel dengan produk; amendemen tidak boleh diasumsikan mengubah kriteria penerimaan tanpa membaca dokumen yang mengatur [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html). Jika rantai identitas putus atau edisi spesifikasi tidak jelas, tahan material dan minta klarifikasi tertulis. [NEEDS GATE-02: status edisi, amandemen, dan aturan penerimaan harus diverifikasi terhadap kontrak/proyek.]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jangan mengandalkan jalan pintas pembelian
 
-## Draft completion checklist
+Shortcut yang terlihat hemat adalah membeli round bar “condition standar” lalu menyesuaikannya di bengkel. Cara ini dapat gagal karena perlakuan ulang mengubah sifat, dimensi, tegangan sisa, dan kebutuhan verifikasi; hasilnya juga belum tentu sesuai dengan basis desain awal. Alternatif yang lebih aman adalah menetapkan kondisi pasokan sejak tahap pembelian, menyimpan dokumen heat, dan meminta persetujuan tertulis sebelum ada perlakuan panas tambahan. Biaya dan jadwal aktual tetap harus dihitung dari penawaran serta rencana kerja proyek, bukan diasumsikan di sini.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Langkah berikutnya
+
+Heat treatment condition pada round bar adalah kondisi material saat dipasok yang memengaruhi kompromi antara kekerasan, sifat mekanis, pemesinan, pengelasan, dan distorsi. Annealed, normalized, dan QT bukan label “terbaik” yang berdiri sendiri; kecocokannya bergantung pada grade, ukuran, fungsi, proses lanjutan, dan bukti yang dapat ditelusuri.
+
+Sebelum PO diterbitkan, minta pemasok mengonfirmasi kondisi, spesifikasi produk, identitas heat, rencana sampling, dan format dokumen inspeksi. Setelah barang tiba, cocokkan tanda fisik dengan sertifikat dan eskalasikan setiap ketidakcocokan kepada peninjau teknis. Aturan operasinya sederhana: jangan lepaskan material ke proses berikutnya hanya karena label heat treatment terlihat benar; lepaskan setelah kondisi dan buktinya cocok dengan persyaratan proyek.

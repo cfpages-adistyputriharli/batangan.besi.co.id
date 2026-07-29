@@ -2,8 +2,9 @@
 article_id: BESB-09-A06
 title: "Verifikasi setelah Heat Treatment dan Forming"
 slug: "verifikasi-setelah-heat-treatment-dan-forming"
-description: "Link identity, treatment/forming record, dimensions, hardness/mechanical tests, surface, decarb/scale, cracks, and traceability"
-status: outline
+description: "Panduan QA menautkan identitas, rekaman proses, ukuran, uji sifat, permukaan, retak, dan ketertelusuran sebelum dinyatakan boleh keluar"
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-04-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,45 +21,9 @@ sources:
   - "https://www.iso.org/standard/60321.html"
   - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
-  - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
-  - "https://www.fhwa.dot.gov/bridge/inspection/"
-  - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Verifikasi setelah Heat Treatment dan Forming
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Verifikasi setelah Heat Treatment dan Forming”
-- **Reader and situation:** QA releasing processed bars
-- **Reader outcome:** Link identity, treatment/forming record, dimensions, hardness/mechanical tests, surface, decarb/scale, cracks, and traceability
-- **Primary intent:** Plan release tests
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Criteria belong to approved specification BESB-12-A02
-- **Final public route:** `/artikel/verifikasi-setelah-heat-treatment-dan-forming.html`
-- **Appointed CMS date:** `2026-04-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Verifikasi setelah Heat Treatment dan Forming**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,140 +34,76 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Verifikasi setelah Heat Treatment dan Forming
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id! Batangan yang baru keluar dari heat treatment dan forming belum otomatis siap dirilis hanya karena bentuknya rapi atau satu angka hardness terlihat sesuai. Keputusan release harus menghubungkan identitas material, rekaman proses, ukuran akhir, hasil uji, kondisi permukaan, dan ketertelusuran ke spesifikasi yang disetujui BESB-12-A02.
 
-### KR-01
+Jawaban singkatnya: tahan material bila salah satu mata rantai bukti itu putus. Cocokkan heat/lot dan nomor batch, verifikasi bahwa siklus treatment serta forming tercatat, lalu lakukan pemeriksaan dimensi, kekerasan atau mekanik sesuai rencana sampling dan spesifikasi. Periksa juga permukaan, dekarburisasi (decarburization), scale, dan retak. Nilai penerimaan, kelas toleransi, metode ukur, serta keputusan rework tetap harus ditetapkan oleh dokumen proyek dan peninjau kompeten. **[NEEDS GATE-01: spesifikasi BESB-12-A02, sampling plan, dan kriteria release harus dikonfirmasi.]**
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-09-A04` → `/artikel/heat-treatment-bar-stock.html` — Anneal, Normalize, Quench, dan Temper pada Bar
-- `BESB-09-A05` → `/artikel/straightening-bar-stock.html` — Straightening Bar: Risiko dan Bukti sebelum Koreksi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi setelah Heat Treatment dan Forming”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gambar ini adalah ilustrasi umum dari aset lokal dan bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi setelah Heat Treatment dan Forming”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Verifikasi pascaproses adalah pemeriksaan terhadap batangan pada kondisi setelah perlakuan panas dan pembentukan, bukan penilaian umum atas seluruh kemampuan material. Heat treatment mengubah kondisi metalurgi melalui siklus pemanasan dan pendinginan; forming mengubah geometri dan dapat meninggalkan tegangan sisa atau cacat lokal. Karena itu, sertifikat bahan awal saja tidak menutup kebutuhan pemeriksaan akhir.
+
+Batas artikel ini adalah kriteria release dalam spesifikasi BESB-12-A02. Ia tidak menetapkan komposisi baru, menggantikan drawing, atau menyatakan batangan aman untuk struktur tertentu. Standar uji seperti ISO 6892-1 menjelaskan cara pengujian tarik pada temperatur ruang, sedangkan ISO 377 dan amendemennya membahas pemilihan serta penyiapan sampel. Keduanya membantu menghasilkan data yang dapat dibandingkan, tetapi nilai lulus/gagal tetap berasal dari spesifikasi produk dan rencana inspeksi yang disetujui ([ISO 6892-1](https://www.iso.org/standard/78322.html), [ISO 377](https://www.iso.org/standard/72529.html), [amendemen ISO 377](https://www.iso.org/standard/89449.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi setelah Heat Treatment dan Forming”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari identitas. Salin nomor heat, ukuran awal, lot, dan nomor batch ke lembar penelusuran (traveler) atau catatan inspeksi. Pastikan label fisik, sertifikat bahan, rekaman tungku (furnace), dan catatan forming menunjuk ke material yang sama. Bila satu bundel tercampur, hentikan pelepasan dan pisahkan berdasarkan identitas yang dapat dibuktikan.
+
+Berikutnya, cocokkan rekaman proses: prosedur treatment yang disetujui, waktu dan temperatur aktual, media pendingin, urutan forming, serta setiap straightening atau koreksi. Rekaman ini bukan bukti bahwa hasil pasti memenuhi syarat, tetapi menjadi dasar untuk menentukan lokasi pemeriksaan dan menelusuri penyimpangan.
+
+Lakukan pemeriksaan dimensi setelah material berada pada kondisi ukur yang ditetapkan. Ukur diameter atau sisi, panjang, kelurusan, ovalitas, dan fitur forming yang dipersyaratkan pada drawing. Gunakan alat terkalibrasi dan catat lokasi serta orientasi pengukuran. ISO 9013 dan amendemennya dapat menjadi rujukan untuk kualitas thermal cut, sementara ISO 13920 membahas toleransi umum konstruksi las; keduanya tidak otomatis menjadi toleransi universal untuk setiap bar atau bend ([ISO 9013](https://www.iso.org/standard/60321.html), [amendemen ISO 9013](https://www.iso.org/standard/87851.html), [ISO 13920](https://www.iso.org/standard/86032.html)).
+
+Setelah dimensi, ambil sampel untuk hardness dan/atau uji mekanik sesuai sampling plan. Catat posisi sampel, orientasi, kondisi permukaan, metode, satuan, dan identitas heat. Laporan yang hanya memuat angka tanpa asal spesimen tidak cukup untuk menyimpulkan kesesuaian seluruh lot. **[NEEDS GATE-02: laboratorium, metode, lokasi spesimen, dan rencana sampling harus disetujui sebelum hasil dipakai untuk release.]**
+
+Terakhir, lakukan inspeksi visual dan pemeriksaan tak merusak (NDE) bila diwajibkan: cari lipatan, laps, gouge, bekas overheating, kerak oksida (scale) yang tidak terangkat, area dekarburisasi, dan indikasi retak. Bila indikasi tidak dapat diputuskan secara visual, tahan lot untuk metode pemeriksaan yang ditentukan prosedur. Jangan menghapus indikasi dengan grinding sebelum evaluator menyetujui disposisinya.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi setelah Heat Treatment dan Forming”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ketebalan dan ukuran penampang memengaruhi respons pendinginan; lokasi di dalam furnace atau bundel dapat menghasilkan kondisi berbeda. Urutan forming, radius, gaya, pelumasan, dan koreksi setelah treatment juga memengaruhi dimensi dan kemungkinan retak.
+
+Kondisi permukaan harus dibaca bersama proses. Scale atau oksida dapat menutupi retak dangkal; dekarburisasi mengubah lapisan permukaan sehingga hasil hardness dekat permukaan mungkin tidak mewakili inti. Metode pembersihan, kedalaman pengukuran, dan kriteria indikasi harus mengikuti prosedur yang disetujui, bukan kebiasaan operator.
+
+Faktor bukti sama pentingnya dengan faktor fisik. Alat ukur tanpa status kalibrasi, data logger furnace tanpa time stamp, atau formulir yang tidak menautkan sampel ke heat membuat hasil sulit dipertahankan saat audit. Kawan Besi.co.id, anggap setiap kolom identitas sebagai pengaman keputusan, bukan administrasi belaka.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi setelah Heat Treatment dan Forming”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan matriks ini sebagai pemicu keputusan, bukan pengganti BESB-12-A02:
+
+| Temuan | Tindakan sementara | Bukti yang harus dilengkapi |
+|---|---|---|
+| Identitas heat dan rekaman proses lengkap; dimensi sesuai drawing | Lanjutkan uji akhir dan review QA | Laporan ukur, status alat, tanda tangan pemeriksa |
+| Hardness memenuhi target internal, tetapi asal spesimen tidak jelas | Tahan lot | Heat map, lokasi/orientasi sampel, metode dan sampling plan |
+| Ada indikasi retak atau lipatan | Isolasi dan hentikan release | Marking, NDE sesuai prosedur, keputusan engineering |
+| Ukuran melewati drawing setelah forming | Jangan mengandalkan straightening informal | Prosedur koreksi dan pemeriksaan ulang |
+| Scale berat menutupi permukaan | Bersihkan sesuai prosedur lalu inspeksi ulang | Metode pembersihan dan catatan hasil |
+
+Misalnya, satu hasil tarik berada di atas nilai minimum, tetapi nomor heat pada kupon berbeda dari bundel. Angka itu tidak mewakili bundel tersebut; statusnya tetap hold sampai identitas dipulihkan atau pengujian ulang disetujui. Teman Besi.co.id, keputusan konservatif ini melindungi ketertelusuran tanpa menyimpulkan cacat material yang belum terbukti.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Verifikasi setelah Heat Treatment dan Forming”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah melepas berdasarkan tampilan. Permukaan mengilap tidak membuktikan tidak adanya retak bawah permukaan atau dekarburisasi. Tambahkan pemeriksaan terarah dan catat area yang diperiksa.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memakai satu angka hardness sebagai pengganti semua verifikasi. Tanyakan: dari heat mana sampel berasal, di mana lokasinya, bagaimana preparasinya, dan apakah metode serta alatnya sesuai prosedur? Untuk uji mekanik, pastikan laporan menyebut kondisi spesimen dan satuan, sebagaimana prinsip identitas sampel dalam ISO 377 dan metode ISO 6892-1.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menerapkan toleransi umum tanpa melihat drawing. Toleransi harus ditautkan ke fungsi, ukuran, proses, dan cara ukur. Jika drawing atau prosedur belum menetapkan kelasnya, jangan mengisi kekosongan dengan angka kebiasaan bengkel.
 
-## Required conclusion
+Kesalahan keempat adalah mencampur lot saat rework. Pertahankan label, buat catatan perpindahan, dan ulangi pemeriksaan yang terdampak. **[NEEDS GATE-04: disposisi nonconforming, rework, dan kebutuhan uji ulang memerlukan persetujuan engineering/QA proyek.]**
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sering dipilih
 
-## Draft completion checklist
+Jalan pintas yang paling menggoda adalah “uji satu batang, lalu lepas semua”. Cara itu gagal ketika variasi furnace, posisi bundel, ukuran penampang, atau forming membuat satu sampel tidak mewakili lot. Alternatif yang lebih andal adalah menerapkan sampling plan BESB-12-A02, menyimpan peta sampel, dan menaikkan cakupan bila ada hasil meragukan atau perubahan proses.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Penutup
+
+Verifikasi setelah heat treatment dan forming berarti mengikat identitas, rekaman proses, dimensi, sifat mekanik, kondisi permukaan, dan keputusan ketidaksesuaian dalam satu jejak bukti. Jangan nyatakan release hanya dari bentuk atau satu nilai pengujian. Sebelum menandatangani, minta spesifikasi BESB-12-A02, drawing, rekaman proses, status kalibrasi, laporan laboratorium, serta disposisi untuk setiap indikasi.
+
+Langkah berikutnya: QA menyusun checklist lot, menahan material yang identitas atau kriterianya belum lengkap, lalu meminta review teknis kompeten untuk setiap gate terbuka. Jika perlu menyiapkan material sesuai spesifikasi yang telah disetujui, Anda dapat melihat [baja S45C di Yogyakarta](/jual-as-s45c-yogyakarta) atau [baja ST42 di Yogyakarta](/jual-as-st42-yogyakarta) sebagai rujukan pilihan material.
+
+Aturan operasionalnya sederhana: bila bukti tidak dapat ditautkan ke heat dan persyaratan yang berlaku, status tetap ditahan—bukan lulus dengan asumsi.

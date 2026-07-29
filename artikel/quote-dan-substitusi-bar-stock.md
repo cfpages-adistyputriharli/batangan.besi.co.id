@@ -2,8 +2,9 @@
 article_id: BESB-12-A05
 title: "Membandingkan Quote dan Mengelola Substitusi"
 slug: "quote-dan-substitusi-bar-stock"
-description: "Compare technical basis, quantity, processing, tests, logistics, warranty, lead time, exclusions, and substitution impacts"
-status: outline
+description: "Panduan membandingkan dasar teknis, jumlah, proses, pengujian, logistik, garansi, waktu pasok, pengecualian, dan dampak substitusi"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,47 +17,13 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
-  - "https://www.iso.org/standard/89449.html"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
   - "https://www.iso.org/standard/85464.html"
   - "https://www.iso.org/standard/64622.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Membandingkan Quote dan Mengelola Substitusi
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Membandingkan Quote dan Mengelola Substitusi”
-- **Reader and situation:** Buyer comparing supply
-- **Reader outcome:** Compare technical basis, quantity, processing, tests, logistics, warranty, lead time, exclusions, and substitution impacts
-- **Primary intent:** Normalize offers/deviations
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No live price/supplier selection; procurement owner decides
-- **Final public route:** `/artikel/quote-dan-substitusi-bar-stock.html`
-- **Appointed CMS date:** `2026-06-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Membandingkan Quote dan Mengelola Substitusi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,142 +34,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Membandingkan Quote dan Mengelola Substitusi
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id! Quote yang paling murah belum tentu tawaran yang paling setara. Bandingkan dulu dasar teknis, jumlah, proses, pengujian, logistik, garansi, waktu pasok, dan pengecualian dalam setiap penawaran. Substitusi hanya layak diproses bila perbedaan material atau layanan itu ditulis, ditelusuri, dan disetujui oleh pemilik keputusan teknis serta procurement.
 
-### KR-01
+Kuncinya adalah membuat lembar normalisasi: satu baris untuk setiap kebutuhan, satu kolom untuk setiap pemasok, dan kolom khusus deviasi. Harga boleh dibandingkan setelah satuan, cakupan, dan risiko dibuat sebanding. Sertifikat atau satu angka uji juga bukan bukti otomatis bahwa seluruh stok memenuhi grade; identitas benda uji, metode, kondisi, dan identitas heat/batch harus tetap terhubung ([ISO 6892-1](https://www.iso.org/standard/78322.html), [ISO 377](https://www.iso.org/standard/72529.html)). Jika data proyek atau persetujuan belum ada, tandai `[NEEDS GATE-01/GATE-02/GATE-04/GATE-08: verifikasi proyek dan review kompeten sebelum penerimaan atau substitusi]`.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-12-A03` → `/artikel/receiving-inspection-besi-batangan.html` — Receiving Inspection Besi Batangan
-- `BESB-12-A04` → `/artikel/pengujian-besi-batangan.html` — Chemistry, Tensile, Hardness, dan NDT pada Bar
-- `BESB-12-A06` → `/artikel/handover-dossier-bar-stock.html` — Handover Dossier Produk dan Komponen Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Quote dan Mengelola Substitusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu. Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Quote dan Mengelola Substitusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Quote adalah tawaran dengan asumsi tertentu, bukan sekadar angka per kilogram. “Bar stock” di sini berarti material batangan yang dibeli untuk kebutuhan yang sudah ditentukan: ukuran, bentuk, grade, kondisi pasokan, pemotongan atau machining, pemeriksaan, pengemasan, dan pengiriman. Substitusi adalah usulan mengganti salah satu dasar itu—misalnya grade, standar produk, ukuran, produsen, proses, atau bentuk dokumen—dengan alternatif yang diklaim setara.
+
+Artikel ini membantu menormalkan penawaran dan deviasi. Ia tidak memilih pemasok secara langsung, menetapkan harga pasar, atau menggantikan persetujuan desain, QA/QC, dan procurement. Pemilik proyek tetap menentukan kriteria penerimaan dan siapa yang berwenang menyetujui perubahan. Untuk menyamakan istilah grade sebelum bertanya kepada pemasok, Anda dapat melihat contoh halaman [AS S45C Yogyakarta](/jual-as-s45c-yogyakarta) dan [AS ST42 Yogyakarta](/jual-as-st42-yogyakarta), lalu tetap cocokkan spesifikasi di dokumen proyek.
+
+Pisahkan tiga status pada lembar perbandingan: “sesuai”, “deviasi dinyatakan”, dan “belum dibuktikan”. Jangan mengubah “belum dibuktikan” menjadi “sesuai” hanya karena nama material terdengar sama. Dokumen inspeksi harus dapat direkonsiliasi dengan pesanan, produsen, produk, heat/batch, dimensi, hasil uji, serta marking fisik; kompetensi laboratorium meningkatkan kepercayaan pada hasil, tetapi tidak membuktikan barang tertentu otomatis konform ([ISO 10474](https://www.iso.org/standard/53736.html), [ISO/IEC 17025](https://www.iso.org/standard/66912.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Quote dan Mengelola Substitusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari permintaan pembelian yang dibekukan. Tuliskan kode item, standar produk dan edisi yang diminta, grade, rentang dimensi, panjang, kuantitas dan toleransi, kondisi pengiriman, proses tambahan, dokumen mutu, tujuan pengiriman, tanggal dibutuhkan, serta klausul pengecualian. Jika edisi standar atau amandemen belum dipastikan, hentikan perbandingan pada status terbuka—jangan mengandalkan label “berlaku” saja.
+
+Lalu minta setiap pemasok mengisi format yang sama. Normalisasi satuan dan basis kuantitas: apakah berat teoritis atau berat aktual, apakah panjang bersih atau termasuk allowance potong, dan apakah scrap, packing, inspeksi, atau pajak berada di dalam atau di luar angka. Minta lead time ditulis sebagai titik mulai yang jelas, misalnya setelah pesanan, gambar disetujui, atau pembayaran diterima. Catat pula masa berlaku quote dan asumsi ketersediaan; jangan mengubahnya menjadi janji pasok.
+
+Untuk setiap deviasi, buat catatan substitusi berisi item asli, alternatif yang diusulkan, alasan, perbedaan teknis, dampak proses dan desain, bukti pendukung, pemilik persetujuan, serta kondisi pembatalan. Jangan menggabungkan evaluasi teknis dengan negosiasi komersial. Procurement dapat meminta harga alternatif, sedangkan engineer dan QA/QC memeriksa kesetaraan dan risiko.
+
+Pada tahap bukti, ikat setiap sertifikat ke identitas material. Hasil tensile harus menyebut sumber dan orientasi spesimen, preparasi, metode, kondisi, unit, serta identitas produk atau heat; metode pengujian tidak menetapkan sendiri nilai penerimaan. Untuk inspeksi penerimaan, rencana harus mendefinisikan lot/populasi, karakteristik, metode, pemilihan dan identitas sampel, frekuensi, kriteria, aturan keputusan, tanggung jawab, rekaman, dan jalur nonkonformansi. Jangan memilih AQL atau ukuran sampel dari ringkasan standar ([ISO 2859-1](https://www.iso.org/standard/85464.html), [ISO 28590](https://www.iso.org/standard/64622.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Quote dan Mengelola Substitusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Perbedaan teknis paling sering tersembunyi di empat lapis berikut.
+
+1. **Basis material.** Grade, standar produk, heat treatment, kondisi permukaan, dan toleransi harus sama-sama terbaca. Nama dagang atau diameter yang sama tidak membuktikan sifat dan penggunaannya sama.
+2. **Cakupan pekerjaan.** Pemotongan, chamfer, straightening, machining, marking, bundling, sertifikat, dan inspeksi pihak ketiga bisa muncul sebagai baris terpisah atau pengecualian. Bandingkan deliverable, bukan hanya material utama.
+3. **Rantai bukti.** Pastikan nomor heat/batch pada dokumen cocok dengan marking dan packing list. Untuk klaim keberlanjutan atau asal, tentukan model chain of custody—segregasi fisik, mass balance, atau administrasi—beserta batas sistem, catatan input/output, aturan transfer, pihak bertanggung jawab, dan pencegahan klaim ganda ([ISO 22095](https://www.iso.org/standard/72532.html)).
+4. **Risiko waktu dan perubahan.** Lead time, partial shipment, titik serah, risiko kerusakan, masa garansi, dan prosedur klaim mengubah biaya nyata. Tulis siapa menanggung penyimpanan, pengujian ulang, rework, dan keterlambatan bila substitusi ditolak.
+
+Teman Besi.co.id, anggap setiap kolom kosong sebagai risiko terbuka. “Sesuai penawaran” bukan jawaban untuk pertanyaan yang belum diajukan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Quote dan Mengelola Substitusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua quote untuk item yang sama. Penawaran A lebih rendah, tetapi tidak menjelaskan basis berat, menyebut sertifikat tanpa nomor heat, dan mengecualikan inspeksi. Penawaran B lebih tinggi, namun menyatakan ukuran, jumlah aktual, dokumen, titik serah, dan lead time secara terukur. Jangan langsung memilih B atau menawar A. Kembalikan pertanyaan yang identik kepada keduanya, lalu ubah hasil menjadi tabel “sesuai/deviasi/belum dibuktikan”.
+
+Untuk usulan mengganti grade, minta paket berikut sebelum penilaian: spesifikasi asli dan alternatif, tabel perbedaan sifat dan proses, sertifikat material yang dapat ditelusuri, dampak terhadap gambar atau perhitungan, rencana uji tambahan, dan persetujuan tertulis. Jika salah satu belum tersedia, keputusan aman adalah menahan substitusi, bukan menganggapnya setara.
+
+Gunakan aturan sederhana: **boleh lanjut ke evaluasi komersial** bila dasar teknis dan bukti identitas lengkap; **kembali ke pemasok** bila ada deviasi yang dapat ditutup dengan dokumen; **eskalasi ke reviewer kompeten** bila deviasi menyentuh desain, keselamatan, regulasi, atau fungsi; **tolak sementara** bila identitas lot atau bukti kunci tidak dapat diverifikasi. Status ini adalah alat kerja, bukan keputusan penerimaan final.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Quote dan Mengelola Substitusi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah membandingkan total harga tanpa menyamakan unit dan cakupan. Tanyakan: “Harga ini untuk berapa batang, panjang efektif berapa, dan biaya apa yang dikecualikan?”
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menerima sertifikat sebagai pengganti inspeksi. Periksa penerbit, ruang lingkup akreditasi, metode, otorisasi laporan, identitas heat/batch, dan kecocokan marking. Satu hasil lulus tidak otomatis mewakili seluruh lot.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menyebut alternatif “ekuivalen” tanpa analisis dampak. Tanyakan siapa yang menilai perubahan, dokumen desain mana yang terdampak, dan apa kriteria pembatalannya. Kesalahan keempat adalah menjadikan lead time sebagai tanggal pasti tanpa menulis pemicunya. Minta milestone dan kondisi yang menggeser jadwal.
 
-## Required conclusion
+Kawan Besi.co.id, hindari shortcut “ambil yang tersedia dulu, dokumen menyusul” ketika traceability dan persetujuan adalah syarat penerimaan. Material yang sulit diidentifikasi akan memperbesar biaya pemeriksaan ulang dan mempersempit pilihan remediasi.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
+Membandingkan quote berarti menyetarakan dasar teknis, kuantitas, proses, bukti, logistik, garansi, lead time, dan pengecualian sebelum menilai angka. Mengelola substitusi berarti membuat deviasi terlihat, menguji dampaknya, dan memperoleh persetujuan yang berwenang—bukan sekadar mengganti nama grade di pesanan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya: kirim template normalisasi kepada semua pemasok, minta bukti identitas heat/batch dan batas cakupan quote, lalu buka catatan substitusi untuk setiap perbedaan. Minta review teknis dan QA/QC untuk item yang memengaruhi fungsi atau keselamatan, dan biarkan procurement owner membuat keputusan komersial. Tanpa dokumen proyek, rencana inspeksi, dan persetujuan kompeten, hasil perbandingan tetap `[NEEDS REVIEW]` dan belum boleh dipakai sebagai dasar penerimaan.

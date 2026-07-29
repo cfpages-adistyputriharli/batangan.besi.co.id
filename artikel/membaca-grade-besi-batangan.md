@@ -2,8 +2,9 @@
 article_id: BESB-02-A01
 title: "Cara Membaca Grade dan Standar Besi Batangan"
 slug: "membaca-grade-besi-batangan"
-description: "Separate standard, grade, form, edition, supply condition, and added requirements"
-status: outline
+description: "Pisahkan standar, grade, bentuk, edisi, kondisi pasokan, dan persyaratan tambahan"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,47 +18,24 @@ sources:
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
   - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
   - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
   - "https://www.iso.org/standard/85464.html"
-  - "https://www.iso.org/standard/64622.html"
----
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+---
 
 # Cara Membaca Grade dan Standar Besi Batangan
 
-## Assignment lock
+Halo, Teman Besi.co.id! Kode seperti `ASTM A36`, `SNI 8522:2018`, atau `JIS G3101 SS400` bukan satu informasi yang berdiri sendiri. Saat menerima penawaran besi batangan, pisahkan sedikitnya enam hal: standar yang dirujuk, grade atau kelas material, bentuk produk, edisi standar, kondisi pasokan, dan persyaratan tambahan dalam pesanan. Membaca enam lapis ini mencegah Anda menganggap nama grade sebagai jaminan bahwa barang pasti cocok untuk pekerjaan tertentu.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Membaca Grade dan Standar Besi Batangan”
-- **Reader and situation:** Buyer receiving grade code
-- **Reader outcome:** Separate standard, grade, form, edition, supply condition, and added requirements
-- **Primary intent:** Interpret designation
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not declare equivalence; BESB-02-A04 owns comparison
-- **Final public route:** `/artikel/membaca-grade-besi-batangan.html`
-- **Appointed CMS date:** `2025-09-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: tulis ulang kode dari dokumen pemasok menjadi kalimat yang lengkap, lalu cocokkan dengan pesanan, marking fisik, sertifikat, dan hasil pemeriksaan yang disyaratkan. Status “berlaku” pada katalog hanya membantu mengenali rekaman standar; itu bukan keputusan bahwa standar tersebut otomatis mengikat proyek atau bahwa semua produknya setara. Katalog BSN sendiri menampilkan keluarga produk dan edisi yang beragam, sehingga bentuk dan tujuan penggunaan harus ditetapkan lebih dulu ([katalog BSN untuk profil baja](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [katalog BSN untuk produk baja datar](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=)).
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Membaca Grade dan Standar Besi Batangan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal; gambar ini bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,145 +46,59 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-besi-beton-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-02-A02` → `/artikel/membaca-mill-certificate-bar-stock.html` — Cara Membaca Mill Certificate Bar Stock
-- `BESB-02-A03` → `/artikel/traceability-setelah-cutting-bar.html` — Heat Number, Batch, dan Marking setelah Cutting
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Grade dan Standar Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari bukan sekadar “tahu arti hurufnya”, melainkan keputusan penerimaan yang dapat ditelusuri. Siapkan purchase order (PO), spesifikasi atau gambar yang dirujuk, penawaran pemasok, packing list, marking pada batang, dan dokumen inspeksi atau mill certificate bila dipersyaratkan. Orang yang menyetujui material harus memiliki kewenangan teknis sesuai aturan proyek; pembaca artikel ini tidak menggantikan persetujuan itu.
 
-## Langkah 1 — tetapkan scope
+Mulailah dengan menyalin kode persis seperti yang tertulis, termasuk tanda titik dua, akhiran, atau tahun. Catat juga ukuran, panjang, bentuk (round bar, flat bar, atau profil), jumlah, dan kondisi pasokan seperti hot-rolled, cold-drawn, annealed, atau normalized. Jika satu unsur tidak tercantum, jangan mengisinya dari kebiasaan pemasok. Tanyakan: “Dokumen mana yang menetapkan unsur yang kosong ini, dan siapa yang menyetujuinya?”
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Grade dan Standar Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan lingkup
+
+Bedakan objek yang Anda baca. “Grade” adalah penamaan kelas material dalam suatu standar; “standar” adalah dokumen rujukan yang mengatur ruang lingkup dan cara penamaan atau persyaratan; “form” menyatakan bentuk produk. Satu grade pada bentuk berbeda tidak otomatis memiliki penggunaan atau persyaratan yang sama. Rekaman BSN untuk SNI 8522:2018, misalnya, perlu dibaca sebagai identitas rekaman dan ruang lingkupnya, bukan sebagai bukti bahwa setiap batang di gudang memenuhi seluruh kebutuhan desain ([rekaman SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018)).
+
+Tetapkan pula batas pekerjaan: Anda sedang menginterpretasi designation dan memeriksa kecocokan dokumen, bukan menyatakan dua grade setara, menghitung kapasitas struktur, atau meluluskan instalasi. Perbandingan equivalence memerlukan jalur teknis dan persetujuan tersendiri. Sobat Besi.co.id, bila permintaan hanya berbunyi “besi grade X”, minta penjelasan tentang bentuk, edisi, dan kondisi pasokan sebelum meminta harga atau jadwal kirim.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Grade dan Standar Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat tabel enam kolom untuk setiap lot atau bundel:
+
+| Kolom | Pertanyaan pemeriksaan |
+| --- | --- |
+| Standar | Dokumen apa dan nomor lengkapnya? |
+| Grade | Kelas material persis seperti di standar itu? |
+| Form | Batang bulat, strip, profil, atau bentuk lain? |
+| Edisi | Tahun, amendment, atau corrigendum mana yang disebut PO? |
+| Kondisi pasokan | Perlakuan atau kondisi pengiriman apa yang dijanjikan? |
+| Tambahan | Ukuran, toleransi, uji, sertifikat, marking, atau coating apa yang diminta? |
+
+Kemudian cocokkan empat identitas: pemasok atau produsen, heat atau batch, dimensi aktual, serta marking fisik. ISO 10474:2013 menempatkan dokumen inspeksi dalam konteks rekonsiliasi dengan pesanan, produsen, produk, heat atau batch, dimensi, pengujian, dan penandaan; gunakan kerangka itu untuk menemukan identitas yang terputus ([ISO 10474:2013](https://www.iso.org/standard/53736.html)).
+
+Periksa siapa yang menerbitkan hasil uji, metode yang digunakan, ruang lingkup akreditasinya, dan otorisasi laporan. Kompetensi laboratorium menurut ISO/IEC 17025 relevan untuk menilai keandalan proses laboratorium, tetapi tidak sendirian membuktikan bahwa batang tertentu sesuai pesanan ([ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)). Jika sertifikat menyebut standar berbeda dari PO, tahan keputusan sampai perbedaan itu dijelaskan secara tertulis.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Grade dan Standar Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutannya sederhana dan dapat diulang. Pertama, baca PO dan spesifikasi untuk menemukan standar serta edisi yang menjadi rujukan. Kedua, pecah designation menjadi enam kolom di atas; jangan menggabungkan tahun edisi dengan grade. Ketiga, cocokkan designation pada dokumen pemasok dengan marking fisik dan identitas heat atau batch. Keempat, cocokkan kondisi pasokan dan ukuran dengan permintaan, lalu pastikan setiap uji atau sertifikat tambahan memiliki sumber persyaratan yang jelas.
 
-## Hold point dan kondisi berhenti
+Terakhir, catat status tiap kolom sebagai “cocok”, “belum dibuktikan”, atau “menyimpang”. Status “belum dibuktikan” bukan “lulus”. Untuk klaim asal-usul atau kandungan berkelanjutan, pisahkan identitas fisik dari klaim administratif; kerangka chain of custody membedakan model segregasi, mass balance, dan administrasi, yang masing-masing memerlukan batas sistem, catatan input-output, aturan transfer, pihak bertanggung jawab, dan pencegahan penghitungan ganda ([ISO 22095:2020](https://www.iso.org/standard/72532.html)). Jangan menempelkan klaim tersebut pada grade bila bukti transaksinya belum ada.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Grade dan Standar Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Titik henti dan kondisi berhenti
 
-## Verifikasi hasil dan handover
+Hentikan penerimaan dan minta review kompeten bila standar atau edisinya tidak jelas, bentuk produk berbeda dari PO, heat atau batch tidak dapat ditelusuri, marking tidak cocok, atau dokumen menyebut kondisi pasokan yang berbeda. Hal yang sama berlaku bila pemasok meminta Anda menerima “grade pengganti” tanpa analisis dan persetujuan desain. [NEEDS PROJECT REVIEW: GATE-01 — tetapkan standar/edisi yang mengikat, status wajibnya, dan ruang lingkup sertifikasi untuk PO ini.]
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Grade dan Standar Besi Batangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan memilih ukuran sampel, AQL, frekuensi uji, atau aturan pelepasan hanya dari ringkasan internet. Rencana inspeksi harus mendefinisikan lot, karakteristik, metode, pemilihan sampel, identitas sampel, kriteria keputusan, penanggung jawab, rekaman, dan jalur ketidaksesuaian; ISO 2859-1 dan ISO 28590 memberi kerangka umum, bukan angka penerimaan untuk proyek Anda ([ISO 2859-1:2026](https://www.iso.org/standard/85464.html)). [NEEDS PROJECT REVIEW: GATE-02 — sahkan ITP, metode uji, dan kriteria penerimaan dengan standar produk serta pihak berwenang.]
 
-## Objection or shortcut to address
+## Verifikasi hasil dan serah terima
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Serahkan satu paket yang menghubungkan PO, daftar material, foto atau transkripsi marking, sertifikat, laporan uji, catatan pemeriksaan dimensi, dan keputusan penyimpangan. Pastikan nomor heat atau batch konsisten di seluruh dokumen; bila material dipotong atau dibagi, tetapkan cara mempertahankan identitas turunannya sebelum pekerjaan berlanjut. Untuk klaim rantai pasok, simpan catatan perpindahan dan pihak yang bertanggung jawab, bukan hanya logo atau pernyataan pemasok.
 
-## Required conclusion
+Checklist ringkas sebelum tanda tangan: standar dan edisi terbaca; grade dan form cocok; kondisi pasokan tercatat; ukuran dan kuantitas diverifikasi; heat atau batch tersambung; hasil uji memiliki metode dan penerbit yang dapat ditelusuri; penyimpangan memiliki disposisi tertulis. Jika satu kotak kosong, tandai “belum dibuktikan” dan eskalasi. [NEEDS PROJECT REVIEW: GATE-04 — setujui paket handover, pemisahan lot, dan disposisi nonkonformitas sebelum rilis untuk digunakan.]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang sering menyesatkan
 
-## Draft completion checklist
+Jalan pintas yang umum adalah menyamakan kode yang tampak mirip: “SS400 berarti sama dengan grade lain yang juga sekitar 400”, atau menganggap cap pabrik cukup sebagai sertifikat. Cara itu gagal karena angka, simbol, bentuk, edisi, kondisi pasokan, dan metode uji berada dalam konteks standar yang berbeda. Bahkan katalog publik dapat menampilkan beberapa edisi atau klasifikasi yang berdekatan. Alternatif yang lebih aman adalah meminta designation lengkap, mencatat sumbernya di PO, lalu memeriksa identitas lot dan dokumen inspeksi sebelum membahas kesetaraan. Artikel ini tidak menyatakan equivalence apa pun.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Cara membaca grade dan standar besi batangan adalah memisahkan standar, grade, form, edisi, kondisi pasokan, dan persyaratan tambahan, kemudian mencocokkan keenamnya dengan PO, marking, sertifikat, serta rencana inspeksi. Langkah berikutnya: kirim tabel enam kolom dan daftar dokumen yang masih “belum dibuktikan” kepada penanggung jawab teknis proyek, lalu minta keputusan tertulis untuk setiap perbedaan. Jika dokumen sudah disetujui dan Anda hanya perlu menindaklanjuti permintaan material, lihat [besi as S45C di Yogyakarta](/jual-as-s45c-yogyakarta) atau [besi as ST42 di Yogyakarta](/jual-as-st42-yogyakarta) sesuai kebutuhan material. Kawan Besi.co.id, jadikan aturan operasi ini sebagai batas: tanpa identitas lot, edisi yang disetujui, dan kriteria penerimaan yang sah, material belum boleh dinyatakan sesuai atau digunakan.

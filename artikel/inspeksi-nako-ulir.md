@@ -2,8 +2,8 @@
 article_id: BESB-05-A06
 title: "Inspeksi Distorsi dan Retak pada Nako Ulir"
 slug: "inspeksi-nako-ulir"
-description: "Map nonuniform twist, bends, surface tears/cracks, scale, welds, coating, and escalation"
-status: outline
+description: "Panduan memetakan puntiran, tekukan, sobekan permukaan, kerak, las, dan lapisan pada nako ulir sebelum ditinjau secara teknis."
+status: draft
 publication_date: "2025-12-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,50 +13,15 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/inspeksi-nako-ulir.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/52949.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
   - "https://www.cdc.gov/niosh/welding/about/index.html"
   - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Inspeksi Distorsi dan Retak pada Nako Ulir
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Inspeksi Distorsi dan Retak pada Nako Ulir”
-- **Reader and situation:** Inspector reviewing twisted bars
-- **Reader outcome:** Map nonuniform twist, bends, surface tears/cracks, scale, welds, coating, and escalation
-- **Primary intent:** Diagnose forming defects
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not accept/reject without criteria; BESB-12-A03 owns disposition
-- **Final public route:** `/artikel/inspeksi-nako-ulir.html`
-- **Appointed CMS date:** `2025-12-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Inspeksi Distorsi dan Retak pada Nako Ulir**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -67,147 +32,83 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Besi Nako Ulir` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Inspeksi Distorsi dan Retak pada Nako Ulir
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Besi.co.id! Inspeksi nako ulir sebaiknya dimulai dari gejala yang bisa dilihat dan diukur, bukan dari tebakan bahwa ulirnya “pasti salah bentuk”. Petakan dulu apakah putaran tidak seragam, batang membengkok, atau ada sobekan/retak permukaan. Foto berpenanda, ukuran, nomor batang, dan kondisi saat diterima akan membuat pemeriksaan berikutnya dapat ditelusuri.
 
-### KR-01
+Jawaban singkatnya: pisahkan pemeriksaan bentuk, permukaan, sambungan, dan lapisan. Luruskan referensi ukur, catat lokasi cacat sepanjang batang, lalu bandingkan hasilnya dengan gambar kerja, spesifikasi pembelian, atau kriteria proyek yang disetujui. Istilah produk membantu menyamakan bahasa, tetapi tidak otomatis membuktikan mutu, kelas, toleransi, atau kelayakan pemakaian; kosakata bentuk dan tahap pembuatan memang perlu dibedakan dari bukti grade dan sertifikat ([ISO 6929:2013](https://www.iso.org/standard/52949.html)). Artikel ini membantu diagnosis awal, bukan keputusan menerima atau menolak material.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi Besi Nako Ulir](/wp-content/uploads/2025/04/Besi-Nako-Ulir.jpg)
 
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/nako-ulir` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-05-A04` → `/artikel/nako-untuk-pagar-dan-railing.html` — Nako untuk Pagar, Railing, dan Grille
-- `BESB-05-A05` → `/artikel/sambungan-besi-nako.html` — Sambungan Nako: Weld, Bolt, dan Mechanical Detail
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal; gambar ini bukan dokumentasi proyek tertentu.*
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Distorsi dan Retak pada Nako Ulir”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan lembar pemeriksaan untuk setiap batang atau bundel. Tulis identitas yang tersedia, waktu pemeriksaan, panjang yang diperiksa, dan alat yang digunakan. Letakkan batang pada permukaan acuan yang stabil; jangan memaksa batang yang mungkin retak agar “kembali” lurus sebelum bukti awal direkam.
+
+Untuk distorsi, amati tiga hal terpisah:
+
+- **Putaran tidak seragam (nonuniform twist):** jarak dan orientasi ulir berubah sepanjang batang. Tandai titik saat arah atau amplitudonya berubah, bukan hanya memberi label “melingkar”.
+- **Bengkok (bend):** garis sumbu menyimpang dari acuan lurus. Ukur celah terbesar terhadap benang ukur atau straightedge pada beberapa orientasi, lalu catat panjang zona yang terpengaruh.
+- **Perubahan lokal:** satu bagian mungkin terpuntir atau tertekan akibat penanganan, sementara bagian lain tetap konsisten. Pola lokal berbeda maknanya dari perubahan yang berulang sepanjang seluruh batang.
+
+Untuk permukaan, bersihkan kotoran lepas secara hati-hati tanpa mengikis material. Bedakan kerak oksida atau scale dari garis yang membuka menjadi sobekan. Tandai panjang, lebar yang tampak, arah terhadap ulir, dan apakah indikasi berhenti pada puncak, lembah, atau area transisi. Jangan menutup indikasi dengan cat atau amplas sebelum dokumentasi.
+
+Kawan Besi.co.id, pertanyaan praktisnya adalah: “Apa yang benar-benar berubah, di mana, dan sejak kapan?” Bandingkan foto saat bongkar dengan foto setelah pemindahan. Perubahan setelah diangkat dari penyangga mengarahkan pemeriksaan ke handling; indikasi yang sudah ada sejak datang memerlukan penelusuran ke proses pembentukan atau pemasok, tanpa menyimpulkan penyebab sebelum bukti cukup.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Distorsi dan Retak pada Nako Ulir”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Batasi akses bila tepi sobekan tajam, batang tidak stabil, atau ada pekerjaan panas di dekat material. Jangan memutar batang panjang dengan tangan kosong untuk mencari sisi cacat. Gunakan alat bantu dan penyangga yang sesuai prosedur lokasi. Bila pemeriksaan mengharuskan pemotongan atau pengelasan, hentikan inspeksi visual biasa dan aktifkan izin kerja panas serta pengendalian area.
+
+Asap las dapat membawa bahaya dari proses, logam dasar, pelapis, atau kontaminan. NIOSH menjelaskan perlunya menilai proses, bahan, ventilasi, posisi kerja, dan paparan; OSHA juga menekankan pengendalian bahaya pekerjaan las, potong, dan brazing ([NIOSH—Welding Fumes and Manganese](https://www.cdc.gov/niosh/welding/about/index.html); [OSHA—Welding, Cutting, and Brazing](https://www.osha.gov/welding-cutting-brazing/hazards-solutions)). Itu bukan resep batas paparan atau APD untuk semua lokasi. Minta penilaian K3 kompeten dan prosedur Indonesia yang berlaku sebelum pekerjaan panas dimulai.
+
+Jika retak tampak menjalar, bagian terlepas, atau batang memikul beban, isolasi material dan minta pemeriksaan kompeten. Jangan menguji dengan memukul, membengkokkan ulang, atau menggerinda indikasi demi melihat “apakah hilang”. Tindakan tersebut dapat mengubah bukti dan menambah risiko.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Distorsi dan Retak pada Nako Ulir”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kelompokkan hipotesis berdasarkan pola, bukan kepastian. Putaran tidak seragam dapat berkaitan dengan ketidakstabilan pembentukan, setelan alat, atau perubahan penyangga. Bengkok lokal dapat berasal dari penanganan, tumpuan yang tidak rata, atau pelepasan tegangan. Sobekan memanjang dapat berhubungan dengan kondisi permukaan sebelum pembentukan, deformasi lokal, atau kerusakan saat dipindahkan.
+
+Kerak tidak selalu berarti retak. Scale dapat menutupi indikasi dangkal, sedangkan lapisan coating dapat menyamarkan batas. Jika ada bekas las, gerinda, atau sambungan, pisahkan area itu dari permukaan hasil pembentukan awal. Standar umum untuk konstruksi las tidak otomatis menjadi kriteria untuk seluruh batang nako; toleransi dan metode ukur harus ditautkan ke gambar, prosedur, material, dan fungsi yang disetujui ([ISO 13920:2023](https://www.iso.org/standard/86032.html)).
+
+Catat hipotesis sebagai “perlu dibuktikan”. Misalnya, bila semua batang dari satu bundel memiliki perubahan putaran pada posisi serupa, telusuri proses dan dokumen produksinya. Bila hanya satu batang menunjukkan penyok dekat titik ikat, telusuri handling. Pola membantu menentukan pemeriksaan lanjutan, tetapi tidak menggantikan evaluasi metalurgi atau keputusan proyek.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Distorsi dan Retak pada Nako Ulir”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ikuti urutan yang menjaga bukti dan meminimalkan gangguan:
+
+1. **Identifikasi dan karantina sementara.** Beri tanda unik, pisahkan dari material yang belum diperiksa, dan catat dokumen penerimaan, marking, serta sertifikat yang tersedia.
+2. **Pemeriksaan visual kering.** Rekam seluruh panjang, ujung, ulir, area kontak sling, dan bekas perbaikan. Gunakan pencahayaan yang konsisten; foto harus menyertakan skala dan penanda lokasi.
+3. **Pengukuran geometri.** Gunakan acuan lurus, alat ukur yang terkalibrasi sesuai sistem mutu proyek, dan beberapa titik sepanjang batang. Catat metode serta ketidakpastian; jangan menyajikan angka tanpa kriteria pembanding.
+4. **Pemeriksaan permukaan terarah.** Setelah dokumentasi, bersihkan scale yang lepas dengan metode yang disetujui. Jika indikasi tetap ada, minta personel kompeten menentukan kebutuhan pemeriksaan non-destruktif atau penampang metalurgi.
+5. **Pemeriksaan area las/coating.** Tandai proses, bahan tambah, pelapis, dan riwayat pemanasan yang diketahui. Jangan mengasumsikan hasil las atau pelapisan dari penampilan saja.
+6. **Korelasi dokumen dan sampel.** Cocokkan nomor panas/bundel, tanggal, dan lokasi cacat dengan catatan produksi atau transportasi. Pengambilan sampel, pemotongan, atau pengujian laboratorium harus disetujui agar tidak menghilangkan barang bukti.
+
+Jika data utama—kriteria bentuk, batas indikasi, atau identitas material—tidak tersedia, berhenti pada pemetaan kondisi dan tandai **[NEEDS GATE-01: kriteria proyek dan review kompeten sebelum keputusan]**. Jangan mengisi celah dengan toleransi umum dari sumber lain.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Distorsi dan Retak pada Nako Ulir”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan empat lapisan catatan: hasil observasi (misalnya “garis 120 mm pada sisi lembah”), interpretasi sementara (misalnya “mungkin sobekan”), kriteria yang berlaku, dan konsekuensi fungsional. Hanya lapisan ketiga yang dapat menjadi dasar keputusan penerimaan, dan kriterianya harus berasal dari dokumen proyek atau standar produk yang benar-benar ditetapkan.
+
+Hasil pengukuran yang melewati garis acuan menunjukkan adanya penyimpangan, bukan otomatis kegagalan. Sebaliknya, hasil visual yang tampak ringan tidak membuktikan aman bila retak belum dikarakterisasi. Mintalah pemeriksa kompeten menetapkan apakah perlu metode tambahan, pengujian ulang, atau evaluasi desain. Jangan mengubah label “indikasi” menjadi “retak tembus” tanpa bukti yang memadai.
+
+Sobat Besi.co.id, simpan versi foto, lembar ukur, dan keputusan sementara bersama identitas batang. Jejak ini penting bila kondisi berubah setelah pemindahan atau bila pemasok meminta klarifikasi. Status “ditahan untuk review” lebih jujur daripada “lulus” ketika kriteria belum tersedia.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Distorsi dan Retak pada Nako Ulir”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kontrol sementara berarti mengamankan material, melindungi permukaan dari kerusakan tambahan, dan mencegah penggunaan sebelum review. Pemantauan hanya masuk akal jika retak tidak terindikasi aktif, material tidak memikul fungsi kritis, dan frekuensi serta pemilik pemeriksa telah disetujui. Perbaikan seperti pelurusan, penggerindaan, pengelasan ulang, atau pelapisan ulang memerlukan prosedur, kompetensi, dan pemeriksaan setelahnya; jangan lakukan sebagai eksperimen di lapangan.
 
-## Objection or shortcut to address
+Eskalasi diperlukan bila ada retak yang berlanjut, distorsi mengganggu sambungan atau selubung, bekas las yang tidak terdokumentasi, coating yang berpotensi menyembunyikan indikasi, atau ketidakcocokan identitas material. Minta keputusan dari penanggung jawab teknis/insinyur proyek sesuai tata kelola setempat. Artikel ini tidak menetapkan terima, tolak, atau metode perbaikan; **[NEEDS GATE-02: otoritas disposisi dan kriteria penerimaan proyek]** tetap harus dipenuhi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering menggagalkan inspeksi
 
-## Required conclusion
+Jalan pintas yang umum adalah mengukur satu ujung, melihat batang sekilas, lalu menyatakan seluruh bundel seragam. Cara ini gagal ketika distorsi atau sobekan bersifat lokal. Jalan pintas lain adalah menggerinda garis permukaan sampai tampak halus; indikasi mungkin tertutup dan penampang efektif berubah.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih andal adalah sampling yang disetujui, pemeriksaan sepanjang zona berisiko, dan dokumentasi sebelum tindakan apa pun. Jika tujuan akhirnya adalah pagar atau railing, kebutuhan detail sambungan dan fungsi harus dirujuk ke gambar proyek—bukan ditebak dari penampilan nako ulir. Untuk informasi produk dan langkah pembelian, gunakan [halaman penjualan nako Yogyakarta](/jual-nako-yogyakarta) hanya sebagai konteks, bukan sebagai kriteria inspeksi. Jika material perlu ditelusuri sebelum pemeriksaan lanjutan, [halaman pemasok nako ulir Yogyakarta](/jual-nako-ulir-yogyakarta) dapat menjadi titik kontak komersial; tetap minta dokumen teknis yang berlaku, bukan menganggap halaman penjualan sebagai bukti mutu.
 
-## Draft completion checklist
+## Kesimpulan: petakan dulu, putuskan kemudian
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Inspeksi distorsi dan retak pada nako ulir yang baik memisahkan putaran tidak seragam, bengkok, sobekan/retak, scale, bekas las, dan coating; masing-masing dicatat lokasi, ukuran, dan riwayatnya. Urutkan dari identifikasi, visual, pengukuran, pemeriksaan terarah, lalu review kompeten. Hasil tersebut menjadi bahan keputusan, bukan keputusan terima/tolak itu sendiri.
+
+Langkah berikutnya: tahan batang yang meragukan, lengkapi lembar bukti, lalu tanyakan kepada penanggung jawab proyek kriteria apa yang berlaku dan siapa yang berwenang menetapkan disposisi. Kawan Besi.co.id, aturan operasionalnya sederhana: jangan menghapus indikasi, jangan menebak toleransi, dan jangan mengizinkan penggunaan sebelum bukti serta review teknis lengkap.

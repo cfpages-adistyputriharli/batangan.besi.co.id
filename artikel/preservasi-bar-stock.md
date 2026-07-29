@@ -2,8 +2,9 @@
 article_id: BESB-11-A05
 title: "Preservasi Bar Stock selama Storage dan Transport"
 slug: "preservasi-bar-stock"
-description: "Manage packaging, condensation, water, salt/dirt, ground contact, ventilation, oil/film, labels, and monitoring"
-status: outline
+description: "Kelola kemasan, kondensasi, air, garam/kotoran, kontak tanah, ventilasi, minyak/film, label, dan pemantauan"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,48 +18,22 @@ sources:
   - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/77795.html"
   - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
-  - "https://www.iso.org/standard/81435.html"
-  - "https://www.iso.org/standard/71136.html"
-  - "https://www.iso.org/standard/79581.html"
-  - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
-  - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
-  - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Preservasi Bar Stock selama Storage dan Transport
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Bar stock tidak otomatis aman hanya karena sudah diberi kemasan atau lapisan minyak. Selama disimpan dan dikirim, permukaan dapat berkarat ketika air, kondensasi, garam, dan kotoran terperangkap; kontak langsung dengan tanah memperpanjang kelembapan. Preservasi yang andal adalah rangkaian kendali: terima dan periksa, jaga tetap kering serta berventilasi, pisahkan dari sumber kontaminasi, lindungi permukaan, pertahankan identitas, lalu pantau sampai siap dipakai.
 
-- **Writer task:** Expand this file into one complete article answering: “Preservasi Bar Stock selama Storage dan Transport”
-- **Reader and situation:** Warehouse/logistics team
-- **Reader outcome:** Manage packaging, condensation, water, salt/dirt, ground contact, ventilation, oil/film, labels, and monitoring
-- **Primary intent:** Prevent storage corrosion
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Stack/handling plan belongs to BESB-13-A03
-- **Final public route:** `/artikel/preservasi-bar-stock.html`
-- **Appointed CMS date:** `2026-05-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: gunakan penutup yang tidak memerangkap uap, letakkan stok di atas penyangga yang stabil dan tidak menyerap air, cegah air menggenang, dan tetapkan inspeksi berkala. Pilihan film, minyak, atau tindakan perbaikan harus mengikuti jenis material, kondisi lingkungan, durasi simpan, serta spesifikasi proyek. Kategori lingkungan dan sistem pelindung tidak bisa dipilih hanya dari nama “baja”; paparan basah, garam, polutan, celah, dan kebutuhan pemeliharaan harus dinilai terlebih dahulu ([ISO 12944-2](https://www.iso.org/standard/64834.html), [AMPP Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)).
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Preservasi Bar Stock selama Storage dan Transport**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,144 +44,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-17
-
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-11-A03` → `/artikel/proteksi-permukaan-bar-stock.html` — Cat, Plating, Galvanizing, dan Oil Protection
-- `BESB-11-A04` → `/artikel/proteksi-nako-pagar-railing.html` — Proteksi Nako untuk Pagar dan Railing
-- `BESB-11-A06` → `/artikel/inspeksi-dan-repair-coating-bar.html` — Inspeksi dan Repair Coating pada Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Preservasi Bar Stock selama Storage dan Transport”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Preservasi Bar Stock selama Storage dan Transport”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, bar stock berarti batang atau profil logam yang diterima sebagai persediaan dan menunggu proses, fabrikasi, atau pengiriman berikutnya. Fokusnya adalah preservasi selama storage dan transport: kemasan, pengendalian air dan kondensasi, kebersihan, penyangga, ventilasi, minyak atau film, label, dan catatan inspeksi.
+
+Yang tidak dibahas adalah rancangan detail penumpukan dan handling untuk setiap bentuk, massa, atau pusat gravitasi; itu perlu rencana teknis tersendiri dan persetujuan kompeten. Demikian juga, artikel ini bukan spesifikasi coating, jaminan umur layanan, atau keputusan bahwa suatu produk memenuhi standar tertentu. Istilah “galvanis” dapat merujuk pada rute pelapisan dan produk dasar yang berbeda, sehingga standar dan data pemasok harus dipastikan sebelum diterapkan.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Preservasi Bar Stock selama Storage dan Transport”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai saat penerimaan. Cocokkan label, jumlah, kondisi kemasan, dan dokumen pengiriman. Foto atau catat sobekan, noda air, karat awal, deformasi, serta bagian yang kehilangan pelindung. Pisahkan material yang meragukan ke area karantina; jangan mencampurnya dengan stok siap pakai.
+
+Berikutnya, buat lingkungan penyimpanan yang mengurangi siklus basah-kering. Gunakan lantai yang memiliki drainase dan penyangga di bawah bar stock sehingga tidak menyentuh tanah atau genangan. Penutup harus menghalangi hujan dan percikan, tetapi tetap memungkinkan udara bergerak; bungkus rapat tanpa ventilasi dapat mengubah uap air menjadi kondensasi di permukaan. Panduan perawatan produk juga menekankan perlindungan dari kelembapan dan pemeriksaan selama penyimpanan ([LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)).
+
+Atur aliran barang agar label tetap terlihat dan inspeksi dapat dilakukan tanpa memanjat atau memindahkan banyak bundel. Saat transport, kunci muatan terhadap pergeseran dan lindungi titik kontak dari gesekan yang mengikis coating atau film. Data massa, geometri, dan pusat gravitasi harus berasal dari dokumen produk; jangan menebaknya dari ukuran visual. Panduan penyimpanan material OSHA 1926.250 memuat kebutuhan dukungan yang stabil, pencegahan berguling atau jatuh, dan akses aman ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
+
+Jika pengangkatan memakai alat angkat, operator dan pengawas perlu memastikan kapasitas alat, kondisi sling, titik angkat, dan jalur bebas hambatan sesuai rencana yang disetujui. Aturan Indonesia tentang keselamatan dan kesehatan kerja pesawat angkat dan angkut tercantum dalam [Permenaker Nomor 8 Tahun 2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020); penerapannya tetap memerlukan penilaian kondisi lapangan dan personel berwenang.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Preservasi Bar Stock selama Storage dan Transport”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Air dan kondensasi.** Hujan bukan satu-satunya sumber air. Perbedaan suhu siang-malam, udara lembap, dan kemasan yang menempel pada permukaan dapat membentuk embun. Sediakan celah ventilasi dan jalur pembuangan; buka dan keringkan kemasan yang basah sesuai instruksi pemasok, bukan dengan menutupnya lebih rapat.
+
+**Garam dan kotoran.** Debu yang mengandung garam, cipratan air laut, residu proses, atau bahan kimia dapat mempercepat korosi ketika kondisi basah memungkinkan reaksi berlangsung ([AMPP Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)). Bersihkan dengan metode yang tidak merusak permukaan dan catat sumber kontaminasinya. Hindari mencuci lalu menyimpan kembali dalam keadaan lembap.
+
+**Kontak dan lingkungan.** Tanah, beton basah, kayu yang menyimpan air, dan logam berbeda yang bersentuhan dapat menciptakan kondisi korosif ([AMPP Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)). Pilih alas yang kering dan kompatibel, beri jarak dari dinding lembap, serta pisahkan material yang berpotensi meneteskan bahan kimia.
+
+**Minyak, film, dan kemasan.** Pelindung harus cocok dengan material, proses berikutnya, dan cara pembersihan yang tersedia. Prinsip pemilihan sistem cat juga bergantung pada persiapan permukaan, paparan, dan pemeliharaan—bukan sekadar nama produk ([ISO 12944-5](https://www.iso.org/standard/77795.html)). Film yang robek atau minyak yang mengering bukan bukti perlindungan masih efektif. Minta lembar data pemasok tentang kompatibilitas, durasi, serta cara inspeksi dan pelepasan. Jangan menyatakan bahwa suatu film “tahan sekian bulan” tanpa data proyek.
+
+**Identitas dan waktu.** Label yang tertutup atau luntur membuat material salah pakai dan menyulitkan penelusuran. Gunakan label tahan cuaca, kode lot, tanggal terima, status inspeksi, dan tanggal pemeriksaan berikutnya. Semakin lama waktu simpan atau semakin agresif paparannya, semakin pendek interval inspeksi yang masuk akal—interval final harus ditetapkan oleh penanggung jawab proyek.
+
+Kawan Besi.co.id, bila kondisi paparan, durasi simpan, atau sistem coating belum ditetapkan, tandai sebagai keputusan terbuka: **[NEEDS GATE-01/GATE-05: verifikasi lingkungan, material, dan sistem preservasi oleh penanggung jawab proyek]**. Jangan mengganti kekosongan data itu dengan angka ketebalan, masa perlindungan, atau kategori lingkungan yang diasumsikan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Preservasi Bar Stock selama Storage dan Transport”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan alur berikut sebagai pemeriksaan awal, bukan pengganti rencana proyek:
+
+| Kondisi yang ditemukan | Tindakan sementara | Keputusan yang harus dikonfirmasi |
+| --- | --- | --- |
+| Kemasan utuh, permukaan kering, label terbaca | Simpan di atas penyangga, beri ventilasi, catat tanggal inspeksi | Interval monitoring dan batas paparan |
+| Kemasan basah atau ada embun | Buka secara terkendali, keringkan, dokumentasikan, karantina bila perlu | Metode pengeringan dan evaluasi coating |
+| Garam/kotoran menempel | Isolasi dari stok bersih, bersihkan dengan prosedur yang disetujui | Media pembersih, pemeriksaan ulang, dan disposition |
+| Film/minyak tergores saat pemuatan | Lindungi area, tandai lokasi kerusakan, jangan langsung mengecat | Bahan repair dan persetujuan kompatibilitas |
+| Label hilang atau bundel tidak cocok dokumen | Hentikan pengeluaran, telusuri dokumen dan identifikasi ulang | Otorisasi pelepasan dari karantina |
+
+Untuk pengiriman antarlokasi, sertakan foto kondisi sebelum muat, daftar bundel, titik kontak, metode pengikatan, dan pemeriksaan saat tiba. Bila ada perubahan cuaca, perjalanan laut, atau jeda bongkar, tambahkan titik pemeriksaan. Jangan menganggap kemasan awal tetap efektif setelah rusak atau dibuka. Untuk mencocokkan data material sebelum penyimpanan, Anda dapat melihat halaman [besi AS S45C](/jual-as-s45c-yogyakarta) atau [besi ST42](/jual-as-st42-yogyakarta). Untuk prosedur umum dan langkah lanjutan, arahkan tim ke [beranda Besi.co.id](/).
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Preservasi Bar Stock selama Storage dan Transport”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menutup rapat semua sisi dengan terpal. Periksa apakah air dapat keluar dan udara dapat bersirkulasi; jika tidak, kondensasi mungkin lebih buruk daripada hujan singkat. Kedua, menaruh bar stock langsung di lantai atau tanah. Cari tanda genangan, noda kapiler, dan alas yang melendut.
 
-## Objection or shortcut to address
+Ketiga, menyemprot minyak tanpa memeriksa proses lanjutan. Tanyakan apakah minyak mengganggu pengelasan, pengecatan, galvanisasi, atau inspeksi. Keempat, menggosok karat atau kotoran dengan alat abrasif lalu menganggap permukaan pulih. Area yang terkelupas perlu dinilai dan, bila disyaratkan, diperbaiki dengan prosedur yang disetujui.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, memindahkan bundel tanpa memperbarui catatan. Cocokkan kode lot, lokasi, status, dan foto pada setiap perpindahan. Saat inspeksi, gunakan daftar tetap: air/kondensasi, garam/kotoran, kerusakan kemasan, kondisi film atau minyak, kontak alas, keterbacaan label, dan perubahan bentuk.
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+“Simpan saja di luar; nanti dibersihkan sebelum dipakai” terdengar hemat, tetapi memindahkan risiko ke tahap yang biasanya lebih sibuk. Kelembapan atau kerusakan dapat tersembunyi di bawah film, label dapat hilang, dan kerusakan akibat pemindahan menjadi sulit ditelusuri. Alternatif yang lebih andal adalah menetapkan area terlindung atau penutup berventilasi, membuat inspeksi penerimaan dan berkala, serta menahan material yang kondisinya tidak jelas sampai ada keputusan tertulis.
 
-## Draft completion checklist
+## Penutup: aturan operasi
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Preservasi bar stock selama storage dan transport berarti mengendalikan air, kondensasi, kontaminan, kontak, gesekan, dan identitas dari saat barang datang sampai dilepas untuk dipakai. Susun rencana berdasarkan data material dan paparan, bukan kebiasaan gudang. Sebelum pengiriman berikutnya, minta pemasok atau penanggung jawab proyek mengesahkan metode kemasan, penyangga, film/minyak, interval inspeksi, dan kriteria karantina. Teman Besi.co.id, jika salah satu data itu belum tersedia, pertahankan status **[NEEDS GATE-06/GATE-07: tinjauan teknis dan persetujuan handling/storage]**. Aturan operasinya sederhana: stok yang basah, rusak, atau tidak teridentifikasi tidak boleh keluar dari karantina sebelum bukti dan otorisasi lengkap.

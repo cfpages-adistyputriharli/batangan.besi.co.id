@@ -2,8 +2,9 @@
 article_id: BESB-09-A04
 title: "Anneal, Normalize, Quench, dan Temper pada Bar"
 slug: "heat-treatment-bar-stock"
-description: "Explain objectives, sequence concepts, property/distortion effects, atmosphere, hardness, records, and tests"
-status: outline
+description: "Panduan memilih anneal, normalize, quench, dan temper pada bar serta memeriksa sifat, distorsi, atmosfer, dan rekamannya"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,47 +19,13 @@ sources:
   - "https://www.iso.org/standard/72529.html"
   - "https://www.iso.org/standard/89449.html"
   - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
   - "https://www.cdc.gov/niosh/welding/about/index.html"
   - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
   - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
-  - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
-  - "https://www.fhwa.dot.gov/bridge/inspection/"
-  - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Anneal, Normalize, Quench, dan Temper pada Bar
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Anneal, Normalize, Quench, dan Temper pada Bar”
-- **Reader and situation:** Buyer reviewing condition
-- **Reader outcome:** Explain objectives, sequence concepts, property/distortion effects, atmosphere, hardness, records, and tests
-- **Primary intent:** Understand treatment choices
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No cycle/temperature; qualified heat-treatment procedure owns it
-- **Final public route:** `/artikel/heat-treatment-bar-stock.html`
-- **Appointed CMS date:** `2026-03-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Anneal, Normalize, Quench, dan Temper pada Bar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,142 +36,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Anneal, Normalize, Quench, dan Temper pada Bar
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Saat membeli bar untuk dibubut, dibentuk, atau menerima beban berulang, *anneal*, *normalize*, *quench*, dan *temper* bukan label yang bisa dipertukarkan. Masing-masing menyelesaikan masalah berbeda. Pilihan yang tepat bergantung pada grade, ukuran, riwayat proses, pekerjaan lanjutan, dan sifat yang diminta spesifikasi.
 
-### KR-01
+Jawaban singkatnya: anneal dipilih ketika prioritasnya pelunakan dan kemudahan pemesinan; normalize untuk kondisi yang lebih seragam setelah riwayat pemanasan atau pembentukan; quench untuk membentuk kondisi keras melalui pendinginan cepat; dan temper sebagai tahap setelah quench untuk menata keseimbangan kekerasan dan ketangguhan. Ini konsep pemilihan, bukan resep produksi. Temperatur, waktu tahan, media, dan laju pendinginan harus berasal dari prosedur perlakuan panas yang dikualifikasi. **[NEEDS GATE-01: grade, dimensi, dan prosedur siklus proyek belum tersedia.]**
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-09-A02` → `/artikel/twisting-dan-forging-bar-dekoratif.html` — Twisting dan Forging Decorative Bar
-- `BESB-09-A03` → `/artikel/distortion-setelah-forming-bar.html` — Springback, Ovality, dan Distortion setelah Forming
-- `BESB-09-A05` → `/artikel/straightening-bar-stock.html` — Straightening Bar: Risiko dan Bukti sebelum Koreksi
-- `BESB-09-A06` → `/artikel/verifikasi-setelah-heat-treatment-dan-forming.html` — Verifikasi setelah Heat Treatment dan Forming
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Anneal, Normalize, Quench, dan Temper pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gambar lokal ini hanya ilustrasi umum, bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Anneal, Normalize, Quench, dan Temper pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Bar” di sini berarti stok batang untuk dipakai atau diproses lebih lanjut. *Anneal* menurunkan hambatan deformasi sehingga pemesinan lebih mudah. *Normalize* menargetkan kondisi mikrostruktur yang lebih konsisten. *Quench* adalah pendinginan cepat dari kondisi panas; respons permukaan dan inti dapat berbeda. *Temper* dilakukan setelah quench untuk menyesuaikan hasilnya, bukan untuk menghapus otomatis semua retak atau bengkok.
+
+Artikel ini tidak menentukan angka siklus, media, atau kekerasan target. Jika drawing, kontrak, atau spesifikasi produk meminta nilai tertentu, dokumen itu yang mengendalikan. Status standar pada katalog publik juga bukan bukti bahwa suatu edisi otomatis berlaku untuk pesanan Anda; edisi, amendment, regulasi, dan kontrak perlu ditinjau penanggung jawab teknis.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Anneal, Normalize, Quench, dan Temper pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Keputusan dimulai sebelum tungku dinyalakan. Identifikasi material dan nomor heat, catat ukuran penampang, bentuk akhir, serta proses sesudahnya. Lalu nyatakan tujuan: mudah dipotong, lebih seragam, keras, atau seimbang antara kekuatan dan ketangguhan. Personel kompeten menerjemahkan tujuan itu menjadi prosedur yang dapat ditelusuri.
+
+Anneal menggunakan pendinginan terkendali untuk menurunkan kekerasan relatif. Normalize merapikan kondisi setelah pemanasan atau pembentukan sebelumnya. Quench memberi perubahan paling agresif; pada penampang besar, perbedaan respons dapat menimbulkan tegangan sisa dan distorsi. Temper menata kondisi hasil quench, tetapi tidak menggantikan pemeriksaan retak, ukuran, atau kelurusan.
+
+Atmosfer tungku adalah bagian proses. Oksidasi atau kehilangan unsur permukaan dapat mengubah lapisan yang akan dibubut atau diukur. Prosedur karenanya perlu menyebut kebersihan muatan, perlindungan atmosfer, pemuatan, dan kriteria permukaan. Untuk pekerjaan panas, penilaian risiko perlu mencakup proses, lapisan atau kontaminasi, ventilasi, posisi kerja, pekerja sekitar, sumber api, peralatan listrik, dan gas. NIOSH serta OSHA memberi peta bahaya dan pengendalian teknik, tetapi panduan Amerika Serikat bukan batas K3 Indonesia; minta tinjauan K3 dan higiene industri setempat ([NIOSH](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), [evaluasi local exhaust NIOSH](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Anneal, Normalize, Quench, dan Temper pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Grade dan ukuran:** komposisi, diameter, serta panjang mengubah respons pemanasan dan pendinginan.
+- **Riwayat material:** hot rolling, forging, welding, dan machining meninggalkan kondisi awal yang berbeda.
+- **Geometri dan penyanggaan:** sudut tajam, lubang, perubahan penampang, dan cara menopang memengaruhi distorsi.
+- **Media pendingin:** quench yang lebih agresif tidak otomatis lebih baik; risiko retak dapat meningkat.
+- **Atmosfer dan kebersihan:** kerak, kontaminasi, atau perubahan permukaan mengganggu ukuran dan uji.
+- **Pekerjaan lanjutan:** bar yang akan dibubut penuh berbeda kebutuhannya dari bar yang langsung dipasang.
+
+Kawan Besi.co.id, jangan menerima satu angka hardness tanpa lokasi ukur, kondisi permukaan, metode, dan identitas heat. Untuk uji tarik, ISO 6892-1 menjelaskan metode pada suhu ruang; metode itu tidak menetapkan nilai penerimaan grade Anda. Sumber dan orientasi spesimen juga perlu dicatat sesuai pedoman pengambilan sampel ISO 377 dan amendemennya ([ISO 6892-1:2019](https://www.iso.org/standard/78322.html), [ISO 377:2017](https://www.iso.org/standard/72529.html), [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Anneal, Normalize, Quench, dan Temper pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Kebutuhan | Pertanyaan kepada heat-treatment shop | Bukti minimum |
+|---|---|---|
+| Pemesinan lebih mudah | Apakah kondisi anneal diperlukan sebelum machining? | Heat number, prosedur, dan catatan lot |
+| Kondisi seragam | Apakah normalize sesuai grade dan riwayat bar? | Alasan teknis dan rekaman furnace |
+| Kekerasan tinggi | Apa risiko quench terhadap distorsi? | Prosedur berkualifikasi dan rencana inspeksi |
+| Kekerasan–ketangguhan seimbang | Apakah temper diwajibkan setelah quench? | Rangkaian proses dan hasil verifikasi |
+
+Bar yang tampak lurus dan memiliki satu angka hardness belum membuktikan kondisi seluruh lot. Untuk mempersempit pilihan grade, Anda dapat membaca halaman [baja AS S45C di Yogyakarta](/jual-as-s45c-yogyakarta) dan [baja AS ST42 di Yogyakarta](/jual-as-st42-yogyakarta), lalu cocokkan grade serta kondisi pasoknya dengan spesifikasi proyek. Untuk komponen kritis, tahan keputusan beli sampai **[NEEDS GATE-02: spesifikasi produk, sampling plan, dan kriteria penerimaan disetujui kompeten.]**
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Anneal, Normalize, Quench, dan Temper pada Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan menyamakan “lebih keras” dengan “lebih baik”. Kekerasan tinggi bisa menyulitkan machining dan memperbesar konsekuensi tegangan sisa. Jangan pula menganggap temper opsional setelah quench tanpa memeriksa prosedur material, atau mengukur satu titik lalu menyimpulkan seluruh bar.
 
-## Objection or shortcut to address
+Urutan pemeriksaan yang praktis: cocokkan marking dengan sertifikat dan heat number; pastikan kondisi pengiriman tertulis; minta rekaman furnace dan pendinginan; tetapkan lokasi serta metode hardness; lalu cocokkan sampling dengan spesifikasi. Jika perlu uji tarik, catat sumber, orientasi, persiapan, kondisi, unit, dan identitas produk. Hasil uji harus dibaca bersama spesifikasi material dan laporan laboratorium aktual.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Perubahan bentuk juga perlu diukur. ISO 9013 membahas mutu potongan termal dan ISO 13920 toleransi umum konstruksi las; keduanya tidak memberi satu toleransi universal untuk semua bar atau operasi ([ISO 9013](https://www.iso.org/standard/60321.html), [ISO 13920](https://www.iso.org/standard/86032.html)). **[NEEDS GATE-04: kelas toleransi, metode ukur, dan keputusan koreksi harus disahkan proyek.]**
 
-## Required conclusion
+Simpan juga versi dokumen yang dipakai saat pembelian dan saat inspeksi. Jika ada perubahan grade, ukuran, atau proses setelah sertifikat terbit, tandai revisinya dan minta penilaian ulang. Rekaman yang rapi membantu membedakan masalah material dari perubahan yang terjadi ketika pemotongan, pelurusan, atau machining.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang tampak hemat
 
-## Draft completion checklist
+Membeli bar berlabel “Q&T” lalu melewati verifikasi tampak hemat, tetapi label saja tidak menunjukkan apakah kondisi itu berlaku untuk seluruh lot. Minta identitas heat, kondisi perlakuan panas, prosedur yang disetujui, rekaman lot, hasil uji beserta metode dan lokasi, serta penyimpangan yang terbuka. Teman Besi.co.id, bila dokumen tidak lengkap, pisahkan material sebagai *hold* dan minta keputusan teknis tertulis. Jangan memanaskan ulang di bengkel tanpa prosedur berkualifikasi karena sifat, ukuran, dan ketertelusuran dapat berubah. Sertakan foto marking, daftar alat ukur, dan nama pemeriksa dalam paket serah-terima agar pertanyaan dapat dijawab tanpa menebak riwayat batang.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan langkah berikutnya
+
+Anneal, normalize, quench, dan temper adalah pilihan tujuan serta urutan: anneal cenderung mendukung pemesinan, normalize membantu keseragaman, quench membangun kekerasan, dan temper menata hasil quench. Siklus rinci tetap milik prosedur yang dikualifikasi.
+
+Sebelum menyetujui bar, kirimkan kepada penanggung jawab material satu lembar berisi grade, ukuran, heat number, kondisi yang diminta, pekerjaan lanjutan, target sifat dari spesifikasi, dan daftar bukti uji. Minta tinjauan atas distorsi, atmosfer, keselamatan, dan kriteria penerimaan. Aturan operasinya: tanpa identitas lot dan bukti yang dapat ditelusuri, perlakuan panas hanyalah klaim—bukan dasar penerimaan.

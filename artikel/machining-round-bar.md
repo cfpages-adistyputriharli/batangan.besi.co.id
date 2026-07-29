@@ -2,8 +2,9 @@
 article_id: BESB-08-A04
 title: "Machining Round Bar: Condition, Allowance, dan Distortion"
 slug: "machining-round-bar"
-description: "Link supply condition, hardness, straightness, clamping, allowance, heat, sequence, measurement, and marking transfer"
-status: outline
+description: "Panduan menghubungkan kondisi pasokan, kekerasan, kelurusan, penjepitan, sisa pemesinan, panas, urutan kerja, pengukuran, dan pemindahan penandaan pada round bar"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,48 +17,13 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
-  - "https://www.iso.org/standard/89449.html"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
-  - "https://www.iso.org/standard/86032.html"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Machining Round Bar: Condition, Allowance, dan Distortion
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Machining Round Bar: Condition, Allowance, dan Distortion”
-- **Reader and situation:** Machine shop receiving round stock
-- **Reader outcome:** Link supply condition, hardness, straightness, clamping, allowance, heat, sequence, measurement, and marking transfer
-- **Primary intent:** Plan machining evidence
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No speeds/feeds; approved machining route owns values
-- **Final public route:** `/artikel/machining-round-bar.html`
-- **Appointed CMS date:** `2026-02-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Machining Round Bar: Condition, Allowance, dan Distortion**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,142 +34,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Besi.co.id! Saat round bar tiba di machine shop, keputusan pertama bukan memilih pahat atau angka kecepatan. Pastikan dulu kondisi pasokan, identitas material, kelurusan, dan stok allowance cukup untuk mencapai ukuran akhir tanpa memaksa batang yang sudah menyimpan tegangan.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: machining round bar yang dapat dipertanggungjawabkan menghubungkan condition awal, hardness, straightness, metode clamping, allowance, panas, urutan pemotongan, pengukuran, dan pemindahan marking. Distortion bukan sekadar hasil “operator kurang hati-hati”; ia dapat muncul ketika material, penyanggaan, panas, dan urutan tidak selaras. Nilai penerimaan akhirnya tetap bergantung pada drawing, spesifikasi produk, route yang disetujui, dan bukti proyek yang belum tersedia di sini—[NEEDS GATE-01: konfirmasi spesifikasi material, sampling, dan kriteria penerimaan].
 
-### KR-01
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batangan.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BESB-08-A02` → `/artikel/kondisi-ujung-setelah-cutting-bar.html` — Burr, Heat-Affected Zone, dan End Condition
-- `BESB-08-A03` → `/artikel/drilling-threading-dan-keyway-bar.html` — Drilling, Threading, dan Keyway pada Bar
-- `BESB-08-A05` → `/artikel/bar-melengkung-setelah-machining.html` — Residual Stress dan Bar yang Melengkung setelah Machining
-- `BESB-08-A06` → `/artikel/route-card-bar-stock.html` — Route Card dan Traceability Proses Bar Stock
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Machining Round Bar: Condition, Allowance, dan Distortion”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gambar ini adalah aset lokal untuk ilustrasi umum, bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Machining Round Bar: Condition, Allowance, dan Distortion”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Round bar adalah stok silindris yang akan diputar, dibor, dibuat ulir, atau dikerjakan pada fitur lain. “Condition” mencakup keadaan pasokan seperti hot-rolled, cold-finished, normalized, atau heat-treated bila dinyatakan dalam dokumen pembelian. Istilah itu tidak boleh ditebak dari tampilan permukaan. Hardness adalah hasil pengujian pada lokasi dan metode tertentu, bukan otomatis bukti bahwa seluruh batang memiliki grade atau kapasitas yang sama. Untuk mengenali istilah grade pada dokumen pembelian, Anda bisa melihat konteks [AS S45C Yogyakarta](/jual-as-s45c-yogyakarta) dan [AS ST42 Yogyakarta](/jual-as-st42-yogyakarta); halaman tersebut bukan pengganti pencocokan heat, condition, dan dokumen inspeksi.
+
+Artikel ini membahas rencana bukti sebelum dan selama machining: apa yang harus dicocokkan, kapan batang perlu disangga ulang, dan bagaimana mendeteksi perubahan bentuk. Ia tidak menetapkan speeds/feeds, kedalaman potong, coolant, atau parameter mesin. Nilai tersebut milik approved machining route dan kompetensi operator. Toleransi akhir, heat treatment, atau keputusan repair juga memerlukan drawing dan persetujuan teknis.
+
+Untuk hasil uji tarik, identitas spesimen, orientasi, lokasi, preparasi, kondisi, satuan, serta identitas produk atau heat harus tetap terhubung. ISO 6892-1 menjelaskan metode uji tarik pada temperatur ruang, sedangkan ISO 377 menjelaskan pengambilan dan preparasi spesimen; keduanya tidak menggantikan spesifikasi produk atau acceptance plan ([ISO 6892-1:2019](https://www.iso.org/standard/78322.html), [ISO 377:2017](https://www.iso.org/standard/72529.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Machining Round Bar: Condition, Allowance, dan Distortion”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari receiving. Cocokkan purchase order, packing list, mill document, heat atau batch, diameter dan panjang, condition pasokan, serta marking fisik. Catat kerusakan yang sudah ada: penyok, korosi, ujung terbakar, atau perubahan bentuk. Jangan menghapus marking sebelum identitas dipindahkan ke potongan dan route card.
+
+Berikutnya lakukan pemeriksaan awal yang disetujui: ukur diameter pada beberapa posisi, cek straightness dengan metode yang tercantum dalam prosedur, dan ukur hardness bila dipersyaratkan. Satu pembacaan tidak mewakili seluruh stok. Dokumen inspeksi perlu direkonsiliasi dengan order, produsen, produk, heat/batch, dimensi, pengujian, dan marking fisik; ISO 10474 memberi kerangka inspeksi dokumen, sementara ISO/IEC 17025 berkaitan dengan kompetensi laboratorium, bukan jaminan otomatis bahwa item tertentu sesuai ([ISO 10474:2013](https://www.iso.org/standard/53736.html), [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)).
+
+Setelah identitas jelas, tentukan datum dan cara clamping. Gunakan penyangga yang mencegah batang melendut, tetapi jangan menjepit hingga mengubah geometri secara permanen. Tandai orientasi dan lokasi pengukuran. Roughing sebaiknya menyisakan allowance yang konsisten untuk finishing; pelepasan material yang tidak seimbang dapat melepaskan tegangan dan mengubah straightness. Biarkan batang mencapai kondisi temperatur pengukuran sebelum keputusan ukuran dibuat.
+
+Urutan praktisnya adalah: verifikasi dokumen, inspeksi dan marking, setup dengan dukungan memadai, rough cut yang seimbang, pemeriksaan ulang bentuk, semi-finish, lalu finish dan final measurement. Jika proses pemotongan awal memakai panas, kualitas dan efek panas pada ujung harus dinilai sesuai prosedur; ISO 9013 membahas klasifikasi mutu thermal cut, bukan toleransi universal untuk semua komponen mesin ([ISO 9013:2017](https://www.iso.org/standard/60321.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Machining Round Bar: Condition, Allowance, dan Distortion”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kondisi dan hardness.** Material yang lebih keras atau telah diberi perlakuan panas dapat merespons pemotongan secara berbeda. Jangan mengubah parameter sendiri; minta route yang disetujui menegaskan rentang kondisi material dan pemeriksaan yang diperlukan.
+
+**Straightness dan dukungan.** Batang panjang yang hanya ditahan di ujung mudah bergetar atau melendut. Posisi steady rest, lunette, atau penyangga lain harus dicatat dalam setup sheet. Setelah roughing, lepaskan gaya jepit secara terkendali dan ukur ulang; bentuk yang tampak lurus saat dijepit belum tentu lurus saat bebas.
+
+**Allowance dan distribusi material.** Allowance bukan angka sisa yang dipilih agar “aman” tanpa dasar. Ia harus menutup variasi diameter, cacat permukaan yang memang boleh dibuang, perubahan bentuk, dan kebutuhan finishing menurut drawing serta route. Terlalu kecil membuat cacat tertinggal; terlalu besar memperpanjang pemotongan dan meningkatkan panas.
+
+**Panas.** Gesekan, pemotongan tidak seimbang, dan berhenti-mulai dapat membuat temperatur berbeda sepanjang batang. Ukur pada kondisi yang ditentukan, bukan segera setelah pemotongan panas. Catat waktu pendinginan atau kondisi referensi jika itu bagian dari prosedur.
+
+**Pengukuran dan identitas.** Gunakan alat dengan status kalibrasi yang berlaku dan metode yang sama antar tahap. Setiap potongan harus membawa heat/batch dan orientasi yang dapat ditelusuri. [NEEDS GATE-02: verifikasi alat ukur, metode straightness, dan aturan disposition bila hasil antar titik berbeda].
+
+**Antarmuka proses.** Cutting, heat treatment, machining, inspection, dan marking transfer harus berbagi identitas yang sama. Jika potongan dipisah menjadi beberapa nomor, buat rekonsiliasi yang menunjukkan asalnya; jangan mengandalkan ingatan operator.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Machining Round Bar: Condition, Allowance, dan Distortion”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua batang berdiameter nominal sama. Batang A memiliki dokumen lengkap, marking terbaca, straightness dalam batas drawing, dan allowance merata. Batang B memiliki marking sebagian hilang dan melengkung ketika dilepas dari penjepit. Keputusan yang aman bukan langsung menjalankan keduanya dengan route sama.
+
+| Temuan saat receiving/setup | Tindakan sebelum machining lanjut |
+|---|---|
+| Identitas, condition, dan dimensi cocok; bentuk stabil saat bebas | Rilis ke setup yang disetujui, lalu simpan catatan pengukuran awal. |
+| Marking atau heat tidak dapat direkonsiliasi | Karantina dan minta verifikasi dokumen; jangan mencampur potongan. |
+| Lurus saat dijepit, berubah setelah dilepas | Tambah pemeriksaan dukungan dan evaluasi tegangan/residual stress oleh penanggung jawab teknis. |
+| Allowance tidak cukup pada satu sisi | Hentikan route standar; minta keputusan engineering tentang ukuran akhir atau disposition. |
+| Ujung hasil thermal cut menunjukkan perubahan yang memengaruhi datum | Nilai ulang end condition dan datum sebelum facing; jangan mengasumsikan semua ujung setara. |
+
+Contoh ini tidak menetapkan kelulusan. Drawing, spesifikasi material, dan bukti aktual tetap mengendalikan keputusan—[NEEDS GATE-04: persetujuan competent reviewer untuk disposition material yang keluar dari kondisi rencana].
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Machining Round Bar: Condition, Allowance, dan Distortion”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menerima mill certificate sebagai bukti tunggal tanpa mencocokkan heat dan marking. Tanyakan: apakah nomor pada dokumen terbaca pada batang dan setiap potongan? Kesalahan kedua adalah mengukur hanya setelah batang terpasang. Tanyakan: apakah ada catatan kondisi bebas dan kondisi setelah roughing?
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menganggap hardness satu titik sebagai sifat seluruh panjang. Tanyakan lokasi, metode, identitas spesimen, dan spesifikasi yang menentukan batas. Kesalahan keempat adalah menambah allowance secara arbitrer. Tanyakan cacat apa yang hendak dibuang, berapa variasi yang dibuktikan, dan siapa yang menyetujui perubahan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan kelima adalah mengabaikan marking transfer ketika potongan berpindah area. Tanyakan siapa yang memverifikasi route card, kapan identitas dipindahkan, dan bagaimana potongan reject dipisahkan. Checklist singkat ini lebih berguna daripada menebak penyebab distortion setelah ukuran akhir gagal.
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering terdengar: “Asal diameter awal lebih besar, allowance pasti cukup; lurusnya bisa dibetulkan saat finish.” Ini dapat gagal karena material yang dibuang tidak simetris, gaya jepit menutupi kelengkungan, dan panas menggeser datum. Finishing hanya mengoreksi hal yang masih berada dalam kemampuan route dan batas drawing; ia bukan pengganti inspeksi awal.
 
-## Draft completion checklist
+Alternatifnya adalah menahan rilis: dokumentasikan kondisi bebas, lakukan roughing seimbang sesuai route, ukur ulang pada temperatur referensi, lalu minta keputusan teknis jika bentuk atau identitas menyimpang. Kawan Besi.co.id, pemeriksaan tambahan sebelum rilis membantu mencegah part berlanjut ketika traceability-nya sudah tidak jelas.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Machining round bar yang stabil dimulai sebelum mesin menyala. Condition pasokan, hardness, straightness, clamping, allowance, panas, sequence, measurement, dan marking transfer harus membentuk satu rantai bukti. Jika salah satu mata rantai tidak jelas, jangan menutupinya dengan parameter baru atau klaim toleransi umum.
+
+Langkah berikutnya: kumpulkan drawing, purchase order, dokumen inspeksi, catatan pengukuran awal, setup sheet, dan route machining; cocokkan heat/batch sampai ke setiap potongan, lalu minta review kompeten untuk GATE-01, GATE-02, dan GATE-04. Untuk konteks pekerjaan lain, Anda dapat mulai dari [beranda Besi.co.id](/). Teman Besi.co.id, operating rule-nya sederhana: rilis hanya kondisi yang identitas, bentuk, dan allowance-nya terbukti sesuai route yang disetujui; selain itu tetap berstatus review.
